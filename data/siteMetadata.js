@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://https://github.com/ericdequ/ric-blog',
+  siteRepo: 'https://https://github.com/ericdequ/My-Blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/profile.jpg',
   socialBanner: '/static/images/twitter-card.png',
@@ -83,3 +83,4 @@ const siteMetadata = {
 }
 
 module.exports = siteMetadata
+
