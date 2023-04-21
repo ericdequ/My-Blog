@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'A blog by Ric for Mortys ',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  siteUrl: 'https://rics-blog.vercel.app',
   siteRepo: 'https://https://github.com/ericdequ/My-Blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/profile.jpg',
@@ -83,4 +83,3 @@ const siteMetadata = {
 }
 
 module.exports = siteMetadata
-

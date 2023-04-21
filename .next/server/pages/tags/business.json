@@ -1,0 +1,16 @@
+{
+  "pageProps": {
+    "posts": [
+      {
+        "title": "Ai Money Maker",
+        "date": "2023-02-03T00:00:00.000Z",
+        "tags": ["AI", "business", "GPT", "Money"],
+        "draft": false,
+        "summary": "Some simple Ideas to make money with AI",
+        "slug": "AI/ai_money"
+      }
+    ],
+    "tag": "business"
+  },
+  "__N_SSG": true
+}

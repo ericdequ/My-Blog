@@ -1,0 +1,69 @@
+{
+  "pageProps": {
+    "post": {
+      "mdxSource": "var Component=(()=>{var c=Object.create;var r=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var n=a=>r(a,\"__esModule\",{value:!0});var g=(a,i)=>()=>(i||a((i={exports:{}}).exports,i),i.exports),m=(a,i)=>{n(a);for(var t in i)r(a,t,{get:i[t],enumerable:!0})},p=(a,i,t)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let o of h(i))!f.call(a,o)&&o!==\"default\"&&r(a,o,{get:()=>i[o],enumerable:!(t=d(i,o))||t.enumerable});return a},y=a=>p(n(r(a!=null?c(u(a)):{},\"default\",a&&a.__esModule&&\"default\"in a?{get:()=>a.default,enumerable:!0}:{value:a,enumerable:!0})),a);var l=g((z,s)=>{s.exports=_jsx_runtime});var v={};m(v,{default:()=>b,frontmatter:()=>w});var e=y(l()),w={title:\"GCP vs AWS vs Azure: Which Cloud Platform is Right for You? \\u2601\\uFE0F\",date:\"2023-04-18\",tags:[\"Cloud\",\"AWS\",\"Azure\",\"GCP\"],draft:!1,summary:\" A disscussion on the differences between the 3 main cloud providers \\u2601\\uFE0F, Google Cloud Platform Amazong Web Services and Microsoft Azure.\"};function A(a={}){let{wrapper:i}=a.components||{};return i?(0,e.jsx)(i,Object.assign({},a,{children:(0,e.jsx)(t,{})})):t();function t(){let o=Object.assign({h1:\"h1\",a:\"a\",span:\"span\",p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},a.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(o.h1,{id:\"aws-vs-azure-vs-google-cloud-which-cloud-platform-is-right-for-you-\\uFE0F\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#aws-vs-azure-vs-google-cloud-which-cloud-platform-is-right-for-you-\\uFE0F\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"AWS vs Azure vs Google Cloud: Which Cloud Platform is Right for You? \\u2601\\uFE0F\"]}),(0,e.jsx)(o.p,{children:\"The cloud computing market is constantly evolving, with new players entering the fray all the time. But three of the biggest names in the cloud are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).\"}),(0,e.jsx)(o.p,{children:\"Each of these platforms has its own strengths and weaknesses, so it can be tough to decide which one is right for you. That's where this blog post comes in. We'll take a closer look at each platform, compare their features, and help you make the best decision for your needs.\"}),(0,e.jsxs)(o.h2,{id:\"aws-\\uFE0F\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#aws-\\uFE0F\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"AWS \\u2601\\uFE0F\\u{1F4C8}\"]}),(0,e.jsx)(o.p,{children:\"AWS is the oldest and most mature cloud platform, and it offers the widest range of features and services. It's also the most popular cloud platform, with a market share of over 33%.\"}),(0,e.jsx)(o.p,{children:\"Some of AWS's key features include:\"}),(0,e.jsxs)(o.ul,{children:[(0,e.jsx)(o.li,{children:\"A wide range of services, including compute, storage, networking, databases, analytics, machine learning, and artificial intelligence.\"}),(0,e.jsx)(o.li,{children:\"A global network of data centers, which provides high availability and low latency.\"}),(0,e.jsx)(o.li,{children:\"A strong security posture, with a variety of features to protect your data.\"}),(0,e.jsx)(o.li,{children:\"A large and active community of users and developers.\"})]}),(0,e.jsxs)(o.h2,{id:\"azure-\\uFE0F\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#azure-\\uFE0F\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"Azure \\u2601\\uFE0F\\u{1F4BB}\"]}),(0,e.jsx)(o.p,{children:\"Azure is the second-largest cloud platform, with a market share of over 20%. It's a good choice for businesses that are looking for a platform that is easy to use and manage.\"}),(0,e.jsx)(o.p,{children:\"Some of Azure's key features include:\"}),(0,e.jsxs)(o.ul,{children:[(0,e.jsx)(o.li,{children:\"A wide range of services, including compute, storage, networking, databases, analytics, machine learning, and artificial intelligence.\"}),(0,e.jsx)(o.li,{children:\"A global network of data centers, which provides high availability and low latency.\"}),(0,e.jsx)(o.li,{children:\"A strong security posture, with a variety of features to protect your data.\"}),(0,e.jsx)(o.li,{children:\"A strong focus on hybrid cloud, which allows you to combine on-premises and cloud resources.\"})]}),(0,e.jsxs)(o.h2,{id:\"gcp-\\uFE0F\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#gcp-\\uFE0F\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"GCP \\u2601\\uFE0F\\u{1F680}\"]}),(0,e.jsx)(o.p,{children:\"GCP is the third-largest cloud platform, with a market share of over 10%. It's a good choice for businesses that are looking for a platform that is innovative and cutting-edge.\"}),(0,e.jsx)(o.p,{children:\"Some of GCP's key features include:\"}),(0,e.jsxs)(o.ul,{children:[(0,e.jsx)(o.li,{children:\"A wide range of services, including compute, storage, networking, databases, analytics, machine learning, and artificial intelligence.\"}),(0,e.jsx)(o.li,{children:\"A global network of data centers, which provides high availability and low latency.\"}),(0,e.jsx)(o.li,{children:\"A strong security posture, with a variety of features to protect your data.\"}),(0,e.jsx)(o.li,{children:\"A strong focus on open source, which makes it easy to integrate with other technologies.\"})]}),(0,e.jsxs)(o.h2,{id:\"so-which-cloud-platform-is-right-for-you-\\uFE0F\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#so-which-cloud-platform-is-right-for-you-\\uFE0F\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"So, which cloud platform is right for you? \\u2601\\uFE0F\\u{1F914}\"]}),(0,e.jsx)(o.p,{children:\"The best cloud platform for you will depend on your specific needs and requirements. If you're looking for a platform with a wide range of features and services, then AWS is a good choice. If you're looking for a platform that is easy to use and manage, then Azure is a good choice. And if you're looking for a platform that is innovative and cutting-edge, then GCP is a good choice.\"}),(0,e.jsx)(o.p,{children:\"No matter which platform you choose, you can be sure that you're getting a reliable and secure platform that can help you grow your business.\"}),(0,e.jsxs)(o.h2,{id:\"some-additional-stats-to-help-you-make-your-decision\",children:[(0,e.jsx)(o.a,{\"aria-hidden\":\"true\",href:\"#some-additional-stats-to-help-you-make-your-decision\",tabIndex:\"-1\",children:(0,e.jsx)(o.span,{className:\"icon icon-link\"})}),\"Some additional stats to help you make your decision:\"]}),(0,e.jsxs)(o.ul,{children:[(0,e.jsx)(o.li,{children:\"AWS has the largest market share, followed by Azure and GCP.\"}),(0,e.jsx)(o.li,{children:\"AWS has the most services, followed by Azure and GCP.\"}),(0,e.jsx)(o.li,{children:\"AWS has the largest global network of data centers, followed by Azure and GCP.\"}),(0,e.jsx)(o.li,{children:\"AWS has the strongest security posture, followed by Azure and GCP.\"}),(0,e.jsx)(o.li,{children:\"AWS has the largest community of users and developers, followed by Azure and GCP.\"})]})]})}}var b=A;return v;})();\n;return Component;",
+      "toc": [
+        {
+          "value": "AWS vs Azure vs Google Cloud: Which Cloud Platform is Right for You? ☁️",
+          "url": "#aws-vs-azure-vs-google-cloud-which-cloud-platform-is-right-for-you-️",
+          "depth": 1
+        },
+        { "value": "AWS ☁️📈", "url": "#aws-️", "depth": 2 },
+        { "value": "Azure ☁️💻", "url": "#azure-️", "depth": 2 },
+        { "value": "GCP ☁️🚀", "url": "#gcp-️", "depth": 2 },
+        {
+          "value": "So, which cloud platform is right for you? ☁️🤔",
+          "url": "#so-which-cloud-platform-is-right-for-you-️",
+          "depth": 2
+        },
+        {
+          "value": "Some additional stats to help you make your decision:",
+          "url": "#some-additional-stats-to-help-you-make-your-decision",
+          "depth": 2
+        }
+      ],
+      "frontMatter": {
+        "readingTime": { "text": "3 min read", "minutes": 2.98, "time": 178800, "words": 596 },
+        "slug": "Cloud/Cloud",
+        "fileName": "Cloud/Cloud.md",
+        "title": "GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️",
+        "date": "2023-04-18T00:00:00.000Z",
+        "tags": ["Cloud", "AWS", "Azure", "GCP"],
+        "draft": false,
+        "summary": " A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure."
+      }
+    },
+    "authorDetails": [
+      {
+        "readingTime": { "text": "1 min read", "minutes": 0.545, "time": 32700, "words": 109 },
+        "slug": ["default"],
+        "fileName": "default.md",
+        "name": "Eric deQuevedo 😄",
+        "avatar": "/static/profile.jpg",
+        "occupation": "Software Developer 💻",
+        "company": "Emerging Tech 🚀",
+        "email": "ericdequevedo@gmail.com 📧",
+        "linkedin": "https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗",
+        "github": "https://github.com/ericdequ 🐱‍💻",
+        "date": null
+      }
+    ],
+    "prev": {
+      "title": "Vercel",
+      "date": "2023-04-17T00:00:00.000Z",
+      "tags": ["Vercel", "Hosting", "Front-End"],
+      "draft": false,
+      "summary": "Example how to host a website with vercel",
+      "slug": "Web_Dev/Vercel"
+    },
+    "next": {
+      "title": "Chat GPT VS Bard",
+      "date": "2023-04-18T00:00:00.000Z",
+      "tags": ["AI", "GPT", "BARD"],
+      "draft": false,
+      "summary": "disscussion of the differences between GPT and BARD",
+      "slug": "AI/bard_Vs_GPT"
+    }
+  },
+  "__N_SSG": true
+}

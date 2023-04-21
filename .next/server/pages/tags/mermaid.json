@@ -1,0 +1,16 @@
+{
+  "pageProps": {
+    "posts": [
+      {
+        "title": "Mermaid Markdown",
+        "date": "2023-04-13T00:00:00.000Z",
+        "tags": ["Markdown", "Documentation", "Mermaid"],
+        "draft": false,
+        "summary": "Using ChatGPT and Mermaid to Create System Architecture Diagrams",
+        "slug": "Markdown/mermaid"
+      }
+    ],
+    "tag": "mermaid"
+  },
+  "__N_SSG": true
+}

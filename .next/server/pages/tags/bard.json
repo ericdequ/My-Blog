@@ -1,0 +1,16 @@
+{
+  "pageProps": {
+    "posts": [
+      {
+        "title": "Chat GPT VS Bard",
+        "date": "2023-04-18T00:00:00.000Z",
+        "tags": ["AI", "GPT", "BARD"],
+        "draft": false,
+        "summary": "disscussion of the differences between GPT and BARD",
+        "slug": "AI/bard_Vs_GPT"
+      }
+    ],
+    "tag": "bard"
+  },
+  "__N_SSG": true
+}

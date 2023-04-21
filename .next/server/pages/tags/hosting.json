@@ -1,0 +1,24 @@
+{
+  "pageProps": {
+    "posts": [
+      {
+        "title": "Vercel",
+        "date": "2023-04-17T00:00:00.000Z",
+        "tags": ["Vercel", "Hosting", "Front-End"],
+        "draft": false,
+        "summary": "Example how to host a website with vercel",
+        "slug": "Web_Dev/Vercel"
+      },
+      {
+        "title": "Firebase ",
+        "date": "2023-04-11T00:00:00.000Z",
+        "tags": ["Firebase", "Authentication", "Hosting", "Database", "SDK", "App Services"],
+        "draft": false,
+        "summary": "Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉",
+        "slug": "Web_Dev/Firebase"
+      }
+    ],
+    "tag": "hosting"
+  },
+  "__N_SSG": true
+}

@@ -1,0 +1,64 @@
+{
+  "pageProps": {
+    "post": {
+      "mdxSource": "var Component=(()=>{var o=Object.create;var l=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var s=a=>l(a,\"__esModule\",{value:!0});var w=(a,i)=>()=>(i||a((i={exports:{}}).exports,i),i.exports),g=(a,i)=>{s(a);for(var r in i)l(a,r,{get:i[r],enumerable:!0})},u=(a,i,r)=>{if(i&&typeof i==\"object\"||typeof i==\"function\")for(let n of h(i))!m.call(a,n)&&n!==\"default\"&&l(a,n,{get:()=>i[n],enumerable:!(r=d(i,n))||r.enumerable});return a},f=a=>u(s(l(a!=null?o(p(a)):{},\"default\",a&&a.__esModule&&\"default\"in a?{get:()=>a.default,enumerable:!0}:{value:a,enumerable:!0})),a);var c=w((k,t)=>{t.exports=_jsx_runtime});var v={};g(v,{default:()=>x,frontmatter:()=>N});var e=f(c()),N={title:\"Golang and Gorilla Mux\",date:\"2023-02-03\",tags:[\"GO\",\"Gorilla-Mux\",\"Backend\"],draft:!1,summary:\"This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.\"};function b(a={}){let{wrapper:i}=a.components||{};return i?(0,e.jsx)(i,Object.assign({},a,{children:(0,e.jsx)(r,{})})):r();function r(){let n=Object.assign({h1:\"h1\",a:\"a\",span:\"span\",p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\",pre:\"pre\",code:\"code\",h3:\"h3\"},a.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsxs)(n.h1,{id:\"introduction\",children:[(0,e.jsx)(n.a,{href:\"#introduction\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Introduction\"]}),(0,e.jsx)(n.p,{children:\"Golang is a programming language that is known for its speed, simplicity, and concurrency. It is a popular choice for building web applications and APIs.\"}),(0,e.jsx)(n.p,{children:\"Gorilla mux is a web framework for Golang that is known for its performance, flexibility, and ease of use. It is a popular choice for building web applications and APIs.\"}),(0,e.jsx)(n.p,{children:\"In this blog post, we will learn how to use Golang and gorilla mux to build a simple web application.\"}),(0,e.jsxs)(n.h2,{id:\"prerequisites\",children:[(0,e.jsx)(n.a,{href:\"#prerequisites\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Prerequisites\"]}),(0,e.jsx)(n.p,{children:\"Before we begin, we need to make sure that we have the following prerequisites installed:\"}),(0,e.jsxs)(n.ul,{children:[(0,e.jsxs)(n.li,{children:[\"Golang: You can download Golang from the \",(0,e.jsx)(n.a,{href:\"https://golang.org/dl/\",children:\"official website\"}),\".\"]}),(0,e.jsx)(n.li,{children:\"gorilla mux: You can install gorilla mux with the following command:\"})]}),(0,e.jsx)(n.pre,{className:\"language-bash\",children:(0,e.jsx)(n.code,{className:\"code-highlight language-bash\",children:(0,e.jsx)(n.span,{className:\"code-line\",children:`go get github.com/gorilla/mux\n`})})}),(0,e.jsx)(n.p,{children:\"Creating a new project Once we have the prerequisites installed, we can create a new project. We can do this with the following command:\"}),(0,e.jsx)(n.p,{children:\"bash ``` mkdir my-golang-app\"}),(0,e.jsx)(n.p,{children:\"cd my-golang-app\"}),(0,e.jsx)(n.pre,{children:(0,e.jsxs)(n.code,{className:\"code-highlight\",children:[(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`This will create a new directory called my-golang-app. We will be working in this directory for the rest of the tutorial.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`Creating a main.go file\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`Now that we have created a new project, we need to create a main.go file. This file will contain the code for our web application.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:\"go```\\r\\n\"}),(0,e.jsx)(n.span,{className:\"code-line\",children:`package main\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`import (\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  \"fmt\"\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  \"net/http\"\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  \"github.com/gorilla/mux\"\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`)\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`func main() {\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  // Create a new mux router.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  r := mux.NewRouter()\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  // Handle the \"/\" path.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  r.HandleFunc(\"/\", func(w http.ResponseWriter, r *http.Request) {\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`    fmt.Fprintf(w, \"Hello, world!\")\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  })\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  // Listen and serve on port 8080.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  http.ListenAndServe(\":8080\", r)\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`}\n`})]})}),(0,e.jsxs)(n.h3,{id:\"this-code-creates-a-new-mux-router-and-registers-a-handler-for-the--path-the-handler-simply-prints-hello-world-to-the-response-writer\",children:[(0,e.jsx)(n.a,{href:\"#this-code-creates-a-new-mux-router-and-registers-a-handler-for-the--path-the-handler-simply-prints-hello-world-to-the-response-writer\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),'This code creates a new mux router and registers a handler for the \"/\" path. The handler simply prints \"Hello, world!\" to the response writer.']}),(0,e.jsxs)(n.h2,{id:\"starting-the-server\",children:[(0,e.jsx)(n.a,{href:\"#starting-the-server\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Starting the server\"]}),(0,e.jsxs)(n.h3,{id:\"now-that-we-have-created-a-web-application-we-can-start-the-server-we-can-do-this-with-the-following-command\",children:[(0,e.jsx)(n.a,{href:\"#now-that-we-have-created-a-web-application-we-can-start-the-server-we-can-do-this-with-the-following-command\",\"aria-hidden\":\"true\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"Now that we have created a web application, we can start the server. We can do this with the following command:\"]}),(0,e.jsx)(n.p,{children:\"bash ``` go run main.go\"}),(0,e.jsx)(n.pre,{children:(0,e.jsxs)(n.code,{className:\"code-highlight\",children:[(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`### This will start the server on port 8080. We can open a web browser and go to http://localhost:8080 to see our web application.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`## Conclusion\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`In this blog post, we learned how to use Golang and gorilla mux to build a simple web application. We created a new project, created a main.go file, and started the server. We can now open a web browser and see our web application.\n`})]})})]})}}var x=b;return v;})();\n;return Component;",
+      "toc": [
+        { "value": "Introduction", "url": "#introduction", "depth": 1 },
+        { "value": "Prerequisites", "url": "#prerequisites", "depth": 2 },
+        {
+          "value": "This code creates a new mux router and registers a handler for the \"/\" path. The handler simply prints \"Hello, world!\" to the response writer.",
+          "url": "#this-code-creates-a-new-mux-router-and-registers-a-handler-for-the--path-the-handler-simply-prints-hello-world-to-the-response-writer",
+          "depth": 3
+        },
+        { "value": "Starting the server", "url": "#starting-the-server", "depth": 2 },
+        {
+          "value": "Now that we have created a web application, we can start the server. We can do this with the following command:",
+          "url": "#now-that-we-have-created-a-web-application-we-can-start-the-server-we-can-do-this-with-the-following-command",
+          "depth": 3
+        }
+      ],
+      "frontMatter": {
+        "readingTime": { "text": "3 min read", "minutes": 2.2, "time": 132000, "words": 440 },
+        "slug": "Web_Dev/Golang",
+        "fileName": "Web_Dev/Golang.md",
+        "title": "Golang and Gorilla Mux",
+        "date": "2023-02-03T00:00:00.000Z",
+        "tags": ["GO", "Gorilla-Mux", "Backend"],
+        "draft": false,
+        "summary": "This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server."
+      }
+    },
+    "authorDetails": [
+      {
+        "readingTime": { "text": "1 min read", "minutes": 0.545, "time": 32700, "words": 109 },
+        "slug": ["default"],
+        "fileName": "default.md",
+        "name": "Eric deQuevedo 😄",
+        "avatar": "/static/profile.jpg",
+        "occupation": "Software Developer 💻",
+        "company": "Emerging Tech 🚀",
+        "email": "ericdequevedo@gmail.com 📧",
+        "linkedin": "https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗",
+        "github": "https://github.com/ericdequ 🐱‍💻",
+        "date": null
+      }
+    ],
+    "prev": {
+      "title": "Functional Mushrooms: Natures Superpower 🍄💊🌿",
+      "date": "2023-01-13T00:00:00.000Z",
+      "tags": ["Health", "Mushrooms", "Wellness"],
+      "draft": false,
+      "summary": "Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.",
+      "slug": "Health/mushrooms"
+    },
+    "next": {
+      "title": "Ai Money Maker",
+      "date": "2023-02-03T00:00:00.000Z",
+      "tags": ["AI", "business", "GPT", "Money"],
+      "draft": false,
+      "summary": "Some simple Ideas to make money with AI",
+      "slug": "AI/ai_money"
+    }
+  },
+  "__N_SSG": true
+}

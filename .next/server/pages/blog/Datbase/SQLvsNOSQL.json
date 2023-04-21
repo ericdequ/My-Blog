@@ -1,0 +1,64 @@
+{
+  "pageProps": {
+    "post": {
+      "mdxSource": "var Component=(()=>{var r=Object.create;var o=Object.defineProperty;var l=Object.getOwnPropertyDescriptor;var c=Object.getOwnPropertyNames;var u=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var i=t=>o(t,\"__esModule\",{value:!0});var y=(t,n)=>()=>(n||t((n={exports:{}}).exports,n),n.exports),m=(t,n)=>{i(t);for(var s in n)o(t,s,{get:n[s],enumerable:!0})},p=(t,n,s)=>{if(n&&typeof n==\"object\"||typeof n==\"function\")for(let e of c(n))!f.call(t,e)&&e!==\"default\"&&o(t,e,{get:()=>n[e],enumerable:!(s=l(n,e))||s.enumerable});return t},b=t=>p(i(o(t!=null?r(u(t)):{},\"default\",t&&t.__esModule&&\"default\"in t?{get:()=>t.default,enumerable:!0}:{value:t,enumerable:!0})),t);var h=y((N,d)=>{d.exports=_jsx_runtime});var g={};m(g,{default:()=>Q,frontmatter:()=>S});var a=b(h()),S={title:\"SQL vs NoSQL: Whats the Difference? \\u{1F4CA}\",date:\"2023-02-19\",tags:[\"Database\",\"SQL\",\"NO-SQL\"],draft:!1,summary:\"When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more\"};function L(t={}){let{wrapper:n}=t.components||{};return n?(0,a.jsx)(n,Object.assign({},t,{children:(0,a.jsx)(s,{})})):s();function s(){let e=Object.assign({h1:\"h1\",a:\"a\",span:\"span\",p:\"p\",h2:\"h2\",ul:\"ul\",li:\"li\"},t.components);return(0,a.jsxs)(a.Fragment,{children:[(0,a.jsxs)(e.h1,{id:\"sql-vs-nosql-whats-the-difference-\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#sql-vs-nosql-whats-the-difference-\",tabIndex:\"-1\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"SQL vs NoSQL: What's the Difference? \\u{1F4CA}\"]}),(0,a.jsx)(e.p,{children:\"When it comes to storing data, there are two main types of databases: SQL and NoSQL. SQL stands for Structured Query Language, and it's the most popular type of database. NoSQL stands for Not Only SQL, and it's a newer type of database that's designed to handle large amounts of data that doesn't fit neatly into a traditional relational schema.\"}),(0,a.jsx)(e.p,{children:\"So, which type of database is right for you? It depends on your needs. If you have a small amount of data that fits neatly into a relational schema, then SQL is probably the best choice. But if you have a large amount of data that doesn't fit neatly into a relational schema, then NoSQL is a better option.\"}),(0,a.jsxs)(e.h2,{id:\"what-is-sql-\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#what-is-sql-\",tabIndex:\"-1\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"What is SQL? \\u{1F4DA}\"]}),(0,a.jsx)(e.p,{children:\"SQL is a standard language for accessing and manipulating data in relational databases. It's a declarative language, which means that you tell the database what you want to do, not how to do it. SQL is a very powerful language, and it's the most popular type of database for a reason.\"}),(0,a.jsxs)(e.h2,{id:\"what-is-nosql-\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#what-is-nosql-\",tabIndex:\"-1\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"What is NoSQL? \\u{1F4C2}\"]}),(0,a.jsx)(e.p,{children:\"NoSQL is a term for a family of databases that are designed to handle large amounts of data that doesn't fit neatly into a traditional relational schema. NoSQL databases are typically non-relational, which means that they don't use tables and columns to store data. Instead, they use different data models, such as key-value pairs, documents, and graphs.\"}),(0,a.jsxs)(e.h2,{id:\"why-use-nosql-\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#why-use-nosql-\",tabIndex:\"-1\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Why use NoSQL? \\u{1F50D}\"]}),(0,a.jsx)(e.p,{children:\"There are a few reasons why you might want to use NoSQL instead of SQL.\"}),(0,a.jsxs)(e.ul,{children:[(0,a.jsx)(e.li,{children:\"Scalability: NoSQL databases are designed to scale horizontally, which means that you can add more servers to handle more data. This is in contrast to SQL databases, which are typically designed to scale vertically, which means that you need to upgrade to a larger server to handle more data.\"}),(0,a.jsx)(e.li,{children:\"Flexibility: NoSQL databases are more flexible than SQL databases. They can handle different data types and data models, which makes them a good choice for storing a variety of data.\"}),(0,a.jsx)(e.li,{children:\"Cost: NoSQL databases are typically less expensive than SQL databases. This is because they don't require as much hardware and software.\"})]}),(0,a.jsxs)(e.h2,{id:\"which-type-of-database-should-you-use-\",children:[(0,a.jsx)(e.a,{\"aria-hidden\":\"true\",href:\"#which-type-of-database-should-you-use-\",tabIndex:\"-1\",children:(0,a.jsx)(e.span,{className:\"icon icon-link\"})}),\"Which type of database should you use? \\u{1F914}\"]}),(0,a.jsx)(e.p,{children:\"The best type of database for you depends on your needs. If you have a small amount of data that fits neatly into a relational schema, then SQL is probably the best choice. But if you have a large amount of data that doesn't fit neatly into a relational schema, then NoSQL is a better option.\"}),(0,a.jsx)(e.p,{children:\"Here are some analogies that can help you understand the difference between SQL and NoSQL:\"}),(0,a.jsxs)(e.ul,{children:[(0,a.jsx)(e.li,{children:\"SQL is like a spreadsheet. You can store data in rows and columns, and you can use formulas to manipulate the data.\"}),(0,a.jsx)(e.li,{children:\"NoSQL is like a big pile of documents. Each document can contain different data, and you can use different ways to organize the documents.\"})]}),(0,a.jsx)(e.p,{children:\"I hope this paper has helped you understand the difference between SQL and NoSQL. If you have any questions, please feel free to leave a comment below.\"})]})}}var Q=L;return g;})();\n;return Component;",
+      "toc": [
+        {
+          "value": "SQL vs NoSQL: What's the Difference? 📊",
+          "url": "#sql-vs-nosql-whats-the-difference-",
+          "depth": 1
+        },
+        { "value": "What is SQL? 📚", "url": "#what-is-sql-", "depth": 2 },
+        { "value": "What is NoSQL? 📂", "url": "#what-is-nosql-", "depth": 2 },
+        { "value": "Why use NoSQL? 🔍", "url": "#why-use-nosql-", "depth": 2 },
+        {
+          "value": "Which type of database should you use? 🤔",
+          "url": "#which-type-of-database-should-you-use-",
+          "depth": 2
+        }
+      ],
+      "frontMatter": {
+        "readingTime": { "text": "3 min read", "minutes": 2.79, "time": 167400, "words": 558 },
+        "slug": "Datbase/SQLvsNOSQL",
+        "fileName": "Datbase/SQLvsNOSQL.md",
+        "title": "SQL vs NoSQL: Whats the Difference? 📊",
+        "date": "2023-02-19T00:00:00.000Z",
+        "tags": ["Database", "SQL", "NO-SQL"],
+        "draft": false,
+        "summary": "When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more"
+      }
+    },
+    "authorDetails": [
+      {
+        "readingTime": { "text": "1 min read", "minutes": 0.545, "time": 32700, "words": 109 },
+        "slug": ["default"],
+        "fileName": "default.md",
+        "name": "Eric deQuevedo 😄",
+        "avatar": "/static/profile.jpg",
+        "occupation": "Software Developer 💻",
+        "company": "Emerging Tech 🚀",
+        "email": "ericdequevedo@gmail.com 📧",
+        "linkedin": "https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗",
+        "github": "https://github.com/ericdequ 🐱‍💻",
+        "date": null
+      }
+    ],
+    "prev": {
+      "title": "Ai Money Maker",
+      "date": "2023-02-03T00:00:00.000Z",
+      "tags": ["AI", "business", "GPT", "Money"],
+      "draft": false,
+      "summary": "Some simple Ideas to make money with AI",
+      "slug": "AI/ai_money"
+    },
+    "next": {
+      "title": "React_Node_guide",
+      "date": "2023-03-21T00:00:00.000Z",
+      "tags": ["React", "Node", "Front-End"],
+      "draft": false,
+      "summary": "Example and explanation of react and node JS",
+      "slug": "Web_Dev/React-Node-guide"
+    }
+  },
+  "__N_SSG": true
+}

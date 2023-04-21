@@ -1,0 +1,50 @@
+{
+  "pageProps": {
+    "post": {
+      "mdxSource": "var Component=(()=>{var o=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var p=Object.getPrototypeOf,m=Object.prototype.hasOwnProperty;var t=a=>i(a,\"__esModule\",{value:!0});var w=(a,c)=>()=>(c||a((c={exports:{}}).exports,c),c.exports),N=(a,c)=>{t(a);for(var l in c)i(a,l,{get:c[l],enumerable:!0})},u=(a,c,l)=>{if(c&&typeof c==\"object\"||typeof c==\"function\")for(let n of h(c))!m.call(a,n)&&n!==\"default\"&&i(a,n,{get:()=>c[n],enumerable:!(l=d(c,n))||l.enumerable});return a},g=a=>u(t(i(a!=null?o(p(a)):{},\"default\",a&&a.__esModule&&\"default\"in a?{get:()=>a.default,enumerable:!0}:{value:a,enumerable:!0})),a);var r=w((x,s)=>{s.exports=_jsx_runtime});var v={};N(v,{default:()=>R,frontmatter:()=>f});var e=g(r()),f={title:\"React_Node_guide\",date:\"2023-03-21\",tags:[\"React\",\"Node\",\"Front-End\"],draft:!1,summary:\"Example and explanation of react and node JS\"};function b(a={}){let{wrapper:c}=a.components||{};return c?(0,e.jsx)(c,Object.assign({},a,{children:(0,e.jsx)(l,{})})):l();function l(){let n=Object.assign({p:\"p\",h2:\"h2\",a:\"a\",span:\"span\",ol:\"ol\",li:\"li\",pre:\"pre\",code:\"code\"},a.components);return(0,e.jsxs)(e.Fragment,{children:[(0,e.jsx)(n.p,{children:\"\\u{1F4A8} Introduction\"}),(0,e.jsx)(n.p,{children:\"Node.js is a JavaScript runtime environment that runs on the server side. It is used to build web applications, APIs, and command-line tools. React is a JavaScript library that is used to build user interfaces. It is a popular choice for building single-page applications (SPAs).\"}),(0,e.jsx)(n.p,{children:\"In this tutorial, we will learn how to use Node and React to build a simple web application.\"}),(0,e.jsxs)(n.h2,{id:\"-prerequisites\",children:[(0,e.jsx)(n.a,{\"aria-hidden\":\"true\",href:\"#-prerequisites\",tabIndex:\"-1\",children:(0,e.jsx)(n.span,{className:\"icon icon-link\"})}),\"\\u{1F4DD} Prerequisites\"]}),(0,e.jsx)(n.p,{children:\"Before we begin, we need to make sure that we have the following prerequisites installed:\"}),(0,e.jsxs)(n.ol,{children:[(0,e.jsx)(n.li,{children:(0,e.jsx)(n.p,{children:\"Node.js: You can download Node.js from the official website.\"})}),(0,e.jsxs)(n.li,{children:[(0,e.jsx)(n.p,{children:\"npm: npm is the package manager for Node.js. You can install it with the following command:\"}),(0,e.jsx)(n.pre,{className:\"language-bash\",children:(0,e.jsx)(n.code,{className:\"code-highlight language-bash\",children:(0,e.jsxs)(n.span,{className:\"code-line\",children:[(0,e.jsx)(n.span,{className:\"token function\",children:\"npm\"}),\" \",(0,e.jsx)(n.span,{className:\"token function\",children:\"install\"}),\" \",(0,e.jsx)(n.span,{className:\"token parameter variable\",children:\"-g\"}),\" \",(0,e.jsx)(n.span,{className:\"token function\",children:\"npm\"}),`\n`]})})})]})]}),(0,e.jsx)(n.p,{children:\"React: You can install React with the following command:\"}),(0,e.jsx)(n.p,{children:\"bash ``` npm install react\"}),(0,e.jsx)(n.pre,{children:(0,e.jsxs)(n.code,{className:\"code-highlight\",children:[(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\u{1F3D7}\\uFE0F Creating a new project\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`Once we have the prerequisites installed, we can create a new project. We can do this with the following command:\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:\"bash```\\r\\n\"}),(0,e.jsx)(n.span,{className:\"code-line\",children:`mkdir my-react-app\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`cd my-react-app\n`})]})}),(0,e.jsx)(n.p,{children:\"This will create a new directory called my-react-app. We will be working in this directory for the rest of the tutorial.\"}),(0,e.jsx)(n.p,{children:\"\\u269B\\uFE0F Installing React Now that we have created a new project, we need to install React. We can do this with the following command:\"}),(0,e.jsx)(n.p,{children:\"bash``` npm install react react-dom\"}),(0,e.jsx)(n.pre,{children:(0,e.jsxs)(n.code,{className:\"code-highlight\",children:[(0,e.jsx)(n.span,{className:\"code-line\",children:`This will install the React library and the React DOM library. The React DOM library is used to render React components to the DOM.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\u{1F3A8} Creating a React component\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`Now that we have installed React, we can create a React component. We can do this with the following code:\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:\"javascript```\\r\\n\"}),(0,e.jsx)(n.span,{className:\"code-line\",children:`import React from 'react';\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`const App = () => {\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  return (\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`    <div>\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`      <h1>Hello, world!</h1>\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`    </div>\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`  );\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`};\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`export default App;\n`})]})}),(0,e.jsx)(n.p,{children:'This code creates a React component called App. The App component renders a heading tag with the text \"Hello, world!\".'}),(0,e.jsx)(n.p,{children:\"\\u{1F680} Starting the development server Now that we have created a React component, we can start the development server. We can do this with the following command:\"}),(0,e.jsx)(n.p,{children:\"bash``` npm start\"}),(0,e.jsx)(n.pre,{children:(0,e.jsxs)(n.code,{className:\"code-highlight\",children:[(0,e.jsx)(n.span,{className:\"code-line\",children:`This will start a development server on port 3000. We can open a web browser and go to http://localhost:3000 to see our React application.\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`\\u{1F389} Conclusion\\r\n`}),(0,e.jsx)(n.span,{className:\"code-line\",children:`In this tutorial, we learned how to use Node and React to build a simple web application. We created a new project, installed React, created a React component, and started the development server. We can now open a web browser and see our React application.\n`})]})})]})}}var R=b;return v;})();\n;return Component;",
+      "toc": [{ "value": "📝 Prerequisites", "url": "#-prerequisites", "depth": 2 }],
+      "frontMatter": {
+        "readingTime": { "text": "3 min read", "minutes": 2.18, "time": 130800, "words": 436 },
+        "slug": "Web_Dev/React-Node-guide",
+        "fileName": "Web_Dev/React-Node-guide.md",
+        "title": "React_Node_guide",
+        "date": "2023-03-21T00:00:00.000Z",
+        "tags": ["React", "Node", "Front-End"],
+        "draft": false,
+        "summary": "Example and explanation of react and node JS"
+      }
+    },
+    "authorDetails": [
+      {
+        "readingTime": { "text": "1 min read", "minutes": 0.545, "time": 32700, "words": 109 },
+        "slug": ["default"],
+        "fileName": "default.md",
+        "name": "Eric deQuevedo 😄",
+        "avatar": "/static/profile.jpg",
+        "occupation": "Software Developer 💻",
+        "company": "Emerging Tech 🚀",
+        "email": "ericdequevedo@gmail.com 📧",
+        "linkedin": "https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗",
+        "github": "https://github.com/ericdequ 🐱‍💻",
+        "date": null
+      }
+    ],
+    "prev": {
+      "title": "SQL vs NoSQL: Whats the Difference? 📊",
+      "date": "2023-02-19T00:00:00.000Z",
+      "tags": ["Database", "SQL", "NO-SQL"],
+      "draft": false,
+      "summary": "When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more",
+      "slug": "Datbase/SQLvsNOSQL"
+    },
+    "next": {
+      "title": "Firebase ",
+      "date": "2023-04-11T00:00:00.000Z",
+      "tags": ["Firebase", "Authentication", "Hosting", "Database", "SDK", "App Services"],
+      "draft": false,
+      "summary": "Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉",
+      "slug": "Web_Dev/Firebase"
+    }
+  },
+  "__N_SSG": true
+}
