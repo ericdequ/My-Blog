@@ -1,0 +1,164 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/Bing_Create</guid>
+    <title>Bing Create</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/Bing_Create</link>
+    <description>How to use Bing Create to make AI images</description>
+    <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Art</category><category>AI</category><category>Bing</category><category>GPT</category><category>Dalle</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
+    <title>Chat GPT VS Bard</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
+    <description>disscussion of the differences between GPT and BARD</description>
+    <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>GPT</category><category>BARD</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Cloud/Cloud</guid>
+    <title>GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Cloud/Cloud</link>
+    <description> A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.</description>
+    <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Cloud</category><category>AWS</category><category>Azure</category><category>GCP</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Vercel</guid>
+    <title>Vercel</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Vercel</link>
+    <description>Example how to host a website with vercel</description>
+    <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Vercel</category><category>Hosting</category><category>Front-End</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/mermaid</guid>
+    <title>Mermaid Markdown</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/mermaid</link>
+    <description>Using ChatGPT and Mermaid to Create System Architecture Diagrams</description>
+    <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Markdown</category><category>Documentation</category><category>Mermaid</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/GPT-API</guid>
+    <title>GPT API</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/GPT-API</link>
+    <description>example and tutorial how to setup vscode</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GPT</category><category>AI</category><category>API</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</guid>
+    <title>Firebase </title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</link>
+    <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Firebase</category><category>Authentication</category><category>Hosting</category><category>Database</category><category>SDK</category><category>App Services</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/React-Node-guide</guid>
+    <title>React_Node_guide</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/React-Node-guide</link>
+    <description>Example and explanation of react and node JS</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>React</category><category>Node</category><category>Front-End</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</guid>
+    <title>SQL vs NoSQL: Whats the Difference? 📊</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</link>
+    <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
+    <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Database</category><category>SQL</category><category>NO-SQL</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/ai_money</guid>
+    <title>Ai Money Maker</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/ai_money</link>
+    <description>Some simple Ideas to make money with AI</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>business</category><category>GPT</category><category>Money</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Golang</guid>
+    <title>Golang and Gorilla Mux</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Golang</link>
+    <description>This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GO</category><category>Gorilla-Mux</category><category>Backend</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Health/mushrooms</guid>
+    <title>Functional Mushrooms: Natures Superpower 🍄💊🌿</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Health/mushrooms</link>
+    <description>Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.</description>
+    <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Health</category><category>Mushrooms</category><category>Wellness</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/code-sample</guid>
+    <title>Sample .md file</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/code-sample</link>
+    <description>Example of a markdown file with code blocks and syntax highlighting</description>
+    <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>markdown</category><category>code</category><category>features</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/GitHub</guid>
+    <title>Github</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/GitHub</link>
+    <description>example and tutorial how to setup and use GitHub</description>
+    <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GitHub</category><category>code</category><category>Collaboration</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/vs-code</guid>
+    <title>vs-code</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/vs-code</link>
+    <description>example and tutorial how to setup vscode</description>
+    <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>setup</category><category>code</category><category>vs-code</category>
+  </item>
+
+    </channel>
+  </rss>

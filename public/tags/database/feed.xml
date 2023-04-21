@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 11 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/database/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</guid>
+    <title>Firebase </title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</link>
+    <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Firebase</category><category>Authentication</category><category>Hosting</category><category>Database</category><category>SDK</category><category>App Services</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</guid>
+    <title>SQL vs NoSQL: Whats the Difference? 📊</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</link>
+    <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
+    <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Database</category><category>SQL</category><category>NO-SQL</category>
+  </item>
+
+    </channel>
+  </rss>
