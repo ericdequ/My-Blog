@@ -10,8 +10,8 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
-    "deploy": "pnpm install && next build && vercel && vercel --prod"
-
+    "commit": "git add . && git commit -m 'production push' && git push origin main",
+    "deploy": "pnpm install && next build && vercel && vercel --prod && pnpm run commit"
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",

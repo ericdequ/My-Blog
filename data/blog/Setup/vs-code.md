@@ -3,7 +3,7 @@ title: 'vs-code'
 date: '2022-11-21'
 tags: ['setup', 'code', 'vs-code']
 draft: false
-summary: example and tutorial how to setup vscode 
+summary: example and tutorial how to setup vscode
 ---
 
 Visual Studio Code (VS Code) is a free and open-source code editor developed by Microsoft. It is available on Windows, macOS, and Linux. VS Code is a powerful text editor that can be used for a variety of programming languages, including JavaScript, TypeScript, Python, C++, Java, and Go.
@@ -14,20 +14,20 @@ To use VS Code, open it and create a new file. You can then start coding. VS Cod
 
 Here are some reasons why you should use VS Code:
 
-- :heavy_check_mark: It is free and open-source.
-- :computer: It is available on Windows, macOS, and Linux.
-- :bookmark_tabs: It supports a variety of programming languages.
-- :zap: It provides a variety of features to help you write code.
-- :rocket: It is constantly being updated with new features.
+- ✅ It is free and open-source.
+- 💻 It is available on Windows, macOS, and Linux.
+- 📑 It supports a variety of programming languages.
+- ⚡️ It provides a variety of features to help you write code.
+- 🚀 It is constantly being updated with new features.
 
 If you are looking for a powerful and versatile code editor, then VS Code is a great option.
 
 Here are some additional tips for using VS Code:
 
-- :mag_right: Use the Command Palette to access a variety of commands.
-- :wrench: Install extensions to add new features to VS Code.
-- :art: Customize the editor to your liking.
-- :bug: Use the built-in debugger to debug your code.
-- :handshake: Collaborate with others on projects using Git and GitHub.
+- 🔍 Use the Command Palette to access a variety of commands.
+- 🔧 Install extensions to add new features to VS Code.
+- 🎨 Customize the editor to your liking.
+- 🐛 Use the built-in debugger to debug your code.
+- 🤝 Collaborate with others on projects using Git and GitHub.
 
 VS Code is a powerful and versatile code editor that can be used for a variety of tasks. With its wide range of features and extensions, VS Code can be customized to meet the needs of any developer.

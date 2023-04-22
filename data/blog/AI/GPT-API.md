@@ -3,9 +3,8 @@ title: 'GPT API'
 date: '2023-04-11'
 tags: ['GPT', 'AI', 'API']
 draft: false
-summary: example and tutorial how to setup vscode 
+summary: example and tutorial how to setup vscode
 ---
-
 
 # Working with OpenAI API 🚀🤖
 
@@ -44,6 +43,7 @@ pip install openai
 ```
 
 ## Configuration 🔧
+
 To authenticate with the OpenAI API, you'll need to set up an API key. After you've signed in to your OpenAI account, go to the API key page and create a new key.
 
 Next, set up an environment variable called OPENAI_API_KEY with your API key as its value:
@@ -51,12 +51,15 @@ Next, set up an environment variable called OPENAI_API_KEY with your API key as 
 ```
 export OPENAI_API_KEY='your-api-key'
 ```
+
 Replace 'your-api-key' with the actual API key.
 
 ## Usage 🛠️
+
 You can use the OpenAI API for various tasks, such as text generation, translation, content creation, and question answering. The examples below demonstrate how to use the API for these tasks.
 
 ## Text Generation 📝
+
 Use the OpenAI API to generate text by providing a prompt:
 
 ```
@@ -69,8 +72,8 @@ generated_text = response.choices[0].text
 print(generated_text)
 ```
 
-
 ## Translation 🌍
+
 Translate text from one language to another:
 
 ```
@@ -87,6 +90,7 @@ print(translated_text)
 ```
 
 ## Content Creation 🎨
+
 Generate blog post titles related to a specific topic:
 
 ```
@@ -102,6 +106,7 @@ print("\n".join(titles))
 ```
 
 ## Question Answering ❓
+
 Ask a question and get an answer:
 
 ```
@@ -123,11 +128,13 @@ Adjust the temperature parameter to control the randomness of the output. Higher
 Use the max_tokens parameter to limit the length of the generated text.
 
 ## Support and Community 💬
+
 If you have questions or need help, you can:
 
-Consult the official documentation.
-Join the OpenAI Community to discuss with other developers.
-Reach out to the OpenAI support team through the contact form.
+- Consult the official documentation.
+- Join the OpenAI Community to discuss with other developers.
+- Reach out to the OpenAI support team through the contact form.
 
 ## License 📄
+
 The OpenAI API and related tools are provided under the OpenAI License.

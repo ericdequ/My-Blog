@@ -2,18 +2,28 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Learn From me Morty!</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <link>https://rics-blog.vercel.app/blog</link>
       <description>A blog by Ric for Mortys </description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/Bing_Create</guid>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</guid>
+    <title>Full Stack Social Media App</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</link>
+    <description>This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse </description>
+    <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>FullStack</category><category>WebDev</category><category>Database</category><category>Frontend</category><category>Backend</category><category>Golang</category><category>React</category><category>Next.js</category><category>Firebase</category><category>MongoDB</category><category>Vercel</category><category>Google Cloud</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/AI/Bing_Create</guid>
     <title>Bing Create</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/Bing_Create</link>
+    <link>https://rics-blog.vercel.app/blog/AI/Bing_Create</link>
     <description>How to use Bing Create to make AI images</description>
     <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
+    <guid>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
     <title>Chat GPT VS Bard</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
+    <link>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
     <description>disscussion of the differences between GPT and BARD</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -31,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Cloud/Cloud</guid>
+    <guid>https://rics-blog.vercel.app/blog/Cloud/Cloud</guid>
     <title>GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Cloud/Cloud</link>
+    <link>https://rics-blog.vercel.app/blog/Cloud/Cloud</link>
     <description> A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -41,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Vercel</guid>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</guid>
     <title>Vercel</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Vercel</link>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</link>
     <description>Example how to host a website with vercel</description>
     <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -51,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/mermaid</guid>
+    <guid>https://rics-blog.vercel.app/blog/Markdown/mermaid</guid>
     <title>Mermaid Markdown</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/mermaid</link>
+    <link>https://rics-blog.vercel.app/blog/Markdown/mermaid</link>
     <description>Using ChatGPT and Mermaid to Create System Architecture Diagrams</description>
     <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -61,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/GPT-API</guid>
+    <guid>https://rics-blog.vercel.app/blog/AI/GPT-API</guid>
     <title>GPT API</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/GPT-API</link>
+    <link>https://rics-blog.vercel.app/blog/AI/GPT-API</link>
     <description>example and tutorial how to setup vscode</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -71,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</guid>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</guid>
     <title>Firebase </title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Firebase</link>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</link>
     <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -81,9 +91,29 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/React-Node-guide</guid>
+    <guid>https://rics-blog.vercel.app/blog/Personal/Software_dev</guid>
+    <title>guide to software development</title>
+    <link>https://rics-blog.vercel.app/blog/Personal/Software_dev</link>
+    <description>My guide to becoming a software developer</description>
+    <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Personal</category><category>RoadMap</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Personal/Meditations</guid>
+    <title>🧘‍♂️ Meditations of a Developer 🧘‍♂️</title>
+    <link>https://rics-blog.vercel.app/blog/Personal/Meditations</link>
+    <description>Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mediation</category><category>Personal</category><category>Mindfulness</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</guid>
     <title>React_Node_guide</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/React-Node-guide</link>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</link>
     <description>Example and explanation of react and node JS</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -91,9 +121,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</guid>
+    <guid>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</guid>
     <title>SQL vs NoSQL: Whats the Difference? 📊</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Datbase/SQLvsNOSQL</link>
+    <link>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</link>
     <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
     <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -101,9 +131,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/ai_money</guid>
+    <guid>https://rics-blog.vercel.app/blog/AI/ai_money</guid>
     <title>Ai Money Maker</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/ai_money</link>
+    <link>https://rics-blog.vercel.app/blog/AI/ai_money</link>
     <description>Some simple Ideas to make money with AI</description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -111,9 +141,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Golang</guid>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Golang</guid>
     <title>Golang and Gorilla Mux</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Web_Dev/Golang</link>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/Golang</link>
     <description>This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.</description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -121,9 +151,29 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Health/mushrooms</guid>
+    <guid>https://rics-blog.vercel.app/blog/Health/plantmeds</guid>
+    <title>Plant Medicines for Anti-Anxiety and Nootropics 🌿🧠</title>
+    <link>https://rics-blog.vercel.app/blog/Health/plantmeds</link>
+    <description>Plant medicines have been used for centuries to treat a variety of conditions, including anxiety and cognitive impairment. Discover some of the most well-known plant medicines that have been shown to be effective in treating anxiety and improving cognitive function.</description>
+    <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Health</category><category>Plant Medicines</category><category>Anxiety</category><category>Nootropics</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Professional/Linkedin</guid>
+    <title>Linkedin Tips</title>
+    <link>https://rics-blog.vercel.app/blog/Professional/Linkedin</link>
+    <description>Guide to using Linkedin to find a job and network with other professionals</description>
+    <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Professional</category><category>Linkedin</category><category>Tips</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Health/mushrooms</guid>
     <title>Functional Mushrooms: Natures Superpower 🍄💊🌿</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Health/mushrooms</link>
+    <link>https://rics-blog.vercel.app/blog/Health/mushrooms</link>
     <description>Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.</description>
     <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -131,9 +181,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/code-sample</guid>
-    <title>Sample .md file</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Markdown/code-sample</link>
+    <guid>https://rics-blog.vercel.app/blog/Markdown/code-sample</guid>
+    <title>Mardown Formatting and Syntax Highlighting</title>
+    <link>https://rics-blog.vercel.app/blog/Markdown/code-sample</link>
     <description>Example of a markdown file with code blocks and syntax highlighting</description>
     <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -141,9 +191,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/GitHub</guid>
+    <guid>https://rics-blog.vercel.app/blog/Setup/GitHub</guid>
     <title>Github</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/GitHub</link>
+    <link>https://rics-blog.vercel.app/blog/Setup/GitHub</link>
     <description>example and tutorial how to setup and use GitHub</description>
     <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -151,9 +201,19 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/vs-code</guid>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Tesla</guid>
+    <title>Nikola Tesla</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Tesla</link>
+    <description>Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Teslas inventions, which also included the Tesla coil and the radio, have had a profound impact on the modern world.</description>
+    <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>idols</category><category>tesla</category><category>inventors</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Setup/vs-code</guid>
     <title>vs-code</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/Setup/vs-code</link>
+    <link>https://rics-blog.vercel.app/blog/Setup/vs-code</link>
     <description>example and tutorial how to setup vscode</description>
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

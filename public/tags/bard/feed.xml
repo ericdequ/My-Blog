@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Learn From me Morty!</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <link>https://rics-blog.vercel.app/blog</link>
       <description>A blog by Ric for Mortys </description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Tue, 18 Apr 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/tags/bard/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://rics-blog.vercel.app/tags/bard/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
+    <guid>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
     <title>Chat GPT VS Bard</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
+    <link>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
     <description>disscussion of the differences between GPT and BARD</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

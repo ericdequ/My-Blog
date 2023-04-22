@@ -10,7 +10,7 @@ const projectsData = [
     description:
       'A collection of games I have built using React and Typescript and scratch games from high school',
     url: 'https://games-gold-nu.vercel.app/',
-    imgSrc: '/static/images/games.jpg',
+    imgSrc: '/static/images/Games.jpg',
   },
   {
     title: 'Resume',

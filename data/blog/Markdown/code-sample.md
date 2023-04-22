@@ -1,5 +1,5 @@
 ---
-title: Sample .md file
+title: Mardown Formatting and Syntax Highlighting
 date: '2023-01-08'
 tags: ['markdown', 'code', 'features']
 draft: false
@@ -17,7 +17,7 @@ Sample of inline highlighting `sum = parseInt(num1) + parseInt(num2)`
 Here are a ton of cool Markdown features and formatting that you can use to make your text more readable and visually appealing:
 
 - **Bold text**: `**bold**` → **bold**
-- *Italic text*: `*italic*` → *italic*
+- _Italic text_: `*italic*` → _italic_
 - `Code blocks`: `` `code` `` → `code`
 - Lists: `- list item` →
   - list item
@@ -38,19 +38,17 @@ You can also use Markdown to create custom formatting, such as:
 
 - > Blockquotes: `> Blockquotes` →
   > Blockquotes
-- Horizontal rules: `---` or `***` →
-  ---
+- ## Horizontal rules: `---` or `***` →
 - Definition lists:
-Term
-: Definition
+  Term
+  : Definition
 
 - Ordered lists: `1. Ordered list item` →
   1. Ordered list item
 - Unordered lists: `- Unordered list item` →
   - Unordered list item
 
-
-```mermaid 
+```mermaid
 graph TD
   A[Web Application]
   B[Database]
@@ -61,7 +59,4 @@ graph TD
   D-->C
 ```
 
-
 Markdown is a powerful tool that can be used to create formatted text that is both readable and visually appealing. By learning the basics of Markdown, you can improve the readability of your text and make it more engaging for your readers.
-
-

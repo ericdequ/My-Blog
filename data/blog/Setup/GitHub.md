@@ -6,17 +6,17 @@ draft: false
 summary: example and tutorial how to setup and use GitHub
 ---
 
-## :octocat: How to Use GitHub
+## 🐈‍⬛ How to Use GitHub
 
 GitHub is a web-based platform for version control and collaboration that enables you to work with other developers on projects. It uses Git for version control, allowing you to track changes in your code and collaborate with others easily.
 
-### :busts_in_silhouette: Create an Account and Repository
+### 👾 Create an Account and Repository
 
 1. Sign up for a [free account on GitHub](https://github.com/join).
 2. Create a new repository by clicking on the "+" icon in the top right corner and selecting "New repository".
 3. Name your repository, add a description, and choose whether to make it public or private. You can also initialize it with a README file.
 
-### :computer: Basic Git Commands
+### 🧑‍💻 Basic Git Commands
 
 Here are some essential Git commands to help you work with GitHub:
 
@@ -28,7 +28,7 @@ Here are some essential Git commands to help you work with GitHub:
 - `git checkout`: Switches to a different branch or commit.
 - `git merge`: Merges changes from one branch to another.
 
-### :arrows_clockwise: Workflow with GitHub
+### 🔁 Workflow with GitHub
 
 1. Clone the repository to your local machine using `git clone <repository-url>`.
 2. Create a new branch using `git checkout -b <branch-name>`.
@@ -36,7 +36,7 @@ Here are some essential Git commands to help you work with GitHub:
 4. Commit the changes using `git commit -m "Your commit message"`.
 5. Push the changes to the remote repository using `git push origin <branch-name>`.
 
-### :twisted_rightwards_arrows: Pull Requests
+### 🅿️ Pull Requests
 
 1. Go to your repository on GitHub and click on the "Pull requests" tab.
 2. Click on the "New pull request" button.
@@ -44,6 +44,6 @@ Here are some essential Git commands to help you work with GitHub:
 4. Review your changes and click on "Create pull request".
 5. Add a description, assign reviewers, and submit your pull request.
 
-## :sparkles: Conclusion
+## 💁‍♂️ Conclusion
 
 GitHub is a powerful tool that can help you with your software development projects. It is easy to use and has a wide range of features. If you are not already using GitHub, we encourage you to give it a try and explore its potential for enhancing your collaborative workflow.
