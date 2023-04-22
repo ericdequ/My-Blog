@@ -31,6 +31,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Database/Mongo</guid>
+    <title>MongoDB</title>
+    <link>https://rics-blog.vercel.app/blog/Database/Mongo</link>
+    <description>How to Work with and Setup a MongoDB Database 🗄️💾</description>
+    <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Database</category><category>Mongo</category><category>No-SQL</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</guid>
     <title>SQL vs NoSQL: Whats the Difference? 📊</title>
     <link>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</link>

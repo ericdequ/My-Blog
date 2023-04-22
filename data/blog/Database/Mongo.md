@@ -2,7 +2,7 @@
 title: 'MongoDB'
 date: '2023-04-01'
 tags: ['Database', 'Mongo', 'No-SQL']
-draft: true
+draft: false
 summary: 'How to Work with and Setup a MongoDB Database 🗄️💾'
 ---
 
@@ -21,12 +21,6 @@ Here are some of the features and advantages of MongoDB:
 ## Getting Started with MongoDB 🚀
 
 To get started with MongoDB, you will need to install the MongoDB server on your computer. You can download the server from the MongoDB website. Once the server is installed, you can start creating databases.
-
-To create a database, you will need to use the MongoDB shell. The shell is a command-line interface that allows you to interact with the database. To open the shell, type the following command in a terminal window:
-
-```
-mongo
-```
 
 ## Additional Tips for Working with MongoDB 📚
 

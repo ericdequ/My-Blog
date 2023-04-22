@@ -7,7 +7,7 @@ This personal blog is built using React and Tailwind CSS for styling, and Markdo
 - Dynamic content creation using Markdown
 - Stylish and modern design using Tailwind CSS
 - React-based framework for easy maintenance and scalability
-- Coverage of a variety of topics, including development, productivity, health, and well-being
+- Coverage of a variety of topics, including software and personal development, productivity, health, and well-being
 
 ## Getting Started
 
