@@ -31,6 +31,9 @@ dependencies:
   image-size:
     specifier: 1.0.0
     version: 1.0.0
+  link:
+    specifier: ^1.5.1
+    version: 1.5.1
   mdx-bundler:
     specifier: ^8.1.0
     version: 8.1.0(esbuild@0.13.13)
@@ -4989,6 +4992,11 @@ packages:
 
   /lines-and-columns@1.2.4:
     resolution: {integrity: sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==}
+
+  /link@1.5.1:
+    resolution: {integrity: sha512-80GBz0JfARAPedegdwtMHJ4tiPCQNqi9UZ0womJ5YU6Zw/Jc8JRji5cnhqkxGTTFAPLs1HftUDf81qUQg0aY0Q==}
+    hasBin: true
+    dev: false
 
   /lint-staged@11.0.0:
     resolution: {integrity: sha512-3rsRIoyaE8IphSUtO1RVTFl1e0SLBtxxUOPBtHxQgBHS5/i6nqvjcUfNioMa4BU9yGnPzbO+xkfLtXtxBpCzjw==}
