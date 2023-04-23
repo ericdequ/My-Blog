@@ -25,12 +25,14 @@ const projectsData = [
     url: 'https://crm-reports-94d86.firebaseapp.com/',
     imgSrc: '/static/images/UsaSpending.jpg',
   },
+  /*
   {
     title: 'WebCrafters',
     description: 'I build custom websites for small businesses and individuals',
     url: 'https://freelance-web-dev.vercel.app/',
     imgSrc: '/static/web_dev.jpg',
   },
+  */
 ]
 
 export default projectsData
