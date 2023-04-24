@@ -1,10 +1,10 @@
-{---
+---
 title: "Understanding iframes: Embedding Content and Security Considerations 🌐"
 date: "2023-04-22"
 tags: ["iframe", "HTML", "Web Development", "Security"]
 draft: false
 summary: "In this blog post, we'll explore the world of iframes: what they are, how to use them, their applications, and security considerations. We'll also discuss a cool feature you can use with iframes! 🖥️"
----}
+---
 
 # What is an iframe? 🖼️
 
