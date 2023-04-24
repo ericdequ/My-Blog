@@ -3,7 +3,7 @@ title: '🌳 Understanding Abstract Syntax Trees 🌳'
 date: '2023-03-21'
 tags: ['AST', 'Parsing', 'Refactoring', 'Code Generation', 'Debugging', 'Analysis']
 draft: false
-summary: 'Abstract syntax trees (ASTs) are tree representations of the abstract syntactic structure of source code and are useful for parsing, refactoring, code generation, debugging, and analysis.'
+summary: Abstract syntax trees (ASTs) are tree representations of the abstract syntactic structure of source code and are useful for parsing, refactoring, code generation, debugging, and analysis.
 ---
 
 # What is an Abstract Syntax Tree?

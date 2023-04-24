@@ -1,9 +1,9 @@
 ---
 title: '💳 Be Safe and Secure with Credit Card Scanners 🔒'
-date: 2023-04-24
+date: '2023-04-24'
 tags: ['Credit Card Scanners', 'Cybersecurity', 'Fraud Prevention']
 draft: false
-summary: 'Credit card scanners are devices that can read magnetic stripes or chips on credit or debit cards. Learn about the two main types of credit card scanners, where they can be found, and tips for protecting yourself from credit card scanner fraud.'
+summary: Credit card scanners are devices that can read magnetic stripes or chips on credit or debit cards. Learn about the two main types of credit card scanners, where they can be found, and tips for protecting yourself from credit card scanner fraud.
 ---
 
 # What are Credit Card Scanners?

@@ -3,7 +3,7 @@ title: '💻 Calculus 3: The Advanced Study of Multivariable Calculus 💻'
 date: '2023-03-21'
 tags: ['Calculus', 'Mathematics', 'Education']
 draft: false
-summary: 'Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.'
+summary: Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.
 ---
 
 **Introduction**

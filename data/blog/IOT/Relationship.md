@@ -3,7 +3,7 @@ title: 'Relationship-Based IoT Models: Enhancing Accuracy, Efficiency, and Secur
 date: '2023-04-23'
 tags: ['IoT', 'Relationship-Based IoT', 'Technology']
 draft: false
-summary: 'This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐'
+summary: This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐
 ---
 
 # What is a relationship-based IoT model? 🤔

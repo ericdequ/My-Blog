@@ -3,7 +3,7 @@ title: '💻 Engineering Statistics: An Essential Tool for Engineers 💻'
 date: '2023-03-21'
 tags: ['Engineering', 'Statistics', 'Methods']
 draft: false
-summary: 'Engineering statistics is the application of statistical methods to engineering problems. It is a powerful tool that can be used to solve a wide variety of problems in engineering, including quality control, design of experiments, reliability engineering, risk analysis, and data mining.'
+summary: Engineering statistics is the application of statistical methods to engineering problems. It is a powerful tool that can be used to solve a wide variety of problems in engineering, including quality control, design of experiments, reliability engineering, risk analysis, and data mining.
 ---
 
 **Introduction**

@@ -3,7 +3,7 @@ title: '🔬 Physics 1: Exploring the Physical World 🔭'
 date: '2023-03-21'
 tags: ['Physics', 'College Physics']
 draft: false
-summary: 'College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.'
+summary: College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.
 ---
 
 **Introduction**

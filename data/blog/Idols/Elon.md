@@ -3,7 +3,7 @@ title: 'Elon Musk'
 date: '2023-01-15'
 tags: ['idols', 'Elon', 'Musk']
 draft: false
-summary: 'Elon Musk is a visionary entrepreneur who is changing the world. He is the founder of several successful companies, including Tesla 🚘, SpaceX 🚀, and Neuralink 🧠. Musk is known for his ambitious goals and his willingness to take risks. Despite criticism for his work practices and outspokenness on social media, he is considered one of the most influential people in the world and a role model for entrepreneurs 💼.'
+summary: Elon Musk is a visionary entrepreneur who is changing the world. He is the founder of several successful companies, including Tesla 🚘, SpaceX 🚀, and Neuralink 🧠. Musk is known for his ambitious goals and his willingness to take risks. Despite criticism for his work practices and outspokenness on social media, he is considered one of the most influential people in the world and a role model for entrepreneurs 💼.
 ---
 
 # Elon Musk: A Visionary Who Is Changing the World 🚀🌎

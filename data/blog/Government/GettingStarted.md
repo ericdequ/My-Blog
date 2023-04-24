@@ -2,8 +2,8 @@
 title: 'How to Start a Government Contracting Small Business'
 date: '2023-04-24'
 tags: ['Small Business', 'Government Contracting', 'Entrepreneurship']
-draft: false
-summary: 'Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️'
+draft: true
+summary: Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️
 ---
 
 # How to Start a Government Contracting Small Business 📈🏛️

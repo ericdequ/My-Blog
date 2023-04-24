@@ -3,7 +3,7 @@ title: 'Mathew McConaughey'
 date: '2023-01-18'
 tags: ['idols', 'Mathew', 'Movies']
 draft: false
-summary: 'Mathew McConaughey is an American actor who has starred in a variety of films, from lighthearted romantic comedies to thought-provoking dramas. He is known for his relaxed demeanor, southern drawl, and the ability to connect with audiences on a personal level.'
+summary: Mathew McConaughey is an American actor who has starred in a variety of films, from lighthearted romantic comedies to thought-provoking dramas. He is known for his relaxed demeanor, southern drawl, and the ability to connect with audiences on a personal level.
 ---
 
 # Matthew McConaughey: A Life in the Movies 🎥🎭

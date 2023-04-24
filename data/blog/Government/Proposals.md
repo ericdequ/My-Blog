@@ -2,8 +2,8 @@
 title: 'How to Write a Winning Government Proposal'
 date: '2023-04-24'
 tags: ['Government Contracting', 'Proposal Writing', 'Business Growth']
-draft: false
-summary: 'Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️'
+draft: true
+summary: Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️
 ---
 
 # How to Write a Winning Government Proposal 💼🏛️

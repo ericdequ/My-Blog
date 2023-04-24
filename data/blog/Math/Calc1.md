@@ -3,7 +3,7 @@ title: '💻 Calculus 1: The Foundations of Mathematics 💻'
 date: '2023-03-21'
 tags: ['Calculus', 'Mathematics', 'Education']
 draft: false
-summary: 'Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.'
+summary: Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.
 ---
 
 **Introduction**

@@ -3,7 +3,7 @@ title: '💻 Calculus 2: Advanced Concepts and Applications 💻'
 date: '2023-03-21'
 tags: ['Calculus 2', 'Mathematics', 'Engineering']
 draft: false
-summary: 'Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.'
+summary: Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.
 ---
 
 ## Introduction

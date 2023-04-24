@@ -3,7 +3,7 @@ title: '💻 Colab: A Powerhouse for Machine Learning & Data Science 💻'
 date: '2023-03-21'
 tags: ['Google Colaboratory', 'Machine Learning', 'Data Science']
 draft: false
-summary: 'Google Colaboratory (Colab) is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.'
+summary: Google Colaboratory (Colab) is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.
 ---
 
 ## Introduction

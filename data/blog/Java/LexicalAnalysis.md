@@ -1,11 +1,9 @@
-Here is the updated blog post with complex markdown formatting and emojitcons to make it visually appealing:
-
 ---
 title: '🤖 Understanding Lexical Analysis 🤖'
 date: '2023-03-21'
 tags: ['Compilers', 'Programming', 'Lexical Analysis']
 draft: false
-summary: 'Learn about the crucial first phase of a compiler, lexical analysis, and how it converts a stream of characters into a stream of tokens.'
+summary: Learn about the crucial first phase of a compiler, lexical analysis, and how it converts a stream of characters into a stream of tokens.
 ---
 
 ## 🔍 What is Lexical Analysis? 🔍

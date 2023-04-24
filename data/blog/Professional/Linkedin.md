@@ -2,8 +2,8 @@
 title: 'Linkedin Tips'
 date: '2023-01-21'
 tags: ['Professional', 'Linkedin', 'Tips']
-draft: false
-summary: 'Guide to using Linkedin to find a job and network with other professionals'
+draft: true
+summary: Guide to using Linkedin to find a job and network with other professionals
 ---
 
 # How to Use LinkedIn to Connect with People and Advance Your Career

@@ -1,9 +1,9 @@
 ---
-title: 💪 The 48 Laws of Power: A Guide to Success and Mastery 💪
-date: 2023-04-24
+title: '💪 The 48 Laws of Power: A Guide to Success and Mastery 💪'
+date: '2023-04-24'
 tags: ['Power', 'Success', 'Mastery']
 draft: false
-summary: 'Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.'
+summary: Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.
 ---
 
 **Introduction**
