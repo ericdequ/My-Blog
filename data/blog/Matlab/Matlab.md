@@ -1,9 +1,9 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: 'Matlab'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['Matlab', 'programming', 'software development']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: "MATLAB (short for Matrix Laboratory) is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics."
 ---
 
 **Introduction**

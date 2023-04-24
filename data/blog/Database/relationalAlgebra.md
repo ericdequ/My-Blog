@@ -1,13 +1,12 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: 'relational Algebra'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['Data', 'Database']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: 'Relational Algebra data  '
 ---
 
-```markdown
-Sure. Relational algebra is a formal theory that deals with the manipulation of relations. A relation is a mathematical object that can be thought of as a table of data. Relational algebra is based on the idea of operators, which are functions that take relations as input and produce relations as output. There are a number of different operators in relational algebra, each of which performs a different operation on a relation.🔢💡
+Relational algebra is a formal theory that deals with the manipulation of relations. A relation is a mathematical object that can be thought of as a table of data. Relational algebra is based on the idea of operators, which are functions that take relations as input and produce relations as output. There are a number of different operators in relational algebra, each of which performs a different operation on a relation.🔢💡
 
 Some of the most common relational algebra operators include:
 

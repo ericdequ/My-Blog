@@ -1,9 +1,9 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: '📚 College Physics 2: Rotational Motion, Vibrations and Waves, Fluid Mechanics, Thermodynamics, and Electromagnetism 📚'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['physics', 'college physics']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: 'College Physics 2 is a continuation of College Physics 1. It covers more advanced topics in mechanics, thermodynamics, electromagnetism, and waves.'
 ---
 
 **Introduction**

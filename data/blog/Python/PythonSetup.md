@@ -1,4 +1,13 @@
-Sure, here is a detailed blog post about how to setup python and run your first script:
+---
+
+title: '🐍 Getting Started with Python: Your First Python Script 🚀'
+date: '2023-03-21'
+tags: ['Python', 'Programming', 'Tutorial']
+draft: false
+summary: 'Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.'
+---
+
+# 🐍 Getting Started with Python: Your First Python Script 🚀
 
 ## Introduction
 
@@ -6,29 +15,29 @@ Python is a general-purpose programming language that is becoming increasingly p
 
 In this blog post, we will show you how to set up Python on your computer and run your first script.
 
-## Prerequisites
+## Prerequisites 📋
 
 To follow this tutorial, you will need the following:
 
-* A computer with a working internet connection
-* A text editor or IDE
-* Python 3.x installed
+* A computer with a working internet connection 💻
+* A text editor or IDE 📝
+* Python 3.x installed 🐍
 
-## Installing Python
+## Installing Python ⬇️
 
 The easiest way to install Python is to download the official installer from the Python website.
 
 Once you have downloaded the installer, run it and follow the instructions.
 
-## Creating a Python script
+## Creating a Python script 📁
 
 Once you have installed Python, you can create a new Python script.
 
 To do this, open a text editor or IDE and create a new file with the .py extension.
 
-For example, you could create a file called hello_world.py.
+For example, you could create a file called `hello_world.py`.
 
-## Writing your first Python script
+## Writing your first Python script ✍️
 
 Now that you have created a new Python script, you can start writing your code.
 
@@ -40,7 +49,7 @@ print("Hello, world!")
 
 This script will simply print the message "Hello, world!" to the console.
 
-## Running your Python script
+## Running your Python script 🏃‍♀️
 
 Once you have written your Python script, you can run it.
 
@@ -54,8 +63,8 @@ python hello_world.py
 
 This will run your Python script and print the message "Hello, world!" to the console.
 
-## Conclusion
+## Conclusion 🏁
 
 In this blog post, we have shown you how to set up Python on your computer and run your first script.
 
-Python is a powerful and versatile programming language. With a little practice, you can use Python to create a variety of applications.
+Python is a powerful and versatile programming language. With a little practice, you can use Python to create a variety of applications. 🌟

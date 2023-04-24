@@ -1,9 +1,9 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: 'Linear Algebra'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['Linear Algebra', 'Math', 'Calculus']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: 'Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.'
 ---
 **Introduction**
 

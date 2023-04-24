@@ -1,9 +1,9 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: '💻 Calculus 3: The Advanced Study of Multivariable Calculus 💻'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['Calculus', 'Mathematics', 'Education']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: 'Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.'
 ---
 
 **Introduction**

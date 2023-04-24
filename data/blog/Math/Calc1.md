@@ -1,9 +1,9 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: '💻 Calculus 1: The Foundations of Mathematics 💻'
 date: '2023-03-21'
-tags: ['Mediation', 'Personal', 'Mindfulness']
+tags: ['Calculus', 'Mathematics', 'Education']
 draft: false
-summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+summary: 'Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.'
 ---
 
 **Introduction**
@@ -29,4 +29,4 @@ There are many key concepts that students must learn in Calculus 1. Here are a f
 
 **Conclusion**
 
-Calculus 1 is a challenging course, but it is also an essential one for students who plan to study engineering, science, or mathematics. By learning the important lessons and key concepts in Calculus 1, students will be well-prepared for the challenges that lie ahead.
+Calculus 1 is a challenging course, but it is also an essential one for students who plan to study engineering, science, or mathematics. By learning the important lessons and key concepts in Calculus 1, students will be well-prepared for the challenges that lie ahead. 📈
