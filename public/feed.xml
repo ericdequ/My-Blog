@@ -7,9 +7,69 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Hacking/Kali</guid>
+    <title>Getting Started with Kali Linux: A Beginner&#39;s Guide 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/Hacking/Kali</link>
+    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Kali Linux</category><category>Security</category><category>Penetration Testing</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/IOT/Relationship</guid>
+    <title>Relationship-Based IoT Models: Enhancing Accuracy, Efficiency, and Security 🔗</title>
+    <link>https://rics-blog.vercel.app/blog/IOT/Relationship</link>
+    <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>IoT</category><category>Relationship-Based IoT</category><category>Technology</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Java/TCPvsUDP</guid>
+    <title>TCP vs UDP: Understanding the Differences 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Java/TCPvsUDP</link>
+    <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>TCP</category><category>UDP</category><category>Networking</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</guid>
+    <title>Setting Up a Raspberry Pi: A Step-by-Step Guide 🤖</title>
+    <link>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</link>
+    <description>In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Raspberry Pi</category><category>DIY</category><category>Projects</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/IFrame</guid>
+    <title>Understanding iframes: Embedding Content and Security Considerations 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/IFrame</link>
+    <description>In this blog post, we&#39;ll explore the world of iframes: what they are, how to use them, their applications, and security considerations. We&#39;ll also discuss a cool feature you can use with iframes! 🖥️</description>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>iframe</category><category>HTML</category><category>Web Development</category><category>Security</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/PackageManages</guid>
+    <title>Package Managers: NPM, Yarn, and PNPM</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/PackageManages</link>
+    <description>This article discusses package managers and their importance in JavaScript development. We will take a closer look at NPM, Yarn, and PNPM, comparing their features and helping you choose the right one for your project.</description>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>JavaScript</category><category>Package Manager</category><category>NPM</category><category>Yarn</category><category>PNPM</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</guid>
     <title>Full Stack Social Media App</title>
@@ -138,6 +198,16 @@
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>React</category><category>Node</category><category>Front-End</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/TypescriptVSjavascript</guid>
+    <title>TypeScript vs JavaScript: A Friendly and Technical Comparison 🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/TypescriptVSjavascript</link>
+    <description>In this blog post, we will explore the differences between TypeScript and JavaScript in a technical yet friendly way. We will discuss types, classes, interfaces, and more, using emojis to keep things light and engaging. Get ready to dive into the world of TypeScript and JavaScript! 🌊</description>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>TypeScript</category><category>JavaScript</category><category>Web Development</category><category>Frontend</category>
   </item>
 
   <item>
