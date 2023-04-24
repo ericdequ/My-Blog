@@ -1,5 +1,5 @@
 ---
-title: '🤖 Understanding Lexical Analysis 🤖'
+title: 'Understanding Lexical Analysis 🤖'
 date: '2023-03-21'
 tags: ['Compilers', 'Programming', 'Lexical Analysis']
 draft: false

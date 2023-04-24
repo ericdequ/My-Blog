@@ -1,9 +1,9 @@
 ---
-title: '🔐 Secure Shell (SSH) for Beginners: A Simple Guide 🚀'
+title: 'Secure Shell (SSH) for Beginners: A Simple Guide 🚀'
 date: '2023-03-21'
 tags: ['SSH', 'Security', 'Remote Access']
 draft: false
-summary: 'Learn the basics of Secure Shell (SSH) for secure remote access to computers, including its benefits, how to use it, and tips for maximizing its security.'
+summary: Learn the basics of Secure Shell (SSH) for secure remote access to computers, including its benefits, how to use it, and tips for maximizing its security.
 ---
 
 # 🔐 Secure Shell (SSH) for Beginners: A Simple Guide 🚀

@@ -1,5 +1,5 @@
 ---
-title: '💻 Calculus 1: The Foundations of Mathematics 💻'
+title: 'Calculus 1: The Foundations of Mathematics 💻'
 date: '2023-03-21'
 tags: ['Calculus', 'Mathematics', 'Education']
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: '💻 Understanding RAID Levels 💻'
+title: 'Understanding RAID Levels 💻'
 date: '2023-04-24'
 tags: ['RAID', 'Storage', 'Technology']
 draft: false

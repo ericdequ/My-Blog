@@ -1,5 +1,5 @@
 ---
-title: '🔬 Physics 1: Exploring the Physical World 🔭'
+title: 'Physics 1: Exploring the Physical World 🔭'
 date: '2023-03-21'
 tags: ['Physics', 'College Physics']
 draft: false

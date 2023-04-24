@@ -1,5 +1,5 @@
 ---
-title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+title: 'Meditations of a Developer 🧘‍♂️'
 date: '2023-03-21'
 tags: ['Mediation', 'Personal', 'Mindfulness']
 draft: false

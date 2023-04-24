@@ -1,9 +1,9 @@
 ---
 title: "TypeScript vs JavaScript: A Friendly and Technical Comparison 🚀"
 date: "2023-03-10"
-tags: ["TypeScript", "JavaScript", "Web Development", "Frontend"]
+tags: ['TypeScript', 'JavaScript', 'Web Development', 'Frontend']
 draft: false
-summary: "In this blog post, we will explore the differences between TypeScript and JavaScript in a technical yet friendly way. We will discuss types, classes, interfaces, and more, using emojis to keep things light and engaging. Get ready to dive into the world of TypeScript and JavaScript! 🌊"
+summary: In this blog post, we will explore the differences between TypeScript and JavaScript in a technical yet friendly way. We will discuss types, classes, interfaces, and more, using emojis to keep things light and engaging. Get ready to dive into the world of TypeScript and JavaScript! 🌊
 ---
 
 # TypeScript vs JavaScript: A Friendly and Technical Comparison 🚀

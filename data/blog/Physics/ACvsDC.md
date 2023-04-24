@@ -1,5 +1,5 @@
 ---
-title: '💡 AC vs DC: Understanding the Differences 🔌'
+title: 'AC vs DC: Understanding the Differences 🔌'
 date: '2023-03-21'
 tags: ['Electrictiy', 'AC', 'DC']
 draft: false

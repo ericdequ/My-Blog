@@ -1,5 +1,5 @@
 ---
-title: '💻 Calculus 3: The Advanced Study of Multivariable Calculus 💻'
+title: 'Calculus 3: The Advanced Study of Multivariable Calculus 💻'
 date: '2023-03-21'
 tags: ['Calculus', 'Mathematics', 'Education']
 draft: false

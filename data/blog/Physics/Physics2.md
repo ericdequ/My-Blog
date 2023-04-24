@@ -1,5 +1,5 @@
 ---
-title: '📚 College Physics 2: Rotational Motion, Vibrations and Waves, Fluid Mechanics, Thermodynamics, and Electromagnetism 📚'
+title: 'College Physics 2: Rotational Motion, Vibrations and Waves, Fluid Mechanics, Thermodynamics, and Electromagnetism 📚'
 date: '2023-03-21'
 tags: ['physics', 'college physics']
 draft: false

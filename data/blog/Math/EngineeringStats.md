@@ -1,5 +1,5 @@
 ---
-title: '💻 Engineering Statistics: An Essential Tool for Engineers 💻'
+title: 'Engineering Statistics: An Essential Tool for Engineers 💻'
 date: '2023-03-21'
 tags: ['Engineering', 'Statistics', 'Methods']
 draft: false

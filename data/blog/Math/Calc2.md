@@ -1,5 +1,5 @@
 ---
-title: '💻 Calculus 2: Advanced Concepts and Applications 💻'
+title: 'Calculus 2: Advanced Concepts and Applications 💻'
 date: '2023-03-21'
 tags: ['Calculus 2', 'Mathematics', 'Engineering']
 draft: false

@@ -2,7 +2,7 @@
 title: 'Linkedin Tips'
 date: '2023-01-21'
 tags: ['Professional', 'Linkedin', 'Tips']
-draft: true
+draft: false
 summary: Guide to using Linkedin to find a job and network with other professionals
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: '🔬 Exploring the Mysteries of Quantum Physics 💡'
+title: 'Exploring the Mysteries of Quantum Physics 💡'
 date: '2023-03-21'
 tags: ['Quantum Physics', 'physics']
 draft: false
-summary: 'Unlocking the secrets of the universe with the fascinating field of Quantum Physics!'
+summary: Unlocking the secrets of the universe with the fascinating field of Quantum Physics!
 ---
 
 🤔 Have you ever wondered about the nature of reality and the mysteries of the universe? Well, that's where Quantum Physics comes in! 💫

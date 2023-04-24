@@ -3,7 +3,7 @@ title: 'How to Spot a Liar: Understanding Body Language and Verbal Cues 👀🗣
 date: '2023-04-24'
 tags: ['Body Language', 'Communication Skills', 'Lying']
 draft: false
-summary: 'Learn how to spot a liar by paying attention to their body language, tone of voice, and words. By understanding these verbal and nonverbal cues, you can become more skilled at detecting when someone is lying. 👀🗣️'
+summary: Learn how to spot a liar by paying attention to their body language, tone of voice, and words. By understanding these verbal and nonverbal cues, you can become more skilled at detecting when someone is lying. 👀🗣️
 ---
 
 # How to Spot a Liar: Understanding Body Language and Verbal Cues 👀🗣️
