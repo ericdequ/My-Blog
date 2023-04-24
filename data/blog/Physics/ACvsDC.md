@@ -1,4 +1,10 @@
-Sure, here is a detailed blog post about AC vs DC current:
+---
+title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+date: '2023-03-21'
+tags: ['Mediation', 'Personal', 'Mindfulness']
+draft: false
+summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+---
 
 **What is AC current?**
 

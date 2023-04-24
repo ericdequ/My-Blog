@@ -1,3 +1,12 @@
+---
+title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+date: '2023-03-21'
+tags: ['Mediation', 'Personal', 'Mindfulness']
+draft: false
+summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+---
+
+
 RAID Levels 1-5
 
 RAID (redundant array of independent disks) is a technology that combines multiple hard disk drives (HDDs) into a single logical unit. RAID provides several benefits over using a single HDD, including:

@@ -1,3 +1,11 @@
+---
+title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+date: '2023-03-21'
+tags: ['Mediation', 'Personal', 'Mindfulness']
+draft: false
+summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+---
+
 **Lexical Analysis**
 
 Lexical analysis, also known as tokenization, is the first phase of a compiler. It takes a stream of characters from a source file and converts it into a stream of tokens. A token is a sequence of characters that has a specific meaning in the programming language.

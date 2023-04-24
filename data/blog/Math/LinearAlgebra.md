@@ -1,5 +1,10 @@
-Sure, here is a blog post about Linear Algebra and important lessons learned and key concepts:
-
+---
+title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+date: '2023-03-21'
+tags: ['Mediation', 'Personal', 'Mindfulness']
+draft: false
+summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+---
 **Introduction**
 
 Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces. It is a fundamental tool in many fields, including engineering, physics, computer science, and economics.

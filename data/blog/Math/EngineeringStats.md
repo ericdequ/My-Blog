@@ -1,5 +1,10 @@
-Sure, here is a blog post about Engineering Statistics and important lessons learned and key concepts:
-
+---
+title: '🧘‍♂️ Meditations of a Developer 🧘‍♂️'
+date: '2023-03-21'
+tags: ['Mediation', 'Personal', 'Mindfulness']
+draft: false
+summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+---
 **Introduction**
 
 Engineering statistics is the application of statistical methods to engineering problems. It is a broad field that includes topics such as probability, sampling, estimation, hypothesis testing, and statistical inference. Engineering statistics is used to solve a wide variety of problems in engineering, including:
