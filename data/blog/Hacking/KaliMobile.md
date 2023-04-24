@@ -1,12 +1,12 @@
 ---
-title: '💻 Kali Linux NetHunter: The Portable Penetration Testing Platform 💻'
+title: 'Kali Linux NetHunter: The Portable Penetration Testing Platform 💻'
 date: '2023-04-24'
-tags: ['Kali Linux', 'Penetration Testing', 'Mobile']
+tags: ['Kali', 'Linux', 'Penetration', 'Testing', 'Mobile']
 draft: false
 summary: Kali Linux NetHunter is a Debian-based Linux distribution aimed at professional penetration testers and security researchers. It is a free and open-source mobile penetration testing platform for Android devices.
 ---
 
-# Kali Linux NetHunter: The Portable Penetration Testing Platform
+## Kali Linux NetHunter: The Portable Penetration Testing Platform
 
 Kali Linux NetHunter is a Debian-based Linux distribution aimed at professional penetration testers and security researchers. It is a free and open-source mobile penetration testing platform for Android devices that provides a graphical user interface (GUI) to access the full Kali Linux environment on any Android device running Android 5.0 (Lollipop) or higher.
 

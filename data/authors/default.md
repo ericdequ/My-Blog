@@ -12,6 +12,6 @@ Hi, I'm **Eric deQuevedo**! I'm a _Software Developer_ at **Emerging Tech**. My 
 
 At Emerging Tech, I work on a variety of cutting-edge projects, collaborating with colleagues to create innovative software. In my free time, I indulge in soccer ⚽ and appreciate AI-generated art 🎨.
 
-## Scan to Connect with me on LinkedIn !
+## Scan to Connect with me on LinkedIn
 
 ![QR Code](/static/images/qr_code_linkedin.jpg)

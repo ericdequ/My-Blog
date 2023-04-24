@@ -1,12 +1,11 @@
 ---
-title: 'The 48 Laws of Power: A Guide to Success and Mastery 💪'
+title: 'The 48 Laws of Power A Guide to Success and Mastery 💪'
 date: '2023-04-24'
 tags: ['Power', 'Success', 'Mastery']
 draft: false
 summary: Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.
 ---
-
-**Introduction**
+## Introduction
 
 The 48 Laws of Power is a bestselling book written by Robert Greene that explores the principles of power and success. The book draws on historical figures, such as Sun Tzu, Niccolò Machiavelli, and Julius Caesar, to provide timeless wisdom on the art of power and mastery.
 

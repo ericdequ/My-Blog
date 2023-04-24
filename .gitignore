@@ -7,7 +7,15 @@ node_modules
 
 .next 
 
+.env.example
+
 .env
+
+.env.local
+
+.env.development.local
+
+
 
 
 .vercel

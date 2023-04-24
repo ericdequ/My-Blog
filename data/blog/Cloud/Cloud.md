@@ -51,7 +51,7 @@ The best cloud platform for you will depend on your specific needs and requireme
 
 No matter which platform you choose, you can be sure that you're getting a reliable and secure platform that can help you grow your business.
 
-## Some additional stats to help you make your decision:
+## Some additional stats to help you make your decision
 
 - AWS has the largest market share, followed by Azure and GCP.
 - AWS has the most services, followed by Azure and GCP.

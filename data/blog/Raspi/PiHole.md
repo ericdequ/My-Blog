@@ -1,7 +1,7 @@
 ---
 title: 'Pi-hole: Block Ads and Trackers on Your Network 🌐🚫'
 date: '2023-03-21'
-tags: ['Pi-hole', 'Raspberry Pi', 'Ad-blocking']
+tags: ['Pihole', 'RaspberryPi', 'DNS', 'Network', 'AdBlocker']
 draft: false
 summary: Learn about Pi-hole, a free and open-source DNS sinkhole, and how it can help you block ads and trackers on your network, improving your browsing experience.
 ---

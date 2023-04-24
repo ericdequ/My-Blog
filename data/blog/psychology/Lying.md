@@ -1,7 +1,7 @@
 ---
 title: 'How to Spot a Liar: Understanding Body Language and Verbal Cues 👀🗣️'
 date: '2023-04-24'
-tags: ['Body Language', 'Communication Skills', 'Lying']
+tags: ['Psychology', 'Communication', 'BodyLanguage']
 draft: false
 summary: Learn how to spot a liar by paying attention to their body language, tone of voice, and words. By understanding these verbal and nonverbal cues, you can become more skilled at detecting when someone is lying. 👀🗣️
 ---
@@ -28,7 +28,7 @@ It can be difficult to tell when someone is lying, but by paying attention to th
 
 ## Context and Gut Feelings 🤔
 
-It's important to remember that these are just a few of the signs that someone may be lying. There is no one-size-fits-all method for determining if someone is being truthful. However, by paying attention to these signs and considering the context of the situation, you can increase your chances of spotting a liar. 
+It's important to remember that these are just a few of the signs that someone may be lying. There is no one-size-fits-all method for determining if someone is being truthful. However, by paying attention to these signs and considering the context of the situation, you can increase your chances of spotting a liar.
 
 It's also important to trust your gut. If you have a feeling that someone is lying, it's probably best to err on the side of caution and assume that they are.
 

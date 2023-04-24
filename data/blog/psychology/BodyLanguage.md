@@ -1,7 +1,7 @@
 ---
 title: 'How to Read People and Understand Body Language'
 date: '2023-04-24'
-tags: ['Body Language', 'Communication Skills', 'Relationship Building']
+tags: ['Psychology', 'Communication', 'BodyLanguage']
 draft: false
 summary: Learn how to read people and understand body language with these tips and tricks. Improve your communication skills, build stronger relationships, and become a more successful negotiator. 💬💪
 ---

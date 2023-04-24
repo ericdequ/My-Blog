@@ -1,7 +1,7 @@
 ---
 title: 'Linear Algebra'
 date: '2023-03-21'
-tags: ['Linear Algebra', 'Math', 'Calculus']
+tags: ['LinearAlgebra', 'Math', 'Calculus']
 draft: false
 summary: Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.
 ---

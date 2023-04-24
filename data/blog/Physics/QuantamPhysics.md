@@ -1,7 +1,7 @@
 ---
 title: 'Exploring the Mysteries of Quantum Physics 💡'
 date: '2023-03-21'
-tags: ['Quantum Physics', 'physics']
+tags: ['Quantum', 'Physics']
 draft: false
 summary: Unlocking the secrets of the universe with the fascinating field of Quantum Physics!
 ---

@@ -1,12 +1,12 @@
 ---
 title: 'How to Start a Government Contracting Small Business'
 date: '2023-04-24'
-tags: ['Small Business', 'Government Contracting', 'Entrepreneurship']
+tags: ['SmallBusiness', 'GovernmentContracting', 'Entrepreneurship']
 draft: true
 summary: Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️
 ---
 
-# How to Start a Government Contracting Small Business 📈🏛️
+## How to Start a Government Contracting Small Business 📈🏛️
 
 The federal government is a major source of contracts for small businesses. In fact, the Small Business Administration (SBA) estimates that small businesses receive about 23% of all federal contracts. If you're thinking about starting a small business, government contracting can be a great way to get started.
 
@@ -14,7 +14,7 @@ Here are the steps you need to take to start a government contracting small busi
 
 1. **Choose a business that qualifies for government contracts**: Not all small businesses are eligible to bid on government contracts. To qualify, your business must meet certain size standards and be in good standing with the SBA. You can find more information about qualifying for government contracts on the SBA website.
 
-2. **Register with SAM**: SAM, or System for Award Management, is a database that government agencies use to find contractors. To register with SAM, you'll need to provide information about your business, including your DUNS number, NAICS code, and contact information. You can register for SAM online at https://sam.gov.
+2. **Register with SAM**: SAM, or System for Award Management, is a database that government agencies use to find contractors. To register with SAM, you'll need to provide information about your business, including your DUNS number, NAICS code, and contact information. You can register for SAM online at <https://sam.gov>.
 
 3. **Get certified**: The SBA offers a number of certification programs for small businesses. These programs can help you qualify for government contracts and get noticed by government agencies. To learn more about SBA certification programs, visit the SBA website.
 
@@ -32,4 +32,3 @@ Here are the steps you need to take to start a government contracting small busi
 - **Get certified**: As mentioned above, the SBA offers a number of certification programs for small businesses. These programs can help you qualify for government contracts and get noticed by government agencies.
 - **Network with other government contractors**: There are a number of organizations that can help you network with other government contractors. These organizations can provide you with valuable information and support as you start your government contracting business.
 - **Stay up-to-date on government regulations**: The federal government has a complex set of regulations that govern government contracting. It's important to stay up-to-date on these regulations so that you can comply with them and avoid any problems.
-

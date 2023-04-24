@@ -5,7 +5,6 @@ tags: ['Calculus 2', 'Mathematics', 'Engineering']
 draft: false
 summary: Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.
 ---
-
 ## Introduction
 
 Calculus 2 is a continuation of Calculus 1, covering more advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus. It is a challenging course, but it is also an essential one for students who plan to study engineering, science, or mathematics.

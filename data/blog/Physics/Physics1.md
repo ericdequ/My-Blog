@@ -1,7 +1,7 @@
 ---
 title: 'Physics 1: Exploring the Physical World 🔭'
 date: '2023-03-21'
-tags: ['Physics', 'College Physics']
+tags: ['Physics', 'College' ,'Physics']
 draft: false
 summary: College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.
 ---
@@ -21,11 +21,11 @@ Here are some of the key concepts taught in a College Physics 1 class:
 
 **Applications**
 
-The concepts taught in College Physics 1 have a wide range of applications in science, engineering, and technology. For example: 
+The concepts taught in College Physics 1 have a wide range of applications in science, engineering, and technology. For example:
 
-* The laws of motion are used to design cars, bridges, and airplanes. 
-* The laws of thermodynamics are used to design refrigerators, air conditioners, and power plants. 
-* Electromagnetism is used to design computers, televisions, and cell phones. 
+* The laws of motion are used to design cars, bridges, and airplanes.
+* The laws of thermodynamics are used to design refrigerators, air conditioners, and power plants.
+* Electromagnetism is used to design computers, televisions, and cell phones.
 * Waves are used to design sonar, radar, and GPS.
 
 **Conclusion**

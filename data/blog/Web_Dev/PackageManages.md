@@ -1,7 +1,7 @@
 ---
 title: "Package Managers: NPM, Yarn, and PNPM"
 date: "2023-04-22"
-tags: ['JavaScript', 'Package Manager', 'NPM', 'Yarn', 'PNPM']
+tags: ['JavaScript', 'Package', 'Manager', 'NPM', 'Yarn', 'PNPM']
 draft: false
 summary: "This article discusses package managers and their importance in JavaScript development. We will take a closer look at NPM, Yarn, and PNPM, comparing their features and helping you choose the right one for your project."
 ---

@@ -1,12 +1,12 @@
 ---
 title: '🧘‍♂️ Kundalini Yoga: The Path to Awakening and Self-Realization 🌟'
 date: '2023-04-24'
-tags: ['Kundalini Yoga', 'Meditation', 'Spirituality']
+tags: ['Kundalini','Yoga', 'Meditation', 'Spirituality']
 draft: false
 summary: Discover the transformative power of Kundalini Yoga, its origins, and how to practice it for a balanced and fulfilling life.
 ---
 
-# 🧘‍♂️ Kundalini Yoga: The Path to Awakening and Self-Realization 🌟
+## 🧘‍♂️ Kundalini Yoga: The Path to Awakening and Self-Realization 🌟
 
 Kundalini Yoga, often referred to as the "Yoga of Awareness," is an ancient practice that focuses on awakening the dormant Kundalini energy located at the base of the spine. This form of yoga combines physical postures, breathwork, meditation, and chanting to help individuals achieve spiritual growth and self-realization. In this blog post, we will delve deep into the origins of Kundalini Yoga, its core principles, and how you can start practicing it for a more balanced and fulfilling life. 🙏
 

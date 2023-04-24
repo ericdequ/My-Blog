@@ -1,7 +1,7 @@
 ---
 title: 'How to Play 5 Card Poker: Master the Classic Card Game 🃏♠️♥️♦️♣️'
 date: '2022-04-21'
-tags: ['Poker', 'Card Games', '5 Card Poker']
+tags: ['Poker', 'Card', 'Games']
 draft: false
 summary: Learn how to play 5 card poker, a classic and entertaining card game suitable for beginners and experienced players. Discover the basic rules, hand rankings, and specific strategies that can help you improve your chances of winning.
 ---

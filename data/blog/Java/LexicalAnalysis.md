@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Lexical Analysis 🤖'
 date: '2023-03-21'
-tags: ['Compilers', 'Programming', 'Lexical Analysis']
+tags: ['Compilers', 'Programming', 'LexicalAnalysis']
 draft: false
 summary: Learn about the crucial first phase of a compiler, lexical analysis, and how it converts a stream of characters into a stream of tokens.
 ---
@@ -12,14 +12,14 @@ Lexical analysis, also known as tokenization, is the first phase of a compiler. 
 
 For example, the following source code:
 
-```
+`
 def add(a, b):
   return a + b
-```
+`
 
 would be tokenized as follows:
 
-```
+`
 [
   'def',
   'add',
@@ -35,7 +35,7 @@ would be tokenized as follows:
   'b',
   ';'
 ]
-```
+`
 
 The lexical analyzer is responsible for the following tasks:
 

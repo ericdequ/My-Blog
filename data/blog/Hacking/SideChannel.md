@@ -1,12 +1,12 @@
 ---
 Title: 'Side Channel Attacks: A Stealthy Threat to Security'
 Date: '2023-04-24'
-Tags: ['Cybersecurity', 'Side Channel Attacks', 'Encryption', 'Security']
+Tags: ['Cybersecurity', 'SideChannel' ,'Attacks', 'Encryption', 'Security']
 Draft: false
 Summary: Side channel attacks pose a significant threat to secure systems. By exploiting unintentional leakage of information, these attacks can compromise the security of encrypted data. Learn about the different types of side channel attacks and how to protect against them.
 ---
 
-# Side Channel Attacks: A Stealthy Threat to Security 🔒🔓
+## Side Channel Attacks: A Stealthy Threat to Security 🔒🔓
 
 When it comes to cybersecurity, the conversation often revolves around encryption, authentication, and other security measures. However, side channel attacks present a unique and often overlooked threat to the security of encrypted data. These attacks exploit unintentional information leakage to undermine the security of otherwise secure systems.
 

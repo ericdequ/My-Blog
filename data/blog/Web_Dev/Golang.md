@@ -25,6 +25,7 @@ Before we begin, we need to make sure that we have the following prerequisites i
 ```bash
 go get github.com/gorilla/mux
 ```
+
 Creating a new project
 Once we have the prerequisites installed, we can create a new project. We can do this with the following command:
 
@@ -32,6 +33,7 @@ bash ```
 mkdir my-golang-app
 
 cd my-golang-app
+
 ```
 
 This will create a new directory called my-golang-app. We will be working in this directory for the rest of the tutorial.
@@ -62,13 +64,15 @@ func main() {
 }
 ```
 
-### This code creates a new mux router and registers a handler for the "/" path. The handler simply prints "Hello, world!" to the response writer.
+### This code creates a new mux router and registers a handler for the "/" path. The handler simply prints "Hello, world!" to the response writer
 
 ## Starting the server
-### Now that we have created a web application, we can start the server. We can do this with the following command:
+
+### Now that we have created a web application, we can start the server. We can do this with the following command
 
 bash ```
 go run main.go
+
 ```
 
 ### This will start the server on port 8080. We can open a web browser and go to http://localhost:8080 to see our web application.

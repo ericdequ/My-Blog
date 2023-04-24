@@ -1,7 +1,7 @@
 ---
 title: 'Vercel'
 date: '2023-04-17'
-tags: ['Vercel', 'Hosting', 'Front-End']
+tags: ['Vercel', 'Hosting', 'FrontEnd']
 draft: false
 summary: Example how to host a website with vercel
 ---
@@ -36,6 +36,7 @@ Once the Vercel CLI is installed, you can use it to deploy your websites. To dep
 ```
 vercel
 ```
+
 This command will deploy your website to the production environment.
 
 You can also use the Vercel CLI to manage your websites. To list all of your websites, you can use the following command:
@@ -43,6 +44,7 @@ You can also use the Vercel CLI to manage your websites. To list all of your web
 ```
 vercel list
 ```
+
 To get information about a specific website, you can use the following command:
 
 ```
@@ -60,6 +62,7 @@ vercel delete <website-name>
 ```
 
 ## Conclusion
+
 Vercel is a powerful platform that makes it easy to deploy and host websites and web applications. It is a serverless platform, which means that you do not need to worry about managing servers or infrastructure. Vercel also provides a number of features that make it easy to deploy and manage your websites, including automatic deployment, global edge network, one-click SSL, automatic scaling, caching, CDN, logs, metrics, health checks, and integrations.
 
 If you are looking for a platform to host your websites, then Vercel is a great option. It is easy to use, affordable, and reliable.
