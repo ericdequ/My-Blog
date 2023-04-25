@@ -6,7 +6,7 @@ draft: false
 summary: Learn how to improve your chances of winning at blackjack by playing by the book, understanding specific cases, and using a running count. Discover how these strategies can give you an edge over the casino and make the game more enjoyable.
 ---
 
-# Winning Strategies for Blackjack 🃏♠️♥️♦️♣️
+## Winning Strategies for Blackjack 🃏♠️♥️♦️♣️
 
 Blackjack is a popular casino card game where the objective is to have a hand value closer to 21 than the dealer's hand without exceeding 21. There are various strategies to enhance your chances of winning at blackjack.
 

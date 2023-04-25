@@ -1,5 +1,5 @@
 ---
-title: 'Colab: A Powerhouse for Machine Learning & Data Science 💻'
+title: 'Colab A Powerhouse for Machine Learning & Data Science 💻'
 date: '2023-03-21'
 tags: ['Google', 'MachineLearning', 'DataScience']
 draft: false
@@ -24,21 +24,21 @@ Colab supports a wide variety of programming languages, including Python, R, and
 
 There are many reasons to use Colab. Here are a few of the most important ones:
 
-* 🆓 It's free. Colab is completely free to use, and there are no hidden costs.
-* 💻 It's easy to use. Colab is very easy to use, even for beginners. You don't need to install any software or set up a development environment.
-* 🚀 It's powerful. Colab provides access to powerful computing resources, including GPUs and TPUs. This means that you can run even the most demanding machine learning and data science projects.
-* 🤝 It's collaborative. Colab notebooks can be shared with others, making it a great tool for collaboration.
-* 🌎 It's portable. Colab notebooks can be run from any web browser, making them portable and accessible from anywhere.
+- 🆓 It's free. Colab is completely free to use, and there are no hidden costs.
+- 💻 It's easy to use. Colab is very easy to use, even for beginners. You don't need to install any software or set up a development environment.
+- 🚀 It's powerful. Colab provides access to powerful computing resources, including GPUs and TPUs. This means that you can run even the most demanding machine learning and data science projects.
+- 🤝 It's collaborative. Colab notebooks can be shared with others, making it a great tool for collaboration.
+- 🌎 It's portable. Colab notebooks can be run from any web browser, making them portable and accessible from anywhere.
 
 ## What's included for free
 
 Colab offers a variety of free features, including:
 
-* Access to powerful computing resources, including GPUs and TPUs
-* The ability to run Python, R, and Julia code
-* The ability to access data from Google Drive and other cloud storage services
-* The ability to share notebooks with others
-* The ability to run notebooks from any web browser
+- Access to powerful computing resources, including GPUs and TPUs
+- The ability to run Python, R, and Julia code
+- The ability to access data from Google Drive and other cloud storage services
+- The ability to share notebooks with others
+- The ability to run notebooks from any web browser
 
 ## Conclusion
 

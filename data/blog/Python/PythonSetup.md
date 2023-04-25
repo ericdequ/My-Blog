@@ -6,7 +6,7 @@ draft: false
 summary: Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.
 ---
 
-# 🐍 Getting Started with Python: Your First Python Script 🚀
+## 🐍 Getting Started with Python: Your First Python Script 🚀
 
 ## Introduction
 
@@ -18,9 +18,9 @@ In this blog post, we will show you how to set up Python on your computer and ru
 
 To follow this tutorial, you will need the following:
 
-* A computer with a working internet connection 💻
-* A text editor or IDE 📝
-* Python 3.x installed 🐍
+- A computer with a working internet connection 💻
+- A text editor or IDE 📝
+- Python 3.x installed 🐍
 
 ## Installing Python ⬇️
 
@@ -56,9 +56,9 @@ To do this, open a terminal window and navigate to the directory where your scri
 
 Then, type the following command:
 
-```python
+`
 python hello_world.py
-```
+`
 
 This will run your Python script and print the message "Hello, world!" to the console.
 
