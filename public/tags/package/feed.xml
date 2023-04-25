@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 22 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/package/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/PackageManages</guid>
+    <title>Package Managers: NPM, Yarn, and PNPM</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/PackageManages</link>
+    <description>This article discusses package managers and their importance in JavaScript development. We will take a closer look at NPM, Yarn, and PNPM, comparing their features and helping you choose the right one for your project.</description>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>JavaScript</category><category>Package</category><category>Manager</category><category>NPM</category><category>Yarn</category><category>PNPM</category>
+  </item>
+
+    </channel>
+  </rss>

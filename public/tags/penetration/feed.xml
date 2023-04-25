@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 24 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/penetration/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Hacking/KaliMobile</guid>
+    <title>Kali Linux NetHunter: The Portable Penetration Testing Platform 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Hacking/KaliMobile</link>
+    <description>Kali Linux NetHunter is a Debian-based Linux distribution aimed at professional penetration testers and security researchers. It is a free and open-source mobile penetration testing platform for Android devices.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Kali</category><category>Linux</category><category>Penetration</category><category>Testing</category><category>Mobile</category>
+  </item>
+
+    </channel>
+  </rss>

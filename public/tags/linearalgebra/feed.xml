@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 21 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/linearalgebra/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</guid>
+    <title>Linear Algebra</title>
+    <link>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</link>
+    <description>Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>LinearAlgebra</category><category>Math</category><category>Calculus</category>
+  </item>
+
+    </channel>
+  </rss>

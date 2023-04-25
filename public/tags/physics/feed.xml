@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 21 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/physics/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/Physics1</guid>
+    <title>Physics 1: Exploring the Physical World 🔭</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/Physics1</link>
+    <description>College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Physics</category><category>College</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/Physics2</guid>
+    <title>College Physics 2: Rotational Motion, Vibrations and Waves, Fluid Mechanics, Thermodynamics, and Electromagnetism 📚</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/Physics2</link>
+    <description>College Physics 2 is a continuation of College Physics 1. It covers more advanced topics in mechanics, thermodynamics, electromagnetism, and waves.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>physics</category><category>college</category><category>physics</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</guid>
+    <title>Exploring the Mysteries of Quantum Physics 💡</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</link>
+    <description>Unlocking the secrets of the universe with the fascinating field of Quantum Physics!</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Physics</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 15 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/musk/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Elon</guid>
+    <title>Elon Musk</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Elon</link>
+    <description>Elon Musk is a visionary entrepreneur who is changing the world. He is the founder of several successful companies, including Tesla 🚘, SpaceX 🚀, and Neuralink 🧠. Musk is known for his ambitious goals and his willingness to take risks. Despite criticism for his work practices and outspokenness on social media, he is considered one of the most influential people in the world and a role model for entrepreneurs 💼.</description>
+    <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>idols</category><category>Elon</category><category>Musk</category>
+  </item>
+
+    </channel>
+  </rss>

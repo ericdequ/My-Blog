@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 22 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/web/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/IFrame</guid>
+    <title>Understanding iframes: Embedding Content and Security Considerations 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/IFrame</link>
+    <description>In this blog post, well explore the world of iframes what they are, how to use them, their applications, and security considerations. We&#39;ll also discuss a cool feature you can use with iframes! 🖥️</description>
+    <pubDate>Sat, 22 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>iframe</category><category>HTML</category><category>Web</category><category>Development</category><category>Security</category>
+  </item>
+
+    </channel>
+  </rss>
