@@ -9,7 +9,7 @@ summary: Learn the principles of power and success with the timeless wisdom of T
 
 The 48 Laws of Power is a bestselling book written by Robert Greene that explores the principles of power and success. The book draws on historical figures, such as Sun Tzu, Niccolò Machiavelli, and Julius Caesar, to provide timeless wisdom on the art of power and mastery.
 
-**The 48 Laws**
+- **The 48 Laws**
 
 Here are some of the key laws explored in The 48 Laws of Power:
 
@@ -66,6 +66,6 @@ Sure, here is a list of all 48 Laws of Power by Robert Greene:
 
 These laws are not meant to be taken as a blueprint for unethical behavior, but rather as a guide for how to navigate the complexities of power and success.
 
-**Conclusion**
+- **Conclusion**
 
 The 48 Laws of Power is a thought-provoking and insightful book that provides valuable lessons on the art of power and success. Whether you are a business leader, a politician, or simply someone looking to improve your life, this book is a must-read. By understanding the principles of power, you can gain a deeper understanding of the world around you and learn how to navigate the challenges of life with greater ease.

@@ -7,7 +7,7 @@ summary: How to use Bing Create to make AI images
 ---
 
 
-# How to Use Bing Create to Make AI Images 🎨
+## How to Use Bing Create to Make AI Images 🎨
 
 Bing Create is a new tool from Microsoft that allows you to create AI images from text descriptions. It is powered by OpenAI's DALL-E 2, which is one of the most powerful AI image generators available today.
 

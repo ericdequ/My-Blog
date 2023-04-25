@@ -6,7 +6,7 @@ draft: false
 summary: Engineering statistics is the application of statistical methods to engineering problems. It is a powerful tool that can be used to solve a wide variety of problems in engineering, including quality control, design of experiments, reliability engineering, risk analysis, and data mining.
 ---
 
-**Introduction**
+= **Introduction**
 
 Engineering statistics is the application of statistical methods to engineering problems. It is a broad field that includes topics such as probability, sampling, estimation, hypothesis testing, and statistical inference. Engineering statistics is used to solve a wide variety of problems in engineering, including:
 
@@ -16,7 +16,7 @@ Engineering statistics is the application of statistical methods to engineering 
 * Risk analysis 💡
 * Data mining 💻
 
-**Important lessons learned**
+* **Important lessons learned**
 
 There are many important lessons that students can learn in Engineering Statistics. Here are a few of the most important ones:
 
@@ -24,7 +24,7 @@ There are many important lessons that students can learn in Engineering Statisti
 * **The importance of using the correct statistical method for the problem at hand.** There are many different statistical methods available, and each method is suited to a particular type of problem. It is important for students to be able to choose the correct method for the problem they are trying to solve.
 * **The importance of interpreting the results of statistical analyses.** Statistical analyses can be complex, and it is important for students to be able to interpret the results of these analyses in a meaningful way. This includes being able to identify the statistical significance of results, as well as the practical significance of results.
 
-**Key concepts**
+* **Key concepts**
 
 There are many key concepts that students must learn in Engineering Statistics. Here are a few of the most important ones:
 
@@ -34,6 +34,6 @@ There are many key concepts that students must learn in Engineering Statistics. 
 * **Hypothesis testing.** Hypothesis testing is the process of testing whether a hypothesis is true or false. 🧪
 * **Statistical inference.** Statistical inference is the process of drawing conclusions about a population based on a sample. 🎨
 
-**Conclusion**
+* **Conclusion**
 
 Engineering statistics is a powerful tool that can be used to solve a wide variety of problems in engineering. By learning the important lessons and key concepts in Engineering Statistics, students will be well-prepared for the challenges that lie ahead. 🚀

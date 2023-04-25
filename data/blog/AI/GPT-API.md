@@ -6,25 +6,25 @@ draft: false
 summary: example and tutorial how to setup vscode
 ---
 
-# Working with OpenAI API 🚀🤖
+## Working with OpenAI API 🚀🤖
 
 This README provides a comprehensive guide to working with the OpenAI API for generating text, translating languages, writing creative content, and answering questions using GPT-powered models. Follow the steps below to get started!
 
 ## Table of Contents 📚
 
 - [Working with OpenAI API 🚀🤖](#working-with-openai-api-)
-  - [Table of Contents 📚](#table-of-contents-)
-  - [Prerequisites ⚙️](#prerequisites-️)
-  - [Installation 📦](#installation-)
-  - [Configuration 🔧](#configuration-)
-  - [Usage 🛠️](#usage-️)
-  - [Text Generation 📝](#text-generation-)
-  - [Translation 🌍](#translation-)
-  - [Content Creation 🎨](#content-creation-)
-  - [Question Answering ❓](#question-answering-)
-  - [Tips and Best Practices 🎓](#tips-and-best-practices-)
-  - [Support and Community 💬](#support-and-community-)
-  - [License 📄](#license-)
+- [Table of Contents 📚](#table-of-contents-)
+- [Prerequisites ⚙️](#prerequisites-️)
+- [Installation 📦](#installation-)
+- [Configuration 🔧](#configuration-)
+- [Usage 🛠️](#usage-️)
+- [Text Generation 📝](#text-generation-)
+- [Translation 🌍](#translation-)
+- [Content Creation 🎨](#content-creation-)
+- [Question Answering ❓](#question-answering-)
+- [Tips and Best Practices 🎓](#tips-and-best-practices-)
+- [Support and Community 💬](#support-and-community-)
+- [License 📄](#license-)
 
 ## Prerequisites ⚙️
 
@@ -37,10 +37,10 @@ Before you begin, make sure you have the following:
 
 To install the OpenAI Python library, run the following command:
 
-```
+`
 pip install openai
 
-```
+`
 
 ## Configuration 🔧
 
@@ -48,9 +48,9 @@ To authenticate with the OpenAI API, you'll need to set up an API key. After you
 
 Next, set up an environment variable called OPENAI_API_KEY with your API key as its value:
 
-```
+`
 export OPENAI_API_KEY='your-api-key'
-```
+`
 
 Replace 'your-api-key' with the actual API key.
 
@@ -62,7 +62,7 @@ You can use the OpenAI API for various tasks, such as text generation, translati
 
 Use the OpenAI API to generate text by providing a prompt:
 
-```
+`
 import openai
 
 prompt = "Once upon a time in a land far away, there was a"
@@ -70,13 +70,13 @@ response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_t
 
 generated_text = response.choices[0].text
 print(generated_text)
-```
+`
 
 ## Translation 🌍
 
 Translate text from one language to another:
 
-```
+`
 import openai
 
 source_text = "C'est une belle journée pour apprendre à utiliser l'API OpenAI."
@@ -87,13 +87,13 @@ response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_t
 
 translated_text = response.choices[0].text
 print(translated_text)
-```
+`
 
 ## Content Creation 🎨
 
 Generate blog post titles related to a specific topic:
 
-```
+`
 import openai
 
 topic = "artificial intelligence"
@@ -103,13 +103,13 @@ response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_t
 
 titles = response.choices[0].text.split("\n")
 print("\n".join(titles))
-```
+`
 
 ## Question Answering ❓
 
 Ask a question and get an answer:
 
-```
+`
 import openai
 
 question = "What are the main components of a neural network?"
@@ -119,7 +119,7 @@ response = openai.Completion.create(engine="davinci-codex", prompt=prompt, max_t
 
 answer = response.choices[0].text
 print(answer)
-```
+`
 
 ## Tips and Best Practices 🎓
 

@@ -7,7 +7,7 @@ summary: disscussion of the differences between GPT and BARD
 ---
 
 
-# Bard vs GPT: What's the Difference? 🤔
+## Bard vs GPT: What's the Difference? 🤔
 
 Large language models (LLMs) are a type of artificial intelligence (AI) that are trained on massive datasets of text and code. LLMs can be used for a variety of tasks, including generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way.
 

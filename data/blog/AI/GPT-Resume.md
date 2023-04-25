@@ -6,7 +6,7 @@ draft: false
 summary: How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.
 ---
 
-# 🌟 How to Write an Effective Cover Letter and Resume Using ChatGPT, BARD, and Fun Language 🎉
+## 🌟 How to Write an Effective Cover Letter and Resume Using ChatGPT, BARD, and Fun Language 🎉
 
 ## 📝 Introduction
 

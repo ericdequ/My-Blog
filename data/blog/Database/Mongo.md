@@ -6,7 +6,7 @@ draft: false
 summary: How to Work with and Setup a MongoDB Database 🗄️💾
 ---
 
-# How to Work with and Setup a MongoDB Database 🗄️💾
+## How to Work with and Setup a MongoDB Database 🗄️💾
 
 MongoDB is a popular NoSQL database that is known for its flexibility and scalability. It is a great choice for storing large amounts of data, and it can be used with a variety of programming languages. 💻⌨️🖱️
 

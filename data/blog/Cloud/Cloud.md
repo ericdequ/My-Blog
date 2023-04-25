@@ -6,7 +6,7 @@ draft: false
 summary: A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.
 ---
 
-# AWS vs Azure vs Google Cloud: Which Cloud Platform is Right for You? ☁️
+## AWS vs Azure vs Google Cloud: Which Cloud Platform is Right for You? ☁️
 
 The cloud computing market is constantly evolving, with new players entering the fray all the time. But three of the biggest names in the cloud are Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
