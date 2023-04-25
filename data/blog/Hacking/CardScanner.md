@@ -12,12 +12,16 @@ summary: Credit card scanners are devices that can read magnetic stripes or chip
 
 ## Types of Credit Card Scanners
 
+>>>>>>> origin
+
 There are two main types of credit card scanners:
 
 - 💳 **Magnetic stripe readers.** These readers read the magnetic stripe on the back of a credit or debit card, which contains the cardholder's name, credit card number, expiration date, and CVV code.
 - 💻 **Chip readers.** These readers read the chip on the front of a credit or debit card, which contains the same information as the magnetic stripe but is more secure.
 
 ## Places Where Credit Card Scanners Can be Found
+
+>>>>>>> origin
 
 Credit card scanners can be found in a variety of places, including:
 
@@ -29,6 +33,8 @@ Credit card scanners can be found in a variety of places, including:
 
 ## Protecting Yourself from Credit Card Scanner Fraud
 
+>>>>>>> origin
+
 🔒 Credit card scanners are a convenient way to make payments, but they can also be a security risk. To protect yourself from credit card scanner fraud, follow these tips:
 
 - 🔍 **Be aware of your surroundings.** If you are using a credit card scanner at a merchant, be sure to check that the scanner is properly secured and not accessible to the public.
@@ -38,5 +44,7 @@ Credit card scanners can be found in a variety of places, including:
 - 🔒 **Keep your credit card information safe.** Do not carry your credit card information in your wallet or purse. Instead, store it in a secure place.
 
 ## Conclusion
+
+>>>>>>> origin
 
 💳 Credit card scanners are a convenient way to make payments, but they can also be a security risk. By following these tips, you can help protect yourself from credit card scanner fraud. Stay safe and secure when using credit card scanners! 🔒

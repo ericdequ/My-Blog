@@ -44,7 +44,3 @@ DC current is used in a variety of applications, including:
 ## Which is better: AC or DC?
 
 There is no clear answer to the question of which type of current is better. AC current is more efficient for power transmission, while DC current is more efficient for storing energy in batteries. The best type of current for a particular application depends on its specific requirements.
-
-```
-
-```

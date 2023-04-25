@@ -12,12 +12,10 @@ tags:
     'React',
     'Next.js',
     'Firebase',
-    'MongoDB',
-    'Vercel',
-    'Google Cloud',
+    'MongoDB'
   ]
 draft: false
-summary: 'This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse '
+summary: This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse
 ---
 
 ## 🚀 Introduction to Full Stack Social Media App

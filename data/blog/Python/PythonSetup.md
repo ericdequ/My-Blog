@@ -6,7 +6,7 @@ draft: false
 summary: Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.
 ---
 
-# 🐍 Getting Started with Python: Your First Python Script 🚀
+## 🐍 Getting Started with Python: Your First Python Script 🚀
 
 ## Introduction
 
@@ -56,9 +56,9 @@ To do this, open a terminal window and navigate to the directory where your scri
 
 Then, type the following command:
 
-```python
+`
 python hello_world.py
-```
+`
 
 This will run your Python script and print the message "Hello, world!" to the console.
 

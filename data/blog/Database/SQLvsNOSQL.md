@@ -3,7 +3,7 @@ title: 'SQL vs NoSQL: Whats the Difference? 📊'
 date: '2023-02-19'
 tags: ['Database', 'SQL', 'NO-SQL']
 draft: false
-summary: 'When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more'
+summary: When it comes to storing data, there are two main types of databases, SQL and NoSQL. Check out this post to learn more
 ---
 
 ## SQL vs NoSQL: What's the Difference? 📊

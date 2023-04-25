@@ -1,7 +1,7 @@
 ---
 title: 'How to Ace Technical Interviews as a Software Developer 💯'
 date: '2023-03-21'
-tags: ['Technical Interviews', 'Software Development', 'Job Interviews']
+tags: ['Technical', 'Interviews', 'Software' ,'Development']
 draft: false
 summary: Increase your chances of success in technical interviews for software developer positions by following these tips and tricks. Learn how to prepare, practice, stay confident, and follow up after the interview.
 ---

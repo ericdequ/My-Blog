@@ -27,7 +27,6 @@ Once we have the prerequisites installed, we can create a new project. We can do
 
 `
 mkdir my-golang-app
-
 cd my-golang-app
 `
 

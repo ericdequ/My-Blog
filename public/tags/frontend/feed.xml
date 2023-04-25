@@ -20,5 +20,15 @@
     <category>FullStack</category><category>WebDev</category><category>Database</category><category>Frontend</category><category>Backend</category><category>Golang</category><category>React</category><category>Next.js</category><category>Firebase</category><category>MongoDB</category><category>Vercel</category><category>Google Cloud</category>
   </item>
 
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Web_Dev/TypescriptVSjavascript</guid>
+    <title>TypeScript vs JavaScript: A Friendly and Technical Comparison 🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Web_Dev/TypescriptVSjavascript</link>
+    <description>In this blog post, we will explore the differences between TypeScript and JavaScript in a technical yet friendly way. We will discuss types, classes, interfaces, and more, using emojis to keep things light and engaging. Get ready to dive into the world of TypeScript and JavaScript! 🌊</description>
+    <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>TypeScript</category><category>JavaScript</category><category>Web Development</category><category>Frontend</category>
+  </item>
+
     </channel>
   </rss>

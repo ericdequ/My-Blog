@@ -6,11 +6,11 @@ draft: false
 summary: Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.
 ---
 
-**Introduction**
+- **Introduction**
 
 Calculus 1 is a foundational course in mathematics that covers limits, derivatives, and integrals. It is a challenging course, but it is also an essential one for students who plan to study engineering, science, or mathematics.
 
-**Important lessons learned**
+- **Important lessons learned**
 
 There are many important lessons that students can learn in Calculus 1. Here are a few of the most important ones:
 
@@ -19,7 +19,7 @@ There are many important lessons that students can learn in Calculus 1. Here are
 - **The importance of being able to visualize functions.** Calculus is a visual subject. Students must be able to visualize functions in order to understand them and to solve problems involving them.
 - **The importance of being able to apply calculus to real-world problems.** Calculus is a powerful tool that can be used to solve a wide variety of real-world problems. Students must be able to apply calculus to these problems in order to make a real impact on the world.
 
-**Key concepts**
+- **Key concepts**
 
 There are many key concepts that students must learn in Calculus 1. Here are a few of the most important ones:
 
@@ -27,6 +27,6 @@ There are many key concepts that students must learn in Calculus 1. Here are a f
 - **Derivatives.** Derivatives are used to find the slope of a tangent line to a function. They are also used to find the rate of change of a function.
 - **Integrals.** Integrals are used to find the area under a curve. They are also used to find the volume of a solid of revolution.
 
-**Conclusion**
+- **Conclusion**
 
 Calculus 1 is a challenging course, but it is also an essential one for students who plan to study engineering, science, or mathematics. By learning the important lessons and key concepts in Calculus 1, students will be well-prepared for the challenges that lie ahead. 📈

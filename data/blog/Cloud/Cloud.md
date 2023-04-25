@@ -3,7 +3,7 @@ title: 'GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️'
 date: '2023-04-18'
 tags: ['Cloud', 'AWS', 'Azure', 'GCP']
 draft: false
-summary: ' A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.'
+summary: A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.
 ---
 
 # AWS vs Azure vs Google Cloud: Which Cloud Platform is Right for You? ☁️
@@ -51,7 +51,7 @@ The best cloud platform for you will depend on your specific needs and requireme
 
 No matter which platform you choose, you can be sure that you're getting a reliable and secure platform that can help you grow your business.
 
-## Some additional stats to help you make your decision:
+## Some additional stats to help you make your decision
 
 - AWS has the largest market share, followed by Azure and GCP.
 - AWS has the most services, followed by Azure and GCP.

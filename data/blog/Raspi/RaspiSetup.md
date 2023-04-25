@@ -1,9 +1,9 @@
 ---
 title: 'Setting Up a Raspberry Pi: A Step-by-Step Guide 🤖'
 date: '2023-04-23'
-tags: ['Raspberry Pi', 'DIY', 'Projects']
+tags: ['RaspberryPi', 'DIY', 'Projects']
 draft: false
-summary: 'In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀'
+summary: In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀
 ---
 
 # How to Set Up a Raspberry Pi 📚

@@ -3,7 +3,7 @@ title: 'guide to software development'
 date: '2023-04-10'
 tags: ['Personal', 'RoadMap']
 draft: false
-summary: 'My guide to becoming a software developer'
+summary: My guide to becoming a software developer
 ---
 
 # Becoming a Software Engineer: The Challenges and How to Overcome Them

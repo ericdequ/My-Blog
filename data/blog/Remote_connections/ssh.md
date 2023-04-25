@@ -33,15 +33,15 @@ Once you have this information, you can use the following steps to SSH into the 
 1. Open a terminal window.
 2. Type the following command:
 
-   ```
+   `
    ssh username@hostname
-   ```
+   `
 
    For example, to SSH into a computer with the IP address 192.168.1.100 and the username "johndoe", you would type the following command:
 
-   ```
+   `
    ssh johndoe@192.168.1.100
-   ```
+   `
 
 3. When prompted, enter the password for the account on the remote computer.
 

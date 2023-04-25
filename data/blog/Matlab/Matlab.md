@@ -6,7 +6,7 @@ draft: false
 summary: 'MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.'
 ---
 
-**Introduction**
+- **Introduction**
 
 MATLAB (short for Matrix Laboratory) is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics. MATLAB is a powerful tool that can be used for a variety of tasks, including:
 
@@ -18,11 +18,11 @@ MATLAB (short for Matrix Laboratory) is a programming language developed by Math
 - Machine learning
 - Artificial intelligence
 
-**Setting up MATLAB**
+- **Setting up MATLAB**
 
 To set up MATLAB, you will need to download the software from the MathWorks website. Once you have downloaded the software, you will need to install it on your computer. The installation process is straightforward and should take a few minutes to complete.
 
-**Using MATLAB**
+- **Using MATLAB**
 
 Once MATLAB is installed, you can start using it. The MATLAB interface is divided into two main parts: the Command Window and the Editor.
 
@@ -31,7 +31,7 @@ Once MATLAB is installed, you can start using it. The MATLAB interface is divide
 
 To learn more about using MATLAB, you can consult the MATLAB documentation or take one of the many online tutorials that are available.
 
-**Here are some basic MATLAB commands:**
+- **Here are some basic MATLAB commands:**
 
 - `clc`: Clears the Command Window.
 - `close all`: Closes all open figures.
@@ -51,6 +51,6 @@ To learn more about using MATLAB, you can consult the MATLAB documentation or ta
 - `mean`: Computes the mean of a set of numbers.
 - `std`: Computes the standard deviation of a set of numbers.
 
-**Conclusion**
+- **Conclusion**
 
 MATLAB is a powerful tool that can be used for a variety of tasks. It is easy to learn and use, and there are many resources available to help you get started. If you are looking for a powerful tool for technical computing, MATLAB is a great option.

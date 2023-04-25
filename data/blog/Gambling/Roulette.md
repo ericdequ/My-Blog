@@ -1,7 +1,7 @@
 ---
 title: 'Mastering Roulette: Tips and Strategies for Casino Success 🎲🎰'
 date: '2022-04-21'
-tags: ['Roulette', 'Casino Games', 'Gambling']
+tags: ['Roulette', 'Casino', 'Games', 'Gambling']
 draft: false
 summary: Learn how to improve your chances of winning at roulette with various strategies and tips. Understand the odds, betting options, and how to manage your emotions while playing this popular casino game.
 ---
