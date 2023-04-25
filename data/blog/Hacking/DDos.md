@@ -10,11 +10,11 @@ summary: Distributed denial-of-service (DDoS) attacks are becoming increasingly 
 
 💻 A distributed denial-of-service (DDoS) attack is a cyber attack in which a large number of computers are used to flood a website or server with so much traffic that it becomes unavailable to its intended users. DDoS attacks can be used to disrupt businesses, governments, and other organizations.
 
-# How Common are DDoS Attacks?
+## How Common are DDoS Attacks?
 
 💥 DDoS attacks are becoming increasingly common. In 2022, there were over 10 million DDoS attacks recorded worldwide and the average cost of a DDoS attack is now over $2 million.
 
-# How to Prevent DDoS Attacks
+## How to Prevent DDoS Attacks
 
 🛡️ To protect your website or server from DDoS attacks, you can take several steps, including:
 
@@ -23,7 +23,7 @@ summary: Distributed denial-of-service (DDoS) attacks are becoming increasingly 
 - 💻 **Upgrading your network infrastructure.** Having a fast and reliable network infrastructure can help mitigate the effects of a DDoS attack.
 - 📈 **Having a disaster recovery plan in place.** A disaster recovery plan is a set of procedures that you can follow in the event of a DDoS attack, including steps for restoring your website or server to operation.
 
-# Additional Tips for Preventing DDoS Attacks
+## Additional Tips for Preventing DDoS Attacks
 
 Here are some additional tips for preventing DDoS attacks:
 
@@ -32,6 +32,6 @@ Here are some additional tips for preventing DDoS attacks:
 - 🕵️ Monitor your website or server for signs of a DDoS attack.
 - 📚 Have a plan in place to respond to a DDoS attack.
 
-# Conclusion
+## Conclusion
 
 💻 DDoS attacks are a serious threat to businesses and organizations of all sizes. By taking steps to prevent DDoS attacks and following best practices for website security, you can help protect your website or server from being taken offline. Stay vigilant and stay protected! 🛡️

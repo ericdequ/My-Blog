@@ -20,7 +20,7 @@ draft: false
 summary: 'This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse '
 ---
 
-# 🚀 Introduction to Full Stack Social Media App
+## 🚀 Introduction to Full Stack Social Media App
 
 Building a fullstack social media application is a challenging but rewarding experience. It requires a strong understanding of a variety of technologies, including frontend frameworks, backend languages, and databases. In this blog post, I will walk you through the process of building a fullstack social media application using Next.js, React, Vercel, Golang, Google App Run, and MongoDB.
 

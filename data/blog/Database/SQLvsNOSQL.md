@@ -6,7 +6,7 @@ draft: false
 summary: 'When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more'
 ---
 
-# SQL vs NoSQL: What's the Difference? 📊
+## SQL vs NoSQL: What's the Difference? 📊
 
 When it comes to storing data, there are two main types of databases: SQL and NoSQL. SQL stands for Structured Query Language, and it's the most popular type of database. NoSQL stands for Not Only SQL, and it's a newer type of database that's designed to handle large amounts of data that doesn't fit neatly into a traditional relational schema.
 
