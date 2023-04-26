@@ -7,9 +7,69 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 24 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Wim</guid>
+    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Wim</link>
+    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>WimHof</category><category>Breathing</category><category>Cold</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</guid>
+    <title>How to Read People and Understand Body Language</title>
+    <link>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</link>
+    <description>Learn how to read people and understand body language with these tips and tricks. Improve your communication skills, build stronger relationships, and become a more successful negotiator. 💬💪</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Psychology</category><category>Communication</category><category>BodyLanguage</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/psychology/Lying</guid>
+    <title>How to Spot a Liar: Understanding Body Language and Verbal Cues 👀🗣️</title>
+    <link>https://rics-blog.vercel.app/blog/psychology/Lying</link>
+    <description>Learn how to spot a liar by paying attention to their body language, tone of voice, and words. By understanding these verbal and nonverbal cues, you can become more skilled at detecting when someone is lying. 👀🗣️</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Psychology</category><category>Communication</category><category>BodyLanguage</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/IOT/Relationship</guid>
+    <title>Relationship-Based IoT Models Enhancing Accuracy, Efficiency, and Security 🔗</title>
+    <link>https://rics-blog.vercel.app/blog/IOT/Relationship</link>
+    <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>IoT</category><category>Relationship</category><category>Technology</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</guid>
+    <title>TCP vs UDP: Understanding the Differences 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</link>
+    <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>TCP</category><category>UDP</category><category>Networking</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</guid>
+    <title>Setting Up a Raspberry Pi: A Step-by-Step Guide 🤖</title>
+    <link>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</link>
+    <description>In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RaspberryPi</category><category>DIY</category><category>Projects</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</guid>
     <title>Full Stack Social Media App</title>
@@ -111,6 +171,36 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</guid>
+    <title>Colab: A Powerhouse for Machine Learning &amp; Data Science 💻</title>
+    <link>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</link>
+    <description>Google Colaboratory Colab is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Google</category><category>MachineLearning</category><category>DataScience</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Java/AbstractSyntaxTree</guid>
+    <title>Understanding Abstract Syntax Trees 🌳</title>
+    <link>https://rics-blog.vercel.app/blog/Java/AbstractSyntaxTree</link>
+    <description>Abstract syntax trees (ASTs) are tree representations of the abstract syntactic structure of source code and are useful for parsing, refactoring,code generation, debugging, and analysis.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AST</category><category>Parsing</category><category>Refactoring</category><category>CodeGeneration</category><category>Debugging</category><category>Analysis</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Matlab/Matlab</guid>
+    <title>Matlab</title>
+    <link>https://rics-blog.vercel.app/blog/Matlab/Matlab</link>
+    <description>MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Matlab</category><category>programming</category><category>Software</category><category>Development</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Personal/Meditations</guid>
     <title>🧘‍♂️ Meditations of a Developer 🧘‍♂️</title>
     <link>https://rics-blog.vercel.app/blog/Personal/Meditations</link>
@@ -131,6 +221,46 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Python/PythonSetup</guid>
+    <title>Getting Started with Python: Your First Python Script 🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Python/PythonSetup</link>
+    <description>Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Python</category><category>Programming</category><category>Tutorial</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Raspi/PiHole</guid>
+    <title>Pi-hole: Block Ads and Trackers on Your Network 🌐🚫</title>
+    <link>https://rics-blog.vercel.app/blog/Raspi/PiHole</link>
+    <description>Learn about Pi-hole, a free and open-source DNS sinkhole, and how it can help you block ads and trackers on your network, improving your browsing experience.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Pihole</category><category>RaspberryPi</category><category>DNS</category><category>Network</category><category>AdBlocker</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Remote_connections/putty</guid>
+    <title>Putty: A Guide for SSH Connections 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Remote_connections/putty</link>
+    <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Putty</category><category>SSH</category><category>Networking</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Remote_connections/ssh</guid>
+    <title>Secure Shell (SSH) for Beginners: A Simple Guide 🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Remote_connections/ssh</link>
+    <description>Learn the basics of Secure Shell (SSH) for secure remote access to computers,including its benefits, how to use it, and tips for maximizing its security.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>SSH</category><category>Security</category><category>RemoteAccess</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</guid>
     <title>React_Node_guide</title>
     <link>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</link>
@@ -138,6 +268,16 @@
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>React</category><category>Node</category><category>Front-End</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Health/Kundalini</guid>
+    <title>Kundalini Yoga The Path to Awakening and Self-Realization 🌟</title>
+    <link>https://rics-blog.vercel.app/blog/Health/Kundalini</link>
+    <description>Discover the transformative power of Kundalini Yoga, its origins, and how to practice it for a balanced and fulfilling life.</description>
+    <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Kundalini</category><category>Yoga</category><category>Meditation</category><category>Spirituality</category>
   </item>
 
   <item>
@@ -168,6 +308,26 @@
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>GO</category><category>Gorilla-Mux</category><category>Backend</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/GettingStarted</guid>
+    <title>How to Start a Government Contracting Small Business</title>
+    <link>https://rics-blog.vercel.app/blog/Government/GettingStarted</link>
+    <description>Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>SmallBusiness</category><category>GovernmentContracting</category><category>Entrepreneurship</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/Proposals</guid>
+    <title>How to Write a Winning Government Proposal</title>
+    <link>https://rics-blog.vercel.app/blog/Government/Proposals</link>
+    <description>Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Contracting</category><category>ProposalWriting</category><category>BusinessGrowth</category>
   </item>
 
   <item>

@@ -2342,6 +2342,8 @@
       var Link = __webpack_require__(8334)
       // EXTERNAL MODULE: ./components/SectionContainer.js
       var SectionContainer = __webpack_require__(4514)
+      // EXTERNAL MODULE: ./node_modules/.pnpm/next@12.1.4_@babel+core@7.21.4_react-dom@17.0.2_react@17.0.2/node_modules/next/link.js
+      var next_link = __webpack_require__(8176)
       // EXTERNAL MODULE: ./components/social-icons/index.js + 6 modules
       var social_icons = __webpack_require__(5137) // CONCATENATED MODULE: ./components/Footer.js
       function Footer() {
@@ -2399,18 +2401,11 @@
                   /*#__PURE__*/ jsx_runtime_.jsx('div', {
                     children: ` • `,
                   }),
-                  /*#__PURE__*/ jsx_runtime_.jsx(Link /* default */.Z, {
+                  /*#__PURE__*/ jsx_runtime_.jsx(next_link['default'], {
                     href: '/',
                     children: siteMetadata_default().title,
                   }),
                 ],
-              }),
-              /*#__PURE__*/ jsx_runtime_.jsx('div', {
-                className: 'mb-8 text-sm text-gray-500 dark:text-gray-400',
-                children: /*#__PURE__*/ jsx_runtime_.jsx(Link /* default */.Z, {
-                  href: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
-                  children: 'Tailwind Nextjs Theme',
-                }),
               }),
             ],
           }),

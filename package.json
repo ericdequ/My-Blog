@@ -11,7 +11,8 @@
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
     "commit": "git add -A && git commit -m 'production push' && git push",
-    "deploy": "pnpm install && next build && vercel && vercel --prod && pnpm run commit"
+    "deploy": "pnpm install && next build && vercel && vercel --prod && pnpm run commit",
+    "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build "
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
