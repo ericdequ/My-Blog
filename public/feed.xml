@@ -21,6 +21,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
+    <title>Understanding RAID Levels 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</link>
+    <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RAID</category><category>Storage</category><category>Technology</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</guid>
     <title>How to Read People and Understand Body Language</title>
     <link>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</link>
@@ -171,6 +181,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/AI/GPT-Resume</guid>
+    <title>AI Resume Maker</title>
+    <link>https://rics-blog.vercel.app/blog/AI/GPT-Resume</link>
+    <description>How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GPT</category><category>Bard</category><category>Resume</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</guid>
     <title>Colab: A Powerhouse for Machine Learning &amp; Data Science 💻</title>
     <link>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</link>
@@ -311,6 +331,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/LawsOPower</guid>
+    <title>The 48 Laws of Power A Guide to Success and Mastery 💪</title>
+    <link>https://rics-blog.vercel.app/blog/Books/LawsOPower</link>
+    <description>Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Power</category><category>Success</category><category>Mastery</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Government/GettingStarted</guid>
     <title>How to Start a Government Contracting Small Business</title>
     <link>https://rics-blog.vercel.app/blog/Government/GettingStarted</link>
@@ -401,6 +431,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</guid>
+    <title>Exploring the Mysteries of Quantum Physics 💡</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</link>
+    <description>Unlocking the secrets of the universe with the fascinating field of Quantum Physics!</description>
+    <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Physics</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Setup/vs-code</guid>
     <title>vs-code</title>
     <link>https://rics-blog.vercel.app/blog/Setup/vs-code</link>
@@ -408,6 +448,26 @@
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>setup</category><category>code</category><category>vs-code</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/EngineeringStats</guid>
+    <title>Engineering Statistics: An Essential Tool for Engineers 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Math/EngineeringStats</link>
+    <description>Engineering statistics is the application of statistical methods to engineering problems. It is a powerful tool that can be used to solve a wide variety of problems in engineering, including quality control, design of experiments, reliability engineering, risk analysis, and data mining.</description>
+    <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Engineering</category><category>Statistics</category><category>Methods</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</guid>
+    <title>Linear Algebra</title>
+    <link>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</link>
+    <description>Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.</description>
+    <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>LinearAlgebra</category><category>Math</category><category>Calculus</category>
   </item>
 
   <item>
@@ -431,6 +491,26 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/ACvsDC</guid>
+    <title>AC vs DC: Understanding the Differences 🔌</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/ACvsDC</link>
+    <description>AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.</description>
+    <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Electrictiy</category><category>AC</category><category>DC</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/Physics2</guid>
+    <title>College Physics 2 Rotational Motion, Vibrations and Waves, Fluid Mechanics, thermodynamics, and Electromagnetism 📚</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/Physics2</link>
+    <description>College Physics 2 is a continuation of College Physics 1. It covers more advanced topics in mechanics, thermodynamics, electromagnetism, and waves.</description>
+    <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>physics</category><category>college</category><category>physics</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Gambling/BlackJack</guid>
     <title>Winning Strategies for Blackjack 🃏♠️♥️♦️♣️</title>
     <link>https://rics-blog.vercel.app/blog/Gambling/BlackJack</link>
@@ -438,6 +518,46 @@
     <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Blackjack</category><category>Casino</category><category>Strategy</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/Calc3</guid>
+    <title>Calculus 3: The Advanced Study of Multivariable Calculus 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Math/Calc3</link>
+    <description>Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.</description>
+    <pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Calculus</category><category>Mathematics</category><category>Education</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Physics/Physics1</guid>
+    <title>Physics 1 Exploring the Physical World 🔭</title>
+    <link>https://rics-blog.vercel.app/blog/Physics/Physics1</link>
+    <description>College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.</description>
+    <pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Physics</category><category>College</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/Calc2</guid>
+    <title>Calculus 2: Advanced Concepts and Applications 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Math/Calc2</link>
+    <description>Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.</description>
+    <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Calculus 2</category><category>Mathematics</category><category>Engineering</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Math/Calc1</guid>
+    <title>Calculus 1: The Foundations of Mathematics 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Math/Calc1</link>
+    <description>Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.</description>
+    <pubDate>Thu, 21 Mar 2019 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Calculus</category><category>Mathematics</category><category>Education</category>
   </item>
 
     </channel>

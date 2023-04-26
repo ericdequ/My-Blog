@@ -21,6 +21,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Books/Alchemist</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Books/LawsOPower</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/AI/ai_money</loc>
   </url>
 
@@ -37,11 +45,19 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Books/Alchemist</loc>
+    <loc>https://rics-blog.vercel.app/blog/AI/GPT-Resume</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Cloud/Cloud</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
   </url>
 
   <url>
@@ -54,14 +70,6 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Gambling/Roulette</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
   </url>
 
   <url>
@@ -113,7 +121,31 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Math/Calc1</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Math/Calc2</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Math/Calc3</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Math/EngineeringStats</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Matlab/Matlab</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</loc>
   </url>
 
   <url>
@@ -129,19 +161,27 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Physics/ACvsDC</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Physics/Physics1</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Physics/Physics2</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Professional/Linkedin</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Professional/Technical_Interviews</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Raspi/PiHole</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</loc>
   </url>
 
   <url>
@@ -154,6 +194,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/psychology/Lying</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Raspi/PiHole</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</loc>
   </url>
 
   <url>
@@ -197,7 +245,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/ai</loc>
+    <loc>https://rics-blog.vercel.app/tags/ac</loc>
   </url>
 
   <url>
@@ -209,11 +257,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/anxiety</loc>
+    <loc>https://rics-blog.vercel.app/tags/ai</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/api</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/anxiety</loc>
   </url>
 
   <url>
@@ -277,6 +329,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/calculus-2</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/card-games</loc>
   </url>
 
@@ -309,6 +369,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/college</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/communication</loc>
   </url>
 
@@ -326,6 +390,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/datascience</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/dc</loc>
   </url>
 
   <url>
@@ -349,11 +417,23 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/entrepreneurship</loc>
+    <loc>https://rics-blog.vercel.app/tags/education</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/electrictiy</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/engineering</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/features</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/entrepreneurship</loc>
   </url>
 
   <url>
@@ -373,11 +453,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/gambling</loc>
+    <loc>https://rics-blog.vercel.app/tags/gcp</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/gcp</loc>
+    <loc>https://rics-blog.vercel.app/tags/gambling</loc>
   </url>
 
   <url>
@@ -421,11 +501,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/idols</loc>
+    <loc>https://rics-blog.vercel.app/tags/hosting</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/hosting</loc>
+    <loc>https://rics-blog.vercel.app/tags/idols</loc>
   </url>
 
   <url>
@@ -453,6 +533,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/linearalgebra</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/linkedin</loc>
   </url>
 
@@ -462,6 +546,18 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/mastery</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/math</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/mathematics</loc>
   </url>
 
   <url>
@@ -478,6 +574,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/mermaid</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/methods</loc>
   </url>
 
   <url>
@@ -533,6 +633,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/physics</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/pihole</loc>
   </url>
 
@@ -542,6 +646,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/poker</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/power</loc>
   </url>
 
   <url>
@@ -573,6 +681,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/quantum</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/raid</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/raspberrypi</loc>
   </url>
 
@@ -590,6 +706,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/remoteaccess</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/resume</loc>
   </url>
 
   <url>
@@ -625,11 +745,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/sql</loc>
+    <loc>https://rics-blog.vercel.app/tags/spirituality</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/spirituality</loc>
+    <loc>https://rics-blog.vercel.app/tags/sql</loc>
   </url>
 
   <url>
@@ -637,7 +757,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/statistics</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/storage</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/strategy</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/success</loc>
   </url>
 
   <url>

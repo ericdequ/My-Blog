@@ -20,5 +20,15 @@
     <category>AI</category><category>GPT</category><category>BARD</category>
   </item>
 
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/AI/GPT-Resume</guid>
+    <title>AI Resume Maker</title>
+    <link>https://rics-blog.vercel.app/blog/AI/GPT-Resume</link>
+    <description>How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GPT</category><category>Bard</category><category>Resume</category>
+  </item>
+
     </channel>
   </rss>
