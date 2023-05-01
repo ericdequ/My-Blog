@@ -20,5 +20,15 @@
     <category>SSH</category><category>Security</category><category>RemoteAccess</category>
   </item>
 
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/CSFC</guid>
+    <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/CSFC</link>
+    <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CSfC</category><category>Security</category><category>Classified Data</category>
+  </item>
+
     </channel>
   </rss>
