@@ -10,7 +10,7 @@
     "analyze": "cross-env ANALYZE=true next build",
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
-    "commit": "git add -A && git commit -m 'production push' && git push",
+    "commit": "git add . && git commit -m 'production push' && git push",
     "deploy": "pnpm install && next build && vercel && vercel --prod && pnpm run commit",
     "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build"
   },
@@ -45,7 +45,8 @@
     "remark-math": "^5.1.1",
     "sharp": "^0.28.3",
     "tailwindcss": "^3.0.23",
-    "unist-util-visit": "^4.0.0"
+    "unist-util-visit": "^4.0.0",
+    "vercel": "^31.2.2"
   },
   "devDependencies": {
     "@svgr/webpack": "^6.1.2",

@@ -53,6 +53,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/cyber/CSFC</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/cyber/RMF</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
   </url>
 
@@ -185,15 +193,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Python/PythonSetup</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/psychology/Lying</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Python/PythonSetup</loc>
   </url>
 
   <url>
@@ -253,19 +261,19 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/analysis</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/ai</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/api</loc>
+    <loc>https://rics-blog.vercel.app/tags/analysis</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/anxiety</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/api</loc>
   </url>
 
   <url>
@@ -349,6 +357,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/cloud</loc>
   </url>
 
@@ -378,6 +390,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/contracting</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/csfc</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/cyber</loc>
   </url>
 
   <url>
@@ -429,11 +449,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/features</loc>
+    <loc>https://rics-blog.vercel.app/tags/entrepreneurship</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/entrepreneurship</loc>
+    <loc>https://rics-blog.vercel.app/tags/features</loc>
   </url>
 
   <url>
@@ -453,15 +473,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/gcp</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/gambling</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/github</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/gcp</loc>
   </url>
 
   <url>
@@ -601,11 +621,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/network</loc>
+    <loc>https://rics-blog.vercel.app/tags/networking</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/networking</loc>
+    <loc>https://rics-blog.vercel.app/tags/network</loc>
   </url>
 
   <url>
@@ -669,11 +689,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/psychology</loc>
+    <loc>https://rics-blog.vercel.app/tags/putty</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/putty</loc>
+    <loc>https://rics-blog.vercel.app/tags/psychology</loc>
   </url>
 
   <url>
@@ -710,6 +730,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/resume</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/rmf</loc>
   </url>
 
   <url>
@@ -793,11 +817,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/tips</loc>
+    <loc>https://rics-blog.vercel.app/tags/tutorial</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/tutorial</loc>
+    <loc>https://rics-blog.vercel.app/tags/tips</loc>
   </url>
 
   <url>
