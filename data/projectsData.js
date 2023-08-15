@@ -15,8 +15,8 @@ const projectsData = [
   {
     title: 'Resume',
     description: 'My resume built using Next.js and Typescript',
-    url: 'https://resume-va8r.vercel.app/',
-    imgSrc: '/static/Resume.jpg',
+    url: 'https://ericdequevedo.com',
+    imgSrc: '/img/Resume.png',
   },
   {
     title: 'USA Spending Integration',

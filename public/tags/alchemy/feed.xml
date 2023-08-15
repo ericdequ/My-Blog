@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 28 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/alchemy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Personal/Consciousness</guid>
+    <title>🌌 Transcend &amp; Receive Energy: The Esoteric Path 🌌</title>
+    <link>https://rics-blog.vercel.app/blog/Personal/Consciousness</link>
+    <description>Understanding consciousness, energy, and the practices that can lead to an elevated state of being.</description>
+    <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Esoteric</category><category>Consciousness</category><category>Meditation</category><category>Alchemy</category>
+  </item>
+
+    </channel>
+  </rss>
