@@ -181,6 +181,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Terraform</guid>
+    <title>Terraform: Crafting Infrastructure as Easily as Writing Code 🌍⚙️</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Terraform</link>
+    <description>Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.</description>
+    <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Terraform</category><category>Infrastructure as Code</category><category>Automation</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</guid>
     <title>Quantum Platforms Pioneering the Quantum Revolution 🌐</title>
     <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</link>
@@ -191,6 +201,36 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/Trust</guid>
+    <title>Building Trust: The Importance of Past Performance in Government Sales 🎖️🏛️</title>
+    <link>https://rics-blog.vercel.app/blog/Government/Trust</link>
+    <description>In the government contracting world, your track record speaks volumes. Understand why past performance is crucial and how to leverage it effectively in securing government contracts.</description>
+    <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Sales'</category><category>Trust</category><category>Contracting</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/GSA</guid>
+    <title>GSA Contract Vehicle🚙</title>
+    <link>https://rics-blog.vercel.app/blog/Government/GSA</link>
+    <description>The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.</description>
+    <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Procurement</category><category>Sales</category><category>Business</category><category>Strategy</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</guid>
+    <title>MultiCloud: The Next Era of Digital Infrastructure ☁️🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</link>
+    <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
+    <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>MultiCloud</category><category>Cloud Computing</category><category>Digital Transformation</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</guid>
     <title>Quantum Cybersecurity The Future of Secure Communication 🛡️</title>
     <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</link>
@@ -198,6 +238,206 @@
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/ICAM</guid>
+    <title>ICAM: Cutting-Edge Identity Management for Optimal Security 🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/ICAM</link>
+    <description>In the digital age, managing identity is both a security necessity and an efficiency driver. Dive into the world of ICAM and discover how it seamlessly blends top-tier security with streamlined access.</description>
+    <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>ICAM</category><category>Identity Management</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/ZTA</guid>
+    <title>ZTA Revolutionizing Cybersecurity with Zero Trust 🚫🔒</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/ZTA</link>
+    <description>Trust nothing, verify everything! Step into the world of Zero Trust Architecture and understand why its become a cornerstone in modern cybersecurity strategies.</description>
+    <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>ZTA</category><category>Zero Trust</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/RHVirtualization</guid>
+    <title>Red Hat Virtualization: Redefining Infrastructure for Diverse Enterprise Needs 🌐🌌</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/RHVirtualization</link>
+    <description>In an age where infrastructure flexibility is paramount, Red Hat Virtualization emerges as a key enabler. Dive into how this solution is reshaping the infrastructural landscapes of both public and private sectors.</description>
+    <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Red Hat Virtualization</category><category>Infrastructure</category><category>Public Sector</category><category>Private Sector</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Ansible</guid>
+    <title>Ansible: The IT Automation Maestro for Diverse Enterprises 🌐🤖</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Ansible</link>
+    <description>In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.</description>
+    <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Ansible</category><category>Automation</category><category>Public Sector</category><category>Private Sector</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Openshift</guid>
+    <title>OpenShift: Kubernetes Mastery for Both Public and Private Realms 🌐🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Openshift</link>
+    <description>OpenShift by Red Hat isnt just a Kubernetes platform its an enterprise-grade solution for container orchestration across sectors. Explore how OpenShift is revolutionizing both public and private entities.</description>
+    <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>OpenShift</category><category>Kubernetes</category><category>Public Sector</category><category>Private Sector</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Linux</guid>
+    <title>Red Hat Enterprise Linux (RHEL): The Linux Pillar for Public and Private Enterprises 🌐🖥️</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Linux</link>
+    <description>Red Hat Enterprise Linux (RHEL) is not just another Linux distribution. Its an enterprise-grade solution that powers both public and private sectors. Dive into RHELs versatile applications across sectors.</description>
+    <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RHEL</category><category>Enterprise Linux</category><category>Public Sector</category><category>Private Sector</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Hashicorp</guid>
+    <title>HashiCorp: An Odyssey of Infrastructure Automation and Innovation 🌐🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Hashicorp</link>
+    <description>In the realm of infrastructure automation and DevOps, few names shine as brightly as HashiCorp. Delve into the journey of this trailblazing company, its suite of tools, and the competitive landscape it thrives in.</description>
+    <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>HashiCorp</category><category>Infrastructure Automation</category><category>DevOps</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Packer</guid>
+    <title>Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Packer</link>
+    <description>In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.</description>
+    <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Packer</category><category>Image Creation</category><category>Automation</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Boundary</guid>
+    <title>Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Boundary</link>
+    <description>The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.</description>
+    <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Boundary</category><category>Zero Trust</category><category>Access Management</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Nomad</guid>
+    <title>Nomad: Orchestrating Workloads with Elegance and Efficiency 📊🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Nomad</link>
+    <description>Managing and scheduling workloads can be a herculean task. With HashiCorps Nomad, experience a scheduler that seamlessly orchestrates tasks across any infrastructure. Dive into the world of efficient workload orchestration.</description>
+    <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Nomad</category><category>Orchestration</category><category>Workloads</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Consul</guid>
+    <title>Consul: Pioneering Service Discovery and Networking 🌐🔍</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Consul</link>
+    <description>Modern applications demand dynamic service networking. With HashiCorps Consul, discover a tool that not only aids in service discovery but also offers a robust service mesh for secure and efficient communications.</description>
+    <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Consul</category><category>Service Discovery</category><category>Service Mesh</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Vault</guid>
+    <title>Vault: The Fortified Chamber for Your Digital Secrets 🛡️🔐</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Vault</link>
+    <description>In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.</description>
+    <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Vault</category><category>Secret Management</category><category>Security</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/RFP</guid>
+    <title>Government RFPs: Deciphering and Responding Effectively 📜🔍</title>
+    <link>https://rics-blog.vercel.app/blog/Government/RFP</link>
+    <description>Responding to a government Request for Proposal (RFP) can be daunting. Dive into the intricacies of RFPs and gather insights on crafting compelling responses that stand out.</description>
+    <pubDate>Sat, 29 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RFPs</category><category>Government</category><category>Sales</category><category>Proposal</category><category>Writing</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/NavigatingGovernment</guid>
+    <title>Navigating the Complexities of Government Procurement 🏛️🔄</title>
+    <link>https://rics-blog.vercel.app/blog/Government/NavigatingGovernment</link>
+    <description>The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.</description>
+    <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Procurement</category><category>Sales</category><category>Business</category><category>Strategy</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Cloud/CloudMigration</guid>
+    <title>Cloud Migrations: Paving the Way for Digital Excellence ☁️🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Cloud/CloudMigration</link>
+    <description>Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.</description>
+    <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Cloud</category><category>CloudMigration</category><category>DigitalTransformation</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/SOC</guid>
+    <title>SOC: The Digital Watchtower Guarding Against Cyber Threats 🌐🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/SOC</link>
+    <description>In the ceaseless battle against cyber threats, a Security Operations Center stands as the first line of defense. Explore how SOC operates and why its pivotal in the modern digital age.</description>
+    <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>SOC</category><category>Cybersecurity</category><category>Surveillance</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/RedHat</guid>
+    <title>Red Hat: Championing the Open Source Spirit in the Enterprise Arena 🌐🔥</title>
+    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/RedHat</link>
+    <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
+    <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Red Hat</category><category>Open Source</category><category>Enterprise Solutions</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/Relationships</guid>
+    <title>Building Relationships: The Key to Long-Term Government Sales Success 🤝🏛️</title>
+    <link>https://rics-blog.vercel.app/blog/Government/Relationships</link>
+    <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
+    <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/PENTEST</guid>
+    <title>PenTesting: The Art of Simulating Cyberattacks for Stronger Defenses 🎯🔒</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/PENTEST</link>
+    <description>In the realm of cybersecurity, one of the most effective strategies is to think like an attacker. Penetration Testing, or PenTesting, offers precisely that perspective. Explore how simulating cyberattacks can help fortify defenses.</description>
+    <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>PenTesting</category><category>Cybersecurity</category><category>Breach Simulation</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/REDTEAM</guid>
+    <title>REDTEAM: Embracing Adversarial Tactics for Ironclad Security 🎯🚫</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/REDTEAM</link>
+    <description>In the chess game of cybersecurity, sometimes you need to think several moves ahead. REDTEAM assessments provide an adversarial perspective, simulating real-world attack tactics to uncover vulnerabilities. Dive into the world of REDTEAMing and its importance.</description>
+    <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>REDTEAM</category><category>Cybersecurity</category><category>Adversarial Testing</category>
   </item>
 
   <item>

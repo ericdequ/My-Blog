@@ -41,6 +41,56 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/ICAM</guid>
+    <title>ICAM: Cutting-Edge Identity Management for Optimal Security 🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/ICAM</link>
+    <description>In the digital age, managing identity is both a security necessity and an efficiency driver. Dive into the world of ICAM and discover how it seamlessly blends top-tier security with streamlined access.</description>
+    <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>ICAM</category><category>Identity Management</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/ZTA</guid>
+    <title>ZTA Revolutionizing Cybersecurity with Zero Trust 🚫🔒</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/ZTA</link>
+    <description>Trust nothing, verify everything! Step into the world of Zero Trust Architecture and understand why its become a cornerstone in modern cybersecurity strategies.</description>
+    <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>ZTA</category><category>Zero Trust</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/SOC</guid>
+    <title>SOC: The Digital Watchtower Guarding Against Cyber Threats 🌐🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/SOC</link>
+    <description>In the ceaseless battle against cyber threats, a Security Operations Center stands as the first line of defense. Explore how SOC operates and why its pivotal in the modern digital age.</description>
+    <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>SOC</category><category>Cybersecurity</category><category>Surveillance</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/PENTEST</guid>
+    <title>PenTesting: The Art of Simulating Cyberattacks for Stronger Defenses 🎯🔒</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/PENTEST</link>
+    <description>In the realm of cybersecurity, one of the most effective strategies is to think like an attacker. Penetration Testing, or PenTesting, offers precisely that perspective. Explore how simulating cyberattacks can help fortify defenses.</description>
+    <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>PenTesting</category><category>Cybersecurity</category><category>Breach Simulation</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/REDTEAM</guid>
+    <title>REDTEAM: Embracing Adversarial Tactics for Ironclad Security 🎯🚫</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/REDTEAM</link>
+    <description>In the chess game of cybersecurity, sometimes you need to think several moves ahead. REDTEAM assessments provide an adversarial perspective, simulating real-world attack tactics to uncover vulnerabilities. Dive into the world of REDTEAMing and its importance.</description>
+    <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>REDTEAM</category><category>Cybersecurity</category><category>Adversarial Testing</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/hacking/CardScanner</guid>
     <title>Be Safe and Secure with Credit Card Scanners 🔒</title>
     <link>https://rics-blog.vercel.app/blog/hacking/CardScanner</link>
