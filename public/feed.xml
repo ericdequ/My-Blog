@@ -7,9 +7,199 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumAndCybersecurity</guid>
+    <title>Quantum Technologies &amp; Cybersecurity: The Urgent Call to Safeguard Our Digital Realm 🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumAndCybersecurity</link>
+    <description>A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.</description>
+    <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Cybersecurity</category><category>Homeland Security</category><category>Startup</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumAndBitcoin</guid>
+    <title>Quantum Tech &amp; Bitcoin: Navigating the Cryptographic Challenges 🔐</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumAndBitcoin</link>
+    <description>Exploring the potential impact of quantum technologies on Bitcoins cryptographic foundations and the broader cryptocurrency landscape!</description>
+    <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Bitcoin</category><category>Cryptography</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumEconomicImpact</guid>
+    <title>Quantum Economic Impact: The Financial Ripples of the Quantum Wave 💰</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumEconomicImpact</link>
+    <description>Understanding the profound economic implications of quantum technologies on industries, economies, and the global landscape!</description>
+    <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Economic Impact</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumFuturePredictions</guid>
+    <title>Quantum Future Predictions: Gazing into the Quantum Horizon 🔮</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumFuturePredictions</link>
+    <description>Exploring predictions about the trajectory of quantum technologies and envisioning the transformative quantum future!</description>
+    <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Future</category><category>Predictions</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumEducationAndTraining</guid>
+    <title>Quantum Education &amp; Training Preparing for the Quantum Future 🎓</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumEducationAndTraining</link>
+    <description>Understanding the significance of education and training in the quantum domain and the avenues available for learning!</description>
+    <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Education</category><category>Training</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCompanies</guid>
+    <title>Quantum Companies Powering the Quantum Revolution 🏢</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCompanies</link>
+    <description>Exploring the companies at the forefront of quantum technological advancements and their vision for the quantum future!</description>
+    <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Companies</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumTechnologiesOverview</guid>
+    <title>Quantum Technologies Overview The Dawn of a New Era 🌌</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumTechnologiesOverview</link>
+    <description>Navigating the vast landscape of quantum technologies and exploring their transformative potential!</description>
+    <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Technologies</category><category>Overview</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</guid>
+    <title>Quantum Software &amp; Tools Powering the Quantum Revolution 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</link>
+    <description>Exploring the software and tools ecosystem thats driving quantum technological  advancements!</description>
+    <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Software</category><category>Tools</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumResearchAndApplications</guid>
+    <title>Quantum Research &amp; Applications From Theory to Transformation 🔬</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumResearchAndApplications</link>
+    <description>Diving into the world of quantum research and witnessing its transformative applications across sectors!</description>
+    <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Research</category><category>Applications</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumChallenges</guid>
+    <title>Quantum Challenges Navigating the Quantum Labyrinth 🧩</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumChallenges</link>
+    <description>Exploring the challenges in the quantum domain and the relentless pursuit to overcome them!</description>
+    <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Challenges</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCybersecurityChecklist</guid>
+    <title>Quantum Cybersecurity Checklist Safeguarding the Quantum Transition 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCybersecurityChecklist</link>
+    <description>Navigating the essentials of cybersecurity in a quantum world and preparing for the quantum transition!</description>
+    <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Cybersecurity</category><category>Checklist</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPotentialAndCapabilities</guid>
+    <title>Quantum Potential &amp; Capabilities Unraveling the Quantum Revolution 🌌</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPotentialAndCapabilities</link>
+    <description>Discovering the transformative potential and multifaceted capabilities of quantum technologies!</description>
+    <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Potential</category><category>Capabilities</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumMaterials</guid>
+    <title>Quantum Materials The Unsung Heroes of Quantum Tech 💎</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumMaterials</link>
+    <description>Venturing into the world of quantum materials, the foundational elements driving quantum technological advancements!</description>
+    <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Materials</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumGovernmentInitiatives</guid>
+    <title>Government-Led Quantum Initiatives Shaping the Quantum Future 🏛️</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumGovernmentInitiatives</link>
+    <description>Exploring the strategic quantum initiatives led by governments worldwide and their vision for a quantum-empowered future!</description>
+    <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Government Initiatives</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumThreats</guid>
+    <title>Quantum Threats The Flip Side of the Quantum Revolution 🚫</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumThreats</link>
+    <description>Navigating the potential risks in the quantum domain and understanding the defenses against them!</description>
+    <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Threats</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumNetworking</guid>
+    <title>Quantum Networking The Next-Gen Communication Frontier 🌍</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumNetworking</link>
+    <description>Embarking on a journey through Quantum Networking, the future of secure and efficient communication!</description>
+    <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Networking</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumServices</guid>
+    <title>Quantum Services Bridging the Quantum Potential to Reality 🛠️</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumServices</link>
+    <description>Unveiling the plethora of services in the quantum domain that are making quantum tech accessible and impactful!</description>
+    <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Services</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</guid>
+    <title>Quantum Platforms Pioneering the Quantum Revolution 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</link>
+    <description>Discover the leading quantum platforms that are revolutionizing the world of quantum computing!</description>
+    <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Platforms</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</guid>
+    <title>Quantum Cybersecurity The Future of Secure Communication 🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</link>
+    <description>Diving into the world of Quantum Cybersecurity and its significance in an era of quantum computers!</description>
+    <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Cybersecurity</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/cyber/RMF</guid>
     <title>Risk Management Framework (RMF)</title>
@@ -18,6 +208,36 @@
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cyber</category><category>RMF</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/hacking/CardScanner</guid>
+    <title>Be Safe and Secure with Credit Card Scanners 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/hacking/CardScanner</link>
+    <description>Credit card scanners are devices that can read magnetic stripes or chips on credit or debit cards. Learn about the two main types of credit card scanners, where they can be found, and tips for protecting yourself from credit card scanner fraud.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CreditCard</category><category>Scanners</category><category>Cybersecurity</category><category>FraudPrevention</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/hacking/DDos</guid>
+    <title>Protect Your Website from DDoS Attacks 🛡️</title>
+    <link>https://rics-blog.vercel.app/blog/hacking/DDos</link>
+    <description>Distributed denial-of-service (DDoS) attacks are becoming increasingly common and can result in significant damage to businesses and organizations. Learn about the causes of DDoS attacks, how to prevent them, and tips for protecting your website or server from this devastating cyber attack.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>DDoS</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/hacking/Xss</guid>
+    <title>Protect Your Website from XSS Attacks 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/hacking/Xss</link>
+    <description>Cross-site scripting (XSS) is a type of security vulnerability that allows attackers to inject malicious code into a web page. Learn about the two main types of XSS attacks, best practices for preventing XSS attacks, and additional tips for protecting your website from XSS attacks.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>XSS</category><category>Attacks</category><category>Cybersecurity</category>
   </item>
 
   <item>
@@ -58,6 +278,16 @@
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Psychology</category><category>Communication</category><category>BodyLanguage</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/hacking/Kali</guid>
+    <title>Getting Started with Kali Linux A Beginners Guide 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/hacking/Kali</link>
+    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
   </item>
 
   <item>

@@ -1,8 +1,8 @@
 ---
-title: Protect Your Website from XSS Attacks 🔒
+title: 'Protect Your Website from XSS Attacks 🔒'
 date: '2023-04-24'
 tags: ['XSS', 'Attacks', 'Cybersecurity']
-draft: true
+draft: false
 summary: 'Cross-site scripting (XSS) is a type of security vulnerability that allows
   attackers to inject malicious code into a web page. Learn about the two main
   types of XSS attacks, best practices for preventing XSS attacks, and

@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 21 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 10 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/tags/software/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</guid>
+    <title>Quantum Software &amp; Tools Powering the Quantum Revolution 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</link>
+    <description>Exploring the software and tools ecosystem thats driving quantum technological  advancements!</description>
+    <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Software</category><category>Tools</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Matlab/Matlab</guid>
     <title>Matlab</title>
