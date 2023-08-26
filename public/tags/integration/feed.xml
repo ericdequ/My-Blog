@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 13 Aug 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://rics-blog.vercel.app/tags/software-development/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://rics-blog.vercel.app/tags/integration/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://rics-blog.vercel.app/blog/AI/LangChain</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>AI</category><category>Software Development</category><category>LangChain</category><category>Integration</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Professional/Technical_Interviews</guid>
-    <title>How to Ace Technical Interviews as a Software Developer 💯</title>
-    <link>https://rics-blog.vercel.app/blog/Professional/Technical_Interviews</link>
-    <description>Increase your chances of success in technical interviews for software developer positions by following these tips and tricks. Learn how to prepare, practice, stay confident, and follow up after the interview.</description>
-    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Technical Interviews</category><category>Software Development</category><category>Job Interviews</category>
   </item>
 
     </channel>

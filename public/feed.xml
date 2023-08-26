@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Government/TheProcess</guid>
+    <title>Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜</title>
+    <link>https://rics-blog.vercel.app/blog/Government/TheProcess</link>
+    <description>Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.</description>
+    <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracts</category><category>Business Strategy</category><category>TTP</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumAndCybersecurity</guid>
     <title>Quantum Technologies &amp; Cybersecurity: The Urgent Call to Safeguard Our Digital Realm 🛡️</title>
@@ -251,6 +261,26 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/AI/AISASS</guid>
+    <title>Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧</title>
+    <link>https://rics-blog.vercel.app/blog/AI/AISASS</link>
+    <description>The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.</description>
+    <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>Cloud Computing</category><category>Software Architecture</category><category>Design</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/AI/LangChain</guid>
+    <title>LangChain: Your Ultimate Tool for Crafting AI-Powered Software 🌐🤖</title>
+    <link>https://rics-blog.vercel.app/blog/AI/LangChain</link>
+    <description>The rise of AI in software development is undeniable. Dive into how LangChain can be your secret weapon in not just creating AI software apps but also seamlessly integrating them into your existing software suite.</description>
+    <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>Software Development</category><category>LangChain</category><category>Integration</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/cyber/ZTA</guid>
     <title>ZTA Revolutionizing Cybersecurity with Zero Trust 🚫🔒</title>
     <link>https://rics-blog.vercel.app/blog/cyber/ZTA</link>
@@ -258,6 +288,16 @@
     <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>ZTA</category><category>Zero Trust</category><category>Cybersecurity</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Startup/Startup</guid>
+    <title>Starting Strong: Your Blueprint to Forming a Successful Company 🌐🚀</title>
+    <link>https://rics-blog.vercel.app/blog/Startup/Startup</link>
+    <description>Embarking on the entrepreneurial journey? Forming a company is the first significant step. Dive into this guide to understand the nuances of company formation and ensure a robust foundation for your business.</description>
+    <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Entrepreneurship</category><category>Company Formation</category><category>Business Strategy</category>
   </item>
 
   <item>

@@ -7,19 +7,9 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 25 Aug 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://rics-blog.vercel.app/tags/cloud-computing/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Mon, 14 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/software-architecture/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</guid>
-    <title>MultiCloud: The Next Era of Digital Infrastructure ☁️🌐</title>
-    <link>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</link>
-    <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
-    <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>MultiCloud</category><category>Cloud Computing</category><category>Digital Transformation</category>
-  </item>
-
   <item>
     <guid>https://rics-blog.vercel.app/blog/AI/AISASS</guid>
     <title>Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧</title>
