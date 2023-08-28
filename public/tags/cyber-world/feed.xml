@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Learn From me Morty!</title>
+      <link>https://rics-blog.vercel.app/blog</link>
+      <description>A blog by Ric for Mortys </description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 23 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/cyber-world/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</guid>
+    <title>Discover QuantumLearn: Your Ultimate Learning Resource 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</link>
+    <description>Step into the future of learning with QuantumLearn. Dive deep into a plethora of subjects, all while enjoying a seamless user experience. Lets embark on a journey of knowledge! 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Learning</category><category>Firebase</category><category>TailwindCSS</category><category>Chakra UI</category><category>pnpm</category><category>Firebase Integration</category><category>Comptia</category><category>Quantum Realm</category><category>Cyber World</category><category>Project Management</category>
+  </item>
+
+    </channel>
+  </rss>
