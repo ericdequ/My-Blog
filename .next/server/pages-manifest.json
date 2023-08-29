@@ -1,5 +1,5 @@
 {
-  "/404": "pages/404.js",
+  "/404": "pages/404.html",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
   "/about": "pages/about.js",
@@ -13,7 +13,7 @@
   "/blog/[...slug]": "pages/blog/[...slug].js",
   "/blog/page/[page]": "pages/blog/page/[page].js",
   "/": "pages/index.js",
-  "/projects": "pages/projects.js",
+  "/projects": "pages/projects.html",
   "/tags": "pages/tags.js",
   "/tags/[tag]": "pages/tags/[tag].js",
   "/_error": "pages/_error.js"
