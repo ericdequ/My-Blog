@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: 'Quantum Learning',
+    description:
+      'A learning platform for students to learn about quantum computing and Other Computer Science topics',
+    url: 'https://quantum-learning.vercel.app/',
+    imgSrc: '/static/images/QuantumLearning.jpg',
+  },
+  {
     title: 'Freel',
     description: 'Building a platform for photographers to connect with clients in their area',
     url: 'https://freel-one.vercel.app/',
