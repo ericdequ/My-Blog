@@ -4,13 +4,13 @@
   exports.id = 405
   exports.ids = [405, 195]
   exports.modules = {
-    /***/ 5447: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+    /***/ 978: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
       /* harmony export */ __webpack_require__.d(__webpack_exports__, {
         /* harmony export */ Z: () => __WEBPACK_DEFAULT_EXPORT__,
         /* harmony export */
       })
       /* harmony import */ var _data_siteMetadata__WEBPACK_IMPORTED_MODULE_0__ =
-        __webpack_require__(1129)
+        __webpack_require__(1909)
       /* harmony import */ var _data_siteMetadata__WEBPACK_IMPORTED_MODULE_0___default =
         /*#__PURE__*/ __webpack_require__.n(_data_siteMetadata__WEBPACK_IMPORTED_MODULE_0__)
 
@@ -31,7 +31,7 @@
       /***/
     },
 
-    /***/ 1182: /***/ (module, __webpack_exports__, __webpack_require__) => {
+    /***/ 2495: /***/ (module, __webpack_exports__, __webpack_require__) => {
       __webpack_require__.a(
         module,
         async (__webpack_handle_async_dependencies__, __webpack_async_result__) => {
@@ -47,21 +47,21 @@
             /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default =
               /*#__PURE__*/ __webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__)
             /* harmony import */ var _components_Link__WEBPACK_IMPORTED_MODULE_1__ =
-              __webpack_require__(8334)
+              __webpack_require__(904)
             /* harmony import */ var _components_SEO__WEBPACK_IMPORTED_MODULE_2__ =
-              __webpack_require__(6118)
+              __webpack_require__(1536)
             /* harmony import */ var _components_Tag__WEBPACK_IMPORTED_MODULE_3__ =
-              __webpack_require__(5262)
+              __webpack_require__(3689)
             /* harmony import */ var _data_siteMetadata__WEBPACK_IMPORTED_MODULE_4__ =
-              __webpack_require__(1129)
+              __webpack_require__(1909)
             /* harmony import */ var _data_siteMetadata__WEBPACK_IMPORTED_MODULE_4___default =
               /*#__PURE__*/ __webpack_require__.n(_data_siteMetadata__WEBPACK_IMPORTED_MODULE_4__)
             /* harmony import */ var _lib_mdx__WEBPACK_IMPORTED_MODULE_5__ =
-              __webpack_require__(9085)
+              __webpack_require__(4482)
             /* harmony import */ var _lib_utils_formatDate__WEBPACK_IMPORTED_MODULE_6__ =
-              __webpack_require__(5447)
+              __webpack_require__(978)
             /* harmony import */ var _components_NewsletterForm__WEBPACK_IMPORTED_MODULE_7__ =
-              __webpack_require__(3688)
+              __webpack_require__(9762)
             var __webpack_async_dependencies__ = __webpack_handle_async_dependencies__([
               _lib_mdx__WEBPACK_IMPORTED_MODULE_5__,
             ])
@@ -461,7 +461,7 @@
       /***/
     },
 
-    /***/ 9847: /***/ (module) => {
+    /***/ 4618: /***/ (module) => {
       module.exports = import('rehype-autolink-headings')
 
       /***/
@@ -543,8 +543,8 @@
   var __webpack_require__ = require('../webpack-runtime.js')
   __webpack_require__.C(exports)
   var __webpack_exec__ = (moduleId) => __webpack_require__((__webpack_require__.s = moduleId))
-  var __webpack_exports__ = __webpack_require__.X(0, [596, 568, 754, 6, 118, 928, 688], () =>
-    __webpack_exec__(1182)
+  var __webpack_exports__ = __webpack_require__.X(0, [732, 655, 754, 64, 536, 746, 762], () =>
+    __webpack_exec__(2495)
   )
   module.exports = __webpack_exports__
 })()

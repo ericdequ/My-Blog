@@ -5,7 +5,12 @@ node_modules
 .vercel
 
 
-.next 
+
+.next/
+
+.next
+
+.next/*
 
 .env.example
 .env 
