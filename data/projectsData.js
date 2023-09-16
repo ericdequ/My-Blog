@@ -32,6 +32,18 @@ const projectsData = [
     url: 'https://crm-reports-94d86.firebaseapp.com/',
     imgSrc: '/static/images/UsaSpending.jpg',
   },
+  {
+    title: 'BMW Services',
+    description: 'Website I built for BMW Masonary company',
+    url: 'https://bmw-services.vercel.app/',
+    imgSrc: '/img/BMW.png',
+  },
+  {
+    title: 'Diamond Back Flooring',
+    description: 'Website I built for Diamond Back Flooring company',
+    url: 'https://diamondback.vercel.app/',
+    imgSrc: '/img/Diamond.png',
+  },
   /*
   {
     title: 'WebCrafters',

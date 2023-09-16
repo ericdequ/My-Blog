@@ -4,7 +4,7 @@
   exports.id = 888
   exports.ids = [888]
   exports.modules = {
-    /***/ 6801: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+    /***/ 4539: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
       // ESM COMPAT FLAG
       __webpack_require__.r(__webpack_exports__)
 
@@ -20,7 +20,7 @@
       var head_ = __webpack_require__(968)
       var head_default = /*#__PURE__*/ __webpack_require__.n(head_)
       // EXTERNAL MODULE: ./data/siteMetadata.js
-      var siteMetadata = __webpack_require__(1909)
+      var siteMetadata = __webpack_require__(6911)
       var siteMetadata_default = /*#__PURE__*/ __webpack_require__.n(siteMetadata) // CONCATENATED MODULE: external "next/script"
       const script_namespaceObject = require('next/script')
       var script_default = /*#__PURE__*/ __webpack_require__.n(script_namespaceObject) // CONCATENATED MODULE: ./components/analytics/GoogleAnalytics.js
@@ -2339,13 +2339,13 @@
       }
       /* harmony default export */ const logo = SvgLogo
       // EXTERNAL MODULE: ./components/Link.js
-      var Link = __webpack_require__(904)
+      var Link = __webpack_require__(2220)
       // EXTERNAL MODULE: ./components/SectionContainer.js
-      var SectionContainer = __webpack_require__(7908)
-      // EXTERNAL MODULE: ./node_modules/.pnpm/next@12.1.4_@babel+core@7.22.11_react-dom@17.0.2_react@17.0.2/node_modules/next/link.js
-      var next_link = __webpack_require__(5655)
+      var SectionContainer = __webpack_require__(7929)
+      // EXTERNAL MODULE: ./node_modules/.pnpm/next@12.1.4_@babel+core@7.22.19_react-dom@17.0.2_react@17.0.2/node_modules/next/link.js
+      var next_link = __webpack_require__(7506)
       // EXTERNAL MODULE: ./components/social-icons/index.js + 6 modules
-      var social_icons = __webpack_require__(2340) // CONCATENATED MODULE: ./components/Footer.js
+      var social_icons = __webpack_require__(4742) // CONCATENATED MODULE: ./components/Footer.js
       function Footer() {
         return /*#__PURE__*/ jsx_runtime_.jsx('footer', {
           children: /*#__PURE__*/ (0, jsx_runtime_.jsxs)('div', {
@@ -2768,8 +2768,8 @@
   var __webpack_require__ = require('../webpack-runtime.js')
   __webpack_require__.C(exports)
   var __webpack_exec__ = (moduleId) => __webpack_require__((__webpack_require__.s = moduleId))
-  var __webpack_exports__ = __webpack_require__.X(0, [732, 655, 64, 526], () =>
-    __webpack_exec__(6801)
+  var __webpack_exports__ = __webpack_require__.X(0, [808, 506, 971, 848], () =>
+    __webpack_exec__(4539)
   )
   module.exports = __webpack_exports__
 })()
