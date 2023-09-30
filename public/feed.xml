@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sat, 23 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 29 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Personal/Rumpus</guid>
+    <title>Rumpus Art Raffle</title>
+    <link>https://rics-blog.vercel.app/blog/Personal/Rumpus</link>
+    <description>An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronicas artistry.</description>
+    <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Art</category><category>Raffle</category><category>Veronica</category><category>RumpusArt</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</guid>
     <title>Discover QuantumLearn: Your Ultimate Learning Resource 🌐</title>

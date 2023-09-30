@@ -101,6 +101,9 @@ dependencies:
   vercel:
     specifier: ^32.2.4
     version: 32.2.4
+  xml:
+    specifier: ^1.0.1
+    version: 1.0.1
 
 devDependencies:
   '@svgr/webpack':
@@ -9217,6 +9220,10 @@ packages:
       deasync: 0.1.28
     transitivePeerDependencies:
       - supports-color
+    dev: false
+
+  /xml@1.0.1:
+    resolution: {integrity: sha512-huCv9IH9Tcf95zuYCsQraZtWnJvBtLVE0QHMOs8bWyZAFZNDcYjsPq1nEx8jKA9y+Beo9v+7OBPRisQTjinQMw==}
     dev: false
 
   /xmlhttprequest-ssl@2.0.0:
