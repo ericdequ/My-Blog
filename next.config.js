@@ -58,6 +58,9 @@ module.exports = withBundleAnalyzer({
   eslint: {
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
   },
+  images: {
+    domains: ['quantumcybersolutions.com', 'www.quantumcybersolutions.com'],
+  },
   async headers() {
     return [
       {
@@ -81,7 +84,6 @@ module.exports = withBundleAnalyzer({
         'react-dom': 'preact/compat',
       })
     }
-
     return config
   },
 })

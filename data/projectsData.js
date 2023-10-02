@@ -1,5 +1,12 @@
 const projectsData = [
   {
+    title: 'Quantum Cyber Solutions',
+    description:
+      'A company to further the research of quantum computing and its applications in cyber security and humanity',
+    url: 'https://quantumcybersolutions.com',
+    imgSrc: 'https://www.quantumcybersolutions.com/QCS-logo.webp',
+  },
+  {
     title: 'Quantum Learning',
     description:
       'A learning platform for students to learn about quantum computing and Other Computer Science topics',
@@ -44,14 +51,12 @@ const projectsData = [
     url: 'https://diamondback.vercel.app/',
     imgSrc: '/img/Diamond.png',
   },
-  /*
   {
-    title: 'WebCrafters',
+    title: 'Lucid Software and Web Design',
     description: 'I build custom websites for small businesses and individuals',
-    url: 'https://freelance-web-dev.vercel.app/',
-    imgSrc: '/static/web_dev.jpg',
+    url: 'https://www.lucidsoftware.dev/',
+    imgSrc: 'https://quantumcybersolutions.com/lswd-logoo.webp',
   },
-  */
 ]
 
 export default projectsData
