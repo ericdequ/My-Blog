@@ -59,7 +59,14 @@ module.exports = withBundleAnalyzer({
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
   },
   images: {
-    domains: ['quantumcybersolutions.com', 'www.quantumcybersolutions.com'],
+    domains: [
+      'quantumcybersolutions.com',
+      'www.quantumcybersolutions.com',
+      'ericdequevedo.com',
+      'www.ericdequevedo.com',
+      'dione-murex.vercel.app',
+      'introspective.vercel.app',
+    ],
   },
   async headers() {
     return [

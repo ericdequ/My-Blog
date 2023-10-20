@@ -57,6 +57,18 @@ const projectsData = [
     url: 'https://www.lucidsoftware.dev/',
     imgSrc: 'https://quantumcybersolutions.com/lswd-logoo.webp',
   },
+  {
+    title: 'Dione',
+    description: 'A WebApp used to display betting odds from a variety of sportsbooks',
+    url: 'https://dione-murex.vercel.app/',
+    imgSrc: 'https://dione-murex.vercel.app/rouleye.png',
+  },
+  {
+    title: 'Introspective',
+    description: 'A website I built to get anonymous feedback from friends, family and peers',
+    url: 'https://introspective.vercel.app/',
+    imgSrc: 'https://introspective.vercel.app/logo.png',
+  },
 ]
 
 export default projectsData
