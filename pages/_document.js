@@ -4,7 +4,22 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="scroll-smooth">
         <Head>
-          <link rel="-icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
+          <link rel="icon" sizes="76x76" href="/static/favicons/apple-touch-icon.png" />
+          <link rel="apple-touch-icon" href="/static/favicons/favicon-32x32.png" />
+          <link rel="icon" href="/favicon.ico" />
+
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{
+              __html: JSON.stringify({
+                '@context': 'https://schema.org',
+                '@type': 'Organization',
+                url: 'https://rics-blog.vercel.app/',
+                logo: 'https://rics-blog.vercel.app/static/favicons/favicon-32x32.png',
+              }),
+            }}
+          />
+
           <link
             rel="icon"
             type="image/png"
