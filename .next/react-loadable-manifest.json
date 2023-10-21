@@ -4,15 +4,15 @@
     "files": ["static/chunks/544.3b5ec82afdf94ab1.js"]
   },
   "..\\components\\comments\\index.js -> @/components/comments/Disqus": {
-    "id": 4922,
-    "files": ["static/chunks/922.f3daaf3250a03fa2.js"]
+    "id": 5564,
+    "files": ["static/chunks/564.c1eef35562601d5b.js"]
   },
   "..\\components\\comments\\index.js -> @/components/comments/Giscus": {
-    "id": 2429,
-    "files": ["static/chunks/429.e68cf4bd09e75136.js"]
+    "id": 1354,
+    "files": ["static/chunks/354.614b84ab9ab8cafe.js"]
   },
   "..\\components\\comments\\index.js -> @/components/comments/Utterances": {
-    "id": 3791,
-    "files": ["static/chunks/791.a66dee24d4c61619.js"]
+    "id": 9568,
+    "files": ["static/chunks/568.8747f9629eb76c16.js"]
   }
 }

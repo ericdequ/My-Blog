@@ -4,7 +4,7 @@
   exports.id = 660
   exports.ids = [660]
   exports.modules = {
-    /***/ 6452: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+    /***/ 6216: /***/ (__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
       __webpack_require__.r(__webpack_exports__)
       /* harmony export */ __webpack_require__.d(__webpack_exports__, {
         /* harmony export */ default: () => __WEBPACK_DEFAULT_EXPORT__,
@@ -15,7 +15,7 @@
       /* harmony import */ var react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0___default =
         /*#__PURE__*/ __webpack_require__.n(react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__)
       /* harmony import */ var next_document__WEBPACK_IMPORTED_MODULE_1__ =
-        __webpack_require__(5975)
+        __webpack_require__(9937)
 
       class MyDocument extends next_document__WEBPACK_IMPORTED_MODULE_1__['default'] {
         render() {
@@ -30,9 +30,17 @@
                   {
                     children: [
                       /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx('link', {
-                        rel: '-icon',
+                        rel: 'icon',
                         sizes: '76x76',
                         href: '/static/favicons/apple-touch-icon.png',
+                      }),
+                      /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx('link', {
+                        rel: 'apple-touch-icon',
+                        href: '/static/favicons/favicon-32x32.png',
+                      }),
+                      /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx('link', {
+                        rel: 'icon',
+                        href: '/favicon.ico',
                       }),
                       /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx('link', {
                         rel: 'icon',
@@ -162,6 +170,6 @@
   var __webpack_require__ = require('../webpack-runtime.js')
   __webpack_require__.C(exports)
   var __webpack_exec__ = (moduleId) => __webpack_require__((__webpack_require__.s = moduleId))
-  var __webpack_exports__ = __webpack_require__.X(0, [808, 975], () => __webpack_exec__(6452))
+  var __webpack_exports__ = __webpack_require__.X(0, [290, 937], () => __webpack_exec__(6216))
   module.exports = __webpack_exports__
 })()
