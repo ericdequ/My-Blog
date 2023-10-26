@@ -77,14 +77,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/CSFC</loc>
   </url>
 
@@ -110,6 +102,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/ZTA</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
   </url>
 
   <url>
@@ -525,11 +525,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/art</loc>
+    <loc>https://rics-blog.vercel.app/tags/applications</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/applications</loc>
+    <loc>https://rics-blog.vercel.app/tags/art</loc>
   </url>
 
   <url>
@@ -605,11 +605,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
+    <loc>https://rics-blog.vercel.app/tags/businessgrowth</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/businessgrowth</loc>
+    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
   </url>
 
   <url>
@@ -645,11 +645,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
+    <loc>https://rics-blog.vercel.app/tags/cloud</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/cloud</loc>
+    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
   </url>
 
   <url>
@@ -701,11 +701,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/contracting</loc>
+    <loc>https://rics-blog.vercel.app/tags/consul</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/consul</loc>
+    <loc>https://rics-blog.vercel.app/tags/contracting</loc>
   </url>
 
   <url>
@@ -733,11 +733,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/database</loc>
+    <loc>https://rics-blog.vercel.app/tags/dalle</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/dalle</loc>
+    <loc>https://rics-blog.vercel.app/tags/database</loc>
   </url>
 
   <url>

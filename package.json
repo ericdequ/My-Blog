@@ -45,9 +45,10 @@
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
     "sharp": "^0.28.3",
-    "tailwindcss": "^3.3.3",
+    "tailwindcss": "^3.3.5",
     "unist-util-visit": "^4.1.2",
     "vercel": "^32.5.0",
+    "webpack": "^5.89.0",
     "xml": "^1.0.1"
   },
   "devDependencies": {

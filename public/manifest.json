@@ -1,0 +1,32 @@
+{
+  "name": "Rics Blog",
+  "short_name": "Blog ",
+  "description": "A Blog about my life and my projects",
+  "start_url": "https://rics-blog.vercel.app/",
+  "display": "standalone",
+  "background_color": "#5A4B9A",
+  "theme_color": "#5A4B9A",
+  "icons": [
+    {
+      "src": "/logoo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+
+    {
+      "src": "/logoo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

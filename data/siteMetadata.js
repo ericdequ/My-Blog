@@ -1,13 +1,13 @@
 const siteMetadata = {
   title: 'Learn From me Morty!',
   author: 'Eric deQuevedo',
-  headerTitle: 'Ric Blog',
+  headerTitle: 'Ric doing Ric things',
   description: 'A blog by Ric for Mortys ',
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://rics-blog.vercel.app',
   siteRepo: 'https://https://github.com/ericdequ/My-Blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: 'logoo-removebg.png',
   image: '/static/profile.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'ericdequevedo@gmailcom',
@@ -21,7 +21,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://rics-blog.vercel.app/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
