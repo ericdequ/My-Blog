@@ -609,11 +609,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
+    <loc>https://rics-blog.vercel.app/tags/calculus-2</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/calculus-2</loc>
+    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
   </url>
 
   <url>
@@ -645,11 +645,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/cloud</loc>
+    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
+    <loc>https://rics-blog.vercel.app/tags/cloud</loc>
   </url>
 
   <url>
@@ -869,11 +869,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/go</loc>
+    <loc>https://rics-blog.vercel.app/tags/golang</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/golang</loc>
+    <loc>https://rics-blog.vercel.app/tags/go</loc>
   </url>
 
   <url>
@@ -1089,11 +1089,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/networking</loc>
+    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
+    <loc>https://rics-blog.vercel.app/tags/networking</loc>
   </url>
 
   <url>
@@ -1125,15 +1125,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/overview</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/packer</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/parsing</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/overview</loc>
   </url>
 
   <url>
