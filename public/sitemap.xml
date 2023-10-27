@@ -245,6 +245,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Next/PWA</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Personal/Consciousness</loc>
   </url>
 
@@ -409,26 +413,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Golang</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Boundary</loc>
   </url>
 
@@ -454,6 +438,26 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Vault</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Golang</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</loc>
   </url>
 
   <url>
@@ -493,11 +497,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/adversarial-testing</loc>
+    <loc>https://rics-blog.vercel.app/tags/ai</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/ai</loc>
+    <loc>https://rics-blog.vercel.app/tags/adversarial-testing</loc>
   </url>
 
   <url>
@@ -609,11 +613,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/calculus-2</loc>
+    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/calculus</loc>
+    <loc>https://rics-blog.vercel.app/tags/calculus-2</loc>
   </url>
 
   <url>
@@ -869,11 +873,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/golang</loc>
+    <loc>https://rics-blog.vercel.app/tags/go</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/go</loc>
+    <loc>https://rics-blog.vercel.app/tags/golang</loc>
   </url>
 
   <url>
@@ -1089,11 +1093,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
+    <loc>https://rics-blog.vercel.app/tags/networking</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/networking</loc>
+    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
   </url>
 
   <url>
@@ -1125,15 +1129,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/overview</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/packer</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/parsing</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/overview</loc>
   </url>
 
   <url>
@@ -1230,6 +1234,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/putty</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/pwa</loc>
   </url>
 
   <url>
@@ -1506,6 +1514,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/web-api</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/web-development</loc>
   </url>
 
   <url>

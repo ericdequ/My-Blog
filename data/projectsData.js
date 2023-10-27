@@ -54,7 +54,7 @@ const projectsData = [
   {
     title: 'Lucid Software and Web Design',
     description: 'I build custom websites for small businesses and individuals',
-    url: 'https://www.lucidsoftware.dev/',
+    url: 'https://www.lswd.vercel.app/',
     imgSrc: 'https://quantumcybersolutions.com/lswd-logoo.webp',
   },
   {
