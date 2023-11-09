@@ -6,7 +6,6 @@ draft: false
 summary: Some simple Ideas to make money with AI
 ---
 
-
 # How to Make Money with AI 💸
 
 Artificial intelligence (AI) is rapidly changing the world, and it's not just for big tech companies anymore. There are now many ways for small businesses and individuals to make money with AI.

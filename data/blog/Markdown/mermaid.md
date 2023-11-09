@@ -6,7 +6,6 @@ draft: false
 summary: Using ChatGPT and Mermaid to Create System Architecture Diagrams
 ---
 
-
 # Tutorial: Using ChatGPT and Mermaid to Create System Architecture Diagrams
 
 ## Introduction 📚
@@ -18,8 +17,11 @@ Mermaid is a popular tool for creating system architecture diagrams. It is a lig
 ChatGPT is a large language model from Google AI, trained on a massive dataset of text and code. It can be used to generate text, translate languages, write different kinds of creative content, and answer your questions in an informative way. but did you know you can get it to make system architectures, You can feed in Data from your projects or Class diagrams and it will generate a system architecture diagram for you in mermaid markdown.
 
 This can be usefull to collaborate with your team Present your work to stake holders or just to get a better understanding of your own project!
+
 ## Lets see Some examples
+
 ## Generate a diagram of a web application.
+
 ```mermaid
 graph TD
   A[Web Application]
@@ -28,10 +30,12 @@ graph TD
   A-->B
   A-->C
 ```
+
 ### Here are some more complex examples
 
 ## Flowchart
-```mermaid  
+
+```mermaid
 
 graph LR;
   A[Start] --> B{Decision};

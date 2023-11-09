@@ -11,6 +11,7 @@ summary: Firebase is a platform that helps developers build better mobile and we
 Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉
 
 Firebase is:
+
 - **Easy to use**: It is designed to be easy to learn and use, even for developers with no prior experience with backend development. Firebase's intuitive interface and documentation make it easy to get started, and its wide range of features make it a powerful tool for building complex apps.
 - **Scalable**: It can handle even the most demanding applications. Firebase is designed to automatically scale up or down based on the needs of your application, so you can be sure that your app will always be available to your users.
 - **Reliable**: It is backed by Google's infrastructure, which means that it is highly available and reliable. Firebase is also secure, using industry-standard security measures to keep your data safe.
