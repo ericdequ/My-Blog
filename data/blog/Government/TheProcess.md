@@ -87,4 +87,4 @@ The government, with its extensive projects and substantial budgets, represents 
 
 Securing a government contract is a blend of strategy, diligence, and persistence. The Trust The Process (TTP) methodology offers a comprehensive roadmap, ensuring that every effort you invest moves you closer to your goal. Dive deep, stay committed, and watch as doors to unparalleled opportunities open for your business.
 
-![TTP](/img/Process.png)
+![TTP](/img/Process.webp)

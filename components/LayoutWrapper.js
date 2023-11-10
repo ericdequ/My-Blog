@@ -1,6 +1,6 @@
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
-const Logo = '/logoo256.png'
+const Logo = '/logoo256.webp'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
 import Footer from './Footer'

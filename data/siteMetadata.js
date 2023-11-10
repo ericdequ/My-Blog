@@ -7,9 +7,9 @@ const siteMetadata = {
   theme: 'dark', // system, dark or light
   siteUrl: 'https://rics-blog.vercel.app',
   siteRepo: 'https://https://github.com/ericdequ/My-Blog',
-  siteLogo: 'logoo-removebg.png',
-  image: '/static/profile.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  siteLogo: 'logoo-removebg.webp',
+  image: '/static/profile.webp',
+  socialBanner: '/static/images/twitter-card.webp',
   email: 'ericdequevedo@gmailcom',
   github: 'https://https://github.com/ericdequ',
   twitter: 'https://twitter.com/Twitter',

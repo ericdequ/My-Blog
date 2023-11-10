@@ -42,4 +42,4 @@ Esoteric truths span across different cultures and ages. From the Kabbalah's Tre
 
 Embarking on a journey to understand and elevate one's consciousness and energy is both a personal and universal quest. By blending ancient wisdom with modern perspectives, one can find pathways to transcend and truly tap into the energies of the universe.
 
-![Esoteric Pathways](/img/Esoteric.png)
+![Esoteric Pathways](/img/Esoteric.webp)

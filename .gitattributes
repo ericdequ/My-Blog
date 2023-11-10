@@ -129,12 +129,12 @@ Procfile          text
 *.ico             binary
 *.jng             binary
 *.jp2             binary
-*.jpg             binary
+*.webp             binary
 *.jpeg            binary
 *.jpx             binary
 *.jxr             binary
 *.pdf             binary
-*.png             binary
+*.webp             binary
 *.psb             binary
 *.psd             binary
 # SVG treated as an asset (binary) by default.

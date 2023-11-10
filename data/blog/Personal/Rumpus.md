@@ -20,4 +20,4 @@ To you, dear reader, who might be at the cusp of an artistic exploration, I invi
 
 And who knows? The universe might just have another delightful surprise waiting for you.
 
-[![Raffle Joy](/img/rumpus.png)](https://rumpusart.com/)
+[![Raffle Joy](/img/rumpus.webp)](https://rumpusart.com/)
