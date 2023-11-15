@@ -1,6 +1,6 @@
 ---
 name: Eric deQuevedo 😄
-avatar: /static/profile.webp
+avatar: https://www.ericdequevedo.com/profilepic.webp
 occupation: Solutions Architect 💻
 company: Emerging Tech 🚀
 email: ericdequevedo@gmail.com 📧

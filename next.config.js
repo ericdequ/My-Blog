@@ -66,6 +66,7 @@ module.exports = withBundleAnalyzer({
       'www.ericdequevedo.com',
       'dione-murex.vercel.app',
       'introspective.vercel.app',
+      'podhub-mu.vercel.app',
     ],
   },
   async headers() {
