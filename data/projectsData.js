@@ -17,14 +17,14 @@ const projectsData = [
     title: 'Freel',
     description: 'Building a platform for photographers to connect with clients in their area',
     url: 'https://freel-one.vercel.app/',
-    imgSrc: 'https://ericdequevedo.com/ric/freel.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/freel.webp',
   },
   {
     title: 'Games',
     description:
       'A collection of games I have built using React and Typescript and scratch games from high school',
     url: 'https://games-gold-nu.vercel.app/',
-    imgSrc: 'https://ericdequevedo.com/ric/Games.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/Games.webp',
   },
   {
     title: 'Resume',
@@ -37,7 +37,7 @@ const projectsData = [
     description:
       'Customized UI for USA spending database and integrated into Emerging Tech LLC software.',
     url: 'https://crm-reports-94d86.firebaseapp.com/',
-    imgSrc: 'https://ericdequevedo.com/ric/UsaSpending.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/UsaSpending.webp',
   },
   {
     title: 'BMW Services',
