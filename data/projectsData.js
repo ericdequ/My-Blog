@@ -11,7 +11,7 @@ const projectsData = [
     description:
       'A learning platform for students to learn about quantum computing and Other Computer Science topics',
     url: 'https://quantum-learning.vercel.app/',
-    imgSrc: 'https://quantum-learning.vercel.app/logo.webp',
+    imgSrc: 'https://quantumlearn.vercel.app/logo.webp',
   },
   {
     title: 'Freel',
