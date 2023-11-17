@@ -11,45 +11,45 @@ const projectsData = [
     description:
       'A learning platform for students to learn about quantum computing and Other Computer Science topics',
     url: 'https://quantum-learning.vercel.app/',
-    imgSrc: '/static/images/QuantumLearning.webp',
+    imgSrc: 'https://quantumlearn.vercel.app/logo.webp',
   },
   {
     title: 'Freel',
     description: 'Building a platform for photographers to connect with clients in their area',
     url: 'https://freel-one.vercel.app/',
-    imgSrc: '/static/images/freel.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/freel.webp',
   },
   {
     title: 'Games',
     description:
       'A collection of games I have built using React and Typescript and scratch games from high school',
     url: 'https://games-gold-nu.vercel.app/',
-    imgSrc: '/static/images/Games.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/Games.webp',
   },
   {
     title: 'Resume',
     description: 'My resume built using Next.js and Typescript',
     url: 'https://ericdequevedo.com',
-    imgSrc: '/img/Resume.webp',
+    imgSrc: 'https://ericdequevedo.com/logo.webp',
   },
   {
     title: 'USA Spending Integration',
     description:
       'Customized UI for USA spending database and integrated into Emerging Tech LLC software.',
     url: 'https://crm-reports-94d86.firebaseapp.com/',
-    imgSrc: '/static/images/UsaSpending.webp',
+    imgSrc: 'https://www.quantumcybersolutions.com/ric/UsaSpending.webp',
   },
   {
     title: 'BMW Services',
     description: 'Website I built for BMW Masonary company',
     url: 'https://bmw-services.vercel.app/',
-    imgSrc: '/img/BMW.webp',
+    imgSrc: 'https://bmw-services.vercel.app/logoo.webp',
   },
   {
     title: 'Diamond Back Flooring',
     description: 'Website I built for Diamond Back Flooring company',
     url: 'https://diamondback.vercel.app/',
-    imgSrc: '/img/Diamond.webp',
+    imgSrc: 'https://diamondback.vercel.app/logodrop.webp',
   },
   {
     title: 'Lucid Software and Web Design',
@@ -61,13 +61,19 @@ const projectsData = [
     title: 'Dione',
     description: 'A WebApp used to display betting odds from a variety of sportsbooks',
     url: 'https://dione-murex.vercel.app/',
-    imgSrc: 'https://dione-murex.vercel.app/rouleye.webp',
+    imgSrc: 'https://dione-murex.vercel.app/rouleye.png',
   },
   {
     title: 'Introspective',
     description: 'A website I built to get anonymous feedback from friends, family and peers',
     url: 'https://introspective.vercel.app/',
-    imgSrc: 'https://introspective.vercel.app/logo.webp',
+    imgSrc: 'https://introspective.vercel.app/logo.png',
+  },
+  {
+    title: 'Pod Hub',
+    description: 'A next js web app to share podcast and videos and find them based on location',
+    url: 'https://podhub-mu.vercel.app/',
+    imgSrc: 'https://podhub-mu.vercel.app/logo.webp',
   },
 ]
 
