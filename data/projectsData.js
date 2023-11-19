@@ -10,7 +10,7 @@ const projectsData = [
     title: 'Quantum Learning',
     description:
       'A learning platform for students to learn about quantum computing and Other Computer Science topics',
-    url: 'https://quantum-learning.vercel.app/',
+    url: 'https://quantumlearn.vercel.app/',
     imgSrc: 'https://quantumlearn.vercel.app/logo.webp',
   },
   {
@@ -54,7 +54,7 @@ const projectsData = [
   {
     title: 'Lucid Software and Web Design',
     description: 'I build custom websites for small businesses and individuals',
-    url: 'https://www.lswd.vercel.app/',
+    url: 'https://lswd.vercel.app/',
     imgSrc: 'https://quantumcybersolutions.com/lswd-logoo.webp',
   },
   {
