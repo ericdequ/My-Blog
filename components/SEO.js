@@ -33,8 +33,8 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
 }
 
 export const PageSEO = ({ title, description }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
-  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
+  const ogImageUrl = 'https://rics-blog.vercel.app/logoo.webp'
+  const twImageUrl = 'https://rics-blog.vercel.app/logoo.webp'
   return (
     <CommonSEO
       title={title}
