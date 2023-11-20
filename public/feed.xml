@@ -551,26 +551,6 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Wim</guid>
-    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Wim</link>
-    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>WimHof</category><category>Breathing</category><category>Cold</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
-    <title>Understanding RAID Levels 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</link>
-    <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>RAID</category><category>Storage</category><category>Technology</category>
-  </item>
-
-  <item>
     <guid>https://rics-blog.vercel.app/blog/hacking/CardScanner</guid>
     <title>Be Safe and Secure with Credit Card Scanners 🔒</title>
     <link>https://rics-blog.vercel.app/blog/hacking/CardScanner</link>
@@ -601,6 +581,26 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Wim</guid>
+    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Wim</link>
+    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>WimHof</category><category>Breathing</category><category>Cold</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
+    <title>Understanding RAID Levels 💻</title>
+    <link>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</link>
+    <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RAID</category><category>Storage</category><category>Technology</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</guid>
     <title>How to Read People and Understand Body Language</title>
     <link>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</link>
@@ -618,6 +618,16 @@
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Psychology</category><category>Communication</category><category>BodyLanguage</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/hacking/Kali</guid>
+    <title>Getting Started with Kali Linux A Beginners Guide 🔒</title>
+    <link>https://rics-blog.vercel.app/blog/hacking/Kali</link>
+    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
   </item>
 
   <item>
@@ -648,16 +658,6 @@
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>RaspberryPi</category><category>DIY</category><category>Projects</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/hacking/Kali</guid>
-    <title>Getting Started with Kali Linux A Beginners Guide 🔒</title>
-    <link>https://rics-blog.vercel.app/blog/hacking/Kali</link>
-    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
-    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
   </item>
 
   <item>
@@ -941,6 +941,16 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/cyber/CSFC</guid>
+    <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
+    <link>https://rics-blog.vercel.app/blog/cyber/CSFC</link>
+    <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CSfC</category><category>Security</category><category>Classified Data</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Government/GettingStarted</guid>
     <title>How to Start a Government Contracting Small Business</title>
     <link>https://rics-blog.vercel.app/blog/Government/GettingStarted</link>
@@ -958,16 +968,6 @@
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Government</category><category>Contracting</category><category>ProposalWriting</category><category>BusinessGrowth</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/CSFC</guid>
-    <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/CSFC</link>
-    <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
-    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>CSfC</category><category>Security</category><category>Classified Data</category>
   </item>
 
   <item>

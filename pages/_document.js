@@ -8,6 +8,8 @@ class MyDocument extends Document {
           <link rel="icon" sizes="76x76" href="/static/favicons/apple-touch-icon.webp" />
           <link rel="apple-touch-icon" href="/static/favicons/favicon-32x32.webp" />
           <link rel="icon" href="/favicon.ico" />
+          <link rel="preconnect" href="https://www.quantumcybersolutions.com/" />
+          <link rel="dns-prefetch" href="https://www.quantumcybersolutions.com/" />
           <link
             rel="icon"
             type="image/png"
