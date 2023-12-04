@@ -61,10 +61,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/Cloud/Cloud</loc>
   </url>
 
@@ -74,6 +70,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</loc>
   </url>
 
   <url>
@@ -213,18 +213,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Matlab/Matlab</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/Math/Calc1</loc>
   </url>
 
@@ -245,6 +233,22 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Matlab/Matlab</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Next/PWA</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Personal/Consciousness</loc>
   </url>
 
@@ -261,14 +265,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Next/PWA</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/PodHub/PodHub</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/Physics/ACvsDC</loc>
   </url>
 
@@ -282,6 +278,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/PodHub/PodHub</loc>
   </url>
 
   <url>
@@ -497,10 +497,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/adversarial-testing</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/adblocker</loc>
   </url>
 
@@ -510,6 +506,10 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/alchemy</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/adversarial-testing</loc>
   </url>
 
   <url>
@@ -537,6 +537,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/art</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/ast</loc>
   </url>
 
@@ -545,7 +549,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/art</loc>
+    <loc>https://rics-blog.vercel.app/tags/authentication</loc>
   </url>
 
   <url>
@@ -566,10 +570,6 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/bard</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/authentication</loc>
   </url>
 
   <url>
@@ -597,15 +597,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/breach-simulation</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/breathing</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/business</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/breach-simulation</loc>
   </url>
 
   <url>
@@ -1153,11 +1153,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/pentesting</loc>
+    <loc>https://rics-blog.vercel.app/tags/personal</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/personal</loc>
+    <loc>https://rics-blog.vercel.app/tags/pentesting</loc>
   </url>
 
   <url>

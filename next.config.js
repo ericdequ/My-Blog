@@ -11,41 +11,32 @@ const ContentSecurityPolicy = `
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src giscus.app
+  frame-src giscus.app quantumcybersolutions.com; // Added quantumcybersolutions.com here
 `
 
 const securityHeaders = [
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP
   {
     key: 'Content-Security-Policy',
-    value: ContentSecurityPolicy.replace(/\n/g, ''),
+    value:
+      "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app; style-src 'self' 'unsafe-inline'; img-src * blob: data:; media-src 'none'; connect-src *; font-src 'self'; frame-src *;", // Added frame-src *
   },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy
   {
     key: 'Referrer-Policy',
     value: 'strict-origin-when-cross-origin',
   },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
-  {
-    key: 'X-Frame-Options',
-    value: 'DENY',
-  },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Content-Type-Options
+  // Removed the X-Frame-Options header to allow all websites to embed content
   {
     key: 'X-Content-Type-Options',
     value: 'nosniff',
   },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-DNS-Prefetch-Control
   {
     key: 'X-DNS-Prefetch-Control',
     value: 'on',
   },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
   {
     key: 'Strict-Transport-Security',
     value: 'max-age=31536000; includeSubDomains',
   },
-  // https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Feature-Policy
   {
     key: 'Permissions-Policy',
     value: 'camera=(), microphone=(), geolocation=()',
