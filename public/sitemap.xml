@@ -77,14 +77,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/CSFC</loc>
   </url>
 
@@ -110,6 +102,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/ZTA</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
   </url>
 
   <url>
@@ -493,11 +493,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/access-management</loc>
+    <loc>https://rics-blog.vercel.app/tags/adblocker</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/adblocker</loc>
+    <loc>https://rics-blog.vercel.app/tags/access-management</loc>
   </url>
 
   <url>
@@ -625,11 +625,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/card-games</loc>
+    <loc>https://rics-blog.vercel.app/tags/capabilities</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/capabilities</loc>
+    <loc>https://rics-blog.vercel.app/tags/card-games</loc>
   </url>
 
   <url>
@@ -693,15 +693,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/company-formation</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/companies</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/consciousness</loc>
+    <loc>https://rics-blog.vercel.app/tags/company-formation</loc>
   </url>
 
   <url>
@@ -709,15 +705,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/consciousness</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/consul</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/creditcard</loc>
+    <loc>https://rics-blog.vercel.app/tags/contracting</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/contracting</loc>
+    <loc>https://rics-blog.vercel.app/tags/creditcard</loc>
   </url>
 
   <url>
@@ -993,11 +993,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/kalilinux</loc>
+    <loc>https://rics-blog.vercel.app/tags/kubernetes</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/kubernetes</loc>
+    <loc>https://rics-blog.vercel.app/tags/kalilinux</loc>
   </url>
 
   <url>
