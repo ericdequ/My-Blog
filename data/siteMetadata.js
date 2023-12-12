@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Learn From me Morty!',
+  title: 'Rics Blog',
   author: 'Eric deQuevedo',
   headerTitle: 'Ric doing Ric things',
   description: 'A blog by Ric for Mortys ',

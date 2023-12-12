@@ -1,7 +1,7 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Learn From me Morty!</title>
+      <title>Rics Blog</title>
       <link>https://rics-blog.vercel.app/blog</link>
       <description>A blog by Ric for Mortys </description>
       <language>en-us</language>
