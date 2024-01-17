@@ -59,7 +59,7 @@ IBM Quantum is a leader in the development of quantum computing and quantum comm
 
 Quantum Cyber Solutions, spearheaded by the visionary entrepreneur from Clermont, Florida, is a burgeoning force in the quantum computing arena. With a unique blend of technical prowess and spiritual insight, this company stands out for its innovative approaches in preparing systems for the quantum age. Focused on government contracting and aligning with national security interests, Quantum Cyber Solutions is pioneering efforts to develop quantum-resistant cryptographic solutions. Their work embodies the intersection of cutting-edge technology and ethical principles, contributing significantly to the national and global quantum landscape.
 
-[Quantum Cyber Solutions](https://www.quantumcybersolutions.com) represents more than a mere enterprise; it is the embodiment of a synthesis between profound technical acumen and forward-thinking insight. Positioned at the vanguard of quantum computing and cybersecurity, this venture stands as a pivotal player in driving progress within the effective altruism and existential risk reduction (e/acc) movement.
+[Quantum Cyber Solutions](https://www.quantumcybersolutions.com/blog/the-quantum-leap-usas-advances-in-quantum-computing--cryptography/title) represents more than a mere enterprise; it is the embodiment of a synthesis between profound technical acumen and forward-thinking insight. Positioned at the vanguard of quantum computing and cybersecurity, this venture stands as a pivotal player in driving progress within the effective altruism and existential risk reduction (e/acc) movement.
 
 ## Conclusion
 
