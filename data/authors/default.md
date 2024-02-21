@@ -2,7 +2,7 @@
 name: Eric deQuevedo 😄
 avatar: https://www.ericdequevedo.com/profilepic.webp
 occupation: Solutions Architect 💻
-company: Emerging Tech 🚀
+company: Quantum Cyber Solutions 🚀
 email: ericdequevedo@gmail.com 📧
 linkedin: https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/ 🔗
 github: https://github.com/ericdequ 🐱‍💻
