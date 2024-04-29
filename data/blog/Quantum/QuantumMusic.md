@@ -1,10 +1,16 @@
 ---
-title: 'Harmonizing Soundscapes: Quantum Computing's Role in Music Innovation and Listening Experience 🎶🚀'
+title: 'Harmonizing Soundscapes: Quantum Computings Role in Music Innovation and Listening Experience 🎶🚀'
 date: '2024-04-29'
 tags:
-  ['Quantum Computing', 'Music Production', 'Audio Processing', 'Neuroscience', 'Creative Potential']
+  [
+    'Quantum Computing',
+    'Music Production',
+    'Audio Processing',
+    'Neuroscience',
+    'Creative Potential',
+  ]
 draft: false
-summary: Exploring quantum computing's influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.
+summary: 'Exploring quantum computings influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.'
 ---
 
 # Harmonizing Soundscapes: Quantum Computing's Role in Music Innovation and Listening Experience 🎶🚀
