@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 14 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 24 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/tags/ai/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
+    <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
+    <link>https://rics-blog.vercel.app/blog/Health/PlantApp</link>
+    <description>In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.</description>
+    <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Nature</category><category>Holistic Medicine</category><category>Mobile App</category><category>AI</category><category>Plant Identification</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/AI/AISASS</guid>
     <title>Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧</title>
@@ -28,16 +38,6 @@
     <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>AI</category><category>Software Development</category><category>LangChain</category><category>Integration</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
-    <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
-    <link>https://rics-blog.vercel.app/blog/Health/PlantApp</link>
-    <description>In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Nature</category><category>Holistic Medicine</category><category>Mobile App</category><category>AI</category><category>Plant Identification</category>
   </item>
 
   <item>

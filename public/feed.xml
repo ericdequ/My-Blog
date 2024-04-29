@@ -31,6 +31,26 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
+    <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
+    <link>https://rics-blog.vercel.app/blog/Health/PlantApp</link>
+    <description>In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.</description>
+    <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Nature</category><category>Holistic Medicine</category><category>Mobile App</category><category>AI</category><category>Plant Identification</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</guid>
+    <title>Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</link>
+    <description>Quantum computing is transforming various industries, from cybersecurity and life sciences to logistics, finance, and communications. Discover how this cutting-edge technology is being used today and explore the exciting possibilities it holds for the near future.</description>
+    <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Cybersecurity</category><category>Life Sciences</category><category>Logistics</category><category>Finance</category><category>Communications</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Web_Dev/GoogleAppPatt</guid>
     <title>Efficient Deployment with Serverless Google Cloud</title>
     <link>https://rics-blog.vercel.app/blog/Web_Dev/GoogleAppPatt</link>
@@ -618,16 +638,6 @@
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>XSS</category><category>Attacks</category><category>Cybersecurity</category>
-  </item>
-
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
-    <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
-    <link>https://rics-blog.vercel.app/blog/Health/PlantApp</link>
-    <description>In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Nature</category><category>Holistic Medicine</category><category>Mobile App</category><category>AI</category><category>Plant Identification</category>
   </item>
 
   <item>

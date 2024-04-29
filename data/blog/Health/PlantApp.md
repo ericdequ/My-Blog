@@ -1,6 +1,6 @@
 ---
 title: 'Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺'
-date: '2023-04-24'
+date: '2024-04-24'
 tags: ['Nature', 'Holistic Medicine', 'Mobile App', 'AI', 'Plant Identification']
 draft: false
 summary: In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.

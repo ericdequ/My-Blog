@@ -7,19 +7,9 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 26 Apr 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://rics-blog.vercel.app/tags/quantum-computing/feed.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 29 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://rics-blog.vercel.app/tags/life-sciences/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/MQC</guid>
-    <title>Mycelium-Based Quantum and Thermodynamic Computing: A Revolutionary Approach to Sustainable Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/MQC</link>
-    <description>Discover how mycelium networks, found in mushrooms, are being harnessed to create sustainable and eco-friendly quantum and thermodynamic computing systems. This groundbreaking approach offers enhanced stability, fault-tolerance, and environmental sustainability, potentially revolutionizing fields such as drug discovery, material science, optimization, and cryptography.</description>
-    <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Thermodynamic Computing</category><category>Mycelium</category><category>Bio-Quantum Computing</category><category>Sustainable Computing</category>
-  </item>
-
   <item>
     <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</guid>
     <title>Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻</title>
