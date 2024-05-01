@@ -53,6 +53,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Books/Alchemist</loc>
   </url>
 
@@ -73,18 +77,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/CSFC</loc>
   </url>
 
@@ -101,6 +93,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/cyber/RenewableSecureEnergy</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/RMF</loc>
   </url>
 
@@ -110,6 +106,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/cyber/ZTA</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/Mongo</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</loc>
   </url>
 
   <url>
@@ -177,6 +181,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Idols/Tesla</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Idols/Wim</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Health/Kundalini</loc>
   </url>
 
@@ -193,27 +205,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Idols/Tesla</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Idols/Wim</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/blog/IOT/Relationship</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Java/AbstractSyntaxTree</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Markdown/code-sample</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Markdown/mermaid</loc>
   </url>
 
   <url>
@@ -237,7 +233,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Matlab/Matlab</loc>
+    <loc>https://rics-blog.vercel.app/blog/Markdown/code-sample</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Markdown/mermaid</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Next/PWA</loc>
   </url>
 
   <url>
@@ -249,7 +253,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Next/PWA</loc>
+    <loc>https://rics-blog.vercel.app/blog/Matlab/Matlab</loc>
   </url>
 
   <url>
@@ -305,6 +309,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Python/PythonSetup</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Quantum/AIErrorCorrection</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Quantum/MQC</loc>
   </url>
 
@@ -357,6 +369,14 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/blog/Quantum/QuantumMeds</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Quantum/QuantumMusic</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/blog/Quantum/QuantumNetworking</loc>
   </url>
 
@@ -405,7 +425,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/blog/Python/PythonSetup</loc>
+    <loc>https://rics-blog.vercel.app/blog/Remote_connections/putty</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/blog/Remote_connections/ssh</loc>
   </url>
 
   <url>
@@ -414,14 +438,6 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Remote_connections/putty</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/blog/Remote_connections/ssh</loc>
   </url>
 
   <url>
@@ -509,6 +525,10 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/access-management</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/5-card-poker</loc>
   </url>
 
@@ -517,7 +537,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/access-management</loc>
+    <loc>https://rics-blog.vercel.app/tags/adblocker</loc>
   </url>
 
   <url>
@@ -525,15 +545,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/adblocker</loc>
+    <loc>https://rics-blog.vercel.app/tags/alchemy</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/ai</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/alchemy</loc>
   </url>
 
   <url>
@@ -545,11 +561,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/anxiety</loc>
+    <loc>https://rics-blog.vercel.app/tags/api</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/api</loc>
+    <loc>https://rics-blog.vercel.app/tags/anxiety</loc>
   </url>
 
   <url>
@@ -569,7 +585,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/artificial-intelligence</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/attacks</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/audio-processing</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/automation</loc>
   </url>
 
   <url>
@@ -585,10 +613,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/automation</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/backend</loc>
   </url>
 
@@ -597,11 +621,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/bio-quantum-computing</loc>
+    <loc>https://rics-blog.vercel.app/tags/bing</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/bing</loc>
+    <loc>https://rics-blog.vercel.app/tags/bio-quantum-computing</loc>
   </url>
 
   <url>
@@ -613,7 +637,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/boundary</loc>
+    <loc>https://rics-blog.vercel.app/tags/book-review</loc>
   </url>
 
   <url>
@@ -621,7 +645,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/book-review</loc>
+    <loc>https://rics-blog.vercel.app/tags/boundary</loc>
   </url>
 
   <url>
@@ -629,11 +653,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/business</loc>
+    <loc>https://rics-blog.vercel.app/tags/breathing</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/breathing</loc>
+    <loc>https://rics-blog.vercel.app/tags/business</loc>
   </url>
 
   <url>
@@ -645,15 +669,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/card-games</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/calculus</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/capabilities</loc>
   </url>
 
   <url>
@@ -661,7 +677,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/casino</loc>
+    <loc>https://rics-blog.vercel.app/tags/capabilities</loc>
   </url>
 
   <url>
@@ -669,7 +685,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/chakra-ui</loc>
+    <loc>https://rics-blog.vercel.app/tags/card-games</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/casino</loc>
   </url>
 
   <url>
@@ -677,15 +697,23 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/checklist</loc>
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/chakra-ui</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/classified-data</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/cloud</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/cloudmigration</loc>
   </url>
 
   <url>
@@ -697,14 +725,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/cloudmigration</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/collaboration</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/codegeneration</loc>
   </url>
 
@@ -713,11 +733,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/college</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/communication</loc>
+    <loc>https://rics-blog.vercel.app/tags/collaboration</loc>
   </url>
 
   <url>
@@ -725,15 +741,23 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/communication</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/college</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/companies</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/company-formation</loc>
+    <loc>https://rics-blog.vercel.app/tags/consciousness</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/consciousness</loc>
+    <loc>https://rics-blog.vercel.app/tags/company-formation</loc>
   </url>
 
   <url>
@@ -753,7 +777,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/creative-potential</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/cryptography</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/critical-infrastructure</loc>
   </url>
 
   <url>
@@ -765,11 +797,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/cyber-world</loc>
+    <loc>https://rics-blog.vercel.app/tags/cybersecurity</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/cybersecurity</loc>
+    <loc>https://rics-blog.vercel.app/tags/cyber-world</loc>
   </url>
 
   <url>
@@ -793,19 +825,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/design</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/debugging</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/development</loc>
+    <loc>https://rics-blog.vercel.app/tags/design</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/digital-transformation</loc>
+    <loc>https://rics-blog.vercel.app/tags/development</loc>
   </url>
 
   <url>
@@ -817,7 +845,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/digital-transformation</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/diy</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/dns</loc>
   </url>
 
   <url>
@@ -825,7 +861,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/dns</loc>
+    <loc>https://rics-blog.vercel.app/tags/drug-discovery</loc>
   </url>
 
   <url>
@@ -849,11 +885,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/enterprise-linux</loc>
+    <loc>https://rics-blog.vercel.app/tags/enterprise-solutions</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/enterprise-solutions</loc>
+    <loc>https://rics-blog.vercel.app/tags/enterprise-linux</loc>
   </url>
 
   <url>
@@ -861,7 +897,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/esoteric</loc>
+    <loc>https://rics-blog.vercel.app/tags/error-correction</loc>
   </url>
 
   <url>
@@ -869,11 +905,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/firebase</loc>
+    <loc>https://rics-blog.vercel.app/tags/esoteric</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/finance</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/firebase</loc>
   </url>
 
   <url>
@@ -885,11 +925,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/frontend</loc>
+    <loc>https://rics-blog.vercel.app/tags/front-end</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/front-end</loc>
+    <loc>https://rics-blog.vercel.app/tags/frontend</loc>
   </url>
 
   <url>
@@ -897,11 +937,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/future</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/gambling</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/future</loc>
+    <loc>https://rics-blog.vercel.app/tags/gate-fidelity</loc>
   </url>
 
   <url>
@@ -909,19 +953,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/github</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/google</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/go</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/google-cloud</loc>
+    <loc>https://rics-blog.vercel.app/tags/github</loc>
   </url>
 
   <url>
@@ -929,7 +965,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/government</loc>
+    <loc>https://rics-blog.vercel.app/tags/google-cloud</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/google</loc>
   </url>
 
   <url>
@@ -937,11 +977,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/government-contracts</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/government</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/government-initiatives</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/government-contracts</loc>
+    <loc>https://rics-blog.vercel.app/tags/government-procurement</loc>
   </url>
 
   <url>
@@ -953,10 +1001,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/government-procurement</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/governmentcontracting</loc>
   </url>
 
@@ -965,11 +1009,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/health</loc>
+    <loc>https://rics-blog.vercel.app/tags/holistic-medicine</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/holistic-medicine</loc>
+    <loc>https://rics-blog.vercel.app/tags/health</loc>
   </url>
 
   <url>
@@ -985,19 +1029,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/idols</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/identity-management</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/infrastructure</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/infrastructure-automation</loc>
+    <loc>https://rics-blog.vercel.app/tags/idols</loc>
   </url>
 
   <url>
@@ -1005,11 +1041,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/infrastructure-automation</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/infrastructure-as-code</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/inspiration</loc>
+    <loc>https://rics-blog.vercel.app/tags/infrastructure</loc>
   </url>
 
   <url>
@@ -1021,15 +1061,11 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/inspiration</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/iot</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/javascript</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/kalilinux</loc>
   </url>
 
   <url>
@@ -1037,15 +1073,23 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/kalilinux</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/javascript</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/kubernetes</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/langchain</loc>
+    <loc>https://rics-blog.vercel.app/tags/kundalini</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/kundalini</loc>
+    <loc>https://rics-blog.vercel.app/tags/langchain</loc>
   </url>
 
   <url>
@@ -1057,15 +1101,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/linearalgebra</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/life-sciences</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/machinelearning</loc>
+    <loc>https://rics-blog.vercel.app/tags/linearalgebra</loc>
   </url>
 
   <url>
@@ -1077,7 +1117,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/markdown</loc>
+    <loc>https://rics-blog.vercel.app/tags/machinelearning</loc>
   </url>
 
   <url>
@@ -1085,7 +1125,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/math</loc>
+    <loc>https://rics-blog.vercel.app/tags/markdown</loc>
   </url>
 
   <url>
@@ -1093,15 +1133,23 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/matlab</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/mathematics</loc>
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/math</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/mediation</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/matlab</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/mental-health</loc>
   </url>
 
   <url>
@@ -1145,7 +1193,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/nature</loc>
+    <loc>https://rics-blog.vercel.app/tags/music-production</loc>
   </url>
 
   <url>
@@ -1157,15 +1205,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/nature</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/networking</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/next</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
+    <loc>https://rics-blog.vercel.app/tags/neuroscience</loc>
   </url>
 
   <url>
@@ -1173,11 +1221,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/node</loc>
+    <loc>https://rics-blog.vercel.app/tags/nextjs</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/nomad</loc>
+    <loc>https://rics-blog.vercel.app/tags/next</loc>
   </url>
 
   <url>
@@ -1185,11 +1233,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/nomad</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/open-source</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/orchestration</loc>
+    <loc>https://rics-blog.vercel.app/tags/node</loc>
   </url>
 
   <url>
@@ -1197,11 +1249,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/overview</loc>
+    <loc>https://rics-blog.vercel.app/tags/orchestration</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/penetrationtesting</loc>
+    <loc>https://rics-blog.vercel.app/tags/parsing</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/overview</loc>
   </url>
 
   <url>
@@ -1209,7 +1265,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/parsing</loc>
+    <loc>https://rics-blog.vercel.app/tags/penetrationtesting</loc>
   </url>
 
   <url>
@@ -1221,7 +1277,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/pihole</loc>
+    <loc>https://rics-blog.vercel.app/tags/pharmacology</loc>
   </url>
 
   <url>
@@ -1229,11 +1285,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/plant-identification</loc>
+    <loc>https://rics-blog.vercel.app/tags/pihole</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/platforms</loc>
+    <loc>https://rics-blog.vercel.app/tags/plant-identification</loc>
   </url>
 
   <url>
@@ -1241,11 +1297,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/pnpm</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/podcast</loc>
+    <loc>https://rics-blog.vercel.app/tags/platforms</loc>
   </url>
 
   <url>
@@ -1253,7 +1305,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/pnpm</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/potential</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/podcast</loc>
   </url>
 
   <url>
@@ -1261,15 +1321,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/power-grid-security</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/predictions</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/private-sector</loc>
+    <loc>https://rics-blog.vercel.app/tags/procurement</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/procurement</loc>
+    <loc>https://rics-blog.vercel.app/tags/private-sector</loc>
   </url>
 
   <url>
@@ -1281,10 +1345,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/projects</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/project-management</loc>
   </url>
 
@@ -1293,11 +1353,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/proposalwriting</loc>
+    <loc>https://rics-blog.vercel.app/tags/projects</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/psychic</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/proposalwriting</loc>
   </url>
 
   <url>
@@ -1309,11 +1373,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/pwa</loc>
+    <loc>https://rics-blog.vercel.app/tags/putty</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/putty</loc>
+    <loc>https://rics-blog.vercel.app/tags/pwa</loc>
   </url>
 
   <url>
@@ -1321,7 +1385,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/quantum-realm</loc>
+    <loc>https://rics-blog.vercel.app/tags/quantum</loc>
   </url>
 
   <url>
@@ -1329,11 +1393,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/quantum</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/raid</loc>
+    <loc>https://rics-blog.vercel.app/tags/quantum-realm</loc>
   </url>
 
   <url>
@@ -1341,7 +1401,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/raid</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/raspberrypi</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/randomized-benchmarking</loc>
   </url>
 
   <url>
@@ -1353,19 +1421,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/red-hat-virtualization</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/red-hat</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/redteam</loc>
+    <loc>https://rics-blog.vercel.app/tags/red-hat-virtualization</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/relationship</loc>
+    <loc>https://rics-blog.vercel.app/tags/redteam</loc>
   </url>
 
   <url>
@@ -1378,6 +1442,14 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/remoteaccess</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/relationship</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/renewable-energy</loc>
   </url>
 
   <url>
@@ -1401,7 +1473,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/rmf</loc>
+    <loc>https://rics-blog.vercel.app/tags/rumpusart</loc>
   </url>
 
   <url>
@@ -1409,7 +1481,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/rumpusart</loc>
+    <loc>https://rics-blog.vercel.app/tags/rmf</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/scanners</loc>
   </url>
 
   <url>
@@ -1418,10 +1494,6 @@
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/science</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/scanners</loc>
   </url>
 
   <url>
@@ -1441,15 +1513,15 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/services</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/service-discovery</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/service-mesh</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/services</loc>
   </url>
 
   <url>
@@ -1477,15 +1549,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/spirituality</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/soundcloud</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/spotify</loc>
   </url>
 
   <url>
@@ -1493,11 +1557,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/spirituality</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/spotify</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/ssh</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/startup</loc>
+    <loc>https://rics-blog.vercel.app/tags/storage</loc>
   </url>
 
   <url>
@@ -1505,11 +1577,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/strategy</loc>
+    <loc>https://rics-blog.vercel.app/tags/startup</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/storage</loc>
+    <loc>https://rics-blog.vercel.app/tags/strategy</loc>
   </url>
 
   <url>
@@ -1521,11 +1593,19 @@
   </url>
 
   <url>
+    <loc>https://rics-blog.vercel.app/tags/sustainable-computing</loc>
+  </url>
+
+  <url>
     <loc>https://rics-blog.vercel.app/tags/tailwindcss</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/sustainable-computing</loc>
+    <loc>https://rics-blog.vercel.app/tags/technology</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/technologies</loc>
   </url>
 
   <url>
@@ -1541,18 +1621,6 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/technologies</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/technology</loc>
-  </url>
-
-  <url>
-    <loc>https://rics-blog.vercel.app/tags/tesla</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/thermodynamic-computing</loc>
   </url>
 
@@ -1561,7 +1629,7 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/threats</loc>
+    <loc>https://rics-blog.vercel.app/tags/tesla</loc>
   </url>
 
   <url>
@@ -1569,15 +1637,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/tools</loc>
-  </url>
-
-  <url>
     <loc>https://rics-blog.vercel.app/tags/training</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/trust</loc>
+    <loc>https://rics-blog.vercel.app/tags/threats</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/tools</loc>
   </url>
 
   <url>
@@ -1589,11 +1657,15 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/typescript</loc>
+    <loc>https://rics-blog.vercel.app/tags/trust</loc>
   </url>
 
   <url>
     <loc>https://rics-blog.vercel.app/tags/udp</loc>
+  </url>
+
+  <url>
+    <loc>https://rics-blog.vercel.app/tags/typescript</loc>
   </url>
 
   <url>
@@ -1605,11 +1677,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/veronica</loc>
+    <loc>https://rics-blog.vercel.app/tags/vs-code</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/vs-code</loc>
+    <loc>https://rics-blog.vercel.app/tags/veronica</loc>
   </url>
 
   <url>
@@ -1617,11 +1689,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/webdev</loc>
+    <loc>https://rics-blog.vercel.app/tags/web-development</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/web-development</loc>
+    <loc>https://rics-blog.vercel.app/tags/webdev</loc>
   </url>
 
   <url>
@@ -1633,11 +1705,11 @@
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/writing</loc>
+    <loc>https://rics-blog.vercel.app/tags/workloads</loc>
   </url>
 
   <url>
-    <loc>https://rics-blog.vercel.app/tags/workloads</loc>
+    <loc>https://rics-blog.vercel.app/tags/writing</loc>
   </url>
 
   <url>
