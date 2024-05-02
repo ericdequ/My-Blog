@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 24 Apr 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/tags/ai/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/ACQCompute</guid>
+    <title>The Quantum Revolution: Harnessing Natures Alternating Currents for Sustainable Computing</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/ACQCompute</link>
+    <description>This post explores how the inherent quantum mechanical nature of the world can be leveraged to create more energy-efficient computing systems. By comparing classical and quantum computers to DC and AC currents, we highlight the potential for quantum computers to drastically reduce the energy consumption of AI models and data centers.</description>
+    <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Energy Efficiency</category><category>Sustainable Technology</category><category>AI</category><category>Data Centers</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
     <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
