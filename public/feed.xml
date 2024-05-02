@@ -91,6 +91,106 @@
   </item>
 
   <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/DWave</guid>
+    <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/DWave</link>
+    <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>D-Wave Systems</category><category>Quantum Annealing</category><category>Optimization</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/Google</guid>
+    <title>Google: Advancing Quantum Computing with Superconducting Qubits and Quantum AI</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/Google</link>
+    <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Google</category><category>Superconducting Qubits</category><category>Quantum AI</category><category>Quantum Supremacy</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/HoneyWell</guid>
+    <title>Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/HoneyWell</link>
+    <description>Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Honeywell Quantum Solutions</category><category>Ion Trap Qubits</category><category>Quantum Charge Coupled Device (QCCD)</category><category>Quantum-Classical Optimization</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/IBM</guid>
+    <title>IBM: Pioneering Quantum Computing with Superconducting Qubits</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/IBM</link>
+    <description>Explore IBM&#39;s groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>IBM</category><category>Superconducting Qubits</category><category>Qiskit</category><category>Cloud-based Quantum Computing</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/IonQ</guid>
+    <title>IonQ: Pioneering Trapped Ion Quantum Computing</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/IonQ</link>
+    <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/Microsoft</guid>
+    <title>Microsoft: Developing Topological Qubits and Quantum Development Kit</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/Microsoft</link>
+    <description>Explore Microsoft&#39;s unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Microsoft</category><category>Topological Qubits</category><category>Quantum Development Kit</category><category>Q#</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/Nvida</guid>
+    <title>NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/Nvida</link>
+    <description>Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>NVIDIA</category><category>GPU Technology</category><category>Quantum Circuit Simulation</category><category>cuQuantum</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/QCI</guid>
+    <title>Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/QCI</link>
+    <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Quantum Circuits Inc. (QCI)</category><category>Superconducting Qubits</category><category>Quantum Processors</category><category>Quantum Cloud Services</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/QCTRL</guid>
+    <title>Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/QCTRL</link>
+    <description>Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Q-CTRL</category><category>Quantum Control</category><category>Quantum Firmware</category><category>Quantum Error Correction</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/Rigetti</guid>
+    <title>Rigetti Computing: Building Superconducting Quantum Computers</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/Rigetti</link>
+    <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Rigetti Computing</category><category>Superconducting Qubits</category><category>Hybrid Quantum-Classical Algorithms</category><category>Quantum Cloud Services</category>
+  </item>
+
+  <item>
     <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</guid>
     <title>Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻</title>
     <link>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</link>
@@ -648,6 +748,136 @@
     <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>REDTEAM</category><category>Cybersecurity</category><category>Adversarial Testing</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumThoth</guid>
+    <title>The Emerald Tablet of Thoth: Ancient Wisdom Meets Quantum Science 💎</title>
+    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumThoth</link>
+    <description>Unveiling the profound insights of the Emerald Tablet of Thoth and its remarkable connections to modern quantum physics.</description>
+    <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Thoth</category><category>Quantum Physics</category><category>Emerald Tablet</category><category>Hermeticism</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Leonardo_DaVinci</guid>
+    <title>Leonardo da Vinci</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Leonardo_DaVinci</link>
+    <description>Leonardo da Vinci was an Italian polymath whose interests spanned various fields including art, science, engineering, anatomy, and more. Known for masterpieces like Mona Lisa and The Last Supper, da Vinci also made significant contributions to various scientific and technological fields through his detailed journals and sketches.</description>
+    <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>renaissance</category><category>da Vinci</category><category>genius</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/Angels&Demons</guid>
+    <title>Angels &amp; Demons by Dan Brown: A Thrilling Journey into the Depths of History, Science, and Faith</title>
+    <link>https://rics-blog.vercel.app/blog/Books/Angels&Demons</link>
+    <description>Embark on a heart-pounding adventure through the pages of Dan Brown&#39;s &quot;Angels &amp; Demons,&quot; a masterful blend of history, science, and faith. Follow symbologist Robert Langdon as he races against time to unravel a deadly plot that threatens to shake the very foundations of the Catholic Church and the world of science.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Dan Brown</category><category>Angels & Demons</category><category>Thriller</category><category>Symbology</category><category>Science</category><category>Faith</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/BecomingSupernatural</guid>
+    <title>Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza&#39;s &#39;Becoming Supernatural&#39;</title>
+    <link>https://rics-blog.vercel.app/blog/Books/BecomingSupernatural</link>
+    <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Personal Development</category><category>Spirituality</category><category>Meditation</category><category>Quantum Physics</category><category>Dr. Joe Dispenza</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/BeHereNow</guid>
+    <title>Be Here Now by Ram Dass: A Spiritual Journey from Psychedelics to Self-Discovery</title>
+    <link>https://rics-blog.vercel.app/blog/Books/BeHereNow</link>
+    <description>Explore the transformative journey of Ram Dass from Harvard psychologist to spiritual guru, as chronicled in his influential book &quot;Be Here Now.&quot; Discover how his experiences with psychedelics and his guru, Neem Karoli Baba, helped shape a generation of seekers, including tech visionaries like Steve Jobs and Mark Zuckerberg.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Ram Dass</category><category>Be Here Now</category><category>Spirituality</category><category>Psychedelics</category><category>Neem Karoli Baba</category><category>Steve Jobs</category><category>Mark Zuckerberg</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/DonJaun</guid>
+    <title>The Teachings of Don Juan: A Yaqui Way of Knowledge - A Journey into the World of Shamanism</title>
+    <link>https://rics-blog.vercel.app/blog/Books/DonJaun</link>
+    <description>Dive deep into the world of Yaqui shamanism as revealed by Don Juan Matus to Carlos Castaneda. Explore the significance of powerful plant allies and the transformative rituals that can lead to personal growth and spiritual awakening.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Carlos Castaneda</category><category>Don Juan Matus</category><category>Shamanism</category><category>Yaqui</category><category>Spiritual Practices</category><category>Plant Allies</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/Fear&Loathing</guid>
+    <title>Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream</title>
+    <link>https://rics-blog.vercel.app/blog/Books/Fear&Loathing</link>
+    <description>Dive into the wild and chaotic world of Hunter S. Thompson&#39;s &#39;Fear and Loathing in Las Vegas,&#39; a seminal work of Gonzo journalism that takes readers on a surreal and drug-fueled journey through the heart of the American Dream. Discover the book&#39;s enduring legacy and its scathing critique of American culture and society.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Hunter S. Thompson</category><category>Fear and Loathing in Las Vegas</category><category>Gonzo Journalism</category><category>Counterculture</category><category>American Dream</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/GreenLights</guid>
+    <title>Greenlights by Matthew McConaughey: A Memoir of Life Lessons and Personal Growth</title>
+    <link>https://rics-blog.vercel.app/blog/Books/GreenLights</link>
+    <description>Discover the profound life lessons and personal growth experiences shared by Matthew McConaughey in his captivating memoir, &quot;Greenlights.&quot; This intimate and introspective book offers valuable insights on navigating the joys and challenges of life.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Matthew McConaughey</category><category>Greenlights</category><category>Memoir</category><category>Life Lessons</category><category>Personal Growth</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/LastLecture</guid>
+    <title>The Last Lecture: A Powerful Message of Living Life to the Fullest</title>
+    <link>https://rics-blog.vercel.app/blog/Books/LastLecture</link>
+    <description>Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, &#39;The Last Lecture.&#39; Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Randy Pausch</category><category>The Last Lecture</category><category>Life Lessons</category><category>Inspiration</category><category>Personal Development</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</guid>
+    <title>Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku</title>
+    <link>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</link>
+    <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Michio Kaku</category><category>Physics</category><category>Technology</category><category>Future</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/TheCreativeAct</guid>
+    <title>Unlocking Your Creative Potential: Insights from Rick Rubin&#39;s &#39;The Creative Act&#39;</title>
+    <link>https://rics-blog.vercel.app/blog/Books/TheCreativeAct</link>
+    <description>Discover the key insights and lessons from Rick Rubin&#39;s &quot;The Creative Act,&quot; a thought-provoking exploration of the creative process and how to cultivate it in your daily life. From embracing uncertainty to fostering collaboration, learn how to unlock your creative potential and lead a more fulfilling life.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Creativity</category><category>Rick Rubin</category><category>The Creative Act</category><category>Self-help</category><category>Personal Development</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/ThePilgramige</guid>
+    <title>The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening</title>
+    <link>https://rics-blog.vercel.app/blog/Books/ThePilgramige</link>
+    <description>Embark on a life-changing journey with Paulo Coelho&#39;s &quot;The Pilgrimage,&quot; a profound novel that explores the transformative power of self-discovery and spiritual awakening along the ancient Camino de Santiago pilgrimage route. Learn about the history of the Camino and the powerful RAM practices that guide Paulo on his path to self-realization.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Paulo Coelho</category><category>The Pilgrimage</category><category>Spirituality</category><category>Self-Discovery</category><category>Personal Growth</category><category>Camino de Santiago</category><category>RAM Practices</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/TheValkyries</guid>
+    <title>The Valkyries by Paulo Coelho: A Journey of Love, Courage, and Self-Discovery</title>
+    <link>https://rics-blog.vercel.app/blog/Books/TheValkyries</link>
+    <description>Embark on a transformative journey of love, courage, and self-discovery with Paulo Coelho&#39;s enchanting novel, &#39;The Valkyries.&#39; Explore the profound spiritual insights and life lessons woven throughout this captivating story, as Coelho invites readers to confront their fears, embrace their inner strength, and unlock the power of love.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Paulo Coelho</category><category>The Valkyries</category><category>Spirituality</category><category>Self-Discovery</category><category>Love</category>
   </item>
 
   <item>

@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 24 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://rics-blog.vercel.app/tags/technology/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</guid>
+    <title>Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku</title>
+    <link>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</link>
+    <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Michio Kaku</category><category>Physics</category><category>Technology</category><category>Future</category>
+  </item>
+
   <item>
     <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
     <title>Understanding RAID Levels 💻</title>
