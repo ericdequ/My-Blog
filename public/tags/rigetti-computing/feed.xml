@@ -11,9 +11,9 @@
       <atom:link href="https://rics-blog.vercel.app/tags/rigetti-computing/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/Companies/Rigetti</guid>
+    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/Rigetti</guid>
     <title>Rigetti Computing: Building Superconducting Quantum Computers</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/Companies/Rigetti</link>
+    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/Rigetti</link>
     <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

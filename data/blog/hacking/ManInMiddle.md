@@ -1,8 +1,8 @@
 ---
-Title: 'Protect Your Network from Man-in-the-Middle Attacks 🔒'
+Title: 'Protect Your Network from Man-in-the-Middle Attacks'
 date: '2023-04-24'
 tags: ['Man-in-the-Middle', 'Packet-Capturing', 'Cybersecurity']
-draft: false
+draft: true
 summary: 'Man-in-the-middle (MITM) attacks and packet capturing are serious threats to network security. Learn what they are, how they work, and best practices for protecting your network from these attacks.'
 ---
 

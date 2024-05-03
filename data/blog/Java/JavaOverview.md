@@ -2,7 +2,7 @@
 Title: 'The Enduring Impact of Java: A Language that Revolutionized Programming'
 Date: '2023-04-25'
 Tags: ['Java', 'Programming Languages', 'Software Development']
-Draft: false
+draft: true
 Summary: 'Java, a programming language born in the early days of the internet, has left an indelible mark on the tech industry and society as a whole. This blog post explores Javas widespread adoption, its impact on various sectors, and predictions for its future relevance in an ever-evolving technological landscape.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Vector Databases: Revolutionizing Data Storage and Retrieval'
 date: '2023-05-03'
 tags: ['Vector-Databases', 'Vector-Embeddings', 'Semantic-Search', 'Machine-Learning']
-draft: false
+draft: true
 summary: 'Discover the power of vector databases and how they can revolutionize your data storage and retrieval processes. Learn about vector embeddings, the advantages of using vector databases, and the speed-up effects they offer. Explore popular vector database providers and their features.'
 ---
 
