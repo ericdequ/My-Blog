@@ -1,7 +1,7 @@
 ---
 title: 'Tapping into the Quantum Field Channeling Creative Energy for an Amazing Future'
 date: '2024-01-03'
-tags: ['Quantum Field', 'Creativity', 'Spirituality', 'Magick', 'Nikola Tesla']
+tags: ['Quantum', 'Creativity']
 draft: true
 summary: 'This post explores the mysterious realm of the Quantum Field.'
 ---

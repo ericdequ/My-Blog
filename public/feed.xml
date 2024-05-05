@@ -962,7 +962,7 @@
 
   <item>
     <guid>https://rics-blog.vercel.app/blog/hacking/Kali</guid>
-    <title>Getting Started with Kali Linux A Beginners Guide 🔒</title>
+    <title>Getting Started with Kali Linux: A Beginners Guide 🔒</title>
     <link>https://rics-blog.vercel.app/blog/hacking/Kali</link>
     <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
@@ -1458,6 +1458,16 @@
     <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>physics</category><category>college</category><category>physics</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Gambling/BlackJack</guid>
+    <title>Winning Strategies for Blackjack</title>
+    <link>https://rics-blog.vercel.app/blog/Gambling/BlackJack</link>
+    <description>Learn how to improve your chances of winning at blackjack by playing by the book, understanding specific cases, and using a running count. Discover how these strategies can give you an edge over the casino and make the game more enjoyable.</description>
+    <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Blackjack</category><category>Casino</category><category>Strategy</category>
   </item>
 
   <item>

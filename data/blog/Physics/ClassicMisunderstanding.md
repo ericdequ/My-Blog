@@ -1,5 +1,5 @@
 ---
-title: 'Unraveling the Enigma of Gravity'
+title: 'Enigma of Gravity'
 date: '2023-05-03'
 tags: ['Gravity', 'Physics']
 draft: true

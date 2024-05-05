@@ -1,5 +1,5 @@
 ---
-title: 'Quantum Networks: The Future of Secure and Efficient Communication'
+title: 'Quantum Networks'
 date: '2024-02-04'
 tags: ['Internet', 'Cybersecurity', 'Quantum']
 draft: true

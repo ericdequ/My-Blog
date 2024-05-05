@@ -1,7 +1,7 @@
 ---
 title: 'Benfords Law: Unraveling the Secrets of Digits in the Digital Age'
 date: '2022-08-04'
-tags: ['Benfords Law', 'Digitums', 'Data Science', 'Fraud Detection', 'AI']
+tags: ['Data Science', 'Fraud', 'AI']
 draft: true
 summary: 'Discover the power of Benfords Law, a fascinating statistical principle that unveils hidden patterns in digits.'
 ---
