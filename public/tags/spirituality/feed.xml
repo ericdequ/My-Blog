@@ -3,7 +3,7 @@
     <channel>
       <title>Rics Blog</title>
       <link>https://rics-blog.vercel.app/blog</link>
-      <description>A blog by Ric for Mortys </description>
+      <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
@@ -18,6 +18,26 @@
     <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Spirituality</category><category>Religion</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/Newton</guid>
+    <title>Isaac Newton: The Alchemist Who Revolutionized Science</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/Newton</link>
+    <description>Explore the fascinating life of Isaac Newton, the brilliant scientist who not only revolutionized physics and mathematics but also delved deep into the realms of alchemy and spirituality. Discover how Newtons unconventional pursuits fueled his groundbreaking scientific discoveries.</description>
+    <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Isaac Newton</category><category>Science</category><category>Alchemy</category><category>Spirituality</category><category>Innovation</category>
+  </item>
+
+  <item>
+    <guid>https://rics-blog.vercel.app/blog/Idols/SteveJobs</guid>
+    <title>Steve Jobs: The Visionary Who Blended Spirituality and Technology</title>
+    <link>https://rics-blog.vercel.app/blog/Idols/SteveJobs</link>
+    <description>Explore the extraordinary life of Steve Jobs, the visionary co-founder of Apple, and discover how his spiritual journey influenced his approach to technology. Learn about his transformative encounter with Be Here Now, his connection to Neem Karoli Baba, and how these experiences shaped his leadership style and the iconic products he created.</description>
+    <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Steve Jobs</category><category>Apple</category><category>iPhone</category><category>Spirituality</category><category>Technology</category>
   </item>
 
   <item>

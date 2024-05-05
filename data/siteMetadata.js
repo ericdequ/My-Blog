@@ -1,8 +1,8 @@
 const siteMetadata = {
   title: 'Rics Blog',
   author: 'Eric deQuevedo',
-  headerTitle: 'Ric doing Ric things',
-  description: 'A blog by Ric for Mortys ',
+  headerTitle: `Ric's NoteBook`,
+  description: `Ric's Guide to the Galaxy`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://rics-blog.vercel.app',
@@ -22,7 +22,7 @@ const siteMetadata = {
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
     plausibleDataDomain: 'https://rics-blog.vercel.app/', // e.g. tailwind-nextjs-starter-blog.vercel.app
-    simpleAnalytics: false, // true or false
+    simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
