@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Rics Blog</title>
-      <link>https://rics-blog.vercel.app/blog</link>
+      <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://rics-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/ACQCompute</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/ACQCompute</guid>
     <title>The Quantum Revolution: Harnessing Natures Alternating Currents for Sustainable Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/ACQCompute</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/ACQCompute</link>
     <description>This post explores how the inherent quantum mechanical nature of the world can be leveraged to create more energy-efficient computing systems. By comparing classical and quantum computers to DC and AC currents, we highlight the potential for quantum computers to drastically reduce the energy consumption of AI models and data centers.</description>
     <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/RenewableSecureEnergy</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/RenewableSecureEnergy</guid>
     <title>Securing the Power Grid: The Case for Localized Renewable Infrastructure</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/RenewableSecureEnergy</link>
+    <link>https://www.rics-notebook.com/blog/cyber/RenewableSecureEnergy</link>
     <description>The key to securing the US power grid lies in rethinking our approach to energy infrastructure. By decentralizing the grid and investing in localized renewable energy sources, we can create a more resilient, secure, and environmentally friendly system that is better equipped to handle the challenges of the future.</description>
     <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/AIErrorCorrection</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/AIErrorCorrection</guid>
     <title>Quantum Synergies: Integrating AI with Randomized Benchmarking and Gate Fidelity for Enhanced Quantum Computing Performance 🧠💻</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/AIErrorCorrection</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/AIErrorCorrection</link>
     <description>This post explores the powerful synergy between AI and quantum computing, focusing on how AI can enhance Randomized Benchmarking and gate fidelity. By leveraging the probabilistic nature of both fields, we can create a feedback loop that iteratively improves quantum performance and AI prediction accuracy.</description>
     <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumMusic</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumMusic</guid>
     <title>Harmonizing Soundscapes: Quantum Computings Role in Music Innovation and Listening Experience 🎶🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumMusic</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumMusic</link>
     <description>Exploring quantum computings influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.</description>
     <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -51,9 +51,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/MQC</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/MQC</guid>
     <title>Mycelium-Based Quantum and Thermodynamic Computing: A Revolutionary Approach to Sustainable Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/MQC</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/MQC</link>
     <description>Discover how mycelium networks, found in mushrooms, are being harnessed to create sustainable and eco-friendly quantum and thermodynamic computing systems. This groundbreaking approach offers enhanced stability, fault-tolerance, and environmental sustainability, potentially revolutionizing fields such as drug discovery, material science, optimization, and cryptography.</description>
     <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -61,9 +61,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantaReliga</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantaReliga</guid>
     <title>Quantum Mechanics: A Spiritual Perspective Across Religions 🌌</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantaReliga</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantaReliga</link>
     <description>Exploring the profound connections between quantum mechanics and spiritual teachings from various religious traditions.</description>
     <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -71,9 +71,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/PlantApp</guid>
+    <guid>https://www.rics-notebook.com/blog/Health/PlantApp</guid>
     <title>Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺</title>
-    <link>https://rics-blog.vercel.app/blog/Health/PlantApp</link>
+    <link>https://www.rics-notebook.com/blog/Health/PlantApp</link>
     <description>In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.</description>
     <pubDate>Wed, 24 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -81,9 +81,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumMeds</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumMeds</guid>
     <title>Harnessing Quantum Computing for Next-Generation Drug Discovery 🔬💊</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumMeds</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumMeds</link>
     <description>Explore how quantum computing is unlocking new frontiers in drug discovery, creating powerful treatments for incurable diseases, and shaping a new class of medications to revolutionize mental health care.</description>
     <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -91,9 +91,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/DWave</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</guid>
     <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/DWave</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</link>
     <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -101,9 +101,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/Google</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Google</guid>
     <title>Google: Advancing Quantum Computing with Superconducting Qubits and Quantum AI</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/Google</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Google</link>
     <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -111,9 +111,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/HoneyWell</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/HoneyWell</guid>
     <title>Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/HoneyWell</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/HoneyWell</link>
     <description>Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -121,9 +121,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/IBM</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/IBM</guid>
     <title>IBM: Pioneering Quantum Computing with Superconducting Qubits</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/IBM</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/IBM</link>
     <description>Explore IBM&#39;s groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -131,9 +131,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/IonQ</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/IonQ</guid>
     <title>IonQ: Pioneering Trapped Ion Quantum Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/IonQ</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/IonQ</link>
     <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -141,9 +141,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/Microsoft</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Microsoft</guid>
     <title>Microsoft: Developing Topological Qubits and Quantum Development Kit</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/Microsoft</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Microsoft</link>
     <description>Explore Microsoft&#39;s unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -151,9 +151,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/Nvida</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Nvida</guid>
     <title>NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/Nvida</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Nvida</link>
     <description>Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -161,9 +161,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/QCI</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/QCI</guid>
     <title>Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/QCI</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCI</link>
     <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -171,9 +171,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/QCTRL</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/QCTRL</guid>
     <title>Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/QCTRL</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCTRL</link>
     <description>Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -181,9 +181,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Quantum/Rigetti</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Rigetti</guid>
     <title>Rigetti Computing: Building Superconducting Quantum Computers</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Quantum/Rigetti</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Rigetti</link>
     <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -191,9 +191,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumOverview</guid>
     <title>Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumOverview</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumOverview</link>
     <description>Quantum computing is transforming various industries, from cybersecurity and life sciences to logistics, finance, and communications. Discover how this cutting-edge technology is being used today and explore the exciting possibilities it holds for the near future.</description>
     <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -201,9 +201,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Feynman</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/Feynman</guid>
     <title>Richard Feynman: The Quantum Visionary Who Shaped the Future</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Feynman</link>
+    <link>https://www.rics-notebook.com/blog/Idols/Feynman</link>
     <description>Journey through the life and mind of Richard Feynman, the brilliant physicist who not only revolutionized quantum mechanics but also foresaw a future where quantum computers would become the norm. Discover how Feynmans unique perspective and relentless curiosity shaped his groundbreaking contributions to science.</description>
     <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -211,9 +211,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/GoogleAppPatt</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</guid>
     <title>Efficient Deployment with Serverless Google Cloud</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/GoogleAppPatt</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</link>
     <description>Insightful exploration of deploying a serverless application on Google Cloud, emphasizing cost efficiency and technical scalability.</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -221,9 +221,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/USAQuantumRecap</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/USAQuantumRecap</guid>
     <title>The Quantum Leap: USAs Advances in Quantum Computing &amp; Cryptography</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/USAQuantumRecap</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/USAQuantumRecap</link>
     <description>A deep dive into the United States significant strides in quantum computing and cryptography as part of the National Quantum Initiative (NQI) and the National Quantum Coordination Office (NQCO).</description>
     <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -231,9 +231,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/PodHub/PodHub</guid>
+    <guid>https://www.rics-notebook.com/blog/PodHub/PodHub</guid>
     <title>Pod Hub</title>
-    <link>https://rics-blog.vercel.app/blog/PodHub/PodHub</link>
+    <link>https://www.rics-notebook.com/blog/PodHub/PodHub</link>
     <description>A next js app built to share and display videos and podcast near you!</description>
     <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -241,9 +241,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Next/PWA</guid>
+    <guid>https://www.rics-notebook.com/blog/Next/PWA</guid>
     <title>Elevate Your Web App: Transforming Next.js Project into a PWA 🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Next/PWA</link>
+    <link>https://www.rics-notebook.com/blog/Next/PWA</link>
     <description>Delve into the journey of augmenting your Next.js project with PWA features, leveraging the pages directory for an organized and efficient structure.</description>
     <pubDate>Thu, 26 Oct 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -251,9 +251,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Personal/Rumpus</guid>
+    <guid>https://www.rics-notebook.com/blog/Personal/Rumpus</guid>
     <title>Rumpus Art Raffle</title>
-    <link>https://rics-blog.vercel.app/blog/Personal/Rumpus</link>
+    <link>https://www.rics-notebook.com/blog/Personal/Rumpus</link>
     <description>An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronicas artistry.</description>
     <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -261,9 +261,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</guid>
+    <guid>https://www.rics-notebook.com/blog/Certifications/QCS_Certs</guid>
     <title>Discover QuantumLearn: Your Ultimate Learning Resource 🌐</title>
-    <link>https://rics-blog.vercel.app/blog/Certifications/QCS_Certs</link>
+    <link>https://www.rics-notebook.com/blog/Certifications/QCS_Certs</link>
     <description>Step into the future of learning with QuantumLearn. Dive deep into a plethora of subjects, all while enjoying a seamless user experience. Lets embark on a journey of knowledge! 🚀</description>
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -271,9 +271,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/TheProcess</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/TheProcess</guid>
     <title>Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜</title>
-    <link>https://rics-blog.vercel.app/blog/Government/TheProcess</link>
+    <link>https://www.rics-notebook.com/blog/Government/TheProcess</link>
     <description>Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.</description>
     <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -281,9 +281,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumAndCybersecurity</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumAndCybersecurity</guid>
     <title>Quantum Technologies &amp; Cybersecurity: The Urgent Call to Safeguard Our Digital Realm 🛡️</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumAndCybersecurity</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumAndCybersecurity</link>
     <description>A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.</description>
     <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -291,9 +291,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumAndBitcoin</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumAndBitcoin</guid>
     <title>Quantum Tech &amp; Bitcoin: Navigating the Cryptographic Challenges 🔐</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumAndBitcoin</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumAndBitcoin</link>
     <description>Exploring the potential impact of quantum technologies on Bitcoins cryptographic foundations and the broader cryptocurrency landscape!</description>
     <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -301,9 +301,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumEconomicImpact</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumEconomicImpact</guid>
     <title>Quantum Economic Impact: The Financial Ripples of the Quantum Wave 💰</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumEconomicImpact</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumEconomicImpact</link>
     <description>Understanding the profound economic implications of quantum technologies on industries, economies, and the global landscape!</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -311,9 +311,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPsychics</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPsychics</guid>
     <title>A Quantum Perspectice of a Psychic Reality</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPsychics</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumPsychics</link>
     <description>How Quantum mechanics are a proof of psychic and meta physic capabilities</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -321,9 +321,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/RethinkingQuantum</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/RethinkingQuantum</guid>
     <title>Rethinking the World as we know it</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/RethinkingQuantum</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/RethinkingQuantum</link>
     <description>Why it is important to challenge facts</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -331,9 +331,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumFuturePredictions</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumFuturePredictions</guid>
     <title>Quantum Future Predictions: Gazing into the Quantum Horizon 🔮</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumFuturePredictions</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumFuturePredictions</link>
     <description>Exploring predictions about the trajectory of quantum technologies and envisioning the transformative quantum future!</description>
     <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -341,9 +341,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumEducationAndTraining</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumEducationAndTraining</guid>
     <title>Quantum Education &amp; Training Preparing for the Quantum Future 🎓</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumEducationAndTraining</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumEducationAndTraining</link>
     <description>Understanding the significance of education and training in the quantum domain and the avenues available for learning!</description>
     <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -351,9 +351,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCompanies</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumCompanies</guid>
     <title>Quantum Companies Powering the Quantum Revolution 🏢</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCompanies</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumCompanies</link>
     <description>Exploring the companies at the forefront of quantum technological advancements and their vision for the quantum future!</description>
     <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -361,9 +361,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumTechnologiesOverview</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumTechnologiesOverview</guid>
     <title>Quantum Technologies Overview The Dawn of a New Era 🌌</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumTechnologiesOverview</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumTechnologiesOverview</link>
     <description>Navigating the vast landscape of quantum technologies and exploring their transformative potential!</description>
     <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -371,9 +371,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumSoftwareAndTools</guid>
     <title>Quantum Software &amp; Tools Powering the Quantum Revolution 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumSoftwareAndTools</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumSoftwareAndTools</link>
     <description>Exploring the software and tools ecosystem thats driving quantum technological  advancements!</description>
     <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -381,9 +381,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumResearchAndApplications</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumResearchAndApplications</guid>
     <title>Quantum Research &amp; Applications From Theory to Transformation 🔬</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumResearchAndApplications</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumResearchAndApplications</link>
     <description>Diving into the world of quantum research and witnessing its transformative applications across sectors!</description>
     <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -391,9 +391,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumChallenges</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumChallenges</guid>
     <title>Quantum Challenges Navigating the Quantum Labyrinth 🧩</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumChallenges</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumChallenges</link>
     <description>Exploring the challenges in the quantum domain and the relentless pursuit to overcome them!</description>
     <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -401,9 +401,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCybersecurityChecklist</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumCybersecurityChecklist</guid>
     <title>Quantum Cybersecurity Checklist Safeguarding the Quantum Transition 🔒</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCybersecurityChecklist</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumCybersecurityChecklist</link>
     <description>Navigating the essentials of cybersecurity in a quantum world and preparing for the quantum transition!</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -411,9 +411,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPotentialAndCapabilities</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPotentialAndCapabilities</guid>
     <title>Quantum Potential &amp; Capabilities Unraveling the Quantum Revolution 🌌</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPotentialAndCapabilities</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumPotentialAndCapabilities</link>
     <description>Discovering the transformative potential and multifaceted capabilities of quantum technologies!</description>
     <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -421,9 +421,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumMaterials</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumMaterials</guid>
     <title>Quantum Materials The Unsung Heroes of Quantum Tech 💎</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumMaterials</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumMaterials</link>
     <description>Venturing into the world of quantum materials, the foundational elements driving quantum technological advancements!</description>
     <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -431,9 +431,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumGovernmentInitiatives</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumGovernmentInitiatives</guid>
     <title>Government-Led Quantum Initiatives Shaping the Quantum Future 🏛️</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumGovernmentInitiatives</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumGovernmentInitiatives</link>
     <description>Exploring the strategic quantum initiatives led by governments worldwide and their vision for a quantum-empowered future!</description>
     <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -441,9 +441,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumThreats</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumThreats</guid>
     <title>Quantum Threats The Flip Side of the Quantum Revolution 🚫</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumThreats</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumThreats</link>
     <description>Navigating the potential risks in the quantum domain and understanding the defenses against them!</description>
     <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -451,9 +451,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumNetworking</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumNetworking</guid>
     <title>Quantum Networking The Next-Gen Communication Frontier 🌍</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumNetworking</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumNetworking</link>
     <description>Embarking on a journey through Quantum Networking, the future of secure and efficient communication!</description>
     <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -461,9 +461,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumServices</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumServices</guid>
     <title>Quantum Services Bridging the Quantum Potential to Reality 🛠️</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumServices</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumServices</link>
     <description>Unveiling the plethora of services in the quantum domain that are making quantum tech accessible and impactful!</description>
     <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -471,9 +471,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Terraform</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Terraform</guid>
     <title>Terraform: Crafting Infrastructure as Easily as Writing Code 🌍⚙️</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Terraform</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Terraform</link>
     <description>Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.</description>
     <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -481,9 +481,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPlatforms</guid>
     <title>Quantum Platforms Pioneering the Quantum Revolution 🌐</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumPlatforms</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumPlatforms</link>
     <description>Discover the leading quantum platforms that are revolutionizing the world of quantum computing!</description>
     <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -491,9 +491,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/Trust</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/Trust</guid>
     <title>Building Trust: The Importance of Past Performance in Government Sales 🎖️🏛️</title>
-    <link>https://rics-blog.vercel.app/blog/Government/Trust</link>
+    <link>https://www.rics-notebook.com/blog/Government/Trust</link>
     <description>In the government contracting world, your track record speaks volumes. Understand why past performance is crucial and how to leverage it effectively in securing government contracts.</description>
     <pubDate>Mon, 28 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -501,9 +501,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/GSA</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/GSA</guid>
     <title>GSA Contract Vehicle🚙</title>
-    <link>https://rics-blog.vercel.app/blog/Government/GSA</link>
+    <link>https://www.rics-notebook.com/blog/Government/GSA</link>
     <description>The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.</description>
     <pubDate>Sat, 26 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -511,9 +511,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</guid>
+    <guid>https://www.rics-notebook.com/blog/Cloud/MultiCloud</guid>
     <title>MultiCloud: The Next Era of Digital Infrastructure ☁️🌐</title>
-    <link>https://rics-blog.vercel.app/blog/Cloud/MultiCloud</link>
+    <link>https://www.rics-notebook.com/blog/Cloud/MultiCloud</link>
     <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -521,9 +521,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumCyberSecurity</guid>
     <title>Quantum Cybersecurity The Future of Secure Communication 🛡️</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumCyberSecurity</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumCyberSecurity</link>
     <description>Diving into the world of Quantum Cybersecurity and its significance in an era of quantum computers!</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -531,9 +531,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/ICAM</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/ICAM</guid>
     <title>ICAM: Cutting-Edge Identity Management for Optimal Security 🛡️</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/ICAM</link>
+    <link>https://www.rics-notebook.com/blog/cyber/ICAM</link>
     <description>In the digital age, managing identity is both a security necessity and an efficiency driver. Dive into the world of ICAM and discover how it seamlessly blends top-tier security with streamlined access.</description>
     <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -541,9 +541,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/AISASS</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/AISASS</guid>
     <title>Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧</title>
-    <link>https://rics-blog.vercel.app/blog/AI/AISASS</link>
+    <link>https://www.rics-notebook.com/blog/AI/AISASS</link>
     <description>The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.</description>
     <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -551,9 +551,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/LangChain</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/LangChain</guid>
     <title>LangChain: Your Ultimate Tool for Crafting AI-Powered Software 🌐🤖</title>
-    <link>https://rics-blog.vercel.app/blog/AI/LangChain</link>
+    <link>https://www.rics-notebook.com/blog/AI/LangChain</link>
     <description>The rise of AI in software development is undeniable. Dive into how LangChain can be your secret weapon in not just creating AI software apps but also seamlessly integrating them into your existing software suite.</description>
     <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -561,9 +561,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/ZTA</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/ZTA</guid>
     <title>ZTA Revolutionizing Cybersecurity with Zero Trust 🚫🔒</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/ZTA</link>
+    <link>https://www.rics-notebook.com/blog/cyber/ZTA</link>
     <description>Trust nothing, verify everything! Step into the world of Zero Trust Architecture and understand why its become a cornerstone in modern cybersecurity strategies.</description>
     <pubDate>Sun, 13 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -571,9 +571,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Startup/Startup</guid>
+    <guid>https://www.rics-notebook.com/blog/Startup/Startup</guid>
     <title>Starting Strong: Your Blueprint to Forming a Successful Company 🌐🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Startup/Startup</link>
+    <link>https://www.rics-notebook.com/blog/Startup/Startup</link>
     <description>Embarking on the entrepreneurial journey? Forming a company is the first significant step. Dive into this guide to understand the nuances of company formation and ensure a robust foundation for your business.</description>
     <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -581,9 +581,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/RHVirtualization</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/RHVirtualization</guid>
     <title>Red Hat Virtualization: Redefining Infrastructure for Diverse Enterprise Needs 🌐🌌</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/RHVirtualization</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Redhat/RHVirtualization</link>
     <description>In an age where infrastructure flexibility is paramount, Red Hat Virtualization emerges as a key enabler. Dive into how this solution is reshaping the infrastructural landscapes of both public and private sectors.</description>
     <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -591,9 +591,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Ansible</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Ansible</guid>
     <title>Ansible: The IT Automation Maestro for Diverse Enterprises 🌐🤖</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Ansible</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Ansible</link>
     <description>In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.</description>
     <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -601,9 +601,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Openshift</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Openshift</guid>
     <title>OpenShift: Kubernetes Mastery for Both Public and Private Realms 🌐🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Openshift</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Openshift</link>
     <description>OpenShift by Red Hat isnt just a Kubernetes platform its an enterprise-grade solution for container orchestration across sectors. Explore how OpenShift is revolutionizing both public and private entities.</description>
     <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -611,9 +611,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/Linux</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Linux</guid>
     <title>Red Hat Enterprise Linux (RHEL): The Linux Pillar for Public and Private Enterprises 🌐🖥️</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/Linux</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Linux</link>
     <description>Red Hat Enterprise Linux (RHEL) is not just another Linux distribution. Its an enterprise-grade solution that powers both public and private sectors. Dive into RHELs versatile applications across sectors.</description>
     <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -621,9 +621,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Hashicorp</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Hashicorp</guid>
     <title>HashiCorp: An Odyssey of Infrastructure Automation and Innovation 🌐🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Hashicorp</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Hashicorp</link>
     <description>In the realm of infrastructure automation and DevOps, few names shine as brightly as HashiCorp. Delve into the journey of this trailblazing company, its suite of tools, and the competitive landscape it thrives in.</description>
     <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -631,9 +631,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Packer</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Packer</guid>
     <title>Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Packer</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Packer</link>
     <description>In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.</description>
     <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -641,9 +641,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Boundary</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</guid>
     <title>Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Boundary</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</link>
     <description>The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.</description>
     <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -651,9 +651,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Nomad</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Nomad</guid>
     <title>Nomad: Orchestrating Workloads with Elegance and Efficiency 📊🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Nomad</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Nomad</link>
     <description>Managing and scheduling workloads can be a herculean task. With HashiCorps Nomad, experience a scheduler that seamlessly orchestrates tasks across any infrastructure. Dive into the world of efficient workload orchestration.</description>
     <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -661,9 +661,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Consul</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</guid>
     <title>Consul: Pioneering Service Discovery and Networking 🌐🔍</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Consul</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</link>
     <description>Modern applications demand dynamic service networking. With HashiCorps Consul, discover a tool that not only aids in service discovery but also offers a robust service mesh for secure and efficient communications.</description>
     <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -671,9 +671,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Vault</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Vault</guid>
     <title>Vault: The Fortified Chamber for Your Digital Secrets 🛡️🔐</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Hashicorp/Vault</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Vault</link>
     <description>In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.</description>
     <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -681,9 +681,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/RFP</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/RFP</guid>
     <title>Government RFPs: Deciphering and Responding Effectively 📜🔍</title>
-    <link>https://rics-blog.vercel.app/blog/Government/RFP</link>
+    <link>https://www.rics-notebook.com/blog/Government/RFP</link>
     <description>Responding to a government Request for Proposal (RFP) can be daunting. Dive into the intricacies of RFPs and gather insights on crafting compelling responses that stand out.</description>
     <pubDate>Sat, 29 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -691,9 +691,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/NavigatingGovernment</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/NavigatingGovernment</guid>
     <title>Navigating the Complexities of Government Procurement 🏛️🔄</title>
-    <link>https://rics-blog.vercel.app/blog/Government/NavigatingGovernment</link>
+    <link>https://www.rics-notebook.com/blog/Government/NavigatingGovernment</link>
     <description>The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.</description>
     <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -701,9 +701,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Cloud/CloudMigration</guid>
+    <guid>https://www.rics-notebook.com/blog/Cloud/CloudMigration</guid>
     <title>Cloud Migrations: Paving the Way for Digital Excellence ☁️🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Cloud/CloudMigration</link>
+    <link>https://www.rics-notebook.com/blog/Cloud/CloudMigration</link>
     <description>Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.</description>
     <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -711,9 +711,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/SOC</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/SOC</guid>
     <title>SOC: The Digital Watchtower Guarding Against Cyber Threats 🌐🛡️</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/SOC</link>
+    <link>https://www.rics-notebook.com/blog/cyber/SOC</link>
     <description>In the ceaseless battle against cyber threats, a Security Operations Center stands as the first line of defense. Explore how SOC operates and why its pivotal in the modern digital age.</description>
     <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -721,9 +721,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Companies/Redhat/RedHat</guid>
+    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/RedHat</guid>
     <title>Red Hat: Championing the Open Source Spirit in the Enterprise Arena 🌐🔥</title>
-    <link>https://rics-blog.vercel.app/blog/Companies/Redhat/RedHat</link>
+    <link>https://www.rics-notebook.com/blog/Companies/Redhat/RedHat</link>
     <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
     <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -731,9 +731,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/Relationships</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/Relationships</guid>
     <title>Building Relationships: The Key to Long-Term Government Sales Success 🤝🏛️</title>
-    <link>https://rics-blog.vercel.app/blog/Government/Relationships</link>
+    <link>https://www.rics-notebook.com/blog/Government/Relationships</link>
     <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
     <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -741,9 +741,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/PENTEST</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/PENTEST</guid>
     <title>PenTesting: The Art of Simulating Cyberattacks for Stronger Defenses 🎯🔒</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/PENTEST</link>
+    <link>https://www.rics-notebook.com/blog/cyber/PENTEST</link>
     <description>In the realm of cybersecurity, one of the most effective strategies is to think like an attacker. Penetration Testing, or PenTesting, offers precisely that perspective. Explore how simulating cyberattacks can help fortify defenses.</description>
     <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -751,9 +751,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/REDTEAM</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/REDTEAM</guid>
     <title>REDTEAM: Embracing Adversarial Tactics for Ironclad Security 🎯🚫</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/REDTEAM</link>
+    <link>https://www.rics-notebook.com/blog/cyber/REDTEAM</link>
     <description>In the chess game of cybersecurity, sometimes you need to think several moves ahead. REDTEAM assessments provide an adversarial perspective, simulating real-world attack tactics to uncover vulnerabilities. Dive into the world of REDTEAMing and its importance.</description>
     <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -761,9 +761,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Newton</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/Newton</guid>
     <title>Isaac Newton: The Alchemist Who Revolutionized Science</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Newton</link>
+    <link>https://www.rics-notebook.com/blog/Idols/Newton</link>
     <description>Explore the fascinating life of Isaac Newton, the brilliant scientist who not only revolutionized physics and mathematics but also delved deep into the realms of alchemy and spirituality. Discover how Newtons unconventional pursuits fueled his groundbreaking scientific discoveries.</description>
     <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -771,9 +771,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/SteveJobs</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/SteveJobs</guid>
     <title>Steve Jobs: The Visionary Who Blended Spirituality and Technology</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/SteveJobs</link>
+    <link>https://www.rics-notebook.com/blog/Idols/SteveJobs</link>
     <description>Explore the extraordinary life of Steve Jobs, the visionary co-founder of Apple, and discover how his spiritual journey influenced his approach to technology. Learn about his transformative encounter with Be Here Now, his connection to Neem Karoli Baba, and how these experiences shaped his leadership style and the iconic products he created.</description>
     <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -781,9 +781,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Database/VectorDatabases</guid>
+    <guid>https://www.rics-notebook.com/blog/Database/VectorDatabases</guid>
     <title>Vector Databases: Revolutionizing Data Storage and Retrieval</title>
-    <link>https://rics-blog.vercel.app/blog/Database/VectorDatabases</link>
+    <link>https://www.rics-notebook.com/blog/Database/VectorDatabases</link>
     <description>Discover the power of vector databases and how they can revolutionize your data storage and retrieval processes. Learn about vector embeddings, the advantages of using vector databases, and the speed-up effects they offer. Explore popular vector database providers and their features.</description>
     <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -791,9 +791,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Quantum/QuantumThoth</guid>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumThoth</guid>
     <title>The Emerald Tablet of Thoth: Ancient Wisdom Meets Quantum Science 💎</title>
-    <link>https://rics-blog.vercel.app/blog/Quantum/QuantumThoth</link>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumThoth</link>
     <description>Unveiling the profound insights of the Emerald Tablet of Thoth and its remarkable connections to modern quantum physics.</description>
     <pubDate>Tue, 02 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -801,9 +801,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Leonardo_DaVinci</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/Leonardo_DaVinci</guid>
     <title>Leonardo da Vinci</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Leonardo_DaVinci</link>
+    <link>https://www.rics-notebook.com/blog/Idols/Leonardo_DaVinci</link>
     <description>Leonardo da Vinci was an Italian polymath whose interests spanned various fields including art, science, engineering, anatomy, and more. Known for masterpieces like Mona Lisa and The Last Supper, da Vinci also made significant contributions to various scientific and technological fields through his detailed journals and sketches.</description>
     <pubDate>Mon, 01 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -811,9 +811,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/Angels&Demons</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/Angels&Demons</guid>
     <title>Angels &amp; Demons by Dan Brown: A Thrilling Journey into the Depths of History, Science, and Faith</title>
-    <link>https://rics-blog.vercel.app/blog/Books/Angels&Demons</link>
+    <link>https://www.rics-notebook.com/blog/Books/Angels&Demons</link>
     <description>Embark on a heart-pounding adventure through the pages of Dan Brown&#39;s &quot;Angels &amp; Demons,&quot; a masterful blend of history, science, and faith. Follow symbologist Robert Langdon as he races against time to unravel a deadly plot that threatens to shake the very foundations of the Catholic Church and the world of science.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -821,9 +821,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/BecomingSupernatural</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</guid>
     <title>Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza&#39;s &#39;Becoming Supernatural&#39;</title>
-    <link>https://rics-blog.vercel.app/blog/Books/BecomingSupernatural</link>
+    <link>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</link>
     <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -831,9 +831,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/BeHereNow</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/BeHereNow</guid>
     <title>Be Here Now by Ram Dass: A Spiritual Journey from Psychedelics to Self-Discovery</title>
-    <link>https://rics-blog.vercel.app/blog/Books/BeHereNow</link>
+    <link>https://www.rics-notebook.com/blog/Books/BeHereNow</link>
     <description>Explore the transformative journey of Ram Dass from Harvard psychologist to spiritual guru, as chronicled in his influential book &quot;Be Here Now.&quot; Discover how his experiences with psychedelics and his guru, Neem Karoli Baba, helped shape a generation of seekers, including tech visionaries like Steve Jobs and Mark Zuckerberg.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -841,9 +841,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/DonJaun</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/DonJaun</guid>
     <title>The Teachings of Don Juan: A Yaqui Way of Knowledge - A Journey into the World of Shamanism</title>
-    <link>https://rics-blog.vercel.app/blog/Books/DonJaun</link>
+    <link>https://www.rics-notebook.com/blog/Books/DonJaun</link>
     <description>Dive deep into the world of Yaqui shamanism as revealed by Don Juan Matus to Carlos Castaneda. Explore the significance of powerful plant allies and the transformative rituals that can lead to personal growth and spiritual awakening.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -851,9 +851,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/Fear&Loathing</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/Fear&Loathing</guid>
     <title>Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream</title>
-    <link>https://rics-blog.vercel.app/blog/Books/Fear&Loathing</link>
+    <link>https://www.rics-notebook.com/blog/Books/Fear&Loathing</link>
     <description>Dive into the wild and chaotic world of Hunter S. Thompson&#39;s &#39;Fear and Loathing in Las Vegas,&#39; a seminal work of Gonzo journalism that takes readers on a surreal and drug-fueled journey through the heart of the American Dream. Discover the book&#39;s enduring legacy and its scathing critique of American culture and society.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -861,9 +861,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/GreenLights</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/GreenLights</guid>
     <title>Greenlights by Matthew McConaughey: A Memoir of Life Lessons and Personal Growth</title>
-    <link>https://rics-blog.vercel.app/blog/Books/GreenLights</link>
+    <link>https://www.rics-notebook.com/blog/Books/GreenLights</link>
     <description>Discover the profound life lessons and personal growth experiences shared by Matthew McConaughey in his captivating memoir, &quot;Greenlights.&quot; This intimate and introspective book offers valuable insights on navigating the joys and challenges of life.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -871,9 +871,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/LastLecture</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/LastLecture</guid>
     <title>The Last Lecture: A Powerful Message of Living Life to the Fullest</title>
-    <link>https://rics-blog.vercel.app/blog/Books/LastLecture</link>
+    <link>https://www.rics-notebook.com/blog/Books/LastLecture</link>
     <description>Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, &#39;The Last Lecture.&#39; Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -881,9 +881,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</guid>
     <title>Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku</title>
-    <link>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</link>
+    <link>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</link>
     <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -891,9 +891,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/TheCreativeAct</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/TheCreativeAct</guid>
     <title>Unlocking Your Creative Potential: Insights from Rick Rubin&#39;s &#39;The Creative Act&#39;</title>
-    <link>https://rics-blog.vercel.app/blog/Books/TheCreativeAct</link>
+    <link>https://www.rics-notebook.com/blog/Books/TheCreativeAct</link>
     <description>Discover the key insights and lessons from Rick Rubin&#39;s &quot;The Creative Act,&quot; a thought-provoking exploration of the creative process and how to cultivate it in your daily life. From embracing uncertainty to fostering collaboration, learn how to unlock your creative potential and lead a more fulfilling life.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -901,9 +901,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/ThePilgramige</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/ThePilgramige</guid>
     <title>The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening</title>
-    <link>https://rics-blog.vercel.app/blog/Books/ThePilgramige</link>
+    <link>https://www.rics-notebook.com/blog/Books/ThePilgramige</link>
     <description>Embark on a life-changing journey with Paulo Coelho&#39;s &quot;The Pilgrimage,&quot; a profound novel that explores the transformative power of self-discovery and spiritual awakening along the ancient Camino de Santiago pilgrimage route. Learn about the history of the Camino and the powerful RAM practices that guide Paulo on his path to self-realization.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -911,9 +911,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/TheValkyries</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/TheValkyries</guid>
     <title>The Valkyries by Paulo Coelho: A Journey of Love, Courage, and Self-Discovery</title>
-    <link>https://rics-blog.vercel.app/blog/Books/TheValkyries</link>
+    <link>https://www.rics-notebook.com/blog/Books/TheValkyries</link>
     <description>Embark on a transformative journey of love, courage, and self-discovery with Paulo Coelho&#39;s enchanting novel, &#39;The Valkyries.&#39; Explore the profound spiritual insights and life lessons woven throughout this captivating story, as Coelho invites readers to confront their fears, embrace their inner strength, and unlock the power of love.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -921,9 +921,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/RMF</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/RMF</guid>
     <title>Risk Management Framework (RMF)</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/RMF</link>
+    <link>https://www.rics-notebook.com/blog/cyber/RMF</link>
     <description>RMF stands for Risk Management Framework, a guideline, standard, and process for risk management to help secure information systems (computers and networks) developed by National Institute of Standards and Technology (NIST).</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -931,9 +931,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/hacking/CardScanner</guid>
+    <guid>https://www.rics-notebook.com/blog/hacking/CardScanner</guid>
     <title>Be Safe and Secure with Credit Card Scanners 🔒</title>
-    <link>https://rics-blog.vercel.app/blog/hacking/CardScanner</link>
+    <link>https://www.rics-notebook.com/blog/hacking/CardScanner</link>
     <description>Credit card scanners are devices that can read magnetic stripes or chips on credit or debit cards. Learn about the two main types of credit card scanners, where they can be found, and tips for protecting yourself from credit card scanner fraud.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -941,9 +941,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/hacking/DDos</guid>
+    <guid>https://www.rics-notebook.com/blog/hacking/DDos</guid>
     <title>Protect Your Website from DDoS Attacks 🛡️</title>
-    <link>https://rics-blog.vercel.app/blog/hacking/DDos</link>
+    <link>https://www.rics-notebook.com/blog/hacking/DDos</link>
     <description>Distributed denial-of-service (DDoS) attacks are becoming increasingly common and can result in significant damage to businesses and organizations. Learn about the causes of DDoS attacks, how to prevent them, and tips for protecting your website or server from this devastating cyber attack.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -951,9 +951,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/hacking/Xss</guid>
+    <guid>https://www.rics-notebook.com/blog/hacking/Xss</guid>
     <title>Protect Your Website from XSS Attacks 🔒</title>
-    <link>https://rics-blog.vercel.app/blog/hacking/Xss</link>
+    <link>https://www.rics-notebook.com/blog/hacking/Xss</link>
     <description>Cross-site scripting (XSS) is a type of security vulnerability that allows attackers to inject malicious code into a web page. Learn about the two main types of XSS attacks, best practices for preventing XSS attacks, and additional tips for protecting your website from XSS attacks.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -961,9 +961,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Wim</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/Wim</guid>
     <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Wim</link>
+    <link>https://www.rics-notebook.com/blog/Idols/Wim</link>
     <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -971,9 +971,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
+    <guid>https://www.rics-notebook.com/blog/Networking_priciples/Raid</guid>
     <title>Understanding RAID Levels 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</link>
+    <link>https://www.rics-notebook.com/blog/Networking_priciples/Raid</link>
     <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -981,9 +981,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</guid>
+    <guid>https://www.rics-notebook.com/blog/psychology/BodyLanguage</guid>
     <title>How to Read People and Understand Body Language</title>
-    <link>https://rics-blog.vercel.app/blog/psychology/BodyLanguage</link>
+    <link>https://www.rics-notebook.com/blog/psychology/BodyLanguage</link>
     <description>Learn how to read people and understand body language with these tips and tricks. Improve your communication skills, build stronger relationships, and become a more successful negotiator. 💬💪</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -991,9 +991,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/psychology/Lying</guid>
+    <guid>https://www.rics-notebook.com/blog/psychology/Lying</guid>
     <title>How to Spot a Liar: Understanding Body Language and Verbal Cues 👀🗣️</title>
-    <link>https://rics-blog.vercel.app/blog/psychology/Lying</link>
+    <link>https://www.rics-notebook.com/blog/psychology/Lying</link>
     <description>Learn how to spot a liar by paying attention to their body language, tone of voice, and words. By understanding these verbal and nonverbal cues, you can become more skilled at detecting when someone is lying. 👀🗣️</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1001,9 +1001,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/hacking/Kali</guid>
+    <guid>https://www.rics-notebook.com/blog/hacking/Kali</guid>
     <title>Getting Started with Kali Linux: A Beginners Guide 🔒</title>
-    <link>https://rics-blog.vercel.app/blog/hacking/Kali</link>
+    <link>https://www.rics-notebook.com/blog/hacking/Kali</link>
     <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1011,9 +1011,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/IOT/Relationship</guid>
+    <guid>https://www.rics-notebook.com/blog/IOT/Relationship</guid>
     <title>Relationship-Based IoT Models Enhancing Accuracy, Efficiency, and Security 🔗</title>
-    <link>https://rics-blog.vercel.app/blog/IOT/Relationship</link>
+    <link>https://www.rics-notebook.com/blog/IOT/Relationship</link>
     <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1021,9 +1021,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</guid>
+    <guid>https://www.rics-notebook.com/blog/Networking_priciples/TCPvsUDP</guid>
     <title>TCP vs UDP: Understanding the Differences 🌐</title>
-    <link>https://rics-blog.vercel.app/blog/Networking_priciples/TCPvsUDP</link>
+    <link>https://www.rics-notebook.com/blog/Networking_priciples/TCPvsUDP</link>
     <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1031,9 +1031,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</guid>
+    <guid>https://www.rics-notebook.com/blog/Raspi/RaspiSetup</guid>
     <title>Setting Up a Raspberry Pi: A Step-by-Step Guide 🤖</title>
-    <link>https://rics-blog.vercel.app/blog/Raspi/RaspiSetup</link>
+    <link>https://www.rics-notebook.com/blog/Raspi/RaspiSetup</link>
     <description>In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1041,9 +1041,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/Full_Stack_Social</guid>
     <title>Full Stack Social Media App</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/Full_Stack_Social</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/Full_Stack_Social</link>
     <description>This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse </description>
     <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1051,9 +1051,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/Bing_Create</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/Bing_Create</guid>
     <title>Bing Create</title>
-    <link>https://rics-blog.vercel.app/blog/AI/Bing_Create</link>
+    <link>https://www.rics-notebook.com/blog/AI/Bing_Create</link>
     <description>How to use Bing Create to make AI images</description>
     <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1061,9 +1061,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/bard_Vs_GPT</guid>
     <title>Chat GPT VS Bard</title>
-    <link>https://rics-blog.vercel.app/blog/AI/bard_Vs_GPT</link>
+    <link>https://www.rics-notebook.com/blog/AI/bard_Vs_GPT</link>
     <description>disscussion of the differences between GPT and BARD</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1071,9 +1071,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Cloud/Cloud</guid>
+    <guid>https://www.rics-notebook.com/blog/Cloud/Cloud</guid>
     <title>GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️</title>
-    <link>https://rics-blog.vercel.app/blog/Cloud/Cloud</link>
+    <link>https://www.rics-notebook.com/blog/Cloud/Cloud</link>
     <description> A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1081,9 +1081,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/Vercel</guid>
     <title>Vercel</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/Vercel</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/Vercel</link>
     <description>Example how to host a website with vercel</description>
     <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1091,9 +1091,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Markdown/mermaid</guid>
+    <guid>https://www.rics-notebook.com/blog/Markdown/mermaid</guid>
     <title>Mermaid Markdown</title>
-    <link>https://rics-blog.vercel.app/blog/Markdown/mermaid</link>
+    <link>https://www.rics-notebook.com/blog/Markdown/mermaid</link>
     <description>Using ChatGPT and Mermaid to Create System Architecture Diagrams</description>
     <pubDate>Thu, 13 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1101,9 +1101,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/GPT-API</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/GPT-API</guid>
     <title>GPT API</title>
-    <link>https://rics-blog.vercel.app/blog/AI/GPT-API</link>
+    <link>https://www.rics-notebook.com/blog/AI/GPT-API</link>
     <description>example and tutorial how to setup vscode</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1111,9 +1111,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/Firebase</guid>
     <title>Firebase </title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/Firebase</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/Firebase</link>
     <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1121,9 +1121,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Personal/Software_dev</guid>
+    <guid>https://www.rics-notebook.com/blog/Personal/Software_dev</guid>
     <title>guide to software development</title>
-    <link>https://rics-blog.vercel.app/blog/Personal/Software_dev</link>
+    <link>https://www.rics-notebook.com/blog/Personal/Software_dev</link>
     <description>My guide to becoming a software developer</description>
     <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1131,9 +1131,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Database/Mongo</guid>
+    <guid>https://www.rics-notebook.com/blog/Database/Mongo</guid>
     <title>MongoDB</title>
-    <link>https://rics-blog.vercel.app/blog/Database/Mongo</link>
+    <link>https://www.rics-notebook.com/blog/Database/Mongo</link>
     <description>How to Work with and Setup a MongoDB Database 🗄️💾</description>
     <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1141,9 +1141,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Personal/Consciousness</guid>
+    <guid>https://www.rics-notebook.com/blog/Personal/Consciousness</guid>
     <title>🌌 Transcend &amp; Receive Energy: The Esoteric Path 🌌</title>
-    <link>https://rics-blog.vercel.app/blog/Personal/Consciousness</link>
+    <link>https://www.rics-notebook.com/blog/Personal/Consciousness</link>
     <description>Understanding consciousness, energy, and the practices that can lead to an elevated state of being.</description>
     <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1151,9 +1151,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/spotify_api_guide</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/spotify_api_guide</guid>
     <title>🎶 Integrate Spotify Profile Data: A Web API Guide 🎶</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/spotify_api_guide</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/spotify_api_guide</link>
     <description>A step-by-step guide to integrating Spotify profile data into your web app using the Spotify Web API.</description>
     <pubDate>Tue, 28 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1161,9 +1161,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/GPT-Resume</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/GPT-Resume</guid>
     <title>AI Resume Maker</title>
-    <link>https://rics-blog.vercel.app/blog/AI/GPT-Resume</link>
+    <link>https://www.rics-notebook.com/blog/AI/GPT-Resume</link>
     <description>How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1171,9 +1171,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</guid>
+    <guid>https://www.rics-notebook.com/blog/GoogleCollab/Collab</guid>
     <title>Colab: A Powerhouse for Machine Learning &amp; Data Science 💻</title>
-    <link>https://rics-blog.vercel.app/blog/GoogleCollab/Collab</link>
+    <link>https://www.rics-notebook.com/blog/GoogleCollab/Collab</link>
     <description>Google Colaboratory Colab is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1181,9 +1181,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Java/AbstractSyntaxTree</guid>
+    <guid>https://www.rics-notebook.com/blog/Java/AbstractSyntaxTree</guid>
     <title>Understanding Abstract Syntax Trees 🌳</title>
-    <link>https://rics-blog.vercel.app/blog/Java/AbstractSyntaxTree</link>
+    <link>https://www.rics-notebook.com/blog/Java/AbstractSyntaxTree</link>
     <description>Abstract syntax trees (ASTs) are tree representations of the abstract syntactic structure of source code and are useful for parsing, refactoring,code generation, debugging, and analysis.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1191,9 +1191,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Matlab/Matlab</guid>
+    <guid>https://www.rics-notebook.com/blog/Matlab/Matlab</guid>
     <title>Matlab</title>
-    <link>https://rics-blog.vercel.app/blog/Matlab/Matlab</link>
+    <link>https://www.rics-notebook.com/blog/Matlab/Matlab</link>
     <description>MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1201,9 +1201,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Personal/Meditations</guid>
+    <guid>https://www.rics-notebook.com/blog/Personal/Meditations</guid>
     <title>🧘‍♂️ Meditations of a Developer 🧘‍♂️</title>
-    <link>https://rics-blog.vercel.app/blog/Personal/Meditations</link>
+    <link>https://www.rics-notebook.com/blog/Personal/Meditations</link>
     <description>Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1211,9 +1211,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Professional/Technical_Interviews</guid>
+    <guid>https://www.rics-notebook.com/blog/Professional/Technical_Interviews</guid>
     <title>How to Ace Technical Interviews as a Software Developer 💯</title>
-    <link>https://rics-blog.vercel.app/blog/Professional/Technical_Interviews</link>
+    <link>https://www.rics-notebook.com/blog/Professional/Technical_Interviews</link>
     <description>Increase your chances of success in technical interviews for software developer positions by following these tips and tricks. Learn how to prepare, practice, stay confident, and follow up after the interview.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1221,9 +1221,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Python/PythonSetup</guid>
+    <guid>https://www.rics-notebook.com/blog/Python/PythonSetup</guid>
     <title>Getting Started with Python: Your First Python Script 🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Python/PythonSetup</link>
+    <link>https://www.rics-notebook.com/blog/Python/PythonSetup</link>
     <description>Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1231,9 +1231,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Raspi/PiHole</guid>
+    <guid>https://www.rics-notebook.com/blog/Raspi/PiHole</guid>
     <title>Pi-hole: Block Ads and Trackers on Your Network 🌐🚫</title>
-    <link>https://rics-blog.vercel.app/blog/Raspi/PiHole</link>
+    <link>https://www.rics-notebook.com/blog/Raspi/PiHole</link>
     <description>Learn about Pi-hole, a free and open-source DNS sinkhole, and how it can help you block ads and trackers on your network, improving your browsing experience.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1241,9 +1241,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Remote_connections/putty</guid>
+    <guid>https://www.rics-notebook.com/blog/Remote_connections/putty</guid>
     <title>Putty: A Guide for SSH Connections 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Remote_connections/putty</link>
+    <link>https://www.rics-notebook.com/blog/Remote_connections/putty</link>
     <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1251,9 +1251,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Remote_connections/ssh</guid>
+    <guid>https://www.rics-notebook.com/blog/Remote_connections/ssh</guid>
     <title>Secure Shell (SSH) for Beginners: A Simple Guide 🚀</title>
-    <link>https://rics-blog.vercel.app/blog/Remote_connections/ssh</link>
+    <link>https://www.rics-notebook.com/blog/Remote_connections/ssh</link>
     <description>Learn the basics of Secure Shell (SSH) for secure remote access to computers,including its benefits, how to use it, and tips for maximizing its security.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1261,9 +1261,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/React-Node-guide</guid>
     <title>React_Node_guide</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/React-Node-guide</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/React-Node-guide</link>
     <description>Example and explanation of react and node JS</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1271,9 +1271,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/Kundalini</guid>
+    <guid>https://www.rics-notebook.com/blog/Health/Kundalini</guid>
     <title>Kundalini Yoga The Path to Awakening and Self-Realization 🌟</title>
-    <link>https://rics-blog.vercel.app/blog/Health/Kundalini</link>
+    <link>https://www.rics-notebook.com/blog/Health/Kundalini</link>
     <description>Discover the transformative power of Kundalini Yoga, its origins, and how to practice it for a balanced and fulfilling life.</description>
     <pubDate>Fri, 24 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1281,9 +1281,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</guid>
+    <guid>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</guid>
     <title>SQL vs NoSQL: Whats the Difference? 📊</title>
-    <link>https://rics-blog.vercel.app/blog/Database/SQLvsNOSQL</link>
+    <link>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</link>
     <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
     <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1291,9 +1291,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/AI/ai_money</guid>
+    <guid>https://www.rics-notebook.com/blog/AI/ai_money</guid>
     <title>Ai Money Maker</title>
-    <link>https://rics-blog.vercel.app/blog/AI/ai_money</link>
+    <link>https://www.rics-notebook.com/blog/AI/ai_money</link>
     <description>Some simple Ideas to make money with AI</description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1301,9 +1301,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Web_Dev/Golang</guid>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/Golang</guid>
     <title>Golang and Gorilla Mux</title>
-    <link>https://rics-blog.vercel.app/blog/Web_Dev/Golang</link>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/Golang</link>
     <description>This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.</description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1311,9 +1311,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/LawsOPower</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/LawsOPower</guid>
     <title>The 48 Laws of Power A Guide to Success and Mastery 💪</title>
-    <link>https://rics-blog.vercel.app/blog/Books/LawsOPower</link>
+    <link>https://www.rics-notebook.com/blog/Books/LawsOPower</link>
     <description>Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.</description>
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1321,9 +1321,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/cyber/CSFC</guid>
+    <guid>https://www.rics-notebook.com/blog/cyber/CSFC</guid>
     <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
-    <link>https://rics-blog.vercel.app/blog/cyber/CSFC</link>
+    <link>https://www.rics-notebook.com/blog/cyber/CSFC</link>
     <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1331,9 +1331,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/GettingStarted</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/GettingStarted</guid>
     <title>How to Start a Government Contracting Small Business</title>
-    <link>https://rics-blog.vercel.app/blog/Government/GettingStarted</link>
+    <link>https://www.rics-notebook.com/blog/Government/GettingStarted</link>
     <description>Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️</description>
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1341,9 +1341,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Government/Proposals</guid>
+    <guid>https://www.rics-notebook.com/blog/Government/Proposals</guid>
     <title>How to Write a Winning Government Proposal</title>
-    <link>https://rics-blog.vercel.app/blog/Government/Proposals</link>
+    <link>https://www.rics-notebook.com/blog/Government/Proposals</link>
     <description>Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️</description>
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1351,9 +1351,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/plantmeds</guid>
+    <guid>https://www.rics-notebook.com/blog/Health/plantmeds</guid>
     <title>Plant Medicines for Anti-Anxiety and Nootropics 🌿🧠</title>
-    <link>https://rics-blog.vercel.app/blog/Health/plantmeds</link>
+    <link>https://www.rics-notebook.com/blog/Health/plantmeds</link>
     <description>Plant medicines have been used for centuries to treat a variety of conditions, including anxiety and cognitive impairment. Discover some of the most well-known plant medicines that have been shown to be effective in treating anxiety and improving cognitive function.</description>
     <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1361,9 +1361,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Professional/Linkedin</guid>
+    <guid>https://www.rics-notebook.com/blog/Professional/Linkedin</guid>
     <title>Linkedin Tips</title>
-    <link>https://rics-blog.vercel.app/blog/Professional/Linkedin</link>
+    <link>https://www.rics-notebook.com/blog/Professional/Linkedin</link>
     <description>Guide to using Linkedin to find a job and network with other professionals</description>
     <pubDate>Sat, 21 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1371,9 +1371,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Health/mushrooms</guid>
+    <guid>https://www.rics-notebook.com/blog/Health/mushrooms</guid>
     <title>Functional Mushrooms: Natures Superpower 🍄💊🌿</title>
-    <link>https://rics-blog.vercel.app/blog/Health/mushrooms</link>
+    <link>https://www.rics-notebook.com/blog/Health/mushrooms</link>
     <description>Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.</description>
     <pubDate>Fri, 13 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1381,9 +1381,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Markdown/code-sample</guid>
+    <guid>https://www.rics-notebook.com/blog/Markdown/code-sample</guid>
     <title>Mardown Formatting and Syntax Highlighting</title>
-    <link>https://rics-blog.vercel.app/blog/Markdown/code-sample</link>
+    <link>https://www.rics-notebook.com/blog/Markdown/code-sample</link>
     <description>Example of a markdown file with code blocks and syntax highlighting</description>
     <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1391,9 +1391,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Setup/GitHub</guid>
+    <guid>https://www.rics-notebook.com/blog/Setup/GitHub</guid>
     <title>Github</title>
-    <link>https://rics-blog.vercel.app/blog/Setup/GitHub</link>
+    <link>https://www.rics-notebook.com/blog/Setup/GitHub</link>
     <description>example and tutorial how to setup and use GitHub</description>
     <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1401,9 +1401,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/Tesla</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/Tesla</guid>
     <title>Nikola Tesla</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/Tesla</link>
+    <link>https://www.rics-notebook.com/blog/Idols/Tesla</link>
     <description>Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Teslas inventions, which also included the Tesla coil and the radio, have had a profound impact on the modern world.</description>
     <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1411,9 +1411,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/Alchemist</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/Alchemist</guid>
     <title>The Profound Impact of The Alchemist: A Book That Can Change Your Life 📖✨</title>
-    <link>https://rics-blog.vercel.app/blog/Books/Alchemist</link>
+    <link>https://www.rics-notebook.com/blog/Books/Alchemist</link>
     <description>Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.</description>
     <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1421,9 +1421,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</guid>
+    <guid>https://www.rics-notebook.com/blog/Physics/QuantamPhysics</guid>
     <title>Exploring the Mysteries of Quantum Physics 💡</title>
-    <link>https://rics-blog.vercel.app/blog/Physics/QuantamPhysics</link>
+    <link>https://www.rics-notebook.com/blog/Physics/QuantamPhysics</link>
     <description>Unlocking the secrets of the universe with the fascinating field of Quantum Physics!</description>
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1431,9 +1431,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Setup/vs-code</guid>
+    <guid>https://www.rics-notebook.com/blog/Setup/vs-code</guid>
     <title>vs-code</title>
-    <link>https://rics-blog.vercel.app/blog/Setup/vs-code</link>
+    <link>https://www.rics-notebook.com/blog/Setup/vs-code</link>
     <description>example and tutorial how to setup vscode</description>
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1441,9 +1441,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Math/EngineeringStats</guid>
+    <guid>https://www.rics-notebook.com/blog/Math/EngineeringStats</guid>
     <title>Engineering Statistics: An Essential Tool for Engineers 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Math/EngineeringStats</link>
+    <link>https://www.rics-notebook.com/blog/Math/EngineeringStats</link>
     <description>Engineering statistics is the application of statistical methods to engineering problems. It is a powerful tool that can be used to solve a wide variety of problems in engineering, including quality control, design of experiments, reliability engineering, risk analysis, and data mining.</description>
     <pubDate>Wed, 21 Sep 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1451,9 +1451,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</guid>
+    <guid>https://www.rics-notebook.com/blog/Math/LinearAlgebra</guid>
     <title>Linear Algebra</title>
-    <link>https://rics-blog.vercel.app/blog/Math/LinearAlgebra</link>
+    <link>https://www.rics-notebook.com/blog/Math/LinearAlgebra</link>
     <description>Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.</description>
     <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1461,9 +1461,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Gambling/Poker5Card</guid>
+    <guid>https://www.rics-notebook.com/blog/Gambling/Poker5Card</guid>
     <title>How to Play 5 Card Poker: Master the Classic Card Game 🃏♠️♥️♦️♣️</title>
-    <link>https://rics-blog.vercel.app/blog/Gambling/Poker5Card</link>
+    <link>https://www.rics-notebook.com/blog/Gambling/Poker5Card</link>
     <description>Learn how to play 5 card poker, a classic and entertaining card game suitable for beginners and experienced players. Discover the basic rules, hand rankings, and specific strategies that can help you improve your chances of winning.</description>
     <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1471,9 +1471,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Gambling/Roulette</guid>
+    <guid>https://www.rics-notebook.com/blog/Gambling/Roulette</guid>
     <title>Mastering Roulette: Tips and Strategies for Casino Success 🎲🎰</title>
-    <link>https://rics-blog.vercel.app/blog/Gambling/Roulette</link>
+    <link>https://www.rics-notebook.com/blog/Gambling/Roulette</link>
     <description>Learn how to improve your chances of winning at roulette with various strategies and tips. Understand the odds, betting options, and how to manage your emotions while playing this popular casino game.</description>
     <pubDate>Thu, 21 Apr 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1481,9 +1481,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Physics/ACvsDC</guid>
+    <guid>https://www.rics-notebook.com/blog/Physics/ACvsDC</guid>
     <title>AC vs DC: Understanding the Differences 🔌</title>
-    <link>https://rics-blog.vercel.app/blog/Physics/ACvsDC</link>
+    <link>https://www.rics-notebook.com/blog/Physics/ACvsDC</link>
     <description>AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.</description>
     <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1491,9 +1491,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Physics/Physics2</guid>
+    <guid>https://www.rics-notebook.com/blog/Physics/Physics2</guid>
     <title>College Physics 2 Rotational Motion, Vibrations and Waves, Fluid Mechanics, thermodynamics, and Electromagnetism 📚</title>
-    <link>https://rics-blog.vercel.app/blog/Physics/Physics2</link>
+    <link>https://www.rics-notebook.com/blog/Physics/Physics2</link>
     <description>College Physics 2 is a continuation of College Physics 1. It covers more advanced topics in mechanics, thermodynamics, electromagnetism, and waves.</description>
     <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1501,9 +1501,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Gambling/BlackJack</guid>
+    <guid>https://www.rics-notebook.com/blog/Gambling/BlackJack</guid>
     <title>Winning Strategies for Blackjack</title>
-    <link>https://rics-blog.vercel.app/blog/Gambling/BlackJack</link>
+    <link>https://www.rics-notebook.com/blog/Gambling/BlackJack</link>
     <description>Learn how to improve your chances of winning at blackjack by playing by the book, understanding specific cases, and using a running count. Discover how these strategies can give you an edge over the casino and make the game more enjoyable.</description>
     <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1511,9 +1511,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Math/Calc3</guid>
+    <guid>https://www.rics-notebook.com/blog/Math/Calc3</guid>
     <title>Calculus 3: The Advanced Study of Multivariable Calculus 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Math/Calc3</link>
+    <link>https://www.rics-notebook.com/blog/Math/Calc3</link>
     <description>Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.</description>
     <pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1521,9 +1521,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Physics/Physics1</guid>
+    <guid>https://www.rics-notebook.com/blog/Physics/Physics1</guid>
     <title>Physics 1 Exploring the Physical World 🔭</title>
-    <link>https://rics-blog.vercel.app/blog/Physics/Physics1</link>
+    <link>https://www.rics-notebook.com/blog/Physics/Physics1</link>
     <description>College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.</description>
     <pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1531,9 +1531,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Math/Calc2</guid>
+    <guid>https://www.rics-notebook.com/blog/Math/Calc2</guid>
     <title>Calculus 2: Advanced Concepts and Applications 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Math/Calc2</link>
+    <link>https://www.rics-notebook.com/blog/Math/Calc2</link>
     <description>Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.</description>
     <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1541,9 +1541,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Math/Calc1</guid>
+    <guid>https://www.rics-notebook.com/blog/Math/Calc1</guid>
     <title>Calculus 1: The Foundations of Mathematics 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Math/Calc1</link>
+    <link>https://www.rics-notebook.com/blog/Math/Calc1</link>
     <description>Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.</description>
     <pubDate>Thu, 21 Mar 2019 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

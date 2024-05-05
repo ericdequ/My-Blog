@@ -2,18 +2,18 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>Rics Blog</title>
-      <link>https://rics-blog.vercel.app/blog</link>
+      <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 04 May 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://rics-blog.vercel.app/tags/technology/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/technology/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Idols/SteveJobs</guid>
+    <guid>https://www.rics-notebook.com/blog/Idols/SteveJobs</guid>
     <title>Steve Jobs: The Visionary Who Blended Spirituality and Technology</title>
-    <link>https://rics-blog.vercel.app/blog/Idols/SteveJobs</link>
+    <link>https://www.rics-notebook.com/blog/Idols/SteveJobs</link>
     <description>Explore the extraordinary life of Steve Jobs, the visionary co-founder of Apple, and discover how his spiritual journey influenced his approach to technology. Learn about his transformative encounter with Be Here Now, his connection to Neem Karoli Baba, and how these experiences shaped his leadership style and the iconic products he created.</description>
     <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -21,9 +21,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</guid>
     <title>Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku</title>
-    <link>https://rics-blog.vercel.app/blog/Books/QuantumSupremacy</link>
+    <link>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</link>
     <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -31,9 +31,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</guid>
+    <guid>https://www.rics-notebook.com/blog/Networking_priciples/Raid</guid>
     <title>Understanding RAID Levels 💻</title>
-    <link>https://rics-blog.vercel.app/blog/Networking_priciples/Raid</link>
+    <link>https://www.rics-notebook.com/blog/Networking_priciples/Raid</link>
     <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -41,9 +41,9 @@
   </item>
 
   <item>
-    <guid>https://rics-blog.vercel.app/blog/IOT/Relationship</guid>
+    <guid>https://www.rics-notebook.com/blog/IOT/Relationship</guid>
     <title>Relationship-Based IoT Models Enhancing Accuracy, Efficiency, and Security 🔗</title>
-    <link>https://rics-blog.vercel.app/blog/IOT/Relationship</link>
+    <link>https://www.rics-notebook.com/blog/IOT/Relationship</link>
     <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

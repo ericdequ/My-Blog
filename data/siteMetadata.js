@@ -5,7 +5,7 @@ const siteMetadata = {
   description: `Ric's Guide to the Galaxy`,
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://rics-blog.vercel.app',
+  siteUrl: 'https://www.rics-notebook.com',
   siteRepo: 'https://https://github.com/ericdequ/My-Blog',
   siteLogo: 'logoo-removebg.webp',
   image: '/static/profile.webp',
