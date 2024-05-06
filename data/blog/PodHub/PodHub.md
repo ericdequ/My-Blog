@@ -6,7 +6,6 @@ draft: false
 summary: A next js app built to share and display videos and podcast near you!
 ---
 
-
 ## Pod Hub
 
 ## What is it
