@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion'
 import siteMetadata from '@/data/siteMetadata'
 import { useEffect, useState } from 'react'
 
@@ -15,20 +16,33 @@ const ScrollTopAndComment = () => {
   }, [])
 
   const handleScrollTop = () => {
-    window.scrollTo({ top: 0 })
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }
+
   const handleScrollToComment = () => {
-    document.getElementById('comment').scrollIntoView()
+    document.getElementById('comment').scrollIntoView({ behavior: 'smooth' })
   }
+
+  const variants = {
+    enter: { opacity: 1, y: 0 },
+    exit: { opacity: 0, y: 20 },
+  }
+
   return (
-    <div
+    <motion.div
       className={`fixed right-8 bottom-8 hidden flex-col gap-3 ${show ? 'md:flex' : 'md:hidden'}`}
+      initial="exit"
+      animate={show ? 'enter' : 'exit'}
+      variants={variants}
+      transition={{ duration: 0.3 }}
     >
       {siteMetadata.comment.provider && (
-        <button
+        <motion.button
           aria-label="Scroll To Comment"
           type="button"
           onClick={handleScrollToComment}
+          whileHover={{ scale: 1.1 }}
+          whileTap={{ scale: 0.9 }}
           className="rounded-full bg-gray-200 p-2 text-gray-500 transition-all hover:bg-gray-300 dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-600"
         >
           <svg className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
@@ -38,12 +52,14 @@ const ScrollTopAndComment = () => {
               clipRule="evenodd"
             />
           </svg>
-        </button>
+        </motion.button>
       )}
-      <button
+      <motion.button
         aria-label="Scroll To Top"
         type="button"
         onClick={handleScrollTop}
+        whileHover={{ scale: 1.1 }}
+        whileTap={{ scale: 0.9 }}
         className="rounded-full bg-gray-200 p-2 text-gray-500 transition-all hover:bg-gray-300 dark:bg-gray-700 dark:text-gray-400 dark:hover:bg-gray-600"
       >
         <svg className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
@@ -53,8 +69,8 @@ const ScrollTopAndComment = () => {
             clipRule="evenodd"
           />
         </svg>
-      </button>
-    </div>
+      </motion.button>
+    </motion.div>
   )
 }
 

@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion'
 import Link from '@/components/Link'
 
 export default function Pagination({ totalPages, currentPage }) {
@@ -6,28 +7,52 @@ export default function Pagination({ totalPages, currentPage }) {
 
   return (
     <div className="space-y-2 pt-6 pb-8 md:space-y-5">
-      <nav className="flex justify-between">
-        {!prevPage && (
-          <button rel="previous" className="cursor-auto disabled:opacity-50" disabled={!prevPage}>
+      <nav className="flex items-center justify-between">
+        {!prevPage ? (
+          <button
+            rel="previous"
+            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800 disabled:opacity-50"
+            disabled={!prevPage}
+          >
             Previous
           </button>
-        )}
-        {prevPage && (
+        ) : (
           <Link href={currentPage - 1 === 1 ? `/blog/` : `/blog/page/${currentPage - 1}`}>
-            <button rel="previous">Previous</button>
+            <motion.button
+              rel="previous"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              transition={{ duration: 0.2 }}
+              className="rounded-md bg-blue-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700"
+            >
+              Previous
+            </motion.button>
           </Link>
         )}
-        <span>
-          {currentPage} of {totalPages}
+
+        <span className="text-sm text-gray-700 dark:text-gray-200">
+          Page {currentPage} of {totalPages}
         </span>
-        {!nextPage && (
-          <button rel="next" className="cursor-auto disabled:opacity-50" disabled={!nextPage}>
+
+        {!nextPage ? (
+          <button
+            rel="next"
+            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800 disabled:opacity-50"
+            disabled={!nextPage}
+          >
             Next
           </button>
-        )}
-        {nextPage && (
+        ) : (
           <Link href={`/blog/page/${currentPage + 1}`}>
-            <button rel="next">Next</button>
+            <motion.button
+              rel="next"
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              transition={{ duration: 0.2 }}
+              className="rounded-md bg-blue-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700"
+            >
+              Next
+            </motion.button>
           </Link>
         )}
       </nav>
