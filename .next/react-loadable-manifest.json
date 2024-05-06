@@ -1,18 +1,49 @@
 {
-  "..\\components\\ClientReload.js -> socket.io-client": {
+  "components\\ClientReload.js -> socket.io-client": {
     "id": 823,
-    "files": ["static/chunks/823.75fba0391d7aa90b.js"]
+    "files": [
+      "static/chunks/872-79e4898feff03fe7.js",
+      "static/chunks/823.113b7d997777d1b2.js"
+    ]
   },
-  "..\\components\\comments\\index.js -> @/components/comments/Disqus": {
-    "id": 7961,
-    "files": ["static/chunks/585.45a5b81d51dec159.js"]
+  "components\\comments\\index.js -> @/components/comments/Disqus": {
+    "id": 108,
+    "files": [
+      "static/chunks/906.525354bb3caa547f.js"
+    ]
   },
-  "..\\components\\comments\\index.js -> @/components/comments/Giscus": {
-    "id": 1572,
-    "files": ["static/chunks/572.edcc8e8f641ac35b.js"]
+  "components\\comments\\index.js -> @/components/comments/Giscus": {
+    "id": 2545,
+    "files": [
+      "static/chunks/545.3b4d8ac0cc111b26.js"
+    ]
   },
-  "..\\components\\comments\\index.js -> @/components/comments/Utterances": {
-    "id": 9026,
-    "files": ["static/chunks/26.9a91f9e072c78ac4.js"]
+  "components\\comments\\index.js -> @/components/comments/Utterances": {
+    "id": 4361,
+    "files": [
+      "static/chunks/560.f3e2cbb6d956444e.js"
+    ]
+  },
+  "node_modules\\.pnpm\\mdx-bundler@8.1.0_esbuild@0.13.15\\node_modules\\mdx-bundler\\dist\\index.js -> remark-frontmatter": {
+    "id": 9539,
+    "files": [
+      "static/chunks/539.706b7c0fa31b925f.js"
+    ]
+  },
+  "node_modules\\.pnpm\\mdx-bundler@8.1.0_esbuild@0.13.15\\node_modules\\mdx-bundler\\dist\\index.js -> xdm/esbuild.js": {
+    "id": 3460,
+    "files": [
+      "static/chunks/d7af0c55.3ab9935993fa9a14.js",
+      "static/chunks/2d1bbb0d.41eee289ba987953.js",
+      "static/chunks/39dc6ee2.02c1bb0115a57a4e.js",
+      "static/chunks/460.9ccaeb3bb8f0684e.js",
+      "static/chunks/338.23a7e6c824db7988.js"
+    ]
+  },
+  "node_modules\\.pnpm\\node-fetch@3.3.2\\node_modules\\node-fetch\\src\\body.js -> ./utils/multipart-parser.js": {
+    "id": 3909,
+    "files": [
+      "static/chunks/909.b0bc1542148dd24b.js"
+    ]
   }
 }

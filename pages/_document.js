@@ -1,4 +1,5 @@
 import Document, { Html, Head, Main, NextScript } from 'next/document'
+
 class MyDocument extends Document {
   render() {
     return (
@@ -31,6 +32,17 @@ class MyDocument extends Document {
             name="google-site-verification"
             content="At3RZ4YGQtXrtPbI2UKNk1aKwGJ5P7goMttGiLMTaT4"
           />
+          {/* Preload critical fonts */}
+          <link
+            rel="preload"
+            href="/fonts/inter-var-latin.woff2"
+            as="font"
+            type="font/woff2"
+            crossOrigin="anonymous"
+          />
+          {/* Preconnect to external resources */}
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+          <link rel="preconnect" href="https://cdn.usefathom.com" crossOrigin="anonymous" />
         </Head>
         <body className="bg-white text-black antialiased dark:bg-gray-900 dark:text-white">
           <Main />

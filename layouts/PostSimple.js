@@ -14,14 +14,14 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
     <SectionContainer>
       <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
       <ScrollTopAndComment />
-      <article>
+      <article className="transition-all duration-500 ease-in-out transform hover:scale-105">
         <div>
           <header>
             <div className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700">
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
-                  <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                  <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400 transition-colors duration-300 ease-in-out">
                     <time dateTime={date}>{formatDate(date)}</time>
                   </dd>
                 </div>
@@ -32,30 +32,32 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </div>
           </header>
           <div
-            className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:divide-y-0 "
+            className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:divide-y-0"
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
-              <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
+              <div className="prose max-w-none pt-10 pb-8 dark:prose-dark transition-all duration-500 ease-in-out transform hover:scale-105">
+                {children}
+              </div>
             </div>
             <Comments frontMatter={frontMatter} />
             <footer>
               <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
                 {prev && (
-                  <div className="pt-4 xl:pt-8">
+                  <div className="pt-4 xl:pt-8 transition-transform duration-300 ease-in-out transform hover:scale-105">
                     <Link
                       href={`/blog/${prev.slug}`}
-                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-300 ease-in-out"
                     >
                       &larr; {prev.title}
                     </Link>
                   </div>
                 )}
                 {next && (
-                  <div className="pt-4 xl:pt-8">
+                  <div className="pt-4 xl:pt-8 transition-transform duration-300 ease-in-out transform hover:scale-105">
                     <Link
                       href={`/blog/${next.slug}`}
-                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-300 ease-in-out"
                     >
                       {next.title} &rarr;
                     </Link>
