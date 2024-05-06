@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics Blog</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
       <lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/science/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.rics-notebook.com/blog/Idols/Feynman</link>
     <description>Journey through the life and mind of Richard Feynman, the brilliant physicist who not only revolutionized quantum mechanics but also foresaw a future where quantum computers would become the norm. Discover how Feynmans unique perspective and relentless curiosity shaped his groundbreaking contributions to science.</description>
     <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Richard Feynman</category><category>Quantum Physics</category><category>Quantum Computing</category><category>Science</category><category>Innovation</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/RethinkingQuantum</link>
     <description>Why it is important to challenge facts</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum</category><category>Science</category><category>Rebel</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.rics-notebook.com/blog/Idols/Newton</link>
     <description>Explore the fascinating life of Isaac Newton, the brilliant scientist who not only revolutionized physics and mathematics but also delved deep into the realms of alchemy and spirituality. Discover how Newtons unconventional pursuits fueled his groundbreaking scientific discoveries.</description>
     <pubDate>Thu, 04 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Isaac Newton</category><category>Science</category><category>Alchemy</category><category>Spirituality</category><category>Innovation</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://www.rics-notebook.com/blog/Books/AngelsDemons</link>
     <description>Embark on a heart-pounding adventure through the pages of Dan Brown&#39;s &quot;Angels &amp; Demons,&quot; a masterful blend of history, science, and faith. Follow symbologist Robert Langdon as he races against time to unravel a deadly plot that threatens to shake the very foundations of the Catholic Church and the world of science.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Dan Brown</category><category>Angels & Demons</category><category>Thriller</category><category>Symbology</category><category>Science</category><category>Faith</category>
   </item>
 

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics Blog</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
       <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-computing/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/ACQCompute</link>
     <description>This post explores how the inherent quantum mechanical nature of the world can be leveraged to create more energy-efficient computing systems. By comparing classical and quantum computers to DC and AC currents, we highlight the potential for quantum computers to drastically reduce the energy consumption of AI models and data centers.</description>
     <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Energy Efficiency</category><category>Sustainable Technology</category><category>AI</category><category>Data Centers</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/AIErrorCorrection</link>
     <description>This post explores the powerful synergy between AI and quantum computing, focusing on how AI can enhance Randomized Benchmarking and gate fidelity. By leveraging the probabilistic nature of both fields, we can create a feedback loop that iteratively improves quantum performance and AI prediction accuracy.</description>
     <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Artificial Intelligence</category><category>Randomized Benchmarking</category><category>Gate Fidelity</category><category>Error Correction</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumMusic</link>
     <description>Exploring quantum computings influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.</description>
     <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Music Production</category><category>Audio Processing</category><category>Neuroscience</category><category>Creative Potential</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/MQC</link>
     <description>Discover how mycelium networks, found in mushrooms, are being harnessed to create sustainable and eco-friendly quantum and thermodynamic computing systems. This groundbreaking approach offers enhanced stability, fault-tolerance, and environmental sustainability, potentially revolutionizing fields such as drug discovery, material science, optimization, and cryptography.</description>
     <pubDate>Fri, 26 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Thermodynamic Computing</category><category>Mycelium</category><category>Bio-Quantum Computing</category><category>Sustainable Computing</category>
   </item>
 
@@ -56,7 +56,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumMeds</link>
     <description>Explore how quantum computing is unlocking new frontiers in drug discovery, creating powerful treatments for incurable diseases, and shaping a new class of medications to revolutionize mental health care.</description>
     <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Drug Discovery</category><category>Mental Health</category><category>Pharmacology</category><category>Neuroscience</category>
   </item>
 
@@ -66,7 +66,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</link>
     <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>D-Wave Systems</category><category>Quantum Annealing</category><category>Optimization</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category>
   </item>
 
@@ -76,7 +76,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/Google</link>
     <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Google</category><category>Superconducting Qubits</category><category>Quantum AI</category><category>Quantum Supremacy</category>
   </item>
 
@@ -86,7 +86,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/HoneyWell</link>
     <description>Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Honeywell Quantum Solutions</category><category>Ion Trap Qubits</category><category>Quantum Charge Coupled Device (QCCD)</category><category>Quantum-Classical Optimization</category>
   </item>
 
@@ -96,7 +96,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/IBM</link>
     <description>Explore IBM&#39;s groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>IBM</category><category>Superconducting Qubits</category><category>Qiskit</category><category>Cloud-based Quantum Computing</category>
   </item>
 
@@ -106,7 +106,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/IonQ</link>
     <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
   </item>
 
@@ -116,7 +116,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/Microsoft</link>
     <description>Explore Microsoft&#39;s unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Microsoft</category><category>Topological Qubits</category><category>Quantum Development Kit</category><category>Q#</category>
   </item>
 
@@ -126,7 +126,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/Nvida</link>
     <description>Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>NVIDIA</category><category>GPU Technology</category><category>Quantum Circuit Simulation</category><category>cuQuantum</category>
   </item>
 
@@ -136,7 +136,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCI</link>
     <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Quantum Circuits Inc. (QCI)</category><category>Superconducting Qubits</category><category>Quantum Processors</category><category>Quantum Cloud Services</category>
   </item>
 
@@ -146,7 +146,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCTRL</link>
     <description>Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Q-CTRL</category><category>Quantum Control</category><category>Quantum Firmware</category><category>Quantum Error Correction</category>
   </item>
 
@@ -156,7 +156,7 @@
     <link>https://www.rics-notebook.com/blog/Companies/Quantum/Rigetti</link>
     <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Rigetti Computing</category><category>Superconducting Qubits</category><category>Hybrid Quantum-Classical Algorithms</category><category>Quantum Cloud Services</category>
   </item>
 
@@ -166,7 +166,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumOverview</link>
     <description>Quantum computing is transforming various industries, from cybersecurity and life sciences to logistics, finance, and communications. Discover how this cutting-edge technology is being used today and explore the exciting possibilities it holds for the near future.</description>
     <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Cybersecurity</category><category>Life Sciences</category><category>Logistics</category><category>Finance</category><category>Communications</category>
   </item>
 
@@ -176,7 +176,7 @@
     <link>https://www.rics-notebook.com/blog/Idols/Feynman</link>
     <description>Journey through the life and mind of Richard Feynman, the brilliant physicist who not only revolutionized quantum mechanics but also foresaw a future where quantum computers would become the norm. Discover how Feynmans unique perspective and relentless curiosity shaped his groundbreaking contributions to science.</description>
     <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Richard Feynman</category><category>Quantum Physics</category><category>Quantum Computing</category><category>Science</category><category>Innovation</category>
   </item>
 
@@ -186,7 +186,7 @@
     <link>https://www.rics-notebook.com/blog/Books/QuantumSupremacy</link>
     <description>Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, &#39;Quantum Supremacy.&#39; Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Michio Kaku</category><category>Physics</category><category>Technology</category><category>Future</category>
   </item>
 

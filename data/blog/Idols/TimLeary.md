@@ -1,8 +1,8 @@
 ---
 title: 'Timothy Leary: The Psychedelic Pioneer Who Expanded Consciousness'
 date: '2021-05-04'
-tags: ['Psychedelics', 'Psychology', 'Consciousness', 'Counterculture']
-draft: true
+tags: ['Psychology', 'Consciousness', 'Counterculture']
+draft: false
 summary: 'Explore the life and legacy of Timothy Leary, the controversial psychologist and countercultural icon who advocated for the therapeutic and transformative potential of psychedelic drugs'
 ---
 

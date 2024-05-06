@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics Blog</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
       <lastBuildDate>Fri, 19 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/drug-discovery/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,8 +16,18 @@
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumMeds</link>
     <description>Explore how quantum computing is unlocking new frontiers in drug discovery, creating powerful treatments for incurable diseases, and shaping a new class of medications to revolutionize mental health care.</description>
     <pubDate>Fri, 19 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Quantum Computing</category><category>Drug Discovery</category><category>Mental Health</category><category>Pharmacology</category><category>Neuroscience</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Idols/AlbertHoffman</guid>
+    <title>Albert Hofmann: Accidental Discovery of LSD and the Bicycle Ride that Changed the World</title>
+    <link>https://www.rics-notebook.com/blog/Idols/AlbertHoffman</link>
+    <description>Explore the remarkable story of Albert Hofmann, the Swiss chemist who accidentally discovered LSD and embarked on a mind-altering bicycle ride that would forever change our understanding of consciousness and the human psyche.</description>
+    <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Drug-Discovery</category><category>History</category>
   </item>
 
     </channel>

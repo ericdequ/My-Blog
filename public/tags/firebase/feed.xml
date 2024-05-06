@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics Blog</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
       <lastBuildDate>Sat, 23 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/firebase/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.rics-notebook.com/blog/Certifications/QCS_Certs</link>
     <description>Step into the future of learning with QuantumLearn. Dive deep into a plethora of subjects, all while enjoying a seamless user experience. Lets embark on a journey of knowledge! 🚀</description>
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Learning</category><category>Firebase</category><category>TailwindCSS</category><category>Chakra UI</category><category>pnpm</category><category>Firebase Integration</category><category>Comptia</category><category>Quantum Realm</category><category>Cyber World</category><category>Project Management</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.rics-notebook.com/blog/Web_Dev/Full_Stack_Social</link>
     <description>This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse </description>
     <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>FullStack</category><category>WebDev</category><category>Database</category><category>Frontend</category><category>Backend</category><category>Golang</category><category>React</category><category>Next.js</category><category>Firebase</category><category>MongoDB</category><category>Vercel</category><category>Google Cloud</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.rics-notebook.com/blog/Web_Dev/Firebase</link>
     <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom (Ric )</author>
     <category>Firebase</category><category>Authentication</category><category>Hosting</category><category>Database</category><category>SDK</category><category>App Services</category>
   </item>
 
