@@ -1,7 +1,7 @@
 ---
 title: 'LangChain: Your Ultimate Tool for Crafting AI-Powered Software 🌐🤖'
 date: '2023-08-13'
-tags: ['AI', 'Software Development', 'LangChain', 'Integration']
+tags: ['AI', 'Software', 'LangChain']
 draft: false
 summary: 'The rise of AI in software development is undeniable. Dive into how LangChain can be your secret weapon in not just creating AI software apps but also seamlessly integrating them into your existing software suite.'
 ---

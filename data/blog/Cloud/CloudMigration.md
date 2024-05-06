@@ -1,7 +1,7 @@
 ---
 title: 'Cloud Migrations: Paving the Way for Digital Excellence ☁️🚀'
 date: '2023-07-25'
-tags: ['Cloud', 'CloudMigration', 'DigitalTransformation']
+tags: ['Cloud', 'Migration']
 draft: false
 summary: 'Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.'
 ---

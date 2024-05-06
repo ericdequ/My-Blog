@@ -2,15 +2,7 @@
 title: 'Be Here Now by Ram Dass: A Spiritual Journey from Psychedelics to Self-Discovery'
 date: '2023-04-30'
 tags:
-  [
-    'Ram Dass',
-    'Be Here Now',
-    'Spirituality',
-    'Psychedelics',
-    'Neem Karoli Baba',
-    'Steve Jobs',
-    'Mark Zuckerberg',
-  ]
+  ['Ram Dass', 'Be Here Now', 'Spirituality', 'Neem Karoli Baba', 'Steve Jobs', 'Mark Zuckerberg']
 draft: false
 summary: Explore the transformative journey of Ram Dass from Harvard psychologist to spiritual guru, as chronicled in his influential book "Be Here Now." Discover how his experiences with psychedelics and his guru, Neem Karoli Baba, helped shape a generation of seekers, including tech visionaries like Steve Jobs and Mark Zuckerberg.
 ---

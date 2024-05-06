@@ -1,7 +1,7 @@
 ---
 title: 'Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧'
 date: '2023-08-14'
-tags: ['AI', 'Cloud Computing', 'Software Architecture', 'Design']
+tags: ['AI', 'Cloud', 'Architecture', 'Design']
 draft: false
 summary: 'The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.'
 ---

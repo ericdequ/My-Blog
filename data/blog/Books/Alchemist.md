@@ -1,7 +1,7 @@
 ---
 title: 'The Profound Impact of The Alchemist: A Book That Can Change Your Life 📖✨'
 date: '2022-12-21'
-tags: ['The Alchemist', 'Book Review', 'Inspiration', 'Life Lessons']
+tags: ['Book Review', 'Inspiration']
 draft: false
 summary: Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.
 ---

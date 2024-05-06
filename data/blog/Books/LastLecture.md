@@ -1,7 +1,7 @@
 ---
 title: 'The Last Lecture: A Powerful Message of Living Life to the Fullest'
 date: '2023-04-30'
-tags: ['Randy Pausch', 'The Last Lecture', 'Life Lessons', 'Inspiration', 'Personal Development']
+tags: ['Lessons', 'Inspiration', 'Personal']
 draft: false
 summary: "Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, 'The Last Lecture.' Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza's 'Becoming Supernatural'"
 date: '2023-04-30'
-tags: ['Personal Development', 'Spirituality', 'Meditation', 'Quantum Physics', 'Dr. Joe Dispenza']
+tags: ['Development', 'Spirituality', 'Meditation', 'Quantum']
 draft: false
 summary: Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza's "Becoming Supernatural," a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.
 ---

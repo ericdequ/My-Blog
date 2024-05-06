@@ -1,7 +1,7 @@
 ---
 title: 'Greenlights by Matthew McConaughey: A Memoir of Life Lessons and Personal Growth'
 date: '2023-04-30'
-tags: ['Matthew McConaughey', 'Greenlights', 'Memoir', 'Life Lessons', 'Personal Growth']
+tags: ['Greenlights', 'Memoir', 'Lessons', 'Personal']
 draft: false
 summary: Discover the profound life lessons and personal growth experiences shared by Matthew McConaughey in his captivating memoir, "Greenlights." This intimate and introspective book offers valuable insights on navigating the joys and challenges of life.
 ---
