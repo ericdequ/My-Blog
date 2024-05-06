@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 03 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/psychology/NLP</guid>
+    <title> Mastering Attention in NLP</title>
+    <link>https://www.rics-notebook.com/blog/psychology/NLP</link>
+    <description>Dive into the mesmerizing world of neurolinguistic programming (NLP) and explore how the strategic use of misdirection harnesses the power of language to manipulate attention. From cognitive psychology to real-world applications, uncover the secrets and ethical considerations of this powerful communicative tool.</description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Neurolinguistic Programming</category><category>Cognitive</category><category>Psychology</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/ACQCompute</guid>
     <title>The Quantum Revolution: Harnessing Natures Alternating Currents for Sustainable Computing</title>
@@ -201,6 +211,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/AccousticQuantum</guid>
+    <title>Acoustic Quantum Computing Harnessing the Power of Sound</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/AccousticQuantum</link>
+    <description>This post explores an innovative approach to building a quantum computer using tuning forks and acoustic frequencies. By leveraging the quantum properties of sound waves, we propose a novel method for creating and manipulating qubits, potentially opening new avenues for quantum computing research.</description>
+    <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Acoustics</category><category>Entanglement</category><category>Qubits</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/Idols/Feynman</guid>
     <title>Richard Feynman: The Quantum Visionary Who Shaped the Future</title>
     <link>https://www.rics-notebook.com/blog/Idols/Feynman</link>
@@ -228,6 +248,16 @@
     <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>GOVERNMENT</category><category>Cryptography</category><category>PUBLIC-SECTOR</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumField</guid>
+    <title>Tapping into the Quantum Field Channeling Creative Energy for an Amazing Future</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumField</link>
+    <description>This post explores the mysterious realm of the Quantum Field.</description>
+    <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Creativity</category>
   </item>
 
   <item>
@@ -811,9 +841,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Books/Angels&Demons</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/AngelsDemons</guid>
     <title>Angels &amp; Demons by Dan Brown: A Thrilling Journey into the Depths of History, Science, and Faith</title>
-    <link>https://www.rics-notebook.com/blog/Books/Angels&Demons</link>
+    <link>https://www.rics-notebook.com/blog/Books/AngelsDemons</link>
     <description>Embark on a heart-pounding adventure through the pages of Dan Brown&#39;s &quot;Angels &amp; Demons,&quot; a masterful blend of history, science, and faith. Follow symbologist Robert Langdon as he races against time to unravel a deadly plot that threatens to shake the very foundations of the Catholic Church and the world of science.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -851,9 +881,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Books/Fear&Loathing</guid>
+    <guid>https://www.rics-notebook.com/blog/Books/FearLoathing</guid>
     <title>Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream</title>
-    <link>https://www.rics-notebook.com/blog/Books/Fear&Loathing</link>
+    <link>https://www.rics-notebook.com/blog/Books/FearLoathing</link>
     <description>Dive into the wild and chaotic world of Hunter S. Thompson&#39;s &#39;Fear and Loathing in Las Vegas,&#39; a seminal work of Gonzo journalism that takes readers on a surreal and drug-fueled journey through the heart of the American Dream. Discover the book&#39;s enduring legacy and its scathing critique of American culture and society.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
@@ -1458,6 +1488,16 @@
     <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>LinearAlgebra</category><category>Math</category><category>Calculus</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/psychology/Misdirection</guid>
+    <title>The Art of Misdirection: Hacking the Brain</title>
+    <link>https://www.rics-notebook.com/blog/psychology/Misdirection</link>
+    <description>Explore the fascinating world of misdirection and how it exploits the vulnerabilities of the human brain. From neuroscience research to business applications and the secrets of pickpocketing, discover how attention manipulation can be both a powerful tool and a cautionary tale.</description>
+    <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Misdirection</category><category>Neuroscience</category>
   </item>
 
   <item>

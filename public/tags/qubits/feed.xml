@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/entanglement/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/qubits/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/AccousticQuantum</guid>
@@ -18,16 +18,6 @@
     <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Acoustics</category><category>Entanglement</category><category>Qubits</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPsychics</guid>
-    <title>A Quantum Perspectice of a Psychic Reality</title>
-    <link>https://www.rics-notebook.com/blog/Quantum/QuantumPsychics</link>
-    <description>How Quantum mechanics are a proof of psychic and meta physic capabilities</description>
-    <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum</category><category>Platforms</category><category>Psychic</category><category>Entanglement</category>
   </item>
 
     </channel>

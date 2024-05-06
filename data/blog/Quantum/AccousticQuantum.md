@@ -2,7 +2,7 @@
 title: 'Acoustic Quantum Computing Harnessing the Power of Sound'
 date: '2024-03-06'
 tags: ['Acoustics', 'Entanglement', 'Qubits']
-draft: true
+draft: false
 summary: 'This post explores an innovative approach to building a quantum computer using tuning forks and acoustic frequencies. By leveraging the quantum properties of sound waves, we propose a novel method for creating and manipulating qubits, potentially opening new avenues for quantum computing research.'
 ---
 
