@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: 'Rics Blog',
-  author: 'Eric deQuevedo',
+  title: 'Rics NoteBook',
+  author: 'Ric ',
   headerTitle: `Ric's NoteBook`,
   description: `Ric's Guide to the Galaxy`,
   language: 'en-us',
@@ -21,7 +21,7 @@ const siteMetadata = {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
     // supports plausible, simpleAnalytics, umami or googleAnalytics
-    plausibleDataDomain: 'https://rics-blog.vercel.app/', // e.g. tailwind-nextjs-starter-blog.vercel.app
+    plausibleDataDomain: 'https://www.rics-notebook.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
     googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
