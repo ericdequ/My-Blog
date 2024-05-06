@@ -1,7 +1,7 @@
 ---
 title: 'Ai Money Maker'
 date: '2023-02-03'
-tags: ['AI', 'Business, 'GPT', 'Money']
+tags: ['AI', 'Business', 'GPT', 'Money']
 draft: false
 summary: Some simple Ideas to make money with AI
 ---
