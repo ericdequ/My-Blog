@@ -4,6 +4,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import ListLayout from '@/layouts/ListLayout'
 import { POSTS_PER_PAGE } from '../../blog'
 import { motion } from 'framer-motion'
+import 'tailwind-scrollbar-hide'
 
 export async function getStaticPaths() {
   const totalPosts = await getAllFilesFrontMatter('blog')

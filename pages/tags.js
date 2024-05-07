@@ -5,6 +5,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
 import { motion } from 'framer-motion'
+import 'tailwind-scrollbar-hide'
 
 export async function getStaticProps() {
   let tags = {}

@@ -6,6 +6,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 import NewsletterForm from '@/components/NewsletterForm'
 import { motion } from 'framer-motion'
+import 'tailwind-scrollbar-hide'
 
 const MAX_DISPLAY = 5
 

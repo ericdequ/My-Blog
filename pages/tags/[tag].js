@@ -8,6 +8,7 @@ import kebabCase from '@/lib/utils/kebabCase'
 import fs from 'fs'
 import path from 'path'
 import { motion } from 'framer-motion'
+import 'tailwind-scrollbar-hide'
 
 const root = process.cwd()
 
