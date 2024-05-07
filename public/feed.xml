@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
-      <lastBuildDate>Fri, 03 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 04 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Math/BenfordsLaw</guid>
+    <title>Benfords Law: Unraveling the Secrets of Digits in the Digital Age</title>
+    <link>https://www.rics-notebook.com/blog/Math/BenfordsLaw</link>
+    <description>Discover the power of Benfords Law, a fascinating statistical principle that unveils hidden patterns in digits.</description>
+    <pubDate>Sat, 04 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Data Science</category><category>Fraud</category><category>AI</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/WirelessEnergy</guid>
+    <title>The Magic of Wireless Power Transmission: Unleashing Teslas Vision</title>
+    <link>https://www.rics-notebook.com/blog/Physics/WirelessEnergy</link>
+    <description>This post explores the fascinating world of wireless power transmission and its potential to revolutionize the way we power our devices and create captivating lighting shows. We delve into the math and physics behind resonant inductive coupling and provide a guide for building your own Tesla coil-based wireless power devices.</description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Tesla</category><category>Wireless</category><category>Energy</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/psychology/NLP</guid>
     <title> Mastering Attention in NLP</title>
@@ -798,6 +818,16 @@
     <pubDate>Sun, 25 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Ric )</author>
     <category>REDTEAM</category><category>Cybersecurity</category><category>Adversarial Testing</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/ClassicMisunderstanding</guid>
+    <title>Enigma of Gravity</title>
+    <link>https://www.rics-notebook.com/blog/Physics/ClassicMisunderstanding</link>
+    <description>Embark on a journey through the captivating world of gravity, exploring its classical interpretations, potential connections to electromagnetism and quantum mechanics, and the cutting-edge theories that may revolutionize our understanding of this fundamental force.</description>
+    <pubDate>Sat, 06 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Gravity</category><category>Physics</category>
   </item>
 
   <item>

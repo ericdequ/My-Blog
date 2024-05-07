@@ -53,18 +53,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/Cloud</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/CloudMigration</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/MultiCloud</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/blog/Books/Alchemist</loc>
   </url>
 
@@ -114,6 +102,18 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/Books/TheValkyries</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/Cloud</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/CloudMigration</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/MultiCloud</loc>
   </url>
 
   <url>
@@ -213,22 +213,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Health/Kundalini</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Health/mushrooms</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Health/PlantApp</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Health/plantmeds</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/blog/hacking/CardScanner</loc>
   </url>
 
@@ -242,6 +226,22 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/hacking/Xss</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Health/Kundalini</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Health/mushrooms</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Health/PlantApp</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Health/plantmeds</loc>
   </url>
 
   <url>
@@ -298,6 +298,10 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/Markdown/mermaid</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Math/BenfordsLaw</loc>
   </url>
 
   <url>
@@ -361,6 +365,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/blog/Physics/ClassicMisunderstanding</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/blog/Physics/Physics1</loc>
   </url>
 
@@ -373,6 +381,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/blog/Physics/WirelessEnergy</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/blog/PodHub/PodHub</loc>
   </url>
 
@@ -382,6 +394,10 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/Professional/Technical_Interviews</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Python/PythonSetup</loc>
   </url>
 
   <url>
@@ -398,26 +414,6 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/psychology/NLP</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Python/PythonSetup</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Raspi/PiHole</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Raspi/RaspiSetup</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Remote_connections/putty</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Remote_connections/ssh</loc>
   </url>
 
   <url>
@@ -549,11 +545,27 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/blog/Raspi/PiHole</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Raspi/RaspiSetup</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/blog/Setup/GitHub</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/blog/Setup/vs-code</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Remote_connections/putty</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Remote_connections/ssh</loc>
   </url>
 
   <url>
@@ -673,11 +685,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/5-card-poker</loc>
+    <loc>https://www.rics-notebook.com/tags/ac</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ac</loc>
+    <loc>https://www.rics-notebook.com/tags/5-card-poker</loc>
   </url>
 
   <url>
@@ -753,10 +765,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ast</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/attacks</loc>
   </url>
 
@@ -766,6 +774,10 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/authentication</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/ast</loc>
   </url>
 
   <url>
@@ -785,11 +797,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/bard</loc>
+    <loc>https://www.rics-notebook.com/tags/be-here-now</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/be-here-now</loc>
+    <loc>https://www.rics-notebook.com/tags/bard</loc>
   </url>
 
   <url>
@@ -801,19 +813,19 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/blackjack</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/bitcoin</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/book-review</loc>
+    <loc>https://www.rics-notebook.com/tags/blackjack</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/bodylanguage</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/book-review</loc>
   </url>
 
   <url>
@@ -825,11 +837,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/breathing</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/business</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/breathing</loc>
+    <loc>https://www.rics-notebook.com/tags/calculus</loc>
   </url>
 
   <url>
@@ -841,15 +857,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/calculus</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/calculus-2</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/card-games</loc>
   </url>
 
   <url>
@@ -857,15 +865,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/carlos-castaneda</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/camino-de-santiago</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/casino-games</loc>
+    <loc>https://www.rics-notebook.com/tags/carlos-castaneda</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/card-games</loc>
   </url>
 
   <url>
@@ -881,7 +889,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/checklist</loc>
+    <loc>https://www.rics-notebook.com/tags/casino-games</loc>
   </url>
 
   <url>
@@ -893,11 +901,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cloud-based-quantum-computing</loc>
+    <loc>https://www.rics-notebook.com/tags/checklist</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/code</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/cloud-based-quantum-computing</loc>
   </url>
 
   <url>
@@ -909,6 +921,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/cognitive</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/codegeneration</loc>
   </url>
 
@@ -917,15 +933,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cognitive</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/collaboration</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/college</loc>
   </url>
 
   <url>
@@ -941,11 +949,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/company-formation</loc>
+    <loc>https://www.rics-notebook.com/tags/college</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/comptia</loc>
+    <loc>https://www.rics-notebook.com/tags/consul</loc>
   </url>
 
   <url>
@@ -953,7 +961,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/consul</loc>
+    <loc>https://www.rics-notebook.com/tags/company-formation</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/comptia</loc>
   </url>
 
   <url>
@@ -977,11 +989,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/creditcard</loc>
+    <loc>https://www.rics-notebook.com/tags/cryptography</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cryptography</loc>
+    <loc>https://www.rics-notebook.com/tags/creditcard</loc>
   </url>
 
   <url>
@@ -993,11 +1005,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cyber-world</loc>
+    <loc>https://www.rics-notebook.com/tags/cyber</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cyber</loc>
+    <loc>https://www.rics-notebook.com/tags/cyber-world</loc>
   </url>
 
   <url>
@@ -1009,11 +1021,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/d-wave-systems</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/da-vinci</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/d-wave-systems</loc>
+    <loc>https://www.rics-notebook.com/tags/data-science</loc>
   </url>
 
   <url>
@@ -1021,7 +1037,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/datascience</loc>
+    <loc>https://www.rics-notebook.com/tags/database</loc>
   </url>
 
   <url>
@@ -1029,7 +1045,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/database</loc>
+    <loc>https://www.rics-notebook.com/tags/ddos</loc>
   </url>
 
   <url>
@@ -1041,15 +1057,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ddos</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/design</loc>
+    <loc>https://www.rics-notebook.com/tags/datascience</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/development</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/design</loc>
   </url>
 
   <url>
@@ -1081,6 +1097,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/drug-discovery</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/don-juan-matus</loc>
   </url>
 
@@ -1089,15 +1109,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/drug-discovery</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/education</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/electrictiy</loc>
   </url>
 
   <url>
@@ -1105,15 +1117,23 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/electrictiy</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/energy</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/energy-efficiency</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/engineering</loc>
+    <loc>https://www.rics-notebook.com/tags/entanglement</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/entanglement</loc>
+    <loc>https://www.rics-notebook.com/tags/engineering</loc>
   </url>
 
   <url>
@@ -1141,11 +1161,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/features</loc>
+    <loc>https://www.rics-notebook.com/tags/fear-and-loathing-in-las-vegas</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/fear-and-loathing-in-las-vegas</loc>
+    <loc>https://www.rics-notebook.com/tags/features</loc>
   </url>
 
   <url>
@@ -1165,11 +1185,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/front-end</loc>
+    <loc>https://www.rics-notebook.com/tags/fraud</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/frontend</loc>
+    <loc>https://www.rics-notebook.com/tags/front-end</loc>
   </url>
 
   <url>
@@ -1177,15 +1197,19 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/frontend</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/future</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/gambling</loc>
+    <loc>https://www.rics-notebook.com/tags/gate-fidelity</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/gate-fidelity</loc>
+    <loc>https://www.rics-notebook.com/tags/gambling</loc>
   </url>
 
   <url>
@@ -1201,11 +1225,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/golang</loc>
+    <loc>https://www.rics-notebook.com/tags/go</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/go</loc>
+    <loc>https://www.rics-notebook.com/tags/golang</loc>
   </url>
 
   <url>
@@ -1225,11 +1249,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/government-contracts</loc>
+    <loc>https://www.rics-notebook.com/tags/government</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/government</loc>
+    <loc>https://www.rics-notebook.com/tags/government-contracts</loc>
   </url>
 
   <url>
@@ -1257,11 +1281,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/hashicorp</loc>
+    <loc>https://www.rics-notebook.com/tags/gravity</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/greenlights</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/hashicorp</loc>
   </url>
 
   <url>
@@ -1277,11 +1305,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/homeland-security</loc>
+    <loc>https://www.rics-notebook.com/tags/holistic-medicine</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/holistic-medicine</loc>
+    <loc>https://www.rics-notebook.com/tags/homeland-security</loc>
   </url>
 
   <url>
@@ -1305,19 +1333,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/icam</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/identity-management</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/image-creation</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/idols</loc>
+    <loc>https://www.rics-notebook.com/tags/icam</loc>
   </url>
 
   <url>
@@ -1325,7 +1345,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/infrastructure-automation</loc>
+    <loc>https://www.rics-notebook.com/tags/idols</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/image-creation</loc>
   </url>
 
   <url>
@@ -1333,11 +1357,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/innovation</loc>
+    <loc>https://www.rics-notebook.com/tags/infrastructure-automation</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/integration</loc>
+    <loc>https://www.rics-notebook.com/tags/innovation</loc>
   </url>
 
   <url>
@@ -1345,7 +1369,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/internet</loc>
+    <loc>https://www.rics-notebook.com/tags/integration</loc>
   </url>
 
   <url>
@@ -1353,11 +1377,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ion-trap-qubits</loc>
+    <loc>https://www.rics-notebook.com/tags/internet</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/iot</loc>
+    <loc>https://www.rics-notebook.com/tags/ion-trap-qubits</loc>
   </url>
 
   <url>
@@ -1365,15 +1389,11 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/iot</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/iphone</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/isaac-newton</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/kalilinux</loc>
   </url>
 
   <url>
@@ -1381,7 +1401,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/isaac-newton</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/job-interviews</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/kalilinux</loc>
   </url>
 
   <url>
@@ -1397,7 +1425,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/lessons</loc>
+    <loc>https://www.rics-notebook.com/tags/life-lessons</loc>
   </url>
 
   <url>
@@ -1405,7 +1433,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/life-lessons</loc>
+    <loc>https://www.rics-notebook.com/tags/lessons</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/life-sciences</loc>
   </url>
 
   <url>
@@ -1414,10 +1446,6 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/linkedin</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/life-sciences</loc>
   </url>
 
   <url>
@@ -1437,11 +1465,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/mark-zuckerberg</loc>
+    <loc>https://www.rics-notebook.com/tags/markdown</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/markdown</loc>
+    <loc>https://www.rics-notebook.com/tags/mark-zuckerberg</loc>
   </url>
 
   <url>
@@ -1453,15 +1481,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/math</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/mathematics</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/matlab</loc>
+    <loc>https://www.rics-notebook.com/tags/math</loc>
   </url>
 
   <url>
@@ -1469,7 +1493,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/mediation</loc>
+    <loc>https://www.rics-notebook.com/tags/meditation</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/matlab</loc>
   </url>
 
   <url>
@@ -1477,7 +1505,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/meditation</loc>
+    <loc>https://www.rics-notebook.com/tags/mediation</loc>
   </url>
 
   <url>
@@ -1505,11 +1533,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/misdirection</loc>
+    <loc>https://www.rics-notebook.com/tags/migration</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/migration</loc>
+    <loc>https://www.rics-notebook.com/tags/misdirection</loc>
   </url>
 
   <url>
@@ -1521,15 +1549,19 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/mongo</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/mongodb</loc>
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/mongo</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/multicloud</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/mycelium</loc>
   </url>
 
   <url>
@@ -1541,10 +1573,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/mycelium</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/nature</loc>
   </url>
 
@@ -1553,11 +1581,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/network</loc>
+    <loc>https://www.rics-notebook.com/tags/networking</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/networking</loc>
+    <loc>https://www.rics-notebook.com/tags/network</loc>
   </url>
 
   <url>
@@ -1585,15 +1613,19 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/nootropics</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/nomad</loc>
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/nootropics</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/nvidia</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/openshift</loc>
   </url>
 
   <url>
@@ -1605,11 +1637,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/openshift</loc>
+    <loc>https://www.rics-notebook.com/tags/orchestration</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/orchestration</loc>
+    <loc>https://www.rics-notebook.com/tags/packer</loc>
   </url>
 
   <url>
@@ -1621,15 +1653,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/packer</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/paulo-coelho</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/penetrationtesting</loc>
   </url>
 
   <url>
@@ -1637,11 +1661,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/personal-development</loc>
+    <loc>https://www.rics-notebook.com/tags/penetrationtesting</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/personal</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/personal-development</loc>
   </url>
 
   <url>
@@ -1657,6 +1685,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/plant</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/pihole</loc>
   </url>
 
@@ -1665,15 +1697,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/plant</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/plant-allies</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/plant-identification</loc>
   </url>
 
   <url>
@@ -1681,15 +1705,19 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/plant-identification</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/platforms</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/podcast</loc>
+    <loc>https://www.rics-notebook.com/tags/pnpm</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/pnpm</loc>
+    <loc>https://www.rics-notebook.com/tags/podcast</loc>
   </url>
 
   <url>
@@ -1701,7 +1729,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/predictions</loc>
+    <loc>https://www.rics-notebook.com/tags/power</loc>
   </url>
 
   <url>
@@ -1709,7 +1737,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/power</loc>
+    <loc>https://www.rics-notebook.com/tags/predictions</loc>
   </url>
 
   <url>
@@ -1721,15 +1749,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/professional</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/programming</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/project-management</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/professional</loc>
   </url>
 
   <url>
@@ -1741,7 +1769,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/psychedelics</loc>
+    <loc>https://www.rics-notebook.com/tags/psychic</loc>
   </url>
 
   <url>
@@ -1749,11 +1777,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/psychic</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/psychology</loc>
+    <loc>https://www.rics-notebook.com/tags/psychedelics</loc>
   </url>
 
   <url>
@@ -1761,15 +1785,19 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/psychology</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/putty</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/python</loc>
+    <loc>https://www.rics-notebook.com/tags/pwa</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/pwa</loc>
+    <loc>https://www.rics-notebook.com/tags/python</loc>
   </url>
 
   <url>
@@ -1789,15 +1817,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/quantum</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/quantum-ai</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-algorithms</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/quantum</loc>
   </url>
 
   <url>
@@ -1837,7 +1865,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-error-correction</loc>
+    <loc>https://www.rics-notebook.com/tags/quantum-physics</loc>
   </url>
 
   <url>
@@ -1845,11 +1873,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-processors</loc>
+    <loc>https://www.rics-notebook.com/tags/quantum-error-correction</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-physics</loc>
+    <loc>https://www.rics-notebook.com/tags/quantum-processors</loc>
   </url>
 
   <url>
@@ -1857,11 +1885,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-supremacy</loc>
+    <loc>https://www.rics-notebook.com/tags/qubits</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/qubits</loc>
+    <loc>https://www.rics-notebook.com/tags/quantum-supremacy</loc>
   </url>
 
   <url>
@@ -1873,15 +1901,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ram-dass</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/ram-practices</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/randy-pausch</loc>
+    <loc>https://www.rics-notebook.com/tags/ram-dass</loc>
   </url>
 
   <url>
@@ -1889,11 +1913,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/raspberrypi</loc>
+    <loc>https://www.rics-notebook.com/tags/randy-pausch</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/react</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/raspberrypi</loc>
   </url>
 
   <url>
@@ -1905,10 +1933,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/red-hat-virtualization</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/redteam</loc>
   </url>
 
@@ -1917,7 +1941,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/relationship</loc>
+    <loc>https://www.rics-notebook.com/tags/red-hat-virtualization</loc>
   </url>
 
   <url>
@@ -1925,11 +1949,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/renaissance</loc>
+    <loc>https://www.rics-notebook.com/tags/relationship</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/remoteaccess</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/renaissance</loc>
   </url>
 
   <url>
@@ -1969,7 +1997,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/roulette</loc>
+    <loc>https://www.rics-notebook.com/tags/rumpusart</loc>
   </url>
 
   <url>
@@ -1977,7 +2005,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/rumpusart</loc>
+    <loc>https://www.rics-notebook.com/tags/roulette</loc>
   </url>
 
   <url>
@@ -1989,6 +2017,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/sdk</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/science</loc>
   </url>
 
@@ -1997,7 +2029,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/sdk</loc>
+    <loc>https://www.rics-notebook.com/tags/self-discovery</loc>
   </url>
 
   <url>
@@ -2005,11 +2037,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/self-discovery</loc>
+    <loc>https://www.rics-notebook.com/tags/self-help</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/self-help</loc>
+    <loc>https://www.rics-notebook.com/tags/serverless</loc>
   </url>
 
   <url>
@@ -2021,15 +2053,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/serverless</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/service-mesh</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/services</loc>
   </url>
 
   <url>
@@ -2037,11 +2061,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/shamanism</loc>
+    <loc>https://www.rics-notebook.com/tags/services</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/smallbusiness</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/shamanism</loc>
   </url>
 
   <url>
@@ -2057,11 +2085,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/software-development</loc>
+    <loc>https://www.rics-notebook.com/tags/soundcloud</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/soundcloud</loc>
+    <loc>https://www.rics-notebook.com/tags/software-development</loc>
   </url>
 
   <url>
@@ -2073,15 +2101,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/sql</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/spirituality</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/ssh</loc>
   </url>
 
   <url>
@@ -2089,11 +2109,19 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/statistics</loc>
+    <loc>https://www.rics-notebook.com/tags/sql</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/ssh</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/startup</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/statistics</loc>
   </url>
 
   <url>
@@ -2109,11 +2137,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/superconducting-qubits</loc>
+    <loc>https://www.rics-notebook.com/tags/strategy</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/strategy</loc>
+    <loc>https://www.rics-notebook.com/tags/superconducting-qubits</loc>
   </url>
 
   <url>
@@ -2125,10 +2153,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/tailwindcss</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/sustainable-computing</loc>
   </url>
 
@@ -2137,11 +2161,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/tcp</loc>
+    <loc>https://www.rics-notebook.com/tags/tailwindcss</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/technical-interviews</loc>
+    <loc>https://www.rics-notebook.com/tags/tcp</loc>
   </url>
 
   <url>
@@ -2149,7 +2173,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/technology</loc>
+    <loc>https://www.rics-notebook.com/tags/technical-interviews</loc>
   </url>
 
   <url>
@@ -2157,11 +2181,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/technology</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/tesla</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/the-alchemist</loc>
+    <loc>https://www.rics-notebook.com/tags/the-last-lecture</loc>
   </url>
 
   <url>
@@ -2169,7 +2197,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/the-last-lecture</loc>
+    <loc>https://www.rics-notebook.com/tags/the-alchemist</loc>
   </url>
 
   <url>
@@ -2181,19 +2209,19 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/thermodynamic-computing</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/thoth</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/threats</loc>
+    <loc>https://www.rics-notebook.com/tags/thermodynamic-computing</loc>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/thriller</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/threats</loc>
   </url>
 
   <url>
@@ -2217,6 +2245,10 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/ttp</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/trust</loc>
   </url>
 
@@ -2225,11 +2257,11 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ttp</loc>
+    <loc>https://www.rics-notebook.com/tags/typescript</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/typescript</loc>
+    <loc>https://www.rics-notebook.com/tags/vector-databases</loc>
   </url>
 
   <url>
@@ -2237,15 +2269,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/vector-embeddings</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/vault</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/vector-databases</loc>
+    <loc>https://www.rics-notebook.com/tags/vector-embeddings</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/vercel</loc>
   </url>
 
   <url>
@@ -2257,15 +2289,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/vercel</loc>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/web-api</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/wellness</loc>
   </url>
 
   <url>
@@ -2277,11 +2301,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/wellness</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/wimhof</loc>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/workloads</loc>
+    <loc>https://www.rics-notebook.com/tags/wireless</loc>
   </url>
 
   <url>
@@ -2289,7 +2317,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/xss</loc>
+    <loc>https://www.rics-notebook.com/tags/workloads</loc>
   </url>
 
   <url>
@@ -2297,7 +2325,15 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/xss</loc>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/youtube</loc>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/yoga</loc>
   </url>
 
   <url>
@@ -2306,9 +2342,5 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/zta</loc>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/yoga</loc>
   </url>
 </urlset>
