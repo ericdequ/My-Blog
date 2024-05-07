@@ -69,9 +69,9 @@ export default function Tags({ tags }) {
                 <Tag text={t} />
                 <Link
                   href={`/tags/${tagSlug}`}
-                  className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
+                  className="ml-3 P-3 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
                 >
-                  {` (${tags[t]})`}
+                  {`(${tags[t]})`}
                 </Link>
               </motion.div>
             )
