@@ -37,13 +37,15 @@ export default function PageTitle({ children }) {
       variants={container}
       initial="hidden"
       animate="visible"
-      className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14"
+      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl"
     >
-      {text.map((char, index) => (
-        <motion.span key={`${char}-${index}`} variants={child}>
-          {char === ' ' ? '\u00A0' : char}
-        </motion.span>
-      ))}
+      <div className="flex flex-wrap justify-center">
+        {text.map((char, index) => (
+          <motion.span key={`${char}-${index}`} variants={child} className="mr-2">
+            {char === ' ' ? '\u00A0' : char}
+          </motion.span>
+        ))}
+      </div>
     </motion.h1>
   )
 }
