@@ -4,36 +4,67 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
-
 import NewsletterForm from '@/components/NewsletterForm'
+import { motion } from 'framer-motion'
 
 const MAX_DISPLAY = 5
 
 export async function getStaticProps() {
   const posts = await getAllFilesFrontMatter('blog')
-
   return { props: { posts } }
 }
 
 export default function Home({ posts }) {
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1,
+      },
+    },
+  }
+
+  const postVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: {
+        duration: 0.5,
+        ease: 'easeInOut',
+      },
+    },
+  }
+
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
-        <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+        <motion.div
+          className="space-y-2 pt-6 pb-8 md:space-y-5"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
+        >
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
             {siteMetadata.description}
           </p>
-        </div>
-        <ul className="divide-y divide-gray-200 dark:divide-gray-700">
+        </motion.div>
+        <motion.ul
+          className="divide-y divide-gray-200 dark:divide-gray-700"
+          variants={containerVariants}
+          initial="hidden"
+          animate="visible"
+        >
           {!posts.length && 'No posts found.'}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
             const { slug, date, title, summary, tags } = frontMatter
             return (
-              <li key={slug} className="py-12">
+              <motion.li key={slug} className="py-12" variants={postVariants}>
                 <article>
                   <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                     <dl>
@@ -75,13 +106,18 @@ export default function Home({ posts }) {
                     </div>
                   </div>
                 </article>
-              </li>
+              </motion.li>
             )
           })}
-        </ul>
+        </motion.ul>
       </div>
       {posts.length > MAX_DISPLAY && (
-        <div className="flex justify-end text-base font-medium leading-6">
+        <motion.div
+          className="flex justify-end text-base font-medium leading-6"
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.5, duration: 0.5 }}
+        >
           <Link
             href="/blog"
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
@@ -89,12 +125,17 @@ export default function Home({ posts }) {
           >
             All Posts &rarr;
           </Link>
-        </div>
+        </motion.div>
       )}
       {siteMetadata.newsletter.provider !== '' && (
-        <div className="flex items-center justify-center pt-4">
+        <motion.div
+          className="flex items-center justify-center pt-4"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.5, duration: 0.5 }}
+        >
           <NewsletterForm />
-        </div>
+        </motion.div>
       )}
     </>
   )
