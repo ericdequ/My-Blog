@@ -7,12 +7,12 @@ import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
 import fs from 'fs'
 import path from 'path'
+import { motion } from 'framer-motion'
 
 const root = process.cwd()
 
 export async function getStaticPaths() {
   const tags = await getAllTags('blog')
-
   return {
     paths: Object.keys(tags).map((tag) => ({
       params: {
@@ -43,13 +43,59 @@ export async function getStaticProps({ params }) {
 export default function Tag({ posts, tag }) {
   // Capitalize first letter and convert space to dash
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
+
+  const containerVariants = {
+    hidden: { opacity: 0 },
+    visible: {
+      opacity: 1,
+      transition: {
+        staggerChildren: 0.1,
+      },
+    },
+  }
+
+  const postVariants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: {
+      opacity: 1,
+      y: 0,
+      transition: {
+        duration: 0.5,
+        ease: 'easeInOut',
+      },
+    },
+  }
+
   return (
     <>
       <TagSEO
         title={`${tag} - ${siteMetadata.author}`}
         description={`${tag} tags - ${siteMetadata.author}`}
       />
-      <ListLayout posts={posts} title={title} />
+      <motion.div
+        className="divide-y divide-gray-200 dark:divide-gray-700"
+        variants={containerVariants}
+        initial="hidden"
+        animate="visible"
+      >
+        <motion.div
+          className="space-y-2 pt-6 pb-8 md:space-y-5"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5 }}
+        >
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+            {title}
+          </h1>
+        </motion.div>
+        <ListLayout
+          posts={posts}
+          title={title}
+          variants={postVariants}
+          initial="hidden"
+          animate="visible"
+        />
+      </motion.div>
     </>
   )
 }
