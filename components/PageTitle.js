@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion'
 
 export default function PageTitle({ children }) {
-  const words = children.split(' ')
+  const words = typeof children === 'string' ? children.split(' ') : []
 
   const container = {
     hidden: { opacity: 0 },
