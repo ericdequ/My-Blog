@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
-      <lastBuildDate>Sun, 21 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 04 Jan 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/mathematics/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Math/DigitSum</guid>
+    <title>Exploring Number Theory and Digit Sums</title>
+    <link>https://www.rics-notebook.com/blog/Math/DigitSum</link>
+    <description>Dive into the fascinating world of number theory and discover the potential of digit sum in finding new ways to Explore large numbers. Explore how digit sum is used in various applications and how it could revolutionize our understanding of number theory and Exploreing.</description>
+    <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Ric )</author>
+    <category>Mathematics</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Math/Calc3</guid>
     <title>Calculus 3: The Advanced Study of Multivariable Calculus 💻</title>
