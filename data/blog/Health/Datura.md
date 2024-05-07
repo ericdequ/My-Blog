@@ -1,6 +1,6 @@
 ---
 title: 'Datura: The Enigmatic Plant and Its Spiritual Journey Through Time'
-date: '2024-05-03'
+date: '2022-05-03'
 tags: ['Entheogens', 'Shamanism', 'Spirituality', 'Herbalism']
 draft: false
 summary: 'Explore the mystical world of Datura, a plant shrouded in mystery and spiritual significance. From ancient shamanic rituals to modern-day spiritual exploration, discover the history, uses, and profound experiences associated with this enigmatic botanical ally.'
