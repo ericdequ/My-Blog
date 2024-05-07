@@ -3,6 +3,7 @@ import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import ListLayout from '@/layouts/ListLayout'
 import { POSTS_PER_PAGE } from '../../blog'
+import { motion } from 'framer-motion'
 
 export async function getStaticPaths() {
   const totalPosts = await getAllFilesFrontMatter('blog')
@@ -42,15 +43,27 @@ export async function getStaticProps(context) {
 }
 
 export default function PostPage({ posts, initialDisplayPosts, pagination }) {
+  const variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 },
+  }
+
   return (
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
-      <ListLayout
-        posts={posts}
-        initialDisplayPosts={initialDisplayPosts}
-        pagination={pagination}
-        title="All Posts"
-      />
+      <motion.div
+        initial="hidden"
+        animate="visible"
+        variants={variants}
+        transition={{ duration: 0.5, ease: 'easeInOut' }}
+      >
+        <ListLayout
+          posts={posts}
+          initialDisplayPosts={initialDisplayPosts}
+          pagination={pagination}
+          title="All Posts"
+        />
+      </motion.div>
     </>
   )
 }

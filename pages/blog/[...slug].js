@@ -3,6 +3,7 @@ import PageTitle from '@/components/PageTitle'
 import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
+import { motion } from 'framer-motion'
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -43,27 +44,45 @@ export async function getStaticProps({ params }) {
 export default function Blog({ post, authorDetails, prev, next }) {
   const { mdxSource, toc, frontMatter } = post
 
+  const variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 },
+  }
+
   return (
     <>
       {frontMatter.draft !== true ? (
-        <MDXLayoutRenderer
-          layout={frontMatter.layout || DEFAULT_LAYOUT}
-          toc={toc}
-          mdxSource={mdxSource}
-          frontMatter={frontMatter}
-          authorDetails={authorDetails}
-          prev={prev}
-          next={next}
-        />
+        <motion.div
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+          transition={{ duration: 0.5, ease: 'easeInOut' }}
+        >
+          <MDXLayoutRenderer
+            layout={frontMatter.layout || DEFAULT_LAYOUT}
+            toc={toc}
+            mdxSource={mdxSource}
+            frontMatter={frontMatter}
+            authorDetails={authorDetails}
+            prev={prev}
+            next={next}
+          />
+        </motion.div>
       ) : (
-        <div className="mt-24 text-center">
+        <motion.div
+          className="mt-24 text-center"
+          initial="hidden"
+          animate="visible"
+          variants={variants}
+          transition={{ duration: 0.5, ease: 'easeInOut' }}
+        >
           <PageTitle>
             Under Construction{' '}
             <span role="img" aria-label="roadwork sign">
               🚧
             </span>
           </PageTitle>
-        </div>
+        </motion.div>
       )}
     </>
   )
