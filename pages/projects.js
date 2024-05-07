@@ -37,7 +37,7 @@ export default function Projects() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
             Projects
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
@@ -50,7 +50,7 @@ export default function Projects() {
           initial="hidden"
           animate="visible"
         >
-          <div className="flex flex-wrap -m-4">
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
             {projectsData.map((project) => (
               <motion.div key={project.title} variants={cardVariants}>
                 <Card
