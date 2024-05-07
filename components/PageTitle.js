@@ -41,7 +41,11 @@ export default function PageTitle({ children }) {
     >
       <div className="flex flex-wrap justify-center">
         {text.map((char, index) => (
-          <motion.span key={`${char}-${index}`} variants={child} className="mr-2">
+          <motion.span
+            key={`${char}-${index}`}
+            variants={child}
+            className="mr-2 inline-block whitespace-pre"
+          >
             {char === ' ' ? '\u00A0' : char}
           </motion.span>
         ))}
