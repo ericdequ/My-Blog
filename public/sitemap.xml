@@ -43,83 +43,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/AI/AISASS</loc>
-    <lastmod>2024-05-06T16:11:34.864Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/ai_money</loc>
-    <lastmod>2024-05-06T16:30:14.349Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/bard_Vs_GPT</loc>
-    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/Bing_Create</loc>
-    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/GPT-API</loc>
-    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/GPT-Resume</loc>
-    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/AI/LangChain</loc>
-    <lastmod>2024-05-06T16:11:34.862Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Certifications/QCS_Certs</loc>
-    <lastmod>2024-05-03T16:18:59.975Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/Cloud</loc>
-    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/CloudMigration</loc>
-    <lastmod>2024-05-06T16:13:04.399Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Cloud/MultiCloud</loc>
-    <lastmod>2024-05-06T16:13:18.912Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/blog/Books/Alchemist</loc>
     <lastmod>2024-05-06T16:13:48.360Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,6 +129,83 @@
   <url>
     <loc>https://www.rics-notebook.com/blog/Books/TheValkyries</loc>
     <lastmod>2024-05-06T16:12:40.720Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/AISASS</loc>
+    <lastmod>2024-05-06T16:11:34.864Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/ai_money</loc>
+    <lastmod>2024-05-06T16:30:14.349Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/bard_Vs_GPT</loc>
+    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/Bing_Create</loc>
+    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/GPT-API</loc>
+    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/GPT-Resume</loc>
+    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/AI/LangChain</loc>
+    <lastmod>2024-05-06T16:11:34.862Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/Cloud</loc>
+    <lastmod>2024-04-26T15:40:05.190Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/CloudMigration</loc>
+    <lastmod>2024-05-06T16:13:04.399Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Cloud/MultiCloud</loc>
+    <lastmod>2024-05-06T16:13:18.912Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Certifications/QCS_Certs</loc>
+    <lastmod>2024-05-03T16:18:59.975Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -330,13 +330,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/GoogleCollab/Collab</loc>
-    <lastmod>2024-04-26T15:40:05.206Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/blog/Gambling/BlackJack</loc>
     <lastmod>2024-05-05T17:26:25.201Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -352,6 +345,13 @@
 
   <url>
     <loc>https://www.rics-notebook.com/blog/Gambling/Roulette</loc>
+    <lastmod>2024-04-26T15:40:05.206Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/GoogleCollab/Collab</loc>
     <lastmod>2024-04-26T15:40:05.206Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -477,6 +477,13 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/blog/IOT/Relationship</loc>
+    <lastmod>2024-04-26T15:40:05.221Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/blog/Idols/AlbertHoffman</loc>
     <lastmod>2024-05-06T16:04:57.049Z</lastmod>
     <changefreq>weekly</changefreq>
@@ -561,15 +568,22 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/IOT/Relationship</loc>
+    <loc>https://www.rics-notebook.com/blog/Java/AbstractSyntaxTree</loc>
+    <lastmod>2024-05-03T16:24:16.509Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Markdown/code-sample</loc>
     <lastmod>2024-04-26T15:40:05.221Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Java/AbstractSyntaxTree</loc>
-    <lastmod>2024-05-03T16:24:16.509Z</lastmod>
+    <loc>https://www.rics-notebook.com/blog/Markdown/mermaid</loc>
+    <lastmod>2024-04-26T15:40:05.221Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -652,15 +666,43 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Markdown/code-sample</loc>
-    <lastmod>2024-04-26T15:40:05.221Z</lastmod>
+    <loc>https://www.rics-notebook.com/blog/Personal/Consciousness</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Markdown/mermaid</loc>
-    <lastmod>2024-04-26T15:40:05.221Z</lastmod>
+    <loc>https://www.rics-notebook.com/blog/Personal/Meditations</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Personal/Qstrology</loc>
+    <lastmod>2024-05-07T13:33:19.010Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Personal/Rumpus</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Personal/Software_dev</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Personal/Tarot</loc>
+    <lastmod>2024-05-07T13:33:14.715Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -668,13 +710,6 @@
   <url>
     <loc>https://www.rics-notebook.com/blog/Next/PWA</loc>
     <lastmod>2024-05-03T16:24:35.087Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/PodHub/PodHub</loc>
-    <lastmod>2024-05-06T15:02:19.016Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -729,57 +764,8 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Consciousness</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Meditations</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Qstrology</loc>
-    <lastmod>2024-05-07T13:33:19.010Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Rumpus</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Software_dev</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Personal/Tarot</loc>
-    <lastmod>2024-05-07T13:33:14.715Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Professional/Linkedin</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Professional/Technical_Interviews</loc>
-    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
+    <loc>https://www.rics-notebook.com/blog/PodHub/PodHub</loc>
+    <lastmod>2024-05-06T15:02:19.016Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -829,6 +815,20 @@
   <url>
     <loc>https://www.rics-notebook.com/blog/psychology/NLP</loc>
     <lastmod>2024-05-07T13:35:24.512Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Professional/Linkedin</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Professional/Technical_Interviews</loc>
+    <lastmod>2024-04-26T15:40:05.237Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1079,7 +1079,14 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Startup/Startup</loc>
+    <loc>https://www.rics-notebook.com/blog/Setup/GitHub</loc>
+    <lastmod>2024-04-26T15:40:05.253Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/blog/Setup/vs-code</loc>
     <lastmod>2024-04-26T15:40:05.253Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1100,14 +1107,7 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/blog/Setup/GitHub</loc>
-    <lastmod>2024-04-26T15:40:05.253Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/blog/Setup/vs-code</loc>
+    <loc>https://www.rics-notebook.com/blog/Startup/Startup</loc>
     <lastmod>2024-04-26T15:40:05.253Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1311,91 +1311,91 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/3d-printing</loc>
-    <lastmod>2024-05-07T21:33:55.221Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.376Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/5-card-poker</loc>
-    <lastmod>2024-05-07T21:33:58.067Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/access-management</loc>
-    <lastmod>2024-05-07T21:33:49.222Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.032Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ac</loc>
-    <lastmod>2024-05-07T21:34:07.909Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.908Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/access-management</loc>
+    <lastmod>2024-05-07T21:42:46.278Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/acoustics</loc>
-    <lastmod>2024-05-07T21:34:09.898Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.840Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/adblocker</loc>
-    <lastmod>2024-05-07T21:34:13.409Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.525Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/adversarial-testing</loc>
-    <lastmod>2024-05-07T21:33:56.286Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.162Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/advisors</loc>
-    <lastmod>2024-05-07T21:34:03.436Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.103Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ai</loc>
-    <lastmod>2024-05-07T21:33:44.592Z</lastmod>
+    <lastmod>2024-05-07T21:42:41.686Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ai-in-construction</loc>
-    <lastmod>2024-05-07T21:33:54.826Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.025Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/alchemy</loc>
-    <lastmod>2024-05-07T21:34:03.738Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.386Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/analysis</loc>
-    <lastmod>2024-05-07T21:34:05.733Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.152Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/american-dream</loc>
-    <lastmod>2024-05-07T21:33:47.089Z</lastmod>
+    <lastmod>2024-05-07T21:42:44.649Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1409,245 +1409,245 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ansible</loc>
-    <lastmod>2024-05-07T21:33:53.991Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.377Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/anxiety</loc>
-    <lastmod>2024-05-07T21:34:01.227Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.679Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/api</loc>
-    <lastmod>2024-05-07T21:33:45.443Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/app-services</loc>
-    <lastmod>2024-05-07T21:34:14.131Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.326Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/apple</loc>
-    <lastmod>2024-05-07T21:34:03.716Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.538Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/app-services</loc>
+    <lastmod>2024-05-07T21:43:07.267Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/applications</loc>
-    <lastmod>2024-05-07T21:34:12.540Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.360Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/architecture</loc>
-    <lastmod>2024-05-07T21:33:44.760Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/artificial-intelligence</loc>
-    <lastmod>2024-05-07T21:34:10.346Z</lastmod>
+    <lastmod>2024-05-07T21:42:41.666Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/art</loc>
-    <lastmod>2024-05-07T21:33:45.056Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.010Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ast</loc>
-    <lastmod>2024-05-07T21:34:05.093Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.938Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/artificial-intelligence</loc>
+    <lastmod>2024-05-07T21:43:02.382Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/astrology</loc>
-    <lastmod>2024-05-07T21:34:03.266Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.075Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/audio-processing</loc>
-    <lastmod>2024-05-07T21:34:11.678Z</lastmod>
+    <lastmod>2024-05-07T21:43:04.694Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/attacks</loc>
-    <lastmod>2024-05-07T21:34:00.252Z</lastmod>
+    <lastmod>2024-05-07T21:42:54.984Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/authentication</loc>
-    <lastmod>2024-05-07T21:34:13.831Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.812Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/automation</loc>
-    <lastmod>2024-05-07T21:33:50.125Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.264Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/aws</loc>
-    <lastmod>2024-05-07T21:33:48.915Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.943Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/azure</loc>
-    <lastmod>2024-05-07T21:33:48.997Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.220Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/backend</loc>
-    <lastmod>2024-05-07T21:34:14.131Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.227Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/bard</loc>
-    <lastmod>2024-05-07T21:33:45.009Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/be-here-now</loc>
-    <lastmod>2024-05-07T21:33:46.458Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/bio-quantum-computing</loc>
-    <lastmod>2024-05-07T21:34:10.736Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.043Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/bing</loc>
-    <lastmod>2024-05-07T21:33:45.260Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.067Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/be-here-now</loc>
+    <lastmod>2024-05-07T21:42:43.134Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/bitcoin</loc>
-    <lastmod>2024-05-07T21:34:10.761Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.330Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/bio-quantum-computing</loc>
+    <lastmod>2024-05-07T21:43:02.560Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/blackjack</loc>
-    <lastmod>2024-05-07T21:33:57.523Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/book-review</loc>
-    <lastmod>2024-05-07T21:33:45.533Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.873Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/bodylanguage</loc>
-    <lastmod>2024-05-07T21:34:09.098Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.760Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/boundary</loc>
-    <lastmod>2024-05-07T21:33:49.269Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.220Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/brain-synchronization</loc>
-    <lastmod>2024-05-07T21:34:09.200Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.097Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/book-review</loc>
+    <lastmod>2024-05-07T21:42:42.362Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/breach-simulation</loc>
-    <lastmod>2024-05-07T21:33:56.248Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.043Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/breathing</loc>
-    <lastmod>2024-05-07T21:34:05.094Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.805Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/business</loc>
-    <lastmod>2024-05-07T21:33:44.947Z</lastmod>
+    <lastmod>2024-05-07T21:42:41.753Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/business-strategy</loc>
-    <lastmod>2024-05-07T21:33:59.646Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.283Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/businessgrowth</loc>
-    <lastmod>2024-05-07T21:33:59.116Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.994Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/calculus</loc>
-    <lastmod>2024-05-07T21:34:06.296Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.452Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/calculus-2</loc>
-    <lastmod>2024-05-07T21:34:06.207Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.552Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1660,15 +1660,15 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/card-games</loc>
-    <lastmod>2024-05-07T21:33:57.726Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/capabilities</loc>
+    <lastmod>2024-05-07T21:43:05.162Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/capabilities</loc>
-    <lastmod>2024-05-07T21:34:12.144Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/card-games</loc>
+    <lastmod>2024-05-07T21:42:51.969Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1682,56 +1682,63 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/casino</loc>
-    <lastmod>2024-05-07T21:33:57.714Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.931Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/casino-games</loc>
-    <lastmod>2024-05-07T21:33:58.018Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/challenges</loc>
-    <lastmod>2024-05-07T21:34:11.175Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.126Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/chakra-ui</loc>
-    <lastmod>2024-05-07T21:33:48.439Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.512Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/challenges</loc>
+    <lastmod>2024-05-07T21:43:03.280Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/checklist</loc>
-    <lastmod>2024-05-07T21:34:11.174Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.280Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/classified-data</loc>
-    <lastmod>2024-05-07T21:33:55.704Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.749Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cloud</loc>
-    <lastmod>2024-05-07T21:33:44.613Z</lastmod>
+    <lastmod>2024-05-07T21:42:41.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cloud-based-quantum-computing</loc>
-    <lastmod>2024-05-07T21:33:52.720Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.347Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/cloud-computing</loc>
+    <lastmod>2024-05-07T21:43:08.014Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1744,225 +1751,197 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cloud-computing</loc>
-    <lastmod>2024-05-07T21:34:15.673Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/codegeneration</loc>
-    <lastmod>2024-05-07T21:34:05.691Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.969Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/code</loc>
-    <lastmod>2024-05-07T21:34:05.681Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.219Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cognitive</loc>
-    <lastmod>2024-05-07T21:34:09.927Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cold</loc>
-    <lastmod>2024-05-07T21:34:05.147Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/college</loc>
-    <lastmod>2024-05-07T21:34:08.306Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.841Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/collaboration</loc>
-    <lastmod>2024-05-07T21:34:13.721Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.829Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/college</loc>
+    <lastmod>2024-05-07T21:42:59.177Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/communication</loc>
-    <lastmod>2024-05-07T21:34:09.114Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/companies</loc>
-    <lastmod>2024-05-07T21:34:11.210Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.762Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/communications</loc>
-    <lastmod>2024-05-07T21:34:12.076Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.029Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/companies</loc>
+    <lastmod>2024-05-07T21:43:03.214Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/company-formation</loc>
-    <lastmod>2024-05-07T21:34:13.815Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.792Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/comptia</loc>
-    <lastmod>2024-05-07T21:33:48.942Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.869Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/consciousness</loc>
-    <lastmod>2024-05-07T21:34:03.292Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.343Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/construction-innovation</loc>
-    <lastmod>2024-05-07T21:33:55.212Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.353Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/construction-technology</loc>
-    <lastmod>2024-05-07T21:33:54.779Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/consul</loc>
-    <lastmod>2024-05-07T21:33:49.342Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/contracting</loc>
-    <lastmod>2024-05-07T21:33:58.725Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.544Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/counterculture</loc>
-    <lastmod>2024-05-07T21:33:47.002Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/creativity</loc>
-    <lastmod>2024-05-07T21:33:47.969Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.415Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/creative-potential</loc>
-    <lastmod>2024-05-07T21:34:11.751Z</lastmod>
+    <lastmod>2024-05-07T21:43:04.814Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/creativity</loc>
+    <lastmod>2024-05-07T21:42:44.975Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/contracting</loc>
+    <lastmod>2024-05-07T21:42:52.914Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/creditcard</loc>
-    <lastmod>2024-05-07T21:33:59.709Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/cryptography</loc>
-    <lastmod>2024-05-07T21:34:10.828Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.563Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/critical-infrastructure</loc>
-    <lastmod>2024-05-07T21:33:56.699Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/csfc</loc>
-    <lastmod>2024-05-07T21:33:55.730Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.117Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cuquantum</loc>
-    <lastmod>2024-05-07T21:33:53.630Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.893Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cybersecurity</loc>
-    <lastmod>2024-05-07T21:33:56.149Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/cryptography</loc>
+    <lastmod>2024-05-07T21:43:03.297Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/cyber-world</loc>
-    <lastmod>2024-05-07T21:33:48.911Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/csfc</loc>
+    <lastmod>2024-05-07T21:42:50.731Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/cyber</loc>
-    <lastmod>2024-05-07T21:33:56.718Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/d-wave-systems</loc>
-    <lastmod>2024-05-07T21:33:50.865Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/dalle</loc>
-    <lastmod>2024-05-07T21:33:45.446Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.415Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/da-vinci</loc>
-    <lastmod>2024-05-07T21:34:03.282Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.234Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/data-centers</loc>
-    <lastmod>2024-05-07T21:34:10.327Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/cyber-world</loc>
+    <lastmod>2024-05-07T21:42:45.831Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/d-wave-systems</loc>
+    <lastmod>2024-05-07T21:42:47.703Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1975,78 +1954,85 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/data-science</loc>
-    <lastmod>2024-05-07T21:34:06.194Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/dalle</loc>
+    <lastmod>2024-05-07T21:42:42.224Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/data-centers</loc>
+    <lastmod>2024-05-07T21:43:02.182Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/database</loc>
-    <lastmod>2024-05-07T21:33:57.085Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.506Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/dc</loc>
-    <lastmod>2024-05-07T21:34:07.910Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/cybersecurity</loc>
+    <lastmod>2024-05-07T21:42:50.861Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/datascience</loc>
-    <lastmod>2024-05-07T21:33:58.202Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.593Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/data-science</loc>
+    <lastmod>2024-05-07T21:42:57.393Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/dc</loc>
+    <lastmod>2024-05-07T21:42:58.989Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ddos</loc>
-    <lastmod>2024-05-07T21:34:00.078Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.598Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/debugging</loc>
-    <lastmod>2024-05-07T21:34:05.709Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.117Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/design</loc>
-    <lastmod>2024-05-07T21:33:44.930Z</lastmod>
+    <lastmod>2024-05-07T21:42:41.768Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/development</loc>
-    <lastmod>2024-05-07T21:33:45.933Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.832Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/devops</loc>
-    <lastmod>2024-05-07T21:33:49.690Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/digital-transformation</loc>
-    <lastmod>2024-05-06T16:08:56.584Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/divination</loc>
-    <lastmod>2024-05-07T21:34:07.923Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.706Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2059,15 +2045,36 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/dns</loc>
-    <lastmod>2024-05-07T21:34:13.409Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/digital-transformation</loc>
+    <lastmod>2024-05-06T16:08:56.584Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/diy</loc>
-    <lastmod>2024-05-07T21:34:13.365Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.409Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/documentation</loc>
+    <lastmod>2024-05-07T21:42:57.189Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/dns</loc>
+    <lastmod>2024-05-07T21:43:06.464Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/divination</loc>
+    <lastmod>2024-05-07T21:42:58.898Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2080,8 +2087,8 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/documentation</loc>
-    <lastmod>2024-05-07T21:34:06.243Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/drones</loc>
+    <lastmod>2024-05-07T21:42:50.308Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2094,316 +2101,309 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/drones</loc>
-    <lastmod>2024-05-07T21:33:55.239Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/drug-discovery</loc>
-    <lastmod>2024-05-07T21:34:01.290Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/economic-impact</loc>
-    <lastmod>2024-05-07T21:34:11.194Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/education</loc>
-    <lastmod>2024-05-07T21:34:06.207Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.716Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/eco-friendly-construction</loc>
-    <lastmod>2024-05-07T21:33:54.808Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/electrictiy</loc>
-    <lastmod>2024-05-07T21:34:07.893Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/economic-impact</loc>
+    <lastmod>2024-05-07T21:43:03.496Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/energy</loc>
-    <lastmod>2024-05-07T21:34:08.322Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/education</loc>
+    <lastmod>2024-05-07T21:42:57.478Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/emerald-tablet</loc>
-    <lastmod>2024-05-07T21:34:13.042Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.677Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/electrictiy</loc>
+    <lastmod>2024-05-07T21:42:58.886Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/energy</loc>
+    <lastmod>2024-05-07T21:42:59.208Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/energy-efficiency</loc>
-    <lastmod>2024-05-07T21:34:10.253Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.066Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/engineering</loc>
-    <lastmod>2024-05-07T21:34:06.699Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.552Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/entanglement</loc>
-    <lastmod>2024-05-07T21:34:09.898Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.939Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/enterprise-linux</loc>
-    <lastmod>2024-05-07T21:33:54.294Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/enterprise-solutions</loc>
-    <lastmod>2024-05-07T21:33:54.401Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.363Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/entheogens</loc>
-    <lastmod>2024-05-07T21:34:00.258Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.029Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/enterprise-solutions</loc>
+    <lastmod>2024-05-07T21:42:49.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/entrepreneurship</loc>
-    <lastmod>2024-05-07T21:33:58.497Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.520Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/error-correction</loc>
-    <lastmod>2024-05-07T21:34:10.412Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/esoteric</loc>
-    <lastmod>2024-05-07T21:34:07.574Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.515Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/faith</loc>
-    <lastmod>2024-05-07T21:33:46.063Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.765Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/fear-and-loathing-in-las-vegas</loc>
-    <lastmod>2024-05-07T21:33:47.042Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.354Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/features</loc>
-    <lastmod>2024-05-07T21:34:05.700Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.208Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/finance</loc>
-    <lastmod>2024-05-07T21:34:12.030Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.077Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/firebase</loc>
-    <lastmod>2024-05-07T21:33:48.320Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.503Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/esoteric</loc>
+    <lastmod>2024-05-07T21:42:58.329Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/firebase-integration</loc>
-    <lastmod>2024-05-07T21:33:48.840Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.781Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/fraud</loc>
-    <lastmod>2024-05-07T21:34:06.232Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.452Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/fraudprevention</loc>
-    <lastmod>2024-05-07T21:33:59.662Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.603Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/front-end</loc>
-    <lastmod>2024-05-07T21:34:16.265Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/fullstack</loc>
-    <lastmod>2024-05-07T21:34:14.083Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.998Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/frontend</loc>
-    <lastmod>2024-05-07T21:34:14.115Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.259Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/future</loc>
-    <lastmod>2024-05-07T21:33:47.985Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/gate-fidelity</loc>
-    <lastmod>2024-05-07T21:34:10.314Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/fullstack</loc>
+    <lastmod>2024-05-07T21:43:07.277Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/future-of-building</loc>
-    <lastmod>2024-05-07T21:33:55.177Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.360Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/future</loc>
+    <lastmod>2024-05-07T21:42:45.053Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gambling</loc>
-    <lastmod>2024-05-07T21:33:58.057Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.126Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/gate-fidelity</loc>
+    <lastmod>2024-05-07T21:43:02.266Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gcp</loc>
-    <lastmod>2024-05-07T21:33:49.174Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.181Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gig-economy</loc>
-    <lastmod>2024-05-07T21:33:55.832Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.560Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/genius</loc>
-    <lastmod>2024-05-07T21:34:03.372Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/go</loc>
-    <lastmod>2024-05-07T21:34:15.621Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.358Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/github</loc>
-    <lastmod>2024-05-07T21:34:13.737Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.859Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/go</loc>
+    <lastmod>2024-05-07T21:43:07.694Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gonzo-journalism</loc>
-    <lastmod>2024-05-07T21:33:47.026Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.399Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/golang</loc>
-    <lastmod>2024-05-07T21:34:15.403Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.578Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/google</loc>
-    <lastmod>2024-05-07T21:33:51.203Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.986Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/google-cloud</loc>
-    <lastmod>2024-05-07T21:34:15.618Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/gorilla-mux</loc>
-    <lastmod>2024-05-07T21:34:15.686Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.647Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/government</loc>
-    <lastmod>2024-05-07T21:33:58.562Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.675Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/gorilla-mux</loc>
+    <lastmod>2024-05-07T21:43:07.593Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/government-contracts</loc>
-    <lastmod>2024-05-07T21:33:59.524Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.288Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/government-initiatives</loc>
-    <lastmod>2024-05-07T21:34:11.688Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.520Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2424,217 +2424,217 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/governmentcontracting</loc>
-    <lastmod>2024-05-07T21:33:58.459Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.496Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gpt</loc>
-    <lastmod>2024-05-07T21:33:45.041Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.032Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gpu-technology</loc>
-    <lastmod>2024-05-07T21:33:53.164Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.658Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/gravity</loc>
-    <lastmod>2024-05-07T21:34:08.288Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/greenlights</loc>
-    <lastmod>2024-05-07T21:33:47.292Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.192Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/green-architecture</loc>
-    <lastmod>2024-05-07T21:33:55.212Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.012Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/greenlights</loc>
+    <lastmod>2024-05-07T21:42:44.663Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/hashicorp</loc>
-    <lastmod>2024-05-07T21:33:49.548Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.800Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/health</loc>
-    <lastmod>2024-05-07T21:34:00.819Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.026Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/hemi-sync</loc>
-    <lastmod>2024-05-07T21:34:09.145Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.775Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/herbalism</loc>
-    <lastmod>2024-05-07T21:34:00.225Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.016Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/hermeticism</loc>
-    <lastmod>2024-05-07T21:34:13.073Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/history</loc>
-    <lastmod>2024-05-07T21:34:01.349Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.627Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/homeland-security</loc>
-    <lastmod>2024-05-07T21:34:10.968Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.197Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/holistic-medicine</loc>
-    <lastmod>2024-05-07T21:34:00.784Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.352Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/history</loc>
+    <lastmod>2024-05-07T21:42:55.729Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/honeywell-quantum-solutions</loc>
-    <lastmod>2024-05-07T21:33:51.239Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/hosting</loc>
-    <lastmod>2024-05-07T21:34:14.121Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/hypnosis</loc>
-    <lastmod>2024-05-07T21:34:09.387Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.020Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/hybrid-quantum-classical-algorithms</loc>
-    <lastmod>2024-05-07T21:33:53.991Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.318Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/ibm</loc>
-    <lastmod>2024-05-07T21:33:52.724Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/hosting</loc>
+    <lastmod>2024-05-07T21:43:07.296Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/hypnosis</loc>
+    <lastmod>2024-05-07T21:43:01.261Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/hunter-s-thompson</loc>
-    <lastmod>2024-05-07T21:33:47.057Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.323Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/ibm</loc>
+    <lastmod>2024-05-07T21:42:48.345Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/identity-management</loc>
-    <lastmod>2024-05-07T21:33:56.238Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.799Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/icam</loc>
-    <lastmod>2024-05-07T21:33:56.047Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/image-creation</loc>
-    <lastmod>2024-05-07T21:33:50.139Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.761Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/idols</loc>
-    <lastmod>2024-05-07T21:34:03.775Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.636Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/image-creation</loc>
+    <lastmod>2024-05-07T21:42:47.388Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/infrastructure</loc>
-    <lastmod>2024-05-07T21:33:54.754Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/infrastructure-automation</loc>
-    <lastmod>2024-05-07T21:33:49.678Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/innovation</loc>
-    <lastmod>2024-05-07T21:33:55.666Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.706Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/infrastructure-as-code</loc>
-    <lastmod>2024-05-07T21:33:50.210Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.440Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/innovation</loc>
+    <lastmod>2024-05-07T21:42:50.681Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/innovative-building</loc>
-    <lastmod>2024-05-07T21:33:54.794Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.005Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/inspiration</loc>
-    <lastmod>2024-05-07T21:33:45.986Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.522Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/internet</loc>
-    <lastmod>2024-05-07T21:34:07.168Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.851Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2648,112 +2648,105 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/inventors</loc>
-    <lastmod>2024-05-07T21:34:05.111Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.636Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ion-trap-qubits</loc>
-    <lastmod>2024-05-07T21:33:51.312Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/ionq</loc>
-    <lastmod>2024-05-07T21:33:52.751Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/iphone</loc>
-    <lastmod>2024-05-07T21:34:03.791Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.043Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/iot</loc>
-    <lastmod>2024-05-07T21:34:05.111Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.902Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/ionq</loc>
+    <lastmod>2024-05-07T21:42:48.316Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/iphone</loc>
+    <lastmod>2024-05-07T21:42:56.636Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/isaac-newton</loc>
-    <lastmod>2024-05-07T21:34:03.647Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.418Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/javascript</loc>
-    <lastmod>2024-05-07T21:34:16.249Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.994Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/job-interviews</loc>
-    <lastmod>2024-05-07T21:34:09.105Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.718Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/kalilinux</loc>
-    <lastmod>2024-05-07T21:34:00.299Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.633Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/kubernetes</loc>
-    <lastmod>2024-05-07T21:33:54.385Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/kundalini</loc>
-    <lastmod>2024-05-07T21:34:00.505Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.608Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/langchain</loc>
-    <lastmod>2024-05-07T21:33:45.515Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.362Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/lidar</loc>
-    <lastmod>2024-05-07T21:33:55.209Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/lessons</loc>
-    <lastmod>2024-05-07T21:33:47.495Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/kundalini</loc>
+    <lastmod>2024-05-07T21:42:55.038Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/learning</loc>
-    <lastmod>2024-05-07T21:33:48.307Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/life-sciences</loc>
-    <lastmod>2024-05-07T21:34:12.061Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/lidar</loc>
+    <lastmod>2024-05-07T21:42:50.281Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/lessons</loc>
+    <lastmod>2024-05-07T21:42:44.692Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2766,99 +2759,99 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/linearalgebra</loc>
-    <lastmod>2024-05-07T21:34:06.662Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/life-sciences</loc>
+    <lastmod>2024-05-07T21:43:04.772Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/linkedin</loc>
-    <lastmod>2024-05-07T21:34:08.691Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.490Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/linearalgebra</loc>
+    <lastmod>2024-05-07T21:42:57.735Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/literature</loc>
-    <lastmod>2024-05-07T21:34:01.816Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/love</loc>
-    <lastmod>2024-05-07T21:33:48.325Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/logistics</loc>
-    <lastmod>2024-05-07T21:34:12.076Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.060Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/machine-learning</loc>
-    <lastmod>2024-05-07T21:33:57.639Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/machinelearning</loc>
-    <lastmod>2024-05-07T21:33:58.006Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.771Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/markdown</loc>
-    <lastmod>2024-05-07T21:34:05.669Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.168Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/machinelearning</loc>
+    <lastmod>2024-05-07T21:42:52.464Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mark-zuckerberg</loc>
-    <lastmod>2024-05-07T21:33:46.519Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/materials</loc>
-    <lastmod>2024-05-07T21:34:11.656Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.082Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mastery</loc>
-    <lastmod>2024-05-07T21:33:47.495Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.128Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/materials</loc>
+    <lastmod>2024-05-07T21:43:04.694Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/math</loc>
-    <lastmod>2024-05-07T21:34:06.645Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/matlab</loc>
-    <lastmod>2024-05-07T21:34:06.712Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.751Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mathematics</loc>
-    <lastmod>2024-05-07T21:34:03.099Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.051Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2871,57 +2864,78 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/matlab</loc>
+    <lastmod>2024-05-07T21:42:57.735Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/mediation</loc>
-    <lastmod>2024-05-07T21:34:07.558Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.343Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/meditation</loc>
-    <lastmod>2024-05-07T21:33:46.357Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.832Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/memoir</loc>
-    <lastmod>2024-05-07T21:33:47.508Z</lastmod>
+    <lastmod>2024-05-07T21:42:44.614Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/memory-palace</loc>
-    <lastmod>2024-05-07T21:34:09.511Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/memory-techniques</loc>
-    <lastmod>2024-05-07T21:34:09.500Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/mental-health</loc>
-    <lastmod>2024-05-07T21:34:11.638Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.278Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mermaid</loc>
-    <lastmod>2024-05-07T21:34:06.228Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.235Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/mental-health</loc>
+    <lastmod>2024-05-07T21:43:04.694Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/memory-techniques</loc>
+    <lastmod>2024-05-07T21:43:01.097Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/method-of-loci</loc>
-    <lastmod>2024-05-07T21:34:09.521Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.385Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/microsoft</loc>
+    <lastmod>2024-05-07T21:42:48.658Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/methods</loc>
+    <lastmod>2024-05-07T21:42:57.686Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2934,274 +2948,253 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/methods</loc>
-    <lastmod>2024-05-07T21:34:06.629Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/mindfulness</loc>
+    <lastmod>2024-05-07T21:42:58.477Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/migration</loc>
-    <lastmod>2024-05-07T21:33:49.237Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/microsoft</loc>
-    <lastmod>2024-05-07T21:33:53.133Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/mindfulness</loc>
-    <lastmod>2024-05-07T21:34:07.590Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/misdirection</loc>
-    <lastmod>2024-05-07T21:34:09.652Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.204Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mobile-app</loc>
-    <lastmod>2024-05-07T21:34:01.094Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.385Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/misdirection</loc>
+    <lastmod>2024-05-07T21:43:01.340Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/money</loc>
-    <lastmod>2024-05-07T21:33:44.994Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.043Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mongo</loc>
-    <lastmod>2024-05-07T21:33:57.102Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/mongodb</loc>
-    <lastmod>2024-05-07T21:34:15.649Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.522Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/multicloud</loc>
-    <lastmod>2024-05-07T21:33:49.189Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.292Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mushrooms</loc>
-    <lastmod>2024-05-07T21:34:00.847Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.285Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/mongodb</loc>
+    <lastmod>2024-05-07T21:43:07.573Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/mycelium</loc>
-    <lastmod>2024-05-07T21:34:10.688Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.564Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/music-production</loc>
-    <lastmod>2024-05-07T21:34:11.627Z</lastmod>
+    <lastmod>2024-05-07T21:43:04.763Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/nature</loc>
-    <lastmod>2024-05-07T21:34:00.767Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.285Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/neem-karoli-baba</loc>
-    <lastmod>2024-05-07T21:33:46.457Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.076Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/network</loc>
-    <lastmod>2024-05-07T21:34:13.425Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/networking</loc>
-    <lastmod>2024-05-07T21:33:59.204Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/neuroscience</loc>
-    <lastmod>2024-05-07T21:34:09.841Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.464Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/neurolinguistic-programming</loc>
-    <lastmod>2024-05-07T21:34:09.835Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.802Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/networking</loc>
+    <lastmod>2024-05-07T21:42:53.060Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/neuroscience</loc>
+    <lastmod>2024-05-07T21:43:01.639Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/next</loc>
-    <lastmod>2024-05-07T21:34:08.264Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.224Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/nextjs</loc>
-    <lastmod>2024-05-07T21:34:07.216Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.117Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/no-sql</loc>
-    <lastmod>2024-05-07T21:33:57.108Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/node</loc>
-    <lastmod>2024-05-07T21:34:16.265Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/nootropics</loc>
-    <lastmod>2024-05-07T21:34:01.243Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.714Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/nomad</loc>
-    <lastmod>2024-05-07T21:33:49.690Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.630Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/node</loc>
+    <lastmod>2024-05-07T21:43:08.049Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/nvidia</loc>
-    <lastmod>2024-05-07T21:33:53.164Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.641Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/nootropics</loc>
+    <lastmod>2024-05-07T21:42:55.704Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/occultism</loc>
-    <lastmod>2024-05-07T21:34:01.839Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.001Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/open-source</loc>
-    <lastmod>2024-05-07T21:33:54.417Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/openshift</loc>
-    <lastmod>2024-05-07T21:33:54.370Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/optimal-performance</loc>
-    <lastmod>2024-05-07T21:34:09.362Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.275Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/openshift</loc>
+    <lastmod>2024-05-07T21:42:49.392Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/optimization</loc>
-    <lastmod>2024-05-07T21:33:50.828Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.703Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/orchestration</loc>
-    <lastmod>2024-05-07T21:33:49.844Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/packer</loc>
-    <lastmod>2024-05-07T21:33:50.125Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/overview</loc>
-    <lastmod>2024-05-07T21:34:12.587Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.186Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/parsing</loc>
-    <lastmod>2024-05-07T21:34:05.152Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.920Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/overview</loc>
+    <lastmod>2024-05-07T21:43:05.377Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/packer</loc>
+    <lastmod>2024-05-07T21:42:47.343Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/paulo-coelho</loc>
-    <lastmod>2024-05-07T21:33:48.219Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/pentesting</loc>
-    <lastmod>2024-05-07T21:33:56.218Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.423Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/penetrationtesting</loc>
-    <lastmod>2024-05-07T21:34:00.242Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.613Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/personal</loc>
-    <lastmod>2024-05-07T21:33:47.508Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/pentesting</loc>
+    <lastmod>2024-05-07T21:42:50.982Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3214,6 +3207,13 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/personal</loc>
+    <lastmod>2024-05-07T21:42:44.649Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/personal-growth</loc>
     <lastmod>2024-05-06T16:08:54.529Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -3221,36 +3221,36 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/philosophy</loc>
-    <lastmod>2024-05-07T21:34:03.480Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/pharmacology</loc>
-    <lastmod>2024-05-07T21:34:11.688Z</lastmod>
+    <lastmod>2024-05-07T21:43:04.677Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/physics</loc>
-    <lastmod>2024-05-07T21:33:47.928Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/pihole</loc>
-    <lastmod>2024-05-07T21:34:13.073Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/philosophy</loc>
+    <lastmod>2024-05-07T21:42:56.353Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/plant</loc>
-    <lastmod>2024-05-07T21:33:46.925Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.352Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/physics</loc>
+    <lastmod>2024-05-07T21:42:45.022Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/pihole</loc>
+    <lastmod>2024-05-07T21:43:05.710Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3263,127 +3263,148 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/plant-identification</loc>
-    <lastmod>2024-05-07T21:34:01.310Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/platforms</loc>
+    <lastmod>2024-05-07T21:43:05.094Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/plant-medicines</loc>
-    <lastmod>2024-05-07T21:34:01.337Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.396Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/platforms</loc>
-    <lastmod>2024-05-07T21:34:12.106Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/plant-identification</loc>
+    <lastmod>2024-05-07T21:42:55.371Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/pnpm</loc>
-    <lastmod>2024-05-07T21:33:48.504Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/poetry</loc>
-    <lastmod>2024-05-07T21:34:01.776Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.760Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/podcast</loc>
-    <lastmod>2024-05-07T21:34:08.678Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.490Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/poker</loc>
-    <lastmod>2024-05-07T21:33:57.630Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.969Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/poetry</loc>
+    <lastmod>2024-05-07T21:42:55.968Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/potential</loc>
-    <lastmod>2024-05-07T21:34:12.076Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.077Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/power</loc>
-    <lastmod>2024-05-07T21:33:47.484Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/power-grid-security</loc>
-    <lastmod>2024-05-07T21:33:56.669Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/private-sector</loc>
-    <lastmod>2024-05-07T21:33:53.991Z</lastmod>
+    <lastmod>2024-05-07T21:42:44.719Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/predictions</loc>
-    <lastmod>2024-05-07T21:34:11.394Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.496Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/professional</loc>
-    <lastmod>2024-05-07T21:34:08.720Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/power-grid-security</loc>
+    <lastmod>2024-05-07T21:42:51.178Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/private-sector</loc>
+    <lastmod>2024-05-07T21:42:49.408Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/procurement</loc>
-    <lastmod>2024-05-07T21:33:58.502Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.687Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/projects</loc>
-    <lastmod>2024-05-07T21:34:13.409Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/project-management</loc>
-    <lastmod>2024-05-07T21:33:48.821Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/proposal</loc>
-    <lastmod>2024-05-07T21:33:59.208Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/professional</loc>
+    <lastmod>2024-05-07T21:42:59.426Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/programming</loc>
-    <lastmod>2024-05-07T21:34:06.759Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.735Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/project-management</loc>
+    <lastmod>2024-05-07T21:42:45.836Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/projects</loc>
+    <lastmod>2024-05-07T21:43:06.478Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/proposal</loc>
+    <lastmod>2024-05-07T21:42:53.328Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/proposalwriting</loc>
+    <lastmod>2024-05-07T21:42:52.958Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/psychology</loc>
+    <lastmod>2024-05-07T21:42:56.522Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/psychic</loc>
+    <lastmod>2024-05-07T21:43:05.094Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3396,239 +3417,218 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/proposalwriting</loc>
-    <lastmod>2024-05-07T21:33:59.082Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/psychology</loc>
-    <lastmod>2024-05-07T21:34:03.707Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/psychic</loc>
-    <lastmod>2024-05-07T21:34:12.492Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/putty</loc>
-    <lastmod>2024-05-07T21:34:13.439Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/public-sector</loc>
-    <lastmod>2024-05-07T21:33:53.976Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/pwa</loc>
-    <lastmod>2024-05-07T21:34:07.165Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.111Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/python</loc>
-    <lastmod>2024-05-07T21:34:09.939Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.748Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/putty</loc>
+    <lastmod>2024-05-07T21:43:06.409Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/public-sector</loc>
+    <lastmod>2024-05-07T21:42:49.358Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/q</loc>
-    <lastmod>2024-05-07T21:33:53.195Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.674Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/q-ctrl</loc>
-    <lastmod>2024-05-07T21:33:53.593Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.907Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/qiskit</loc>
-    <lastmod>2024-05-07T21:33:52.647Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-ai</loc>
-    <lastmod>2024-05-07T21:33:51.218Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.344Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quadratic-unconstrained-binary-optimization-qubo</loc>
-    <lastmod>2024-05-07T21:33:50.880Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.703Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum</loc>
-    <lastmod>2024-05-07T21:33:46.307Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.830Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/quantum-ai</loc>
+    <lastmod>2024-05-07T21:42:47.986Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-algorithms</loc>
-    <lastmod>2024-05-07T21:33:52.739Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.310Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-annealing</loc>
-    <lastmod>2024-05-07T21:33:50.847Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-charge-coupled-device-qccd</loc>
-    <lastmod>2024-05-07T21:33:52.355Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.718Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-circuit-simulation</loc>
-    <lastmod>2024-05-07T21:33:53.514Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.857Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-cloud-services</loc>
-    <lastmod>2024-05-07T21:33:53.004Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/quantum-charge-coupled-device-qccd</loc>
+    <lastmod>2024-05-07T21:42:48.027Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-circuits-inc-qci</loc>
-    <lastmod>2024-05-07T21:33:53.600Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.907Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-classical-optimization</loc>
-    <lastmod>2024-05-07T21:33:52.631Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.332Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-cyber-solutions</loc>
-    <lastmod>2024-05-07T21:33:55.704Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/quantum-cloud-services</loc>
+    <lastmod>2024-05-07T21:42:48.674Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-control</loc>
-    <lastmod>2024-05-07T21:33:53.567Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.924Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-computing</loc>
-    <lastmod>2024-05-07T21:33:47.742Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.038Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/quantum-cyber-solutions</loc>
+    <lastmod>2024-05-07T21:42:50.350Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-development-kit</loc>
-    <lastmod>2024-05-07T21:33:53.216Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-error-correction</loc>
-    <lastmod>2024-05-07T21:33:53.976Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-physics</loc>
-    <lastmod>2024-05-07T21:34:01.887Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.608Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-firmware</loc>
-    <lastmod>2024-05-07T21:33:53.551Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.093Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/quantum-realm</loc>
-    <lastmod>2024-05-07T21:33:48.855Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/quantum-error-correction</loc>
+    <lastmod>2024-05-07T21:42:49.093Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/quantum-physics</loc>
+    <lastmod>2024-05-07T21:42:55.751Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-processors</loc>
-    <lastmod>2024-05-07T21:33:53.536Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.924Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/quantum-realm</loc>
+    <lastmod>2024-05-07T21:42:45.818Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/quantum-supremacy</loc>
-    <lastmod>2024-05-07T21:33:51.249Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.971Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/qubits</loc>
-    <lastmod>2024-05-07T21:34:10.039Z</lastmod>
+    <lastmod>2024-05-07T21:43:01.885Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/raffle</loc>
-    <lastmod>2024-05-07T21:34:07.590Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.454Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/raid</loc>
-    <lastmod>2024-05-07T21:34:07.170Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.885Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ram-dass</loc>
-    <lastmod>2024-05-07T21:33:46.577Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.022Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3642,7 +3642,14 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/randomized-benchmarking</loc>
-    <lastmod>2024-05-07T21:34:10.312Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.266Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/raspberrypi</loc>
+    <lastmod>2024-05-07T21:43:05.693Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3655,127 +3662,113 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/raspberrypi</loc>
-    <lastmod>2024-05-07T21:34:12.979Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/react</loc>
-    <lastmod>2024-05-07T21:34:15.435Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.585Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/rebel</loc>
-    <lastmod>2024-05-07T21:34:13.042Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.709Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/red-hat</loc>
-    <lastmod>2024-05-07T21:33:54.401Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.608Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/red-hat-virtualization</loc>
-    <lastmod>2024-05-07T21:33:54.370Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.688Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/redteam</loc>
-    <lastmod>2024-05-07T21:33:56.161Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/refactoring</loc>
-    <lastmod>2024-05-07T21:34:05.673Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.024Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/relationship</loc>
-    <lastmod>2024-05-07T21:33:59.206Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.013Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/remoteaccess</loc>
-    <lastmod>2024-05-07T21:34:13.737Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/refactoring</loc>
+    <lastmod>2024-05-07T21:42:56.920Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/religion</loc>
-    <lastmod>2024-05-07T21:34:10.760Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.564Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/remoteaccess</loc>
+    <lastmod>2024-05-07T21:43:06.776Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/renewable-energy</loc>
-    <lastmod>2024-05-07T21:33:56.701Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.125Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/renaissance</loc>
-    <lastmod>2024-05-07T21:34:03.310Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.251Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/research</loc>
-    <lastmod>2024-05-07T21:34:12.508Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.310Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/resume</loc>
-    <lastmod>2024-05-07T21:33:45.463Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.410Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/rfps</loc>
-    <lastmod>2024-05-07T21:33:59.186Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/richard-feynman</loc>
-    <lastmod>2024-05-07T21:34:01.617Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/rigetti-computing</loc>
-    <lastmod>2024-05-07T21:33:53.944Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.123Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/rhel</loc>
-    <lastmod>2024-05-07T21:33:53.976Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.354Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/richard-feynman</loc>
+    <lastmod>2024-05-07T21:42:55.752Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3788,176 +3781,183 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/rmf</loc>
-    <lastmod>2024-05-07T21:33:56.701Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/rigetti-computing</loc>
+    <lastmod>2024-05-07T21:42:49.093Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/roadmap</loc>
-    <lastmod>2024-05-07T21:34:07.892Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/rmf</loc>
+    <lastmod>2024-05-07T21:42:51.481Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/roulette</loc>
-    <lastmod>2024-05-07T21:33:58.039Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.048Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/roadmap</loc>
+    <lastmod>2024-05-07T21:42:58.817Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/rumpusart</loc>
-    <lastmod>2024-05-07T21:34:07.991Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/sales</loc>
-    <lastmod>2024-05-07T21:33:58.514Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/satire</loc>
-    <lastmod>2024-05-07T21:34:01.887Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.933Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/scanners</loc>
-    <lastmod>2024-05-07T21:33:59.725Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.630Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/satire</loc>
+    <lastmod>2024-05-07T21:42:55.985Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/science</loc>
-    <lastmod>2024-05-07T21:33:46.066Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.846Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/secret-management</loc>
-    <lastmod>2024-05-07T21:33:50.607Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/security</loc>
-    <lastmod>2024-05-07T21:33:50.902Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.640Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/sdk</loc>
-    <lastmod>2024-05-07T21:34:14.123Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.273Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/security</loc>
+    <lastmod>2024-05-07T21:42:47.624Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/self-discovery</loc>
-    <lastmod>2024-05-07T21:33:47.979Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/serverless</loc>
-    <lastmod>2024-05-07T21:34:15.619Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/self-help</loc>
-    <lastmod>2024-05-07T21:33:47.945Z</lastmod>
+    <lastmod>2024-05-07T21:42:45.085Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/semantic-search</loc>
-    <lastmod>2024-05-07T21:33:57.612Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.771Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/serverless</loc>
+    <lastmod>2024-05-07T21:43:07.647Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/service-discovery</loc>
-    <lastmod>2024-05-07T21:33:49.532Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.642Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/service-mesh</loc>
-    <lastmod>2024-05-07T21:33:49.519Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.652Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/services</loc>
-    <lastmod>2024-05-07T21:34:12.508Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.310Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/setup</loc>
-    <lastmod>2024-05-07T21:34:13.768Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.829Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/shamanism</loc>
-    <lastmod>2024-05-07T21:33:46.814Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/smart-construction</loc>
-    <lastmod>2024-05-07T21:33:54.777Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.195Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/smallbusiness</loc>
-    <lastmod>2024-05-07T21:33:58.181Z</lastmod>
+    <lastmod>2024-05-07T21:42:52.621Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/software</loc>
-    <lastmod>2024-05-07T21:33:45.512Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/smart-construction</loc>
+    <lastmod>2024-05-07T21:42:50.033Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/smart-homes</loc>
-    <lastmod>2024-05-07T21:33:55.201Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.012Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/soc</loc>
-    <lastmod>2024-05-07T21:33:56.684Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.506Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/software</loc>
+    <lastmod>2024-05-07T21:42:42.314Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3971,28 +3971,21 @@
 
   <url>
     <loc>https://www.rics-notebook.com/tags/soundcloud</loc>
-    <lastmod>2024-05-07T21:34:08.725Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.426Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/software-development</loc>
-    <lastmod>2024-05-07T21:34:08.988Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.707Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/spanish-golden-age</loc>
-    <lastmod>2024-05-07T21:34:01.852Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/spiritual</loc>
-    <lastmod>2024-05-07T21:33:46.708Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.018Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4005,190 +3998,197 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/spirituality</loc>
-    <lastmod>2024-05-07T21:33:46.014Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/spiritual</loc>
+    <lastmod>2024-05-07T21:42:43.197Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/sql</loc>
-    <lastmod>2024-05-07T21:33:57.143Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/spirituality</loc>
+    <lastmod>2024-05-07T21:42:42.779Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/spotify</loc>
-    <lastmod>2024-05-07T21:34:08.717Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.501Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/sql</loc>
+    <lastmod>2024-05-07T21:42:51.710Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ssh</loc>
-    <lastmod>2024-05-07T21:34:13.464Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.464Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/startup</loc>
-    <lastmod>2024-05-07T21:34:11.194Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/statistics</loc>
-    <lastmod>2024-05-07T21:34:06.698Z</lastmod>
+    <lastmod>2024-05-07T21:43:03.236Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/storage</loc>
-    <lastmod>2024-05-07T21:34:07.220Z</lastmod>
+    <lastmod>2024-05-07T21:42:57.992Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/strategy</loc>
-    <lastmod>2024-05-07T21:33:57.640Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/statistics</loc>
+    <lastmod>2024-05-07T21:42:57.518Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/steve-jobs</loc>
-    <lastmod>2024-05-07T21:33:46.470Z</lastmod>
+    <lastmod>2024-05-07T21:42:43.060Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/subconscious</loc>
-    <lastmod>2024-05-07T21:34:09.573Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/success</loc>
-    <lastmod>2024-05-07T21:33:47.519Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/strategy</loc>
+    <lastmod>2024-05-07T21:42:51.985Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/superconducting-qubits</loc>
-    <lastmod>2024-05-07T21:33:51.283Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.022Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/surveillance</loc>
-    <lastmod>2024-05-07T21:33:56.669Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/subconscious</loc>
+    <lastmod>2024-05-07T21:43:01.337Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/success</loc>
+    <lastmod>2024-05-07T21:42:44.760Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/sustainability</loc>
-    <lastmod>2024-05-07T21:34:08.306Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.146Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/surveillance</loc>
+    <lastmod>2024-05-07T21:42:51.479Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/sustainable-building</loc>
-    <lastmod>2024-05-07T21:33:54.817Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/sustainable-computing</loc>
-    <lastmod>2024-05-07T21:34:10.794Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/sustainable-technology</loc>
-    <lastmod>2024-05-07T21:34:10.237Z</lastmod>
+    <lastmod>2024-05-07T21:42:49.981Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/sustainable-development</loc>
-    <lastmod>2024-05-07T21:33:55.648Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.442Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/sustainable-computing</loc>
+    <lastmod>2024-05-07T21:43:02.564Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/sustainable-technology</loc>
+    <lastmod>2024-05-07T21:43:02.216Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/symbology</loc>
-    <lastmod>2024-05-07T21:33:45.980Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/tailwindcss</loc>
-    <lastmod>2024-05-07T21:33:48.348Z</lastmod>
+    <lastmod>2024-05-07T21:42:42.719Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/tarot</loc>
-    <lastmod>2024-05-07T21:34:07.913Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/tcp</loc>
-    <lastmod>2024-05-07T21:34:07.161Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.911Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/technical-interviews</loc>
-    <lastmod>2024-05-07T21:34:09.004Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.713Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/terraform</loc>
-    <lastmod>2024-05-07T21:33:50.125Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/tailwindcss</loc>
+    <lastmod>2024-05-07T21:42:45.439Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/technology</loc>
-    <lastmod>2024-05-07T21:33:47.898Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/tcp</loc>
+    <lastmod>2024-05-07T21:42:58.022Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/technologies</loc>
-    <lastmod>2024-05-07T21:34:12.492Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.427Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/terraform</loc>
+    <lastmod>2024-05-07T21:42:47.301Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/technology</loc>
+    <lastmod>2024-05-07T21:42:45.128Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/tesla</loc>
-    <lastmod>2024-05-07T21:34:03.791Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.606Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4215,13 +4215,6 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/the-pilgrimage</loc>
-    <lastmod>2024-05-06T16:08:55.290Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
     <loc>https://www.rics-notebook.com/tags/the-valkyries</loc>
     <lastmod>2024-05-06T16:08:55.353Z</lastmod>
     <changefreq>monthly</changefreq>
@@ -4229,190 +4222,218 @@
   </url>
 
   <url>
+    <loc>https://www.rics-notebook.com/tags/the-pilgrimage</loc>
+    <lastmod>2024-05-06T16:08:55.290Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
     <loc>https://www.rics-notebook.com/tags/thermodynamic-computing</loc>
-    <lastmod>2024-05-07T21:34:10.638Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/thriller</loc>
-    <lastmod>2024-05-07T21:33:46.007Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/thoth</loc>
-    <lastmod>2024-05-07T21:34:13.073Z</lastmod>
+    <lastmod>2024-05-07T21:43:02.497Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/threats</loc>
-    <lastmod>2024-05-07T21:34:13.026Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.710Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/thriller</loc>
+    <lastmod>2024-05-07T21:42:42.542Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/thoth</loc>
+    <lastmod>2024-05-07T21:43:05.643Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/tips</loc>
-    <lastmod>2024-05-07T21:34:08.833Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/training</loc>
-    <lastmod>2024-05-07T21:34:11.301Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.631Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/tools</loc>
-    <lastmod>2024-05-07T21:34:12.547Z</lastmod>
+    <lastmod>2024-05-07T21:43:05.360Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/topological-qubits</loc>
-    <lastmod>2024-05-07T21:33:53.180Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.624Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/training</loc>
+    <lastmod>2024-05-07T21:43:03.496Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/trapped-ion-qubits</loc>
-    <lastmod>2024-05-07T21:33:52.805Z</lastmod>
+    <lastmod>2024-05-07T21:42:48.316Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/ttp</loc>
-    <lastmod>2024-05-07T21:33:59.677Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.329Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/trust</loc>
-    <lastmod>2024-05-07T21:33:59.631Z</lastmod>
+    <lastmod>2024-05-07T21:42:53.387Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/tutorial</loc>
-    <lastmod>2024-05-07T21:34:07.541Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.301Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/typescript</loc>
-    <lastmod>2024-05-07T21:34:16.280Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.944Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/udp</loc>
-    <lastmod>2024-05-07T21:34:07.175Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/vector-embeddings</loc>
-    <lastmod>2024-05-07T21:33:57.145Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.113Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/vector-databases</loc>
-    <lastmod>2024-05-07T21:33:57.164Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.691Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/vault</loc>
-    <lastmod>2024-05-07T21:33:50.292Z</lastmod>
+    <lastmod>2024-05-07T21:42:47.624Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/vector-embeddings</loc>
+    <lastmod>2024-05-07T21:42:51.673Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/vercel</loc>
-    <lastmod>2024-05-07T21:34:08.411Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.315Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/veronica</loc>
-    <lastmod>2024-05-07T21:34:07.558Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.412Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/vs-code</loc>
-    <lastmod>2024-05-07T21:34:13.783Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/web-api</loc>
-    <lastmod>2024-05-07T21:34:16.249Z</lastmod>
+    <lastmod>2024-05-07T21:43:06.854Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/web-development</loc>
-    <lastmod>2024-05-07T21:34:07.574Z</lastmod>
+    <lastmod>2024-05-07T21:42:58.187Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/webdev</loc>
-    <lastmod>2024-05-07T21:34:14.098Z</lastmod>
+    <lastmod>2024-05-07T21:43:07.273Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/web-api</loc>
+    <lastmod>2024-05-07T21:43:08.028Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/wellness</loc>
-    <lastmod>2024-05-07T21:34:00.787Z</lastmod>
+    <lastmod>2024-05-07T21:42:55.285Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/wimhof</loc>
-    <lastmod>2024-05-07T21:34:05.190Z</lastmod>
+    <lastmod>2024-05-07T21:42:56.702Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/wireless</loc>
-    <lastmod>2024-05-07T21:34:08.290Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.146Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/workforce-management</loc>
-    <lastmod>2024-05-07T21:33:55.733Z</lastmod>
+    <lastmod>2024-05-07T21:42:50.606Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/writing</loc>
+    <lastmod>2024-05-07T21:42:53.242Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/workloads</loc>
+    <lastmod>2024-05-07T21:42:47.343Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.rics-notebook.com/tags/xss</loc>
+    <lastmod>2024-05-07T21:42:54.962Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -4425,50 +4446,29 @@
   </url>
 
   <url>
-    <loc>https://www.rics-notebook.com/tags/writing</loc>
-    <lastmod>2024-05-07T21:33:59.245Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/workloads</loc>
-    <lastmod>2024-05-07T21:33:50.125Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/xss</loc>
-    <lastmod>2024-05-07T21:34:00.332Z</lastmod>
+    <loc>https://www.rics-notebook.com/tags/yoga</loc>
+    <lastmod>2024-05-07T21:42:54.999Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/youtube</loc>
-    <lastmod>2024-05-07T21:34:08.691Z</lastmod>
+    <lastmod>2024-05-07T21:42:59.395Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/zero-trust</loc>
-    <lastmod>2024-05-07T21:33:49.321Z</lastmod>
+    <lastmod>2024-05-07T21:42:46.204Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
     <loc>https://www.rics-notebook.com/tags/zta</loc>
-    <lastmod>2024-05-07T21:33:57.062Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <url>
-    <loc>https://www.rics-notebook.com/tags/yoga</loc>
-    <lastmod>2024-05-07T21:34:00.739Z</lastmod>
+    <lastmod>2024-05-07T21:42:51.481Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

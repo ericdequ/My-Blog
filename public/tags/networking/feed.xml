@@ -5,8 +5,8 @@
       <link>https://www.rics-notebook.com/blog</link>
       <description>Ric&#39;s Guide to the Galaxy</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Ric )</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Ric )</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 02 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/networking/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumNetworking</link>
     <description>Embarking on a journey through Quantum Networking, the future of secure and efficient communication!</description>
     <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Networking</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://www.rics-notebook.com/blog/Government/Relationships</link>
     <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
     <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://www.rics-notebook.com/blog/Networking_priciples/TCPvsUDP</link>
     <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>TCP</category><category>UDP</category><category>Networking</category>
   </item>
 
@@ -46,7 +46,7 @@
     <link>https://www.rics-notebook.com/blog/Remote_connections/putty</link>
     <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Putty</category><category>SSH</category><category>Networking</category>
   </item>
 

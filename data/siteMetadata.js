@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: 'Rics NoteBook',
-  author: 'Ric ',
+  author: 'Eric deQuevedo',
   headerTitle: `Ric's NoteBook`,
   description: `Ric's Guide to the Galaxy`,
   language: 'en-us',
@@ -24,7 +24,7 @@ const siteMetadata = {
     plausibleDataDomain: 'https://www.rics-notebook.com/', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: true, // true or false
     umamiWebsiteId: '', // e.g. 123e4567-e89b-12d3-a456-426614174000
-    googleAnalyticsId: '', // e.g. UA-000000-2 or G-XXXXXXX
+    googleAnalyticsId: 'G-ERCKXSBZLY', // e.g. UA-000000-2 or G-XXXXXXX
     posthogAnalyticsId: '', // posthog.init e.g. phc_5yXvArzvRdqtZIsHkEm3Fkkhm3d0bEYUXCaFISzqPSQ
   },
   newsletter: {
