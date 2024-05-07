@@ -1,13 +1,13 @@
 import { motion } from 'framer-motion'
 
 export default function PageTitle({ children }) {
-  const text = Array.from(children)
+  const words = children.split(' ')
 
   const container = {
     hidden: { opacity: 0 },
     visible: (i = 1) => ({
       opacity: 1,
-      transition: { staggerChildren: 0.05, delayChildren: 0.04 * i },
+      transition: { staggerChildren: 0.12, delayChildren: 0.04 * i },
     }),
   }
 
@@ -40,13 +40,14 @@ export default function PageTitle({ children }) {
       className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl"
     >
       <div className="flex flex-wrap justify-center">
-        {text.map((char, index) => (
+        {words.map((word, index) => (
           <motion.span
-            key={`${char}-${index}`}
+            key={`${word}-${index}`}
             variants={child}
             className="mr-2 inline-block whitespace-pre"
           >
-            {char === ' ' ? '\u00A0' : char}
+            {word}
+            {index < words.length - 1 ? '\u00A0' : ''}
           </motion.span>
         ))}
       </div>
