@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion'
 import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
@@ -19,6 +20,11 @@ const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day:
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { slug, fileName, date, title, images, tags } = frontMatter
 
+  const variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 },
+  }
+
   return (
     <SectionContainer>
       <BlogSEO
@@ -28,7 +34,13 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       />
       <ScrollTopAndComment />
       <article>
-        <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
+        <motion.div
+          className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700"
+          variants={variants}
+          initial="hidden"
+          animate="visible"
+          transition={{ duration: 0.6, delay: 0.2 }}
+        >
           <header className="pt-6 xl:pb-6">
             <div className="space-y-1 text-center">
               <dl className="space-y-10">
@@ -87,17 +99,29 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </dl>
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
-              <div className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300">
+              <motion.div
+                className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300"
+                variants={variants}
+                initial="hidden"
+                animate="visible"
+                transition={{ duration: 0.6, delay: 0.4 }}
+              >
                 <Link href={discussUrl(slug)} rel="nofollow">
                   {'Discuss on Twitter'}
                 </Link>
                 {` • `}
                 <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
-              </div>
+              </motion.div>
               <Comments frontMatter={frontMatter} />
             </div>
             <footer>
-              <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
+              <motion.div
+                className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y"
+                variants={variants}
+                initial="hidden"
+                animate="visible"
+                transition={{ duration: 0.6, delay: 0.6 }}
+              >
                 {tags && (
                   <div className="py-4 xl:py-8">
                     <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
@@ -134,7 +158,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     )}
                   </div>
                 )}
-              </div>
+              </motion.div>
               <div className="pt-4 xl:pt-8">
                 <Link
                   href="/blog"
@@ -145,7 +169,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </div>
             </footer>
           </div>
-        </div>
+        </motion.div>
       </article>
     </SectionContainer>
   )

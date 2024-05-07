@@ -24,23 +24,32 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const allPosts = await getAllFilesFrontMatter('blog')
-  const filteredPosts = allPosts.filter(
-    (post) => post.draft !== true && post.tags.map((t) => kebabCase(t)).includes(params.tag)
-  )
+  try {
+    const allPosts = await getAllFilesFrontMatter('blog')
+    const filteredPosts = allPosts.filter(
+      (post) => post.draft !== true && post.tags.map((t) => kebabCase(t)).includes(params.tag)
+    )
 
-  // rss
-  if (filteredPosts.length > 0) {
-    const rss = generateRss(filteredPosts, `tags/${params.tag}/feed.xml`)
-    const rssPath = path.join(root, 'public', 'tags', params.tag)
-    fs.mkdirSync(rssPath, { recursive: true })
-    fs.writeFileSync(path.join(rssPath, 'feed.xml'), rss)
+    // rss
+    if (filteredPosts.length > 0) {
+      const rss = generateRss(filteredPosts, `tags/${params.tag}/feed.xml`)
+      const rssPath = path.join(root, 'public', 'tags', params.tag)
+      fs.mkdirSync(rssPath, { recursive: true })
+      fs.writeFileSync(path.join(rssPath, 'feed.xml'), rss)
+    }
+
+    return { props: { posts: filteredPosts, tag: params.tag } }
+  } catch (error) {
+    console.error(`Error in getStaticProps for tag ${params.tag}:`, error)
+    return { notFound: true }
   }
-
-  return { props: { posts: filteredPosts, tag: params.tag } }
 }
 
 export default function Tag({ posts, tag }) {
+  if (!tag) {
+    return <div>Tag not found</div>
+  }
+
   // Capitalize first letter and convert space to dash
   const title = tag[0].toUpperCase() + tag.split(' ').join('-').slice(1)
 

@@ -3,12 +3,43 @@ import kebabCase from '@/lib/utils/kebabCase'
 import { motion } from 'framer-motion'
 
 const Tag = ({ text }) => {
+  if (!text) {
+    return null
+  }
+
+  const tagVariants = {
+    hover: {
+      scale: 1.1,
+      transition: {
+        duration: 0.2,
+        ease: 'easeInOut',
+      },
+    },
+    tap: {
+      scale: 0.9,
+      transition: {
+        duration: 0.2,
+        ease: 'easeInOut',
+      },
+    },
+  }
+
+  const textVariants = {
+    hover: {
+      color: '#4B5563',
+      transition: {
+        duration: 0.2,
+        ease: 'easeInOut',
+      },
+    },
+  }
+
+  const tagSlug = kebabCase(text)
+
   return (
-    <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }} className="inline-block">
-      <Link href={`/tags/${kebabCase(text)}`}>
-        <a className="mr-3 text-sm font-medium uppercase text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors duration-200">
-          {text.split(' ').join('-')}
-        </a>
+    <motion.div className="inline-block" variants={tagVariants} whileHover="hover" whileTap="tap">
+      <Link href={`/tags/${tagSlug}`} passHref>
+        {text}
       </Link>
     </motion.div>
   )

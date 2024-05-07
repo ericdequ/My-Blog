@@ -1,3 +1,4 @@
+import { motion } from 'framer-motion'
 import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
@@ -10,6 +11,11 @@ import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
   const { date, title } = frontMatter
 
+  const variants = {
+    hidden: { opacity: 0, y: 20 },
+    visible: { opacity: 1, y: 0 },
+  }
+
   return (
     <SectionContainer>
       <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
@@ -17,7 +23,13 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
-            <div className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700">
+            <motion.div
+              className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700"
+              variants={variants}
+              initial="hidden"
+              animate="visible"
+              transition={{ duration: 0.6, delay: 0.2 }}
+            >
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
@@ -29,18 +41,30 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
-            </div>
+            </motion.div>
           </header>
           <div
             className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:divide-y-0 "
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
-            <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
+            <motion.div
+              className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
+              variants={variants}
+              initial="hidden"
+              animate="visible"
+              transition={{ duration: 0.6, delay: 0.4 }}
+            >
               <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
-            </div>
+            </motion.div>
             <Comments frontMatter={frontMatter} />
             <footer>
-              <div className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base">
+              <motion.div
+                className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base"
+                variants={variants}
+                initial="hidden"
+                animate="visible"
+                transition={{ duration: 0.6, delay: 0.6 }}
+              >
                 {prev && (
                   <div className="pt-4 xl:pt-8">
                     <Link
@@ -61,7 +85,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     </Link>
                   </div>
                 )}
-              </div>
+              </motion.div>
             </footer>
           </div>
         </div>

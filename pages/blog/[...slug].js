@@ -20,30 +20,38 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const allPosts = await getAllFilesFrontMatter('blog')
-  const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === params.slug.join('/'))
-  const prev = allPosts[postIndex + 1] || null
-  const next = allPosts[postIndex - 1] || null
-  const post = await getFileBySlug('blog', params.slug.join('/'))
-  const authorList = post.frontMatter.authors || ['default']
-  const authorPromise = authorList.map(async (author) => {
-    const authorResults = await getFileBySlug('authors', [author])
-    return authorResults.frontMatter
-  })
-  const authorDetails = await Promise.all(authorPromise)
+  try {
+    const allPosts = await getAllFilesFrontMatter('blog')
+    const postIndex = allPosts.findIndex((post) => formatSlug(post.slug) === params.slug.join('/'))
+    const prev = allPosts[postIndex + 1] || null
+    const next = allPosts[postIndex - 1] || null
+    const post = await getFileBySlug('blog', params.slug.join('/'))
+    const authorList = post.frontMatter.authors || ['default']
+    const authorPromise = authorList.map(async (author) => {
+      const authorResults = await getFileBySlug('authors', [author])
+      return authorResults.frontMatter
+    })
+    const authorDetails = await Promise.all(authorPromise)
 
-  // rss
-  if (allPosts.length > 0) {
-    const rss = generateRss(allPosts)
-    fs.writeFileSync('./public/feed.xml', rss)
+    // rss
+    if (allPosts.length > 0) {
+      const rss = generateRss(allPosts)
+      fs.writeFileSync('./public/feed.xml', rss)
+    }
+
+    return { props: { post, authorDetails, prev, next } }
+  } catch (error) {
+    console.error(`Error in getStaticProps for slug ${params.slug.join('/')}:`, error)
+    return { notFound: true }
   }
-
-  return { props: { post, authorDetails, prev, next } }
 }
 
 export default function Blog({ post, authorDetails, prev, next }) {
-  const { mdxSource, toc, frontMatter } = post
+  if (!post) {
+    return <div>Post not found</div>
+  }
 
+  const { mdxSource, toc, frontMatter } = post
   const variants = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
