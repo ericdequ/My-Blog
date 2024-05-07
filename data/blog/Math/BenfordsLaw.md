@@ -2,7 +2,7 @@
 title: 'Benfords Law: Unraveling the Secrets of Digits in the Digital Age'
 date: '2022-08-04'
 tags: ['Data Science', 'Fraud', 'AI']
-draft: true
+draft: false
 summary: 'Discover the power of Benfords Law, a fascinating statistical principle that unveils hidden patterns in digits.'
 ---
 
@@ -40,15 +40,7 @@ Benford's Law has proven to be a valuable tool in various domains, including:
 - **Ensuring Data Integrity**: In the era of big data and AI, Benford's Law helps verify the authenticity of large datasets.
 - **Detecting Deepfakes**: Benford's Law can analyze statistical properties of images and videos to determine their authenticity.
 
-### Digitums: A New Frontier 🔢🌠
-
-Digitums, or the study of digits and their properties, is an emerging field that combines number theory, data science, and computational methods. By applying the principles of Benford's Law to digitums, researchers can uncover new patterns and insights that extend beyond the digital realm.
-
-For example, by analyzing the distribution of leading digits in various natural phenomena, such as the lengths of rivers, the heights of mountains, or the populations of cities, we can gain a deeper understanding of the underlying processes that shape our world.
-
-### The Future of Benford's Law and Digitums 🚀
-
-As our world becomes increasingly digitized, the importance of understanding and leveraging the power of digits grows exponentially. By combining the principles of Benford's Law with the emerging field of digitums, we can:
+As our world becomes increasingly digitized, the importance of understanding and leveraging the power of. By combining the principles of Benford's Law with the emerging field of Quantum Computers and AI.
 
 - Develop more sophisticated fraud detection algorithms.
 - Enhance data integrity and security in the age of AI.
