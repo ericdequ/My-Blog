@@ -38,7 +38,7 @@ const Tag = ({ text }) => {
 
   return (
     <motion.div className="inline-block" variants={tagVariants} whileHover="hover" whileTap="tap">
-      <Link href={`/tags/${tagSlug}`} passHref>
+      <Link href={`/tags/${tagSlug}`} className={textVariants} passHref>
         {text}
       </Link>
     </motion.div>
