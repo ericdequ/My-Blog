@@ -32,6 +32,15 @@ export default function PageTitle({ children }) {
     },
   }
 
+  const wiggle = {
+    x: [0, 3, -3, 3, -3, 0],
+    transition: {
+      duration: 0.5,
+      ease: 'easeInOut',
+      loop: Infinity,
+    },
+  }
+
   return (
     <motion.h1
       variants={container}
@@ -44,6 +53,7 @@ export default function PageTitle({ children }) {
           <motion.span
             key={`${word}-${index}`}
             variants={child}
+            whileHover={wiggle}
             className="mr-2 inline-block whitespace-pre"
           >
             {word}

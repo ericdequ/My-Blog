@@ -19,6 +19,10 @@ Disallow: /xmlrpc.php
 Disallow: /*?*
 Disallow: /print/
 Disallow: /share/
+Disallow: /lib/
+Disallow: /scripts/
+Disallow: /node_modules/
+
 
 # Allow crawling of specific files or directories (if needed)
 Allow: /wp-content/uploads/
