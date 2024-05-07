@@ -20,25 +20,5 @@
     <category>Serverless</category><category>Google Cloud</category><category>Cloud Computing</category>
   </item>
 
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Cloud/MultiCloud</guid>
-    <title>MultiCloud: The Next Era of Digital Infrastructure ☁️🌐</title>
-    <link>https://www.rics-notebook.com/blog/Cloud/MultiCloud</link>
-    <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
-    <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
-    <category>MultiCloud</category><category>Cloud Computing</category><category>Digital Transformation</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/AI/AISASS</guid>
-    <title>Complex Cloud Architectures: Paving the Way for Advanced AI Software 🌐🔧</title>
-    <link>https://www.rics-notebook.com/blog/AI/AISASS</link>
-    <description>The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.</description>
-    <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Ric )</author>
-    <category>AI</category><category>Cloud Computing</category><category>Software Architecture</category><category>Design</category>
-  </item>
-
     </channel>
   </rss>
