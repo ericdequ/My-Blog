@@ -8,7 +8,7 @@ import kebabCase from '@/lib/utils/kebabCase'
 import fs from 'fs'
 import path from 'path'
 import { motion } from 'framer-motion'
-import 'tailwind-scrollbar-hide'
+
 
 const root = process.cwd()
 
@@ -83,10 +83,11 @@ export default function Tag({ posts, tag }) {
         description={`${tag} tags - ${siteMetadata.author}`}
       />
       <motion.div
-        className="divide-y divide-gray-200 dark:divide-gray-700"
+        className="divide-y divide-gray-200 dark:divide-gray-700 overflow-x-hidden overflow-y-hidden"
         variants={containerVariants}
         initial="hidden"
         animate="visible"
+        
       >
         
         <ListLayout

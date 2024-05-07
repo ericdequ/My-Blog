@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion'
-import 'tailwind-scrollbar-hide'
 
 export default function PageTitle({ children }) {
   const words = typeof children === 'string' ? children.split(' ') : []
@@ -50,7 +49,7 @@ export default function PageTitle({ children }) {
       variants={container}
       initial="hidden"
       animate="visible"
-      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl overflow-x-hidden scrollbar-hide"
+      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl overflow-x-hidden scrollbar-hide overflow-x-hidden overflow-y-hidden"
     >
       <div className="flex flex-wrap justify-center">
         {words.map((word, index) => (

@@ -3,7 +3,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx';
 import siteMetadata from '@/data/siteMetadata';
 import ListLayout from '@/layouts/ListLayout';
 import { PageSEO } from '@/components/SEO';
-import 'tailwind-scrollbar-hide'
+
 
 export const POSTS_PER_PAGE = 5;
 
@@ -42,6 +42,7 @@ export default function Blog({ posts, initialDisplayPosts, pagination }) {
           animate="visible"
           variants={variants}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
+          className={"overflow-x-hidden overflow-y-hidden"}
         >
           <ListLayout
             posts={posts}

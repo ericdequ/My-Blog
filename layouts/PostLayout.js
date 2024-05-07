@@ -35,7 +35,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <ScrollTopAndComment />
       <article>
         <motion.div
-          className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700"
+          className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700 overflow-x-hidden overflow-y-hidden"
           variants={variants}
           initial="hidden"
           animate="visible"

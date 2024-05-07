@@ -24,7 +24,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
         <div>
           <header>
             <motion.div
-              className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700"
+              className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700 overflow-x-hidden overflow-y-hidden"
               variants={variants}
               initial="hidden"
               animate="visible"

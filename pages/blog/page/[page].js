@@ -4,7 +4,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import ListLayout from '@/layouts/ListLayout'
 import { POSTS_PER_PAGE } from '../../blog'
 import { motion } from 'framer-motion'
-import 'tailwind-scrollbar-hide'
+
 
 export async function getStaticPaths() {
   const totalPosts = await getAllFilesFrontMatter('blog')
@@ -57,6 +57,7 @@ export default function PostPage({ posts, initialDisplayPosts, pagination }) {
         animate="visible"
         variants={variants}
         transition={{ duration: 0.5, ease: 'easeInOut' }}
+        className={"overflow-x-hidden overflow-y-hidden"}
       >
         <ListLayout
           posts={posts}

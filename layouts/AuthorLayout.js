@@ -14,7 +14,7 @@ export default function AuthorLayout({ children, frontMatter }) {
   return (
     <>
       <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
-      <div className="divide-y divide-gray-200 dark:divide-gray-700">
+      <div className="divide-y divide-gray-200 dark:divide-gray-700 overflow-x-hidden overflow-y-hidden">
         <motion.div
           className="space-y-2 pt-6 pb-8 md:space-y-5"
           initial="hidden"

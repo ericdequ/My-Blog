@@ -19,7 +19,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
 
   return (
     <>
-      <div className="divide-y divide-gray-200 dark:divide-gray-700">
+      <div className="divide-y divide-gray-200 dark:divide-gray-700 overflow-x-hidden overflow-y-hidden">
         <motion.div
           className="space-y-2 pt-6 pb-8 md:space-y-5"
           initial={{ opacity: 0, y: 20 }}

@@ -4,7 +4,7 @@ import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
 import { motion } from 'framer-motion'
-import 'tailwind-scrollbar-hide'
+
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -66,6 +66,7 @@ export default function Blog({ post, authorDetails, prev, next }) {
           animate="visible"
           variants={variants}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
+          className={"overflow-x-hidden overflow-y-hidden"}
         >
           <MDXLayoutRenderer
             layout={frontMatter.layout || DEFAULT_LAYOUT}
