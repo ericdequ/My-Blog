@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion'
+import 'tailwind-scrollbar-hide'
 
 export default function PageTitle({ children }) {
   const words = typeof children === 'string' ? children.split(' ') : []
@@ -33,9 +34,12 @@ export default function PageTitle({ children }) {
   }
 
   const wiggle = {
-    x: [0, 3, -3, 3, -3, 0],
+    x: [0, 2, -2, 2, -2, 0],
+    y: [0, 1, -1, 1, -1, 0],
+    scale: [1, 1.05, 1, 1.05, 1],
+    rotate: [0, 1, -1, 1, -1, 0],
     transition: {
-      duration: 0.5,
+      duration: 1.5,
       ease: 'easeInOut',
       loop: Infinity,
     },
@@ -46,7 +50,7 @@ export default function PageTitle({ children }) {
       variants={container}
       initial="hidden"
       animate="visible"
-      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl"
+      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl overflow-x-hidden scrollbar-hide"
     >
       <div className="flex flex-wrap justify-center">
         {words.map((word, index) => (
