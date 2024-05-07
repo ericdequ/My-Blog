@@ -21,7 +21,7 @@ export const MDXComponents = {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-        className="overflow-x-hidden overflow-y-hidden"
+        className={'overflow-x-hidden·overflow-y-hidden'}
       >
         <Layout {...rest} />
       </motion.div>
