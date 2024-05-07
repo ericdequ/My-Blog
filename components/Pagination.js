@@ -6,7 +6,12 @@ export default function Pagination({ totalPages, currentPage }) {
   const nextPage = parseInt(currentPage) + 1 <= parseInt(totalPages)
 
   return (
-    <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+      className="space-y-2 pt-6 pb-8 md:space-y-5"
+    >
       <nav className="flex items-center justify-between">
         {!prevPage ? (
           <button
@@ -29,11 +34,14 @@ export default function Pagination({ totalPages, currentPage }) {
             </motion.button>
           </Link>
         )}
-
-        <span className="text-sm text-gray-700 dark:text-gray-200">
+        <motion.span
+          initial={{ opacity: 0 }}
+          animate={{ opacity: 1 }}
+          transition={{ delay: 0.2, duration: 0.5 }}
+          className="text-sm text-gray-700 dark:text-gray-200"
+        >
           Page {currentPage} of {totalPages}
-        </span>
-
+        </motion.span>
         {!nextPage ? (
           <button
             rel="next"
@@ -56,6 +64,6 @@ export default function Pagination({ totalPages, currentPage }) {
           </Link>
         )}
       </nav>
-    </div>
+    </motion.div>
   )
 }
