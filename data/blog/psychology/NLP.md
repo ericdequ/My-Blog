@@ -1,6 +1,6 @@
 ---
 title: ' Mastering Attention in NLP'
-date: '2024-05-03'
+date: '2023-05-03'
 tags: ['Neurolinguistic Programming', 'Cognitive', 'Psychology']
 draft: false
 summary: 'Dive into the mesmerizing world of neurolinguistic programming (NLP) and explore how the strategic use of misdirection harnesses the power of language to manipulate attention. From cognitive psychology to real-world applications, uncover the secrets and ethical considerations of this powerful communicative tool.'
