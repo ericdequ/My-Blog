@@ -1,7 +1,7 @@
 ---
 title: Mardown Formatting and Syntax Highlighting
 date: '2023-01-08'
-tags: ['markdown', 'code', 'features']
+tags: ['markdown', 'code', 'features', 'education']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
 ---
