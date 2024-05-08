@@ -3,6 +3,7 @@ title: 'Quantum Threats The Flip Side of the Quantum Revolution 🚫'
 date: '2023-09-03'
 tags: ['Quantum', 'Threats']
 draft: false
+author: 'QCS'
 summary: 'Navigating the potential risks in the quantum domain and understanding the defenses against them!'
 ---
 

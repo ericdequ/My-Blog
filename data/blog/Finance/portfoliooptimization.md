@@ -13,6 +13,7 @@ tags:
     'Education',
   ]
 draft: false
+author: 'QCS'
 summary: 'Explore the technical details of quantum portfolio optimization, including the specific algorithms and quantum mechanics principles used. Learn how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.'
 ---
 

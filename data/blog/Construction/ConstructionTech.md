@@ -10,6 +10,7 @@ tags:
     'Sustainable Building',
   ]
 draft: false
+author: 'QCS'
 summary: 'The construction industry is undergoing a significant transformation thanks to advancements in technology. These innovations not only enhance efficiency and reduce costs but also improve safety and sustainability. This blog post provides an overview of the key technologies reshaping the construction landscape.'
 ---
 
