@@ -1,7 +1,7 @@
 ---
 title: 'vs-code'
 date: '2022-11-21'
-tags: ['setup', 'code', 'vs-code']
+tags: ['setup', 'code', 'vs-code', 'education']
 draft: false
 summary: example and tutorial how to setup vscode
 ---
