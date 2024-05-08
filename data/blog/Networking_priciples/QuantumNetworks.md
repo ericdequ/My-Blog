@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Networks'
 date: '2024-02-04'
-tags: ['Internet', 'Cybersecurity', 'Quantum']
+tags: ['Internet', 'Cybersecurity', 'Quantum', 'devops']
 draft: false
 summary: 'Discover how quantum networks are set to revolutionize modern communication, offering unparalleled security and efficiency. Learn about the basics of quantum communication and explore the potential applications and advantages of this cutting-edge technology.'
 ---

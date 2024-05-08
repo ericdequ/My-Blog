@@ -1,7 +1,7 @@
 ---
 title: 'Getting Started with Python: Your First Python Script 🚀'
 date: '2023-03-21'
-tags: ['Python', 'Programming', 'Tutorial']
+tags: ['Python', 'Programming', 'Tutorial', 'education', 'devops']
 draft: false
 summary: 'Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'A Quantum Perspectice of a Psychic Reality'
 date: '2023-09-15'
-tags: ['Quantum', 'Platforms', 'Psychic', 'Entanglement']
+tags: ['Quantum', 'Platforms', 'Psychics', 'Entanglement']
 draft: false
 summary: 'How Quantum mechanics are a proof of psychic and meta physic capabilities'
 ---

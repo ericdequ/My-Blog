@@ -1,7 +1,7 @@
 ---
 title: 'AC vs DC: Understanding the Differences 🔌'
 date: '2022-03-21'
-tags: ['Electrictiy', 'AC', 'DC']
+tags: ['Electrictiy', 'AC', 'DC', 'Physics']
 draft: false
 summary: AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.
 ---

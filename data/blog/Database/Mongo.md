@@ -1,7 +1,7 @@
 ---
 title: 'MongoDB'
 date: '2023-04-01'
-tags: ['Database', 'Mongo', 'No-SQL']
+tags: ['Database', 'Mongo', 'No-SQL', 'devops']
 draft: false
 summary: 'How to Work with and Setup a MongoDB Database 🗄️💾'
 ---

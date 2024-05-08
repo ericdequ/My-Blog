@@ -12,7 +12,8 @@ tags: [
   'Quantum Realm',
   'Cyber World',
   'Project Management',
-  'education'
+  'education',
+  'devops'
 ]
 draft: false
 summary: 'Step into the future of learning with QuantumLearn. Dive deep into a plethora of subjects, all while enjoying a seamless user experience. Let's embark on a journey of knowledge! 🚀'

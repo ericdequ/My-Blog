@@ -1,7 +1,7 @@
 ---
 title: 'Efficient Deployment with Serverless Google Cloud'
 date: '2024-02-21'
-tags: ['Serverless', 'Google Cloud', 'Cloud Computing']
+tags: ['Serverless', 'Google Cloud', 'Cloud Computing', 'education', 'devops']
 draft: false
 summary: 'Insightful exploration of deploying a serverless application on Google Cloud, emphasizing cost efficiency and technical scalability.'
 ---

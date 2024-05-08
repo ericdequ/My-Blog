@@ -1,7 +1,7 @@
 ---
 title: 'Red Hat Enterprise Linux (RHEL): The Linux Pillar for Public and Private Enterprises 🌐🖥️'
 date: '2023-08-08'
-tags: ['RHEL', 'Enterprise Linux', 'Public Sector', 'Private Sector']
+tags: ['RHEL', 'Enterprise Linux', 'Public Sector', 'Private Sector', 'devops']
 draft: false
 summary: 'Red Hat Enterprise Linux (RHEL) is not just another Linux distribution. Its an enterprise-grade solution that powers both public and private sectors. Dive into RHELs versatile applications across sectors.'
 ---

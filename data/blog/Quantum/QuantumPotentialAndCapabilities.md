@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Potential & Capabilities Unraveling the Quantum Revolution 🌌'
 date: '2023-09-06'
-tags: ['Quantum', 'Potential', 'Capabilities']
+tags: ['Quantum', 'Potential', 'Capabilities', 'Physics']
 draft: false
 summary: 'Discovering the transformative potential and multifaceted capabilities of quantum technologies!'
 ---

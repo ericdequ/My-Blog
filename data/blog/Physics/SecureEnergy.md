@@ -1,7 +1,7 @@
 ---
 title: 'Harnessing Nikola Teslas Legacy The Path to Secure Energy and Wireless Power Transmission'
 date: '2024-05-06'
-tags: ['Tesla', 'Sustainability']
+tags: ['Tesla', 'Sustainability', 'Physics']
 draft: false
 summary: 'This post delves into Nikola Teslas groundbreaking ideas for Secure energy and wireless power transmission, exploring how these technologies could revolutionize our energy infrastructure, create a sustainable future, and bolster national security.'
 ---

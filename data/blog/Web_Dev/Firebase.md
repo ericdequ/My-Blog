@@ -1,7 +1,17 @@
 ---
 title: 'Firebase '
 date: '2023-04-11'
-tags: ['Firebase', 'Authentication', 'Hosting', 'Database', 'SDK', 'App Services']
+tags:
+  [
+    'Firebase',
+    'Authentication',
+    'Hosting',
+    'Database',
+    'SDK',
+    'App Services',
+    'education',
+    'devops',
+  ]
 draft: false
 summary: Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉
 ---

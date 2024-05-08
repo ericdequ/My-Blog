@@ -1,7 +1,7 @@
 ---
 title: 'Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️'
 date: '2023-08-05'
-tags: ['Packer', 'Image Creation', 'Automation']
+tags: ['Packer', 'Image Creation', 'Automation', 'devops']
 draft: false
 summary: 'In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.'
 ---

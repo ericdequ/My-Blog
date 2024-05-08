@@ -1,7 +1,7 @@
 ---
 title: 'MultiCloud: The Next Era of Digital Infrastructure ☁️🌐'
 date: '2023-08-25'
-tags: ['MultiCloud', 'Cloud']
+tags: ['MultiCloud', 'Cloud', 'devops']
 draft: false
 summary: 'In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.'
 ---

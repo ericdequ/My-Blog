@@ -1,7 +1,7 @@
 ---
 title: 'Terraform: Crafting Infrastructure as Easily as Writing Code 🌍⚙️'
 date: '2023-08-31'
-tags: ['Terraform', 'Infrastructure as Code', 'Automation']
+tags: ['Terraform', 'Infrastructure as Code', 'Automation', 'devops']
 draft: false
 summary: 'Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.'
 ---

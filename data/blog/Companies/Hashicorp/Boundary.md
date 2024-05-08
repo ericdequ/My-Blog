@@ -1,7 +1,7 @@
 ---
 title: 'Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗'
 date: '2023-08-04'
-tags: ['Boundary', 'Zero Trust', 'Access Management']
+tags: ['Boundary', 'Zero Trust', 'Access Management', 'devops']
 draft: false
 summary: 'The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.'
 ---

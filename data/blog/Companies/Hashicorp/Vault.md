@@ -1,7 +1,7 @@
 ---
 title: 'Vault: The Fortified Chamber for Your Digital Secrets 🛡️🔐'
 date: '2023-08-01'
-tags: ['Vault', 'Secret Management', 'Security']
+tags: ['Vault', 'Secret Management', 'Security', 'devops']
 draft: false
 summary: 'In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.'
 ---

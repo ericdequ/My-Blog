@@ -1,7 +1,7 @@
 ---
 title: 'Consul: Pioneering Service Discovery and Networking 🌐🔍'
 date: '2023-08-02'
-tags: ['Consul', 'Service Discovery', 'Service Mesh']
+tags: ['Consul', 'Service Discovery', 'Service Mesh', 'devops']
 draft: false
 summary: 'Modern applications demand dynamic service networking. With HashiCorps Consul, discover a tool that not only aids in service discovery but also offers a robust service mesh for secure and efficient communications.'
 ---

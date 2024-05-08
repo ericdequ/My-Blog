@@ -1,7 +1,7 @@
 ---
 title: 'Golang and Gorilla Mux'
 date: '2023-02-03'
-tags: ['GO', 'Gorilla-Mux', 'Backend']
+tags: ['GO', 'Gorilla-Mux', 'Backend', 'education', 'devops']
 draft: false
 summary: This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.
 ---

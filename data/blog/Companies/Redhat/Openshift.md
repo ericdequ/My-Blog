@@ -1,7 +1,7 @@
 ---
 title: 'OpenShift: Kubernetes Mastery for Both Public and Private Realms 🌐🚀'
 date: '2023-08-09'
-tags: ['OpenShift', 'Kubernetes', 'Public Sector', 'Private Sector']
+tags: ['OpenShift', 'Kubernetes', 'Public Sector', 'Private Sector', 'devops']
 draft: false
 summary: 'OpenShift by Red Hat isnt just a Kubernetes platform its an enterprise-grade solution for container orchestration across sectors. Explore how OpenShift is revolutionizing both public and private entities.'
 ---
