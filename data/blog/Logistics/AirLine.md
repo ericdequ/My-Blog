@@ -1,17 +1,18 @@
 ---
 title: 'Quantum Computing: The Key to Revolutionizing Airline Routing and Saving Billions'
 date: '2024-04-23'
-tags: [
-  'Quantum'
-  'Quantum Computing',
-  'Logistics',
-  'Optimization',
-  'Airline Industry',
-  'Route Optimization',
-  'Fuel Efficiency',
-  'Cost Savings',
-  'Environmental Impact'
-]
+tags:
+  [
+    'Quantum',
+    'Quantum Computing',
+    'Logistics',
+    'Optimization',
+    'Airline Industry',
+    'Route Optimization',
+    'Fuel Efficiency',
+    'Cost Savings',
+    'Environmental Impact',
+  ]
 draft: false
 summary: 'Discover how quantum algorithms can transform airline routing, leading to billions in cost savings and reduced environmental impact. Explore the power of quantum computing in tackling complex optimization problems and revolutionizing the aviation industry.'
 ---

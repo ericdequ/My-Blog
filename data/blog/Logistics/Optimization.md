@@ -1,16 +1,17 @@
 ---
 title: 'Quantum Algorithms for Logistics Optimization: A Technical Deep Dive'
 date: '2023-05-23'
-tags: [
-  'Quantum'
-  'Quantum Computing',
-  'Logistics',
-  'Optimization',
-  'Quantum Algorithms',
-  'Technical',
-  'Code Examples',
-  'Education'
-]
+tags:
+  [
+    'Quantum',
+    'Quantum Computing',
+    'Logistics',
+    'Optimization',
+    'Quantum Algorithms',
+    'Technical',
+    'Code Examples',
+    'Education',
+  ]
 draft: false
 summary: 'Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.'
 ---
