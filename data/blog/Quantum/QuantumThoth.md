@@ -1,7 +1,7 @@
 ---
 title: 'The Emerald Tablet of Thoth: Ancient Wisdom Meets Quantum Science 💎'
 date: '2023-05-02'
-tags: ['Thoth', 'Quantum Physics', 'Emerald Tablet', 'Hermeticism']
+tags: ['Thoth', 'Quantum Physics', 'Emerald Tablet', 'Hermeticism', 'spiritual-practices']
 draft: false
 summary: 'Unveiling the profound insights of the Emerald Tablet of Thoth and its remarkable connections to modern quantum physics.'
 ---

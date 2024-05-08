@@ -8,6 +8,7 @@ tags:
     'Gonzo Journalism',
     'Counterculture',
     'American Dream',
+    life-lessons,
   ]
 draft: false
 summary: "Dive into the wild and chaotic world of Hunter S. Thompson's 'Fear and Loathing in Las Vegas,' a seminal work of Gonzo journalism that takes readers on a surreal and drug-fueled journey through the heart of the American Dream. Discover the book's enduring legacy and its scathing critique of American culture and society."

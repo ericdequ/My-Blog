@@ -1,7 +1,7 @@
 ---
 title: 'GSA Contract Vehicle🚙'
 date: '2023-08-26'
-tags: ['Government', 'Procurement', 'Sales', 'Business', 'Strategy']
+tags: ['Government', 'Procurement', 'Sales', 'Business', 'Strategy', 'government-sales']
 draft: false
 summary: 'The government is a major purchaser of goods and services, but selling to them is no walk in the park. Understand the intricacies of government procurement and how your business can effectively navigate them.'
 ---

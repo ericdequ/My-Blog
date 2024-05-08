@@ -1,7 +1,7 @@
 ---
 title: 'Government RFPs: Deciphering and Responding Effectively 📜🔍'
 date: '2023-07-29'
-tags: ['RFPs', 'Government', 'Sales', 'Proposal', 'Writing']
+tags: ['RFPs', 'Government', 'Sales', 'Proposal', 'Writing', 'government-sales']
 draft: false
 summary: 'Responding to a government Request for Proposal (RFP) can be daunting. Dive into the intricacies of RFPs and gather insights on crafting compelling responses that stand out.'
 ---

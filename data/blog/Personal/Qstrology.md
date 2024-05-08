@@ -1,7 +1,7 @@
 ---
 title: 'Astrology and Quantum Entanglement: Unveiling the Cosmic Dance'
 date: '2024-01-04'
-tags: ['Astrology', 'Quantum Physics', 'Spirituality', 'Science']
+tags: ['Astrology', 'Quantum Physics', 'Spirituality', 'Science', 'spiritual-practices']
 draft: false
 summary: 'Explore the fascinating connection between astrology and quantum physics, and discover how the cosmic dance of celestial bodies may influence our lives through the lens of wave-particle duality and entanglement.'
 ---

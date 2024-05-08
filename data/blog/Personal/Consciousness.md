@@ -1,7 +1,7 @@
 ---
 title: '🌌 Transcend & Receive Energy: The Esoteric Path 🌌'
 date: '2023-03-28'
-tags: ['Esoteric', 'Consciousness', 'Meditation', 'Alchemy']
+tags: ['Esoteric', 'Consciousness', 'Meditation', 'Alchemy', life-lessons, 'spiritual-practices']
 draft: false
 summary: 'Understanding consciousness, energy, and the practices that can lead to an elevated state of being.'
 ---

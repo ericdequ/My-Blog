@@ -1,7 +1,7 @@
 ---
 title: 'The Teachings of Don Juan: A Yaqui Way of Knowledge - A Journey into the World of Shamanism'
 date: '2023-04-30'
-tags: ['Shamanism', 'Spiritual', 'Plant']
+tags: ['Shamanism', 'Spiritual', 'Plant', life-lessons, 'spiritual-practices']
 draft: false
 summary: Dive deep into the world of Yaqui shamanism as revealed by Don Juan Matus to Carlos Castaneda. Explore the significance of powerful plant allies and the transformative rituals that can lead to personal growth and spiritual awakening.
 ---

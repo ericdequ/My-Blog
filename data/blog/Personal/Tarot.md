@@ -1,7 +1,7 @@
 ---
 title: 'Tarot: Unveiling the Mysteries of the Cards'
 date: '2024-01-04'
-tags: ['Divination', 'Tarot', 'Spirituality']
+tags: ['Divination', 'Tarot', 'Spirituality', 'spiritual-practices']
 draft: false
 summary: 'Discover the fascinating world of Tarot, an ancient divination practice that offers insights into your past, present, and future.'
 ---
