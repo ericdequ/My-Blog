@@ -17,7 +17,7 @@
     <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>MultiCloud</category><category>Cloud</category>
+    <category>MultiCloud</category><category>Cloud</category><category>devops</category>
   </item>
 
   <item>
@@ -37,7 +37,7 @@
     <description>Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.</description>
     <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Cloud</category><category>Migration</category>
+    <category>Cloud</category><category>Migration</category><category>devops</category>
   </item>
 
   <item>
@@ -47,7 +47,7 @@
     <description> A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Cloud</category><category>AWS</category><category>Azure</category><category>GCP</category>
+    <category>Cloud</category><category>AWS</category><category>Azure</category><category>GCP</category><category>devops</category>
   </item>
 
     </channel>

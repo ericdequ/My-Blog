@@ -17,7 +17,7 @@
     <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Putty</category><category>SSH</category><category>Networking</category>
+    <category>Putty</category><category>SSH</category><category>Networking</category><category>education</category>
   </item>
 
   <item>
@@ -27,7 +27,7 @@
     <description>Learn the basics of Secure Shell (SSH) for secure remote access to computers,including its benefits, how to use it, and tips for maximizing its security.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>SSH</category><category>Security</category><category>RemoteAccess</category>
+    <category>SSH</category><category>Security</category><category>RemoteAccess</category><category>education</category>
   </item>
 
     </channel>

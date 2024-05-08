@@ -37,7 +37,7 @@
     <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>TCP</category><category>UDP</category><category>Networking</category>
+    <category>TCP</category><category>UDP</category><category>Networking</category><category>devops</category>
   </item>
 
   <item>
@@ -47,7 +47,7 @@
     <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Putty</category><category>SSH</category><category>Networking</category>
+    <category>Putty</category><category>SSH</category><category>Networking</category><category>education</category>
   </item>
 
     </channel>

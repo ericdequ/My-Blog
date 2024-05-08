@@ -7,9 +7,59 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sat, 06 May 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/physics/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/SecureEnergy</guid>
+    <title>Harnessing Nikola Teslas Legacy The Path to Secure Energy and Wireless Power Transmission</title>
+    <link>https://www.rics-notebook.com/blog/Physics/SecureEnergy</link>
+    <description>This post delves into Nikola Teslas groundbreaking ideas for Secure energy and wireless power transmission, exploring how these technologies could revolutionize our energy infrastructure, create a sustainable future, and bolster national security.</description>
+    <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Tesla</category><category>Sustainability</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/WirelessEnergy</guid>
+    <title>The Magic of Wireless Power Transmission: Unleashing Teslas Vision</title>
+    <link>https://www.rics-notebook.com/blog/Physics/WirelessEnergy</link>
+    <description>This post explores the fascinating world of wireless power transmission and its potential to revolutionize the way we power our devices and create captivating lighting shows. We delve into the math and physics behind resonant inductive coupling and provide a guide for building your own Tesla coil-based wireless power devices.</description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Tesla</category><category>Wireless</category><category>Energy</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/AccousticQuantum</guid>
+    <title>Acoustic Quantum Computing Harnessing the Power of Sound</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/AccousticQuantum</link>
+    <description>This post explores an innovative approach to building a quantum computer using tuning forks and acoustic frequencies. By leveraging the quantum properties of sound waves, we propose a novel method for creating and manipulating qubits, potentially opening new avenues for quantum computing research.</description>
+    <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Acoustics</category><category>Entanglement</category><category>Qubits</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumResearchAndApplications</guid>
+    <title>Quantum Research &amp; Applications From Theory to Transformation 🔬</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumResearchAndApplications</link>
+    <description>Diving into the world of quantum research and witnessing its transformative applications across sectors!</description>
+    <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Research</category><category>Applications</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPotentialAndCapabilities</guid>
+    <title>Quantum Potential &amp; Capabilities Unraveling the Quantum Revolution 🌌</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumPotentialAndCapabilities</link>
+    <description>Discovering the transformative potential and multifaceted capabilities of quantum technologies!</description>
+    <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Potential</category><category>Capabilities</category><category>Physics</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Physics/ClassicMisunderstanding</guid>
     <title>Enigma of Gravity</title>
@@ -38,6 +88,16 @@
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Physics</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/ACvsDC</guid>
+    <title>AC vs DC: Understanding the Differences 🔌</title>
+    <link>https://www.rics-notebook.com/blog/Physics/ACvsDC</link>
+    <description>AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.</description>
+    <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Electrictiy</category><category>AC</category><category>DC</category><category>Physics</category>
   </item>
 
   <item>

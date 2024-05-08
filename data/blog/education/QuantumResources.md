@@ -1,14 +1,15 @@
 ---
 title: 'Quantum Computing Top Learning Resources 🎓'
 date: '2023-09-23'
-tags: [
-  'Quantum Computing',
-  'Learning Resources',
-  'Online Courses',
-  'Tutorials',
-  'Quantum Programming'
-  'Education',
-]
+tags:
+  [
+    'Quantum Computing',
+    'Learning Resources',
+    'Online Courses',
+    'Tutorials',
+    'Quantum Programming',
+    'Education',
+  ]
 draft: false
 summary: 'Ready to dive into the fascinating world of quantum computing? Check out these top-notch learning resources, from introductory courses to advanced programming tutorials. Start your quantum journey today! 🚀'
 ---

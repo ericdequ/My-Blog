@@ -27,7 +27,7 @@
     <description>Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉</description>
     <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Firebase</category><category>Authentication</category><category>Hosting</category><category>Database</category><category>SDK</category><category>App Services</category>
+    <category>Firebase</category><category>Authentication</category><category>Hosting</category><category>Database</category><category>SDK</category><category>App Services</category><category>education</category><category>devops</category>
   </item>
 
   <item>
@@ -37,7 +37,7 @@
     <description>How to Work with and Setup a MongoDB Database 🗄️💾</description>
     <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Database</category><category>Mongo</category><category>No-SQL</category>
+    <category>Database</category><category>Mongo</category><category>No-SQL</category><category>devops</category>
   </item>
 
   <item>
@@ -47,7 +47,7 @@
     <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
     <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Database</category><category>SQL</category><category>NO-SQL</category>
+    <category>Database</category><category>SQL</category><category>NO-SQL</category><category>devops</category>
   </item>
 
     </channel>
