@@ -4,6 +4,7 @@ date: '2024-05-13'
 tags:
   [
     'Cosmic Radiation',
+    'Space',
     'Asteroid Belt',
     'Mars Exploration',
     'Mushroom Mycelium',

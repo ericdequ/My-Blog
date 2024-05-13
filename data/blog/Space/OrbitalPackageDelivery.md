@@ -1,16 +1,18 @@
 ---
 title: 'Orbital Package Delivery: Revolutionizing Transportation, Saving Costs, and Preserving the Environment'
 date: '2024-05-13'
-tags: [
-  'Orbital Transportation',
-  'Space Logistics',
-  'Cost Savings',
-  'Environmental Conservation',
-  'Fuel Efficiency',
-  'Space Industry Growth',
-]
+tags:
+  [
+    'Orbital Transportation',
+    'Space',
+    'Space Logistics',
+    'Cost Savings',
+    'Environmental Conservation',
+    'Fuel Efficiency',
+    'Space Industry Growth',
+  ]
 draft: false
-summary: 'Explore a groundbreaking method of package transportation that leverages Earth\'s rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.'
+summary: 'Explore a groundbreaking method of package transportation that leverages Earths rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.'
 ---
 
 ## 🌎 Orbital Package Delivery: A Paradigm Shift in Transportation
