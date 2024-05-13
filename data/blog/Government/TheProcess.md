@@ -1,7 +1,8 @@
 ---
 title: 'Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜'
 date: '2023-09-20'
-tags: ['Government Contracts', 'Business Strategy', 'TTP', 'government-sales']
+tags:
+  ['Government Contracts', 'Business Strategy', 'TTP', 'government-sales', 'government-procurement']
 draft: false
 summary: 'Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.'
 ---

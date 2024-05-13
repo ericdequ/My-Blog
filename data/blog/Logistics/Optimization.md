@@ -13,7 +13,7 @@ tags:
     'Education',
   ]
 draft: false
-author: 'QCS'
+  QCS'
 summary: 'Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.'
 ---
 

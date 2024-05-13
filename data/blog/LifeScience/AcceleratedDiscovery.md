@@ -11,7 +11,7 @@ tags:
     'Quantum Machine Learning',
   ]
 draft: false
-author: 'QCS'
+  QCS'
 summary: 'Discover how quantum computing is revolutionizing psychedelic drug trials and paving the way for groundbreaking advancements in mental health treatment. From quantum chemistry simulations to quantum machine learning, explore the cutting-edge techniques that are unlocking new insights into the therapeutic potential of psychedelics.'
 ---
 

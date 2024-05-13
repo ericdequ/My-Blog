@@ -11,7 +11,6 @@ tags:
     'Algorithmic Trading',
   ]
 draft: false
-author: 'QCS'
 summary: 'Discover how quantum computing is transforming the finance industry, from portfolio optimization and risk management to fraud detection and algorithmic trading. Learn about the potential applications and benefits of this cutting-edge technology in the world of finance.'
 ---
 

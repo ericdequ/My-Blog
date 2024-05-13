@@ -12,9 +12,9 @@ tags:
     'Comptia',
     'Education',
     'Devops',
+    'digitaltransformation',
   ]
 draft: false
-author: 'QCS'
 summary: 'Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀'
 ---
 

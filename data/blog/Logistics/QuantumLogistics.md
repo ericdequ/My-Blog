@@ -11,7 +11,7 @@ tags:
     'Supply Chain',
   ]
 draft: false
-author: 'QCS'
+  QCS'
 summary: 'Discover how quantum computers are set to transform the logistics industry, enabling unprecedented optimization, cost savings, and energy efficiency. Explore the potential of this groundbreaking technology and its impact on supply chain management.'
 ---
 

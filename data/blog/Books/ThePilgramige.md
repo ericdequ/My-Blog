@@ -1,7 +1,15 @@
 ---
 title: 'The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening'
 date: '2023-04-30'
-tags: ['Spirituality', 'Self-Discovery', 'Personal', 'spiritual-practices']
+tags:
+  [
+    'Spirituality',
+    'Self-Discovery',
+    'Personal',
+    'spiritual-practices',
+    'ram-practices',
+    'digitaltransformation',
+  ]
 draft: false
 summary: Embark on a life-changing journey with Paulo Coelho's "The Pilgrimage," a profound novel that explores the transformative power of self-discovery and spiritual awakening along the ancient Camino de Santiago pilgrimage route. Learn about the history of the Camino and the powerful RAM practices that guide Paulo on his path to self-realization.
 ---

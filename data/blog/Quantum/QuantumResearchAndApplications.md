@@ -1,7 +1,7 @@
 ---
 title: 'Quantum Research & Applications From Theory to Transformation 🔬'
 date: '2023-09-09'
-tags: ['Quantum', 'Research', 'Applications', 'Physics']
+tags: ['Quantum', 'Research', 'Applications', 'Physics', 'digitaltransformation']
 draft: false
 summary: 'Diving into the world of quantum research and witnessing its transformative applications across sectors!'
 ---

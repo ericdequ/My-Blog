@@ -1,7 +1,15 @@
 ---
 title: 'Building Relationships: The Key to Long-Term Government Sales Success 🤝🏛️'
 date: '2023-06-28'
-tags: ['Government', 'Sales', 'Relationship', 'Networking', 'government-sales']
+tags:
+  [
+    'Government',
+    'Sales',
+    'Relationship',
+    'Networking',
+    'government-sales',
+    'government-procurement',
+  ]
 draft: false
 summary: 'While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.'
 ---

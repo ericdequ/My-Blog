@@ -1,7 +1,7 @@
 ---
 title: 'GCP vs AWS vs Azure: Which Cloud Platform is Right for You? ☁️'
 date: '2023-04-18'
-tags: ['Cloud', 'AWS', 'Azure', 'GCP', 'devops']
+tags: ['Cloud', 'AWS', 'Azure', 'GCP', 'devops', 'digitaltransformation']
 draft: false
 summary: ' A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.'
 ---
