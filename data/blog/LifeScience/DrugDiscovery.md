@@ -12,7 +12,7 @@ tags:
     'Pharmaceutical Industry',
   ]
 draft: false
-  QCS'
+
 summary: 'Dive into the technical details of how quantum computing is revolutionizing drug discovery. From quantum chemistry simulations to quantum machine learning, explore the cutting-edge techniques that are accelerating the search for new medicines and transforming the pharmaceutical industry.'
 ---
 

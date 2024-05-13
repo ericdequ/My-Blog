@@ -3,7 +3,7 @@ title: 'Government-Led Quantum Initiatives Shaping the Quantum Future 🏛️'
 date: '2023-09-04'
 tags: ['Quantum', 'Government Initiatives']
 draft: false
-  QCS'
+
 summary: 'Exploring the strategic quantum initiatives led by governments worldwide and their vision for a quantum-empowered future!'
 ---
 
