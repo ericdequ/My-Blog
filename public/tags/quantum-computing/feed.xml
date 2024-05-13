@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 02 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 13 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-computing/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumFood</guid>
+    <title>Quantum Computing: A Game-Changer in Solving Global Hunger</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QuantumFood</link>
+    <description>Explore how quantum computing can revolutionize food transportation and distribution, tackling the global hunger epidemic and unlocking unprecedented advancements for humanity. Discover the potential of quantum algorithms in optimizing logistics, considering variables such as food shelf life, to ensure efficient and equitable food distribution worldwide.</description>
+    <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Quantum Computing</category><category>Food Transportation</category><category>Hunger Epidemic</category><category>Optimization</category><category>Logistics</category><category>Shelf Life</category><category>Humanitarian Advancement</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/ACQCompute</guid>
     <title>The Quantum Revolution: Harnessing Natures Alternating Currents for Sustainable Computing</title>
@@ -288,6 +298,16 @@
     <pubDate>Mon, 23 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Cost Savings</category><category>Energy Conservation</category><category>Supply Chain</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/EV/AutoDrive</guid>
+    <title>Autonomous Vehicles and Quantum Computing: Paving the Way for Safer and Smarter Transportation</title>
+    <link>https://www.rics-notebook.com/blog/EV/AutoDrive</link>
+    <description>Explore the safety benefits of autonomous vehicles compared to human drivers and discover how widespread adoption of auto-drive features can revolutionize transportation. Learn about the crucial role of quantum computers in optimizing complex traffic systems and enabling smarter logistics for faster and more efficient travel.</description>
+    <pubDate>Fri, 13 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Autonomous Vehicles</category><category>Self-Driving Cars</category><category>Road Safety</category><category>Intelligent Transportation Systems</category><category>Traffic Optimization</category><category>Quantum Computing</category>
   </item>
 
     </channel>
