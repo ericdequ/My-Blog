@@ -1,6 +1,6 @@
 ---
 title: 'The Heartwarming Gift: A Family Portrait by Rumpus Art'
-date: '2023-09-29'
+date: '2024-05-14'
 tags: ['Art', 'Family', 'Veronica', 'RumpusArt']
 draft: false
 summary: 'A touching reflection on the profound impact of a family portrait commissioned by my brother from Rumpus Art, celebrating the memory of our late father and the enduring love of our family.'
