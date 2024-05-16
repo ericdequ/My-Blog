@@ -1911,6 +1911,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Setup/Manim</guid>
+    <title>Getting Started with Manim: A Step-by-Step Guide</title>
+    <link>https://www.rics-notebook.com/blog/Setup/Manim</link>
+    <description>Learn how to create stunning mathematical animations using Manim, a powerful Python library. This step-by-step guide will walk you through the process of setting up Manim and creating your first animation, providing code examples and practical tips along the way.</description>
+    <pubDate>Mon, 16 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Manim</category><category>Python</category><category>Animation</category><category>Data Visualization</category><category>Tutorial</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/EV/AutoDrive</guid>
     <title>Autonomous Vehicles and Quantum Computing: Paving the Way for Safer and Smarter Transportation</title>
     <link>https://www.rics-notebook.com/blog/EV/AutoDrive</link>
