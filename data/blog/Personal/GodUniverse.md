@@ -41,7 +41,7 @@ The notion of divinity in all reflects the belief that every aspect of creation 
 
 To further explore and visualize these concepts, you can watch the following animation. It delves into the idea that God is the origin, the universe is the totality of all possible spaces, and we are expressions of God.
 
-[![God Origin Universe Video](https://www.rics-notebook.com/GodOriginUniverse.mp4)](https://www.rics-notebook.com/GodOriginUniverse.mp4)
+[![God Origin Universe Video](https://i9.ytimg.com/vi/Wfg-IZeRML8/mqdefault.jpg?v=66463abb&sqp=CJD3mLIG&rs=AOn4CLBHFVpWqwrB9SKqe5eGZgzq8YyzAw)](https://youtu.be/Wfg-IZeRML8)
 
 In this animation, we explore the idea that God is the origin and the starting point of everything. The universe, represented by the circular space, encompasses all of existence as we know it. Within this universe, we are all expressions and functions of God, emanating from the divine origin. The concept of oneness suggests that everything is interconnected and part of a greater whole. The idea of interconnectedness highlights the intricate relationships between all beings and phenomena. Lastly, the notion of divinity in all reflects the belief that every aspect of creation contains a spark of the divine essence.
 
@@ -58,5 +58,3 @@ This understanding allows us to transcend divisive dogmas and doctrinal conflict
 Whether through prayer, meditation, selfless service, or conscious living, every sincere spiritual seeker is essentially undertaking a journey of remembrance – rediscovering their intrinsic connection to the source and its infinite potentialities. This realization liberates one from the confines of the separate self, enabling a state of unity, peace, and reverence for all life.
 
 In this light, adherents of various religions need not perceive themselves as being in conflict or competition. Rather, they can celebrate the wondrous diversity through which the one divine reality is expressed and experienced. For the sincere seeker, all paths are sacred and valid, ultimately leading towards the same transcendent realization – union with the origin of all.
-
-![Esoteric Pathways](/img/Esoteric.webp)
