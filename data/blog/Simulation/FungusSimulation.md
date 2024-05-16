@@ -1,7 +1,14 @@
 ---
-title: 'Slime Mold and the Future of Sustainable Infrastructure: Learning from Nature's Efficiency'
+title: 'Slime Mold and the Future of Sustainable Infrastructure: Learning from Natures Efficiency'
 date: '2024-03-16'
-tags: ['Biomimicry', 'Sustainable Infrastructure', 'Transportation', 'Urban Planning', 'Quantum Computing']
+tags:
+  [
+    'Biomimicry',
+    'Sustainable Infrastructure',
+    'Transportation',
+    'Urban Planning',
+    'Quantum Computing',
+  ]
 draft: false
 summary: 'Discover how the humble slime mold, Physarum polycephalum, is revolutionizing the way we think about sustainable infrastructure and transportation networks. By studying the molds ability to create efficient pathways, researchers are gaining invaluable insights into optimizing our urban systems and paving the way for a more sustainable, quantum-inspired future.'
 ---
