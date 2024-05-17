@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/QPR</guid>
+    <title>QPR Quantum Pack &amp; Route: Revolutionizing Logistics with Quantum-Optimized Routing and Packing</title>
+    <link>https://www.rics-notebook.com/blog/inventions/QPR</link>
+    <description>Discover how QPR Quantum Pack &amp; Route, a cutting-edge quantum software solution, is transforming the logistics industry by optimizing vehicle routing and 3D bin packing. Leveraging D-Wave Systems quantum annealing technology and hybrid quantum-classical algorithms, QPR enables companies to streamline their supply chain, reduce costs, and improve efficiency.</description>
+    <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Logistics Optimization</category><category>Vehicle Routing Problem (VRP)</category><category>3D Bin Packing</category><category>D-Wave Systems</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category><category>Constrained Quadratic Model (CQM)</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Animals/Communication</guid>
     <title>Unlocking the Secrets of Animal Communication: How Technology is Opening New Frontiers</title>
@@ -891,6 +901,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/YardMapp</guid>
+    <title>YardMapp: Streamlining Yard Maintenance and Landscaping Services</title>
+    <link>https://www.rics-notebook.com/blog/inventions/YardMapp</link>
+    <description>YardMapp is a revolutionary app that connects homeowners with landscaping and yard maintenance professionals. With features like sprinkler system and lighting mapping, service requests, and provider ratings, YardMapp simplifies yard care and fosters long-lasting relationships between homeowners and service providers.</description>
+    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Yard Maintenance</category><category>Landscaping</category><category>Home Ownership</category><category>Mobile App</category><category>Service Providers</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/cyber/ICAM</guid>
     <title>ICAM: Cutting-Edge Identity Management for Optimal Security 🛡️</title>
     <link>https://www.rics-notebook.com/blog/cyber/ICAM</link>
@@ -1138,6 +1158,56 @@
     <pubDate>Wed, 07 Jun 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Sustainable Building</category><category>Eco-Friendly Construction</category><category>Smart Homes</category><category>Green Architecture</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Construction/Trimble</guid>
+    <title>Trimble: A Comprehensive Overview of the Construction Technology Powerhouse</title>
+    <link>https://www.rics-notebook.com/blog/Construction/Trimble</link>
+    <description>Discover the wide range of innovative solutions and technologies offered by Trimble, a global leader in construction technology. From GPS and geospatial solutions to cutting-edge software and hardware, Trimble empowers construction professionals to work smarter, faster, and more efficiently across the entire project lifecycle.</description>
+    <pubDate>Sun, 28 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction Technology</category><category>Trimble</category><category>GPS Technology</category><category>Building Information Modeling (BIM)</category><category>Construction Software</category><category>Geospatial Solutions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Construction/AGAVEvsAPPXCHANGEvsPROCORE</guid>
+    <title>Agave vs. Procore vs. Trimble App Xchange: A Comprehensive Comparison of Construction Tech Integration Platforms</title>
+    <link>https://www.rics-notebook.com/blog/Construction/AGAVEvsAPPXCHANGEvsPROCORE</link>
+    <description>In this comprehensive comparison, we examine three leading construction tech integration platforms: Agave, Procore, and Trimble App Xchange. Discover the unique features, strengths, and benefits of each platform, and gain insights into which solution best fits your construction companys specific needs and requirements.</description>
+    <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>Procore</category><category>Trimble App Xchange</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Construction/Agave</guid>
+    <title>Agave: Revolutionizing Construction Data Integration and Interoperability</title>
+    <link>https://www.rics-notebook.com/blog/Construction/Agave</link>
+    <description>Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.</description>
+    <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>API Integration</category><category>Construction Software</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Construction/AppxChange</guid>
+    <title>Trimble App Xchange: Revolutionizing Construction Data Management and Interoperability</title>
+    <link>https://www.rics-notebook.com/blog/Construction/AppxChange</link>
+    <description>Discover how Trimble App Xchange is transforming the construction industry by enabling seamless data flow and interoperability across various systems. With its low-code integration platform, extensive marketplace, and strategic partnerships, Trimble App Xchange empowers construction professionals to streamline data management, enhance collaboration, and drive project success.</description>
+    <pubDate>Thu, 25 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction Technology</category><category>Data Management</category><category>Interoperability</category><category>Trimble App Xchange</category><category>Data Xchange</category><category>Integration Platform</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Construction/ProCore</guid>
+    <title>Procore: Revolutionizing the Construction Industry with Cutting-Edge Technology</title>
+    <link>https://www.rics-notebook.com/blog/Construction/ProCore</link>
+    <description>Discover how Procore, a leading construction management software company, is transforming the construction industry with its comprehensive suite of tools and cloud-based platform. From project management to financial tracking, Procore streamlines processes, enhances collaboration, and boosts productivity for construction professionals worldwide.</description>
+    <pubDate>Wed, 24 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Construction Technology</category><category>Project Management</category><category>Collaboration</category><category>Procore</category><category>Cloud-Based Platform</category><category>Productivity</category>
   </item>
 
   <item>
@@ -1998,6 +2068,16 @@
     <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>LinearAlgebra</category><category>Math</category><category>Calculus</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Math/UnitCircle</guid>
+    <title>Understanding Sine, Cosine, and the Unit Circle: Mapping Problems in a New Light 🌌</title>
+    <link>https://www.rics-notebook.com/blog/Math/UnitCircle</link>
+    <description>Sine and cosine functions are fundamental concepts in trigonometry that help us model periodic phenomena. By understanding these functions and their relationship to the unit circle, we can map problems in a new way and gain valuable insights into the world around us.</description>
+    <pubDate>Sun, 29 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Trigonometry</category><category>Mathematics</category><category>Education</category><category>Unit Circle</category><category>Sine</category><category>Cosine</category>
   </item>
 
   <item>
