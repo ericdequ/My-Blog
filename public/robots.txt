@@ -3,9 +3,9 @@ User-agent: *
 Allow: /
 
 # Specify the location of the sitemap
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://www.rics-notebook.com/sitemap.xml
 
-# Disallow crawling of specific directories or files (if needed)
+# Disallow crawling of specific directories or files
 Disallow: /admin/
 Disallow: /private/
 Disallow: /wp-admin/
@@ -16,15 +16,11 @@ Disallow: /wp-content/themes/
 Disallow: /feed/
 Disallow: /trackback/
 Disallow: /xmlrpc.php
-Disallow: /*?*
-Disallow: /print/
-Disallow: /share/
 Disallow: /lib/
 Disallow: /scripts/
 Disallow: /node_modules/
 
-
-# Allow crawling of specific files or directories (if needed)
+# Allow crawling of important files or directories
 Allow: /wp-content/uploads/
 Allow: /important-page/
 

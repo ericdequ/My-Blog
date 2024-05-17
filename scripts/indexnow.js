@@ -2,13 +2,14 @@ const fs = require('fs')
 const globby = require('globby')
 const matter = require('gray-matter')
 const axios = require('axios')
-const siteMetadata = require('../data/siteMetadata')
 const dotenv = require('dotenv')
 
 dotenv.config()
 
 const API_KEY = process.env.API_KEY
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
+const BASE_URL = 'https://www.rics-notebook.com'
+const keyLocation = 'https://www.rics-notebook.com/2252e998ff1146cfb763c5b1f9b9a7da.txt'
 
 ;(async () => {
   const pages = await globby([
@@ -51,7 +52,7 @@ const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
         return
       }
 
-      return `${siteMetadata.siteUrl}${route}`
+      return `${BASE_URL}${route}`
     })
     .filter(Boolean)
 
@@ -59,8 +60,9 @@ const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
     const response = await axios.post(
       INDEXNOW_ENDPOINT,
       {
-        host: siteMetadata.siteUrl,
+        host: BASE_URL,
         key: API_KEY,
+        keyLocation: keyLocation,
         urlList: urls,
       },
       {
