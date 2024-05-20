@@ -89,20 +89,3 @@ As the robot's journey comes to an end, so too does your journey through this ta
 For in the end, when your journey reaches its conclusion, you will look back and see that your life, like the robot's journey, was a story of resilience, growth, and the eternal quest for understanding. And you will realize that in seeking to understand the world around you, you have also come to understand yourself.
 
 So go forth, dear reader, and embrace the adventure of your own existence. Face the challenges with courage, revel in the triumphs with joy, and never forget that your journey, like the waterproof wanderer's, is a tale worth telling. For in the end, it is not the destination that matters, but the journey itself - and the person you become along the way. 🌊🧘‍♀️💡
-
-```html
-<div
-  style="position: relative; width: 100%; height: 0; padding-top: 159.5745%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"
->
-  <iframe
-    loading="lazy"
-    style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;"
-    src="https://www.canva.com/design/DAGFgyNMw_4/tl0ko54uBvgTq-s7qPXhEA/view?embed"
-    allowfullscreen="allowfullscreen"
-    allow="fullscreen"
-  >
-  </iframe>
-</div>
-```
-
-[Robot Ric](https://www.canva.com/design/DAGFgyNMw_4/tl0ko54uBvgTq-s7qPXhEA/view?utm_content=DAGFgyNMw_4&utm_campaign=designshare&utm_medium=embeds&utm_source=link) by Eric Dequevedo
