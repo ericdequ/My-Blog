@@ -21,6 +21,8 @@ summary: 'Explore the growing trend of microdosing LSD and psilocybin mushrooms.
 
 Microdosing, the practice of taking sub-perceptual doses of psychedelic substances like LSD (lysergic acid diethylamide) and psilocybin mushrooms, is gaining popularity across diverse demographics. From tech innovators in Silicon Valley to everyday soccer moms, people are turning to microdosing to boost creativity, enhance mental health, and inspire new ideas. This blog post delves into the practice of microdosing, its potential benefits, and its widespread appeal.
 
+![Microdosing Benefits](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-01811-4/MediaObjects/41598_2021_1811_Fig2_HTML.png?as=webp)
+
 ### 🔬 What is Microdosing?
 
 Microdosing involves taking very small doses of psychedelic substances—typically around 1/10th to 1/20th of a recreational dose. These doses are low enough to avoid the hallucinogenic effects associated with psychedelics but high enough to provide subtle enhancements to cognitive and emotional functioning.
@@ -63,6 +65,7 @@ The appeal of microdosing extends beyond specific demographics, reflecting a bro
 #### **Scientific Research and Legal Status**:
 
 1. **Research**: While anecdotal reports are abundant, scientific research on microdosing is still in its early stages. Preliminary studies suggest potential benefits, but more rigorous research is needed to confirm these findings.
+   - A study published in _Scientific Reports_ (2021) found that adults who microdose psychedelics report lower levels of anxiety and depression compared to non-microdosers.
 2. **Legal Considerations**: The legal status of substances like LSD and psilocybin varies by country and region. In some places, these substances remain illegal, complicating access and research efforts.
 
 ### 🌿 Conclusion: The Future of Microdosing

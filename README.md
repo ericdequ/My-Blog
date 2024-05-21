@@ -17,20 +17,3 @@ To run this blog locally on your machine, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
-
-pnpm add -g pnpm
-pnpm i
-
-pnpm run build
-
-git add .
-
-git commit -m "evo"
-
-git push
-
-vercel --prod
-
-node ./scripts/indexnow.js
-
-cls
