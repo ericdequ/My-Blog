@@ -1,6 +1,6 @@
 ---
 title: 'Building Schools on the Space Coast 🌌'
-date: '2024-05-20'
+date: '2024-02-20'
 tags: ['Elon Musk', 'Space Coast', 'Education', 'Future of Space', 'STEM', 'Innovation']
 draft: false
 summary: 'Elon Musks vision for the future extends beyond space exploration and electric cars. By building schools on the Space Coast, Musk can enhance his brand, protect children, and ensure they are prepared for the future of space. Discover how education can become the next frontier. 🚀'
