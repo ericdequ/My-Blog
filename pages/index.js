@@ -4,7 +4,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
-import NewsletterForm from '@/components/NewsletterForm'
+
 import { motion } from 'framer-motion'
 
 const MAX_DISPLAY = 5
@@ -135,7 +135,8 @@ export default function Home({ posts }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.5, duration: 0.5 }}
         >
-          <NewsletterForm />
+          
+
         </motion.div>
       )}
     </>

@@ -12,9 +12,9 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.webp',
   email: 'ericdequevedo@gmailcom',
   github: 'https://https://github.com/ericdequ',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  twitter: 'https://twitter.com/ricdequantum',
+  facebook: 'https://www.ericdequevedo.com/',
+  youtube: 'https://www.youtube.com/channel/UCJ0amRiNhAUZhE6S8gwzS-A',
   linkedin: 'https://www.linkedin.com/in/eric-garcia-dequevedo-a6a401b7/',
   locale: 'en-US',
   analytics: {
