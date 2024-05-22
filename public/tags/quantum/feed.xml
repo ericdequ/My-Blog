@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 13 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Logistics/Optimization</guid>
+    <title>Quantum Algorithms for Logistics Optimization: A Technical Deep Dive</title>
+    <link>https://www.rics-notebook.com/blog/Logistics/Optimization</link>
+    <description>Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.</description>
+    <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Quantum Algorithms</category><category>Technical</category><category>Code Examples</category><category>Education</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/QuantumFood</guid>
     <title>Quantum Computing: A Game-Changer in Solving Global Hunger</title>
@@ -278,16 +288,6 @@
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Cybersecurity</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Logistics/Optimization</guid>
-    <title>Quantum Algorithms for Logistics Optimization: A Technical Deep Dive</title>
-    <link>https://www.rics-notebook.com/blog/Logistics/Optimization</link>
-    <description>Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.</description>
-    <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Quantum Algorithms</category><category>Technical</category><category>Code Examples</category><category>Education</category>
   </item>
 
   <item>
