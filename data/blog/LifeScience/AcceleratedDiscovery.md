@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Computing and Psychedelic Drug Trials: Unlocking New Frontiers in Mental Health Treatment'
-date: '2023-06-23'
+date: '2024-03-23'
 tags:
   [
     'Quantum Computing',

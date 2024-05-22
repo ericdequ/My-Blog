@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Algorithms for Logistics Optimization: A Technical Deep Dive'
-date: '2023-05-23'
+date: '2024-05-22'
 tags:
   [
     'Quantum',

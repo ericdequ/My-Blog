@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Computing in Life Sciences: Revolutionizing DNA Discovery and Beyond'
-date: '2023-04-23'
+date: '2024-02-23'
 tags:
   [
     'Quantum Computing',
