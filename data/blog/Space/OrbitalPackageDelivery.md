@@ -67,7 +67,7 @@ Quantum technologies have the potential to revolutionize various aspects of orbi
 
 1. [**Quantum-Enhanced Orbital Mechanics**](https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics): Quantum computers can optimize orbital trajectories, taking into account factors such as Earth's rotation, atmospheric conditions, and the locations of launch and landing sites. This helps minimize fuel consumption, reduce delivery times, and increase overall efficiency.
 
-2. [**Quantum-Secured Communication and Data Processing**](https://www.rics-notebook.com/blog/Space/QCommunicate): Quantum cryptography ensures secure communication channels between ground stations, orbiting packages, and control centers. Quantum algorithms can also speed up the search and retrieval of relevant data from vast databases, enabling real-time tracking and decision-making.
+2. [**Quantum-Secured Communication and Data Processing**](https://www.rics-notebook.com/blog/Space/Qcommunicate): Quantum cryptography ensures secure communication channels between ground stations, orbiting packages, and control centers. Quantum algorithms can also speed up the search and retrieval of relevant data from vast databases, enabling real-time tracking and decision-making.
 
 3. [**Quantum Simulation and Modeling**](https://www.rics-notebook.com/blog/Space/Qsimulation): Quantum computers can perform complex simulations and modeling tasks to predict and optimize various aspects of orbital package delivery, such as atmospheric re-entry, materials behavior under extreme conditions, and weather patterns affecting launch and landing operations.
 

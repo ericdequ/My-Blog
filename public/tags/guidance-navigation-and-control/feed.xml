@@ -11,9 +11,9 @@
       <atom:link href="https://www.rics-notebook.com/tags/guidance-navigation-and-control/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://www.rics-notebook.com/blog/Space/Decent</guid>
+    <guid>https://www.rics-notebook.com/blog/Space/Descent</guid>
     <title>Orbital Package Delivery: Descent Phase - Guiding Packages Safely Back to Earth</title>
-    <link>https://www.rics-notebook.com/blog/Space/Decent</link>
+    <link>https://www.rics-notebook.com/blog/Space/Descent</link>
     <description>In this blog post, we dive into the critical Descent Phase of orbital package delivery. Learn about the challenges of reentry, the role of the Guidance, Navigation, and Control (GNC) system, and the technologies enabling precise and autonomous landing of packages.</description>
     <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
