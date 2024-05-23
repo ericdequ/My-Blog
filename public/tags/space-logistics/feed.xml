@@ -20,5 +20,25 @@
     <category>Orbital Transportation</category><category>Space</category><category>Space Logistics</category><category>Cost Savings</category><category>Environmental Conservation</category><category>Fuel Efficiency</category><category>Space Industry Growth</category>
   </item>
 
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</guid>
+    <title>Quantum-Enhanced Orbital Mechanics: Unlocking Unprecedented Efficiency in Space Logistics</title>
+    <link>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</link>
+    <description>Discover how quantum computing revolutionizes orbital mechanics, enabling highly efficient trajectory planning and optimization for orbital package delivery. By harnessing the power of quantum algorithms, space logistics can achieve unprecedented levels of efficiency, reducing fuel consumption and delivery times.</description>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Orbital Mechanics</category><category>Space Logistics</category><category>Optimization</category><category>Efficiency</category><category>Space</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Space/Navigation</guid>
+    <title>Orbital Package Delivery: Orbital Transit Phase - Navigating the Space Superhighway</title>
+    <link>https://www.rics-notebook.com/blog/Space/Navigation</link>
+    <description>In this blog post, we explore the Orbital Transit Phase of orbital package delivery. Learn about the intricacies of orbital mechanics, package tracking, and the critical role of space communication in ensuring the smooth transit of packages through space.</description>
+    <pubDate>Sun, 24 Mar 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Orbital Package Delivery</category><category>Orbital Transit</category><category>Space Logistics</category><category>Trajectory Optimization</category><category>Space Communication</category><category>Space</category>
+  </item>
+
     </channel>
   </rss>

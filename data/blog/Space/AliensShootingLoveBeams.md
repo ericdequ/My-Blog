@@ -2,7 +2,14 @@
 title: 'Understanding Recent Widespread Visibility of the Northern Lights'
 date: '2024-05-14'
 tags:
-  ['Aurora Borealis', 'Solar Activity', 'Geomagnetic Storms', 'Space Weather', 'Aurora Prediction']
+  [
+    'Aurora Borealis',
+    'Solar Activity',
+    'Geomagnetic Storms',
+    'Space Weather',
+    'Aurora Prediction',
+    'Space',
+  ]
 draft: false
 summary: 'Explore the recent phenomenon of the northern lights being visible far from the poles, driven by increased solar activity and geomagnetic storms. Learn about the science behind solar cycles, space weather forecasting, and how to predict and observe auroras.'
 ---

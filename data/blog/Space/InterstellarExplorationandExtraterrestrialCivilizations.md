@@ -11,6 +11,7 @@ tags:
     'Biodegradable Spaceships',
     'Interstellar Travel',
     'Extraterrestrial Civilizations',
+    'Space',
   ]
 draft: false
 summary: 'Discover the challenges of cosmic radiation beyond the asteroid belt and how mushroom mycelium could revolutionize space exploration. Learn about the potential of biodegradable spaceships made from mycelium and how they could serve as the foundation for new civilizations beyond the Milky Way.'

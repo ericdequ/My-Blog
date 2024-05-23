@@ -1,9 +1,19 @@
 ---
 title: '🎤 Taylor Swift vs. Military-Industrial Complex: The Surprising Parallels 🎤'
 date: '2024-05-23'
-tags: ['Taylor Swift', 'Military-Industrial Complex', 'Music', 'Defense Industry', 'Breakup Songs', 'War Economy', 'Ethics', 'Comparison']
+tags:
+  [
+    'Taylor Swift',
+    'Military-Industrial Complex',
+    'Music',
+    'Defense Industry',
+    'Breakup Songs',
+    'War Economy',
+    'Ethics',
+    'Comparison',
+  ]
 draft: true
-summary: 'Explore the unexpected parallels between Taylor Swift's breakup-driven music career and the military-industrial complex's dependence on conflict for profit.'
+summary: 'Explore the unexpected parallels between Taylor Swifts breakup-driven music career and the military-industrial complexs dependence on conflict for profit.'
 ---
 
 # 🎤 Taylor Swift vs. Military-Industrial Complex: The Surprising Parallels 🎤
