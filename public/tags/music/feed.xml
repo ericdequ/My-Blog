@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 24 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/pharmaceutical-industry/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/music/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/Pharma/TaylorSwiftandThePharmaceuticalIndustry</guid>
@@ -18,16 +18,6 @@
     <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Taylor Swift</category><category>Pharmaceutical Industry</category><category>Music</category><category>Healthcare</category><category>Epidemics</category><category>Ethics</category><category>Comparison</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/LifeScience/DrugDiscovery</guid>
-    <title>Quantum Computing in Drug Discovery: Accelerating the Search for New Medicines</title>
-    <link>https://www.rics-notebook.com/blog/LifeScience/DrugDiscovery</link>
-    <description>Dive into the technical details of how quantum computing is revolutionizing drug discovery. From quantum chemistry simulations to quantum machine learning, explore the cutting-edge techniques that are accelerating the search for new medicines and transforming the pharmaceutical industry.</description>
-    <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Life Sciences</category><category>Drug Discovery</category><category>Quantum Chemistry</category><category>Quantum Machine Learning</category><category>Molecular Simulation</category><category>Pharmaceutical Industry</category>
   </item>
 
     </channel>
