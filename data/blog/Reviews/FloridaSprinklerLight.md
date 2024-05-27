@@ -10,7 +10,7 @@ summary: 'A detailed review of Florida Sprinkler & Light and their exceptional i
 
 Recently, I had the incredible pleasure of working with [Florida Sprinkler & Light](https://www.floridasprinklerlight.com/), and I am thrilled to share my wonderful experience with their outstanding sprinkler repair and outdoor lighting services.
 
-![Landscape Lighting](https://www.floridasprinklerlight.com/pics/IMG_0103.webp)
+![Landscape Lighting](https://www.floridasprinklerlight.com/FSL_logo.jpg)
 
 ### The Essence of Florida Sprinkler & Light
 
