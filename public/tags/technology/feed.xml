@@ -140,5 +140,35 @@
     <category>Mushroom Growing</category><category>DIY Projects</category><category>Home Gardening</category><category>Technology</category><category>Microcontrollers</category><category>Sustainable Living</category>
   </item>
 
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoDronesFly</guid>
+    <title>The Mechanics of Flight: How Do Drones Fly?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoDronesFly</link>
+    <description>Drones, also known as unmanned aerial vehicles (UAVs), have become increasingly popular for various applications. In this blog post, we explore the principles and technology behind how drones fly and the components that make it possible.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Drones</category><category>Flight</category><category>Aviation</category><category>Technology</category><category>Engineering</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
+    <title>Decoding the Disc: How Does a CD Store Music?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
+    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</guid>
+    <title>The Silent Guardians: How Do Smoke Detectors Sense Smoke?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</link>
+    <description>Smoke detectors are crucial for home safety, alerting us to potential fires. In this blog post, we explore the technology behind smoke detectors and how they sense smoke to keep us safe.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Smoke Detectors</category><category>Safety</category><category>Technology</category><category>Fire Prevention</category><category>Home</category><category>Questions</category>
+  </item>
+
     </channel>
   </rss>
