@@ -17,3 +17,4 @@ To run this blog locally on your machine, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
+
