@@ -16,7 +16,7 @@ export default function Pagination({ totalPages, currentPage }) {
         {!prevPage ? (
           <button
             rel="previous"
-            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800 disabled:opacity-50"
+            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-secondary-500 transition-colors duration-200 hover:bg-primary-100 dark:text-secondary-400 dark:hover:bg-primary-800 disabled:opacity-50"
             disabled={!prevPage}
           >
             Previous
@@ -28,9 +28,15 @@ export default function Pagination({ totalPages, currentPage }) {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               transition={{ duration: 0.2 }}
-              className="rounded-md bg-blue-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700"
+              className="rounded-md bg-primary-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-primary-600 dark:bg-primary-600 dark:hover:bg-primary-700"
             >
-              Previous
+              <motion.span
+                initial={{ x: -10, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ duration: 0.2 }}
+              >
+                Previous
+              </motion.span>
             </motion.button>
           </Link>
         )}
@@ -38,14 +44,14 @@ export default function Pagination({ totalPages, currentPage }) {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2, duration: 0.5 }}
-          className="text-sm text-gray-700 dark:text-gray-200"
+          className="text-sm text-secondary-700 dark:text-secondary-200"
         >
           Page {currentPage} of {totalPages}
         </motion.span>
         {!nextPage ? (
           <button
             rel="next"
-            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-800 disabled:opacity-50"
+            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-secondary-500 transition-colors duration-200 hover:bg-primary-100 dark:text-secondary-400 dark:hover:bg-primary-800 disabled:opacity-50"
             disabled={!nextPage}
           >
             Next
@@ -57,9 +63,15 @@ export default function Pagination({ totalPages, currentPage }) {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               transition={{ duration: 0.2 }}
-              className="rounded-md bg-blue-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-blue-600 dark:bg-blue-600 dark:hover:bg-blue-700"
+              className="rounded-md bg-primary-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-primary-600 dark:bg-primary-600 dark:hover:bg-primary-700"
             >
-              Next
+              <motion.span
+                initial={{ x: 10, opacity: 0 }}
+                animate={{ x: 0, opacity: 1 }}
+                transition={{ duration: 0.2 }}
+              >
+                Next
+              </motion.span>
             </motion.button>
           </Link>
         )}

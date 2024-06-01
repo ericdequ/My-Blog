@@ -33,13 +33,6 @@ const projectsData = [
     imgSrc: 'https://ericdequevedo.com/logo.webp',
   },
   {
-    title: 'USA Spending Integration',
-    description:
-      'Customized UI for USA spending database and integrated into Emerging Tech LLC software.',
-    url: 'https://crm-reports-94d86.firebaseapp.com/',
-    imgSrc: 'https://www.quantumcybersolutions.com/ric/UsaSpending.webp',
-  },
-  {
     title: 'BMW Services',
     description: 'Website I built for BMW Masonary company',
     url: 'https://bmw-services.vercel.app/',

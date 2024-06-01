@@ -24,7 +24,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
         <div>
           <header>
             <motion.div
-              className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700 overflow-x-hidden overflow-y-hidden"
+              className="space-y-1 border-b border-primary-200 pb-10 text-center dark:border-primary-700 overflow-x-hidden overflow-y-hidden"
               variants={variants}
               initial="hidden"
               animate="visible"
@@ -33,7 +33,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <dl>
                 <div>
                   <dt className="sr-only">Published on</dt>
-                  <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+                  <dd className="text-base font-medium leading-6 text-secondary-500 dark:text-secondary-400">
                     <time dateTime={date}>{formatDate(date)}</time>
                   </dd>
                 </div>
@@ -44,11 +44,11 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </motion.div>
           </header>
           <div
-            className="divide-y divide-gray-200 pb-8 dark:divide-gray-700 xl:divide-y-0 "
+            className="divide-y divide-primary-200 pb-8 dark:divide-primary-700 xl:divide-y-0"
             style={{ gridTemplateRows: 'auto 1fr' }}
           >
             <motion.div
-              className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
+              className="divide-y divide-primary-200 dark:divide-primary-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
               variants={variants}
               initial="hidden"
               animate="visible"
@@ -69,7 +69,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   <div className="pt-4 xl:pt-8">
                     <Link
                       href={`/blog/${prev.slug}`}
-                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 animate-magical-fade"
                     >
                       &larr; {prev.title}
                     </Link>
@@ -79,7 +79,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   <div className="pt-4 xl:pt-8">
                     <Link
                       href={`/blog/${next.slug}`}
-                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                      className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 animate-magical-fade"
                     >
                       {next.title} &rarr;
                     </Link>

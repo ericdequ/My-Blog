@@ -1,18 +1,7 @@
 ---
 title: 'Plant Neurobiology: Exploring the Intricate Communication Networks in Plants 🌿🧠'
 date: '2024-05-21'
-tags:
-  [
-    'Plant Neurobiology',
-    'Plant Perception',
-    'Microbiome',
-    'Gut Feelings',
-    'Electrophysiology',
-    'Plant Behavior',
-    'Symbiosis',
-    'Speculative Biology',
-    'Indigenous Wisdom',
-  ]
+tags:  ['Plant Neurobiology','Plant Perception','Microbiome','Gut Feelings','Electrophysiology','Plant Behavior','Symbiosis','Speculative Biology','Indigenous Wisdom',]
 draft: false
 summary: 'Dive into the fascinating world of plant neurobiology, where the latest research reveals how plants sense and respond to their environment. Explore the parallels between plant signaling mechanisms and human gut feelings, supported by both scientific evidence and spiritual insights from indigenous wisdom. 🌿🧬✨'
 ---

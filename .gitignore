@@ -37,3 +37,12 @@ node_modules
 .env*.local
 
 .vercel
+
+
+scripts
+
+scripts/
+
+/scripts/*
+
+*/scripts/*

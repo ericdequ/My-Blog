@@ -6,7 +6,6 @@ import { getAllTags } from '@/lib/tags'
 import kebabCase from '@/lib/utils/kebabCase'
 import { motion } from 'framer-motion'
 
-
 export async function getStaticProps() {
   let tags = {}
   try {
@@ -44,37 +43,48 @@ export default function Tags({ tags }) {
 
   return (
     <>
-      <PageSEO title={`Tags - ${siteMetadata.author}`} description="Things I blog about" />
+      <PageSEO title={`Tags - ${siteMetadata.title}`} description={siteMetadata.description} />
       <motion.div
-        className="flex overflow-x-hidden overflow-y-hidden flex-col items-start justify-start divide-y divide-gray-200 dark:divide-gray-700 md:mt-24 md:flex-row md:items-center md:justify-center md:space-x-6 md:divide-y-0"
+        className="mx-auto max-w-3xl overflow-hidden px-4 sm:px-6 xl:max-w-5xl xl:px-0"
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
-       
       >
-        <div className="space-x-2 pt-6 pb-8 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:border-r-2 md:px-6 md:text-6xl md:leading-14">
+        <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-primary-900 dark:text-primary-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Tags
           </h1>
         </div>
         <motion.div
-          className="flex max-w-lg flex-wrap"
+          className="flex flex-wrap"
           variants={containerVariants}
           initial="hidden"
           animate="visible"
         >
-          {Object.keys(tags).length === 0 && 'No tags found.'}
+          {Object.keys(tags).length === 0 && (
+            <p className="text-lg text-secondary-500 dark:text-secondary-400">No tags found.</p>
+          )}
           {sortedTags.map((t) => {
             const tagSlug = kebabCase(t)
             return (
-              <motion.div key={tagSlug} className="mt-2 mb-2 mr-5" variants={tagVariants}>
-                <Tag text={t} />
-                <Link
-                  href={`/tags/${tagSlug}`}
-                  className="ml-3 P-3 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                >
-                  {`(${tags[t]})`}
+              <motion.div
+                key={tagSlug}
+                className="m-2 flex items-center rounded-full bg-primary-100 px-4 py-2 dark:bg-primary-800"
+                variants={tagVariants}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+              >
+                <Link href={`/tags/${tagSlug}`} passHref>
+                  <motion.a
+                    className="mr-2 text-lg font-semibold uppercase text-primary-800 dark:text-primary-200"
+                    aria-label={`View posts tagged with ${t}`}
+                  >
+                    {t}
+                  </motion.a>
                 </Link>
+                <span className="rounded-full bg-primary-200 px-2 py-1 text-xs font-semibold uppercase text-primary-800 dark:bg-primary-700 dark:text-primary-200">
+                  {tags[t]}
+                </span>
               </motion.div>
             )
           })}
