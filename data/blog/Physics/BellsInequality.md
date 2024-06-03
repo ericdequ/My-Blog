@@ -4,7 +4,7 @@ date: '2024-06-03'
 tags:
   [
     'Quantum Mechanics',
-    'Bell's Inequality',
+    'Bells Inequality',
     'Quantum Entanglement',
     'Quantum Physics',
     'Local Realism',

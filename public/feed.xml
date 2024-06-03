@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/cyber/BB84</guid>
+    <title>BB84: The Pioneering Protocol of Quantum Key Distribution</title>
+    <link>https://www.rics-notebook.com/blog/cyber/BB84</link>
+    <description>Explore the science and simplicity behind the BB84 protocol, the cornerstone of quantum key distribution. Learn how Alice and Bob use quantum mechanics to securely share a secret key, even in the presence of an eavesdropper.</description>
+    <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Quantum Key Distribution</category><category>BB84 Protocol</category><category>Quantum Cryptography</category><category>Photon Polarization</category><category>Alice and Bob</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Logistics/Optimization</guid>
     <title>Quantum Algorithms for Logistics Optimization: A Technical Deep Dive</title>
