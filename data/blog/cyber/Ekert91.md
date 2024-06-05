@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Key Distribution: The Ekert91 Protocol'
-date: '2024-06-03'
+date: '2024-06-05'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Ekert91',
     'Bell States',
   ]
-draft: true
+draft: false
 summary: 'Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bell’s inequality.'
 ---
 
@@ -101,3 +101,22 @@ The Ekert91 protocol is a groundbreaking approach to quantum key distribution, l
 4. Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
 
 By understanding the principles and mechanisms behind the Ekert91 protocol, we can appreciate the profound impact of quantum mechanics on the future of secure communication.
+
+
+
+pnpm i
+
+pnpm update
+
+pnpm run lint
+
+pnpm run build
+
+git add .
+
+git commit -m "daily"
+
+git push
+
+vercel --prod
+

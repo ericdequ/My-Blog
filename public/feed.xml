@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 04 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/cyber/Ekert91</guid>
+    <title>Quantum Key Distribution: The Ekert91 Protocol</title>
+    <link>https://www.rics-notebook.com/blog/cyber/Ekert91</link>
+    <description>Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bell’s inequality.</description>
+    <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>Ekert91</category><category>Bell States</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/cyber/BBM92</guid>
     <title>Quantum Key Distribution - BBM92</title>
