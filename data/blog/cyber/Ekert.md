@@ -102,21 +102,3 @@ The Ekert91 protocol is a groundbreaking approach to quantum key distribution, l
 
 By understanding the principles and mechanisms behind the Ekert91 protocol, we can appreciate the profound impact of quantum mechanics on the future of secure communication.
 
-
-
-pnpm i
-
-pnpm update
-
-pnpm run lint
-
-pnpm run build
-
-git add .
-
-git commit -m "daily"
-
-git push
-
-vercel --prod
-
