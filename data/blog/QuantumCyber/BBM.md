@@ -9,7 +9,7 @@ tags:
     'BBM92',
     'Bell States',
   ]
-draft: false
+draft: true
 summary: 'Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.'
 ---
 

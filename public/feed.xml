@@ -7,29 +7,9 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
-  <item>
-    <guid>https://www.rics-notebook.com/blog/cyber/Ekert</guid>
-    <title>Quantum Key Distribution: The Ekert91 Protocol</title>
-    <link>https://www.rics-notebook.com/blog/cyber/Ekert</link>
-    <description>Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bells inequality.</description>
-    <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>Ekert91</category><category>Bell States</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/cyber/BBM</guid>
-    <title>Quantum Key Distribution - BBM92</title>
-    <link>https://www.rics-notebook.com/blog/cyber/BBM</link>
-    <description>Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.</description>
-    <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>BBM92</category><category>Bell States</category>
-  </item>
-
   <item>
     <guid>https://www.rics-notebook.com/blog/cyber/BB84</guid>
     <title>BB84: The Pioneering Protocol of Quantum Key Distribution</title>
@@ -1241,9 +1221,9 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumCyberSecurity</guid>
+    <guid>https://www.rics-notebook.com/blog/QuantumCyber/QuantumCyberSecurity</guid>
     <title>Quantum Cybersecurity The Future of Secure Communication 🛡️</title>
-    <link>https://www.rics-notebook.com/blog/Quantum/QuantumCyberSecurity</link>
+    <link>https://www.rics-notebook.com/blog/QuantumCyber/QuantumCyberSecurity</link>
     <description>Diving into the world of Quantum Cybersecurity and its significance in an era of quantum computers!</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>

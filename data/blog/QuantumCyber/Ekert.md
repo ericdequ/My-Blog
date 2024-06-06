@@ -9,7 +9,7 @@ tags:
     'Ekert91',
     'Bell States',
   ]
-draft: false
+draft: true
 summary: 'Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bells inequality.'
 ---
 
