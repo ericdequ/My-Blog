@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 07 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/Hybrid</guid>
+    <title>Hybrid Quantum-Classical Computing: Leveraging Ternary Logic for Enhanced Performance</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/Hybrid</link>
+    <description>Explore the innovative concept of hybrid quantum-classical computing using ternary logic. Understand the principles, potential advantages, and challenges of integrating negative, positive, and zero states to enhance computational speed and efficiency.</description>
+    <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Hybrid Computing</category><category>Ternary Logic</category><category>Quantum Algorithms</category><category>Computer Architecture</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/cyber/BB84</guid>
     <title>BB84: The Pioneering Protocol of Quantum Key Distribution</title>
