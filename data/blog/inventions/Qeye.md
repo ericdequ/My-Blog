@@ -1,6 +1,6 @@
 ---
 title: 'Quantum-Powered Sales Optimization'
-date: '2023-05-23'
+date: '2024-06-09'
 tags:
   [
     'Quantum Computing',
@@ -12,7 +12,7 @@ tags:
     'Quantum Annealing',
     'D-Wave Systems',
   ]
-draft: true
+draft: false
 summary: 'Explore how TigerEye, a leading sales and go-to-market planning platform, is leveraging the power of quantum computing to revolutionize sales optimization. Discover the technical details behind integrating quantum algorithms with TigerEyes existing platform to maximize revenue and drive business growth.'
 ---
 
