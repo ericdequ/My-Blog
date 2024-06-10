@@ -12,7 +12,7 @@ tags:
     'Quantum Annealing',
     'D-Wave Systems',
   ]
-draft: false
+draft: true
 summary: 'Explore how TigerEye, a leading sales and go-to-market planning platform, is leveraging the power of quantum computing to revolutionize sales optimization. Discover the technical details behind integrating quantum algorithms with TigerEyes existing platform to maximize revenue and drive business growth.'
 ---
 

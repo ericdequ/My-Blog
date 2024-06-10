@@ -1,9 +1,9 @@
 ---
-Title: "Unraveling the Mysteries of Water with Quantum Computing: Simulating H2O at the Quantum Level 💧🌊🔬"
-date: "2024-06-09"
-tags: ["Quantum Computing", "Water", "Quantum Chemistry", "Simulation", "Hydrogen Bonding", "Quantum Effects", "Quantum Entanglement"]
-draft: false
-summary: "Explore how quantum computers could revolutionize our understanding of water by enabling detailed simulations of its quantum behavior. From unraveling the secrets of hydrogen bonding to designing novel materials and investigating the quantum origins of life, quantum computing promises to shed new light on the most essential compound on Earth."
+Title: 'Unraveling the Mysteries of Water with Quantum Computing'
+date: '2024-06-09'
+tags: ['Quantum Computing', 'Water', 'Quantum Chemistry', 'Simulation', 'Hydrogen Bonding', 'Quantum Effects', 'Quantum Entanglement']
+draft: true
+summary: 'Explore how quantum computers could revolutionize our understanding of water by enabling detailed simulations of its quantum behavior. From unraveling the secrets of hydrogen bonding to designing novel materials and investigating the quantum origins of life, quantum computing promises to shed new light on the most essential compound on Earth.'
 ---
 
 Water - the elixir of life, the shapeshifter between solid, liquid and gas, the universal solvent that makes our blue planet unique. We know water is essential, yet so much about this deceptively simple compound remains unknown. How do those hydrogen bonds dance to give water its unusual properties? What quantum effects govern its interactions? 
