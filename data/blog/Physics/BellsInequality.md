@@ -1,6 +1,6 @@
 ---
 title: 'Bells Inequality and Its Implications'
-date: '2024-06-03'
+date: '2024-06-11'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Quantum Physics',
     'Local Realism',
   ]
-draft: true
+draft: false
 summary: 'Explore the profound implications of Bells Inequality in quantum mechanics. Understand the experimental tests, the concept of local realism, and how these principles challenge our understanding of the nature of reality.'
 ---
 

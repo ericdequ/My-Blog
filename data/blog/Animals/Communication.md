@@ -27,7 +27,7 @@ This interdisciplinary approach, combining cutting-edge technology with concepts
 
 ## 🔍 Implications and Future Directions
 
-The implications of this research are far-reaching, extending beyond the realm of sperm whales to encompass a wide range of species and ecosystems. As Daniela Rus notes, the team's decision to focus on sperm whales was driven by the availability of extensive datasets and the discrete nature of their communication system, which lends itself to easier analysis than the continuous vocalizations of other species like humpback whales.
+The implications of this research are far-reaching, extending beyond the realm of sperm whales to encompass a wide range of species and ecosystems. As Daniela Rus notes, the Teams decision to focus on sperm whales was driven by the availability of extensive datasets and the discrete nature of their communication system, which lends itself to easier analysis than the continuous vocalizations of other species like humpback whales.
 
 However, the success of this study serves as a proof of concept, demonstrating the immense potential of machine learning and other advanced technologies in deciphering the complexities of animal communication. As we refine these tools and expand our datasets, we may uncover similar patterns and structures in the vocalizations of other species, from the haunting songs of humpback whales to the intricate calls of birds and primates.
 
