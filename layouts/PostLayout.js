@@ -8,7 +8,12 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
-import { FacebookShareButton, TwitterShareButton, LinkedinShareButton, RedditShareButton } from 'react-share'
+import {
+  FacebookShareButton,
+  TwitterShareButton,
+  LinkedinShareButton,
+  RedditShareButton,
+} from 'react-share'
 import { FaFacebook, FaTwitter, FaLinkedin, FaReddit } from 'react-icons/fa'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
@@ -115,7 +120,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 <div className="mb-6">
                   <h3 className="text-lg font-semibold mb-2">Share this post</h3>
                   <div className="flex space-x-4">
-                    <FacebookShareButton 
+                    <FacebookShareButton
                       url={shareUrl}
                       className="flex items-center justify-center w-10 h-10 rounded-full bg-[#1877f2] text-white hover:bg-[#166fe5] transition-colors duration-300"
                     >

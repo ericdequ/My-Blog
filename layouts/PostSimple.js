@@ -7,7 +7,12 @@ import siteMetadata from '@/data/siteMetadata'
 import formatDate from '@/lib/utils/formatDate'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
-import { FacebookShareButton, TwitterShareButton, LinkedinShareButton, RedditShareButton } from 'react-share'
+import {
+  FacebookShareButton,
+  TwitterShareButton,
+  LinkedinShareButton,
+  RedditShareButton,
+} from 'react-share'
 import { FaFacebook, FaTwitter, FaLinkedin, FaReddit } from 'react-icons/fa'
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
