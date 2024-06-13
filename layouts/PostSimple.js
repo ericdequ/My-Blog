@@ -7,18 +7,23 @@ import siteMetadata from '@/data/siteMetadata'
 import formatDate from '@/lib/utils/formatDate'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import { FacebookShareButton, TwitterShareButton, LinkedinShareButton, RedditShareButton } from 'react-share'
+import { FaFacebook, FaTwitter, FaLinkedin, FaReddit } from 'react-icons/fa'
 
 export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
-  const { date, title } = frontMatter
+  const { date, title, slug } = frontMatter
 
   const variants = {
     hidden: { opacity: 0, y: 20 },
     visible: { opacity: 1, y: 0 },
   }
 
+  // Generate the URL for sharing the blog post
+  const shareUrl = `${siteMetadata.siteUrl}/blog/${slug}`
+
   return (
     <SectionContainer>
-      <BlogSEO url={`${siteMetadata.siteUrl}/blog/${frontMatter.slug}`} {...frontMatter} />
+      <BlogSEO url={`${siteMetadata.siteUrl}/blog/${slug}`} {...frontMatter} />
       <ScrollTopAndComment />
       <article>
         <div>
@@ -55,6 +60,33 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               transition={{ duration: 0.6, delay: 0.4 }}
             >
               <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
+              {/* Social share buttons */}
+              <div className="mt-8 flex justify-center space-x-4">
+                <FacebookShareButton
+                  url={shareUrl}
+                  className="flex items-center justify-center w-10 h-10 rounded-full bg-[#1877f2] text-white hover:bg-[#166fe5] transition-colors duration-300"
+                >
+                  <FaFacebook className="w-5 h-5" />
+                </FacebookShareButton>
+                <TwitterShareButton
+                  url={shareUrl}
+                  className="flex items-center justify-center w-10 h-10 rounded-full bg-[#1da1f2] text-white hover:bg-[#0c8bd9] transition-colors duration-300"
+                >
+                  <FaTwitter className="w-5 h-5" />
+                </TwitterShareButton>
+                <LinkedinShareButton
+                  url={shareUrl}
+                  className="flex items-center justify-center w-10 h-10 rounded-full bg-[#0a66c2] text-white hover:bg-[#0a5eb9] transition-colors duration-300"
+                >
+                  <FaLinkedin className="w-5 h-5" />
+                </LinkedinShareButton>
+                <RedditShareButton
+                  url={shareUrl}
+                  className="flex items-center justify-center w-10 h-10 rounded-full bg-[#ff4500] text-white hover:bg-[#e03f00] transition-colors duration-300"
+                >
+                  <FaReddit className="w-5 h-5" />
+                </RedditShareButton>
+              </div>
             </motion.div>
             <Comments frontMatter={frontMatter} />
             <footer>
