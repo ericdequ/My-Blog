@@ -1,6 +1,6 @@
 ---
 title: 'Entangled Photon Sources and Detectors'
-date: '2024-06-03'
+date: '2024-06-12'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Bell States',
     'Quantum Cryptography',
   ]
-draft: true
+draft: false
 summary: 'Dive into the world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion and explore how entangled Bell states are generated and detected.'
 ---
 
