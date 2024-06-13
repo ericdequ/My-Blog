@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 12 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-cryptography/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/EntangledPhotonSources</guid>
+    <title>Entangled Photon Sources and Detectors</title>
+    <link>https://www.rics-notebook.com/blog/Physics/EntangledPhotonSources</link>
+    <description>Dive into the world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion and explore how entangled Bell states are generated and detected.</description>
+    <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Spontaneous Parametric Downconversion</category><category>Bell States</category><category>Quantum Cryptography</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/cyber/BB84</guid>
     <title>BB84: The Pioneering Protocol of Quantum Key Distribution</title>

@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 11 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 12 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/EntangledPhotonSources</guid>
+    <title>Entangled Photon Sources and Detectors</title>
+    <link>https://www.rics-notebook.com/blog/Physics/EntangledPhotonSources</link>
+    <description>Dive into the world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion and explore how entangled Bell states are generated and detected.</description>
+    <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Spontaneous Parametric Downconversion</category><category>Bell States</category><category>Quantum Cryptography</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Physics/BellsInequality</guid>
     <title>Bells Inequality and Its Implications</title>
@@ -3608,6 +3618,16 @@
     <pubDate>Sat, 09 Sep 2017 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Baking Soda Volcano</category><category>Chemical Reactions</category><category>Science Experiments</category><category>Kids Science</category><category>Chemistry</category><category>Fun with Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Reviews/ZachB</guid>
+    <title>Zachary Bethel</title>
+    <link>https://www.rics-notebook.com/blog/Reviews/ZachB</link>
+    <description>A review of Zachary Bethels music lessons, highlighting his exceptional teaching skills and comprehensive approach to brass education.</description>
+    <pubDate>Tue, 18 Mar 2008 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Music Lessons</category><category>Education</category><category>Review</category><category>Trombone</category>
   </item>
 
     </channel>
