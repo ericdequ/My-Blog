@@ -56,7 +56,7 @@ The choice between Type-I and Type-II SPDC depends on the desired entangled stat
 
 ### 🌀 Polarization-Entangled Photons with BBO Crystals
 
-Beta barium borate (BBO) crystals are widely employed non-linear materials for SPDC due to their high non-linearity and birefringence properties. When a pump photon enters a properly oriented BBO crystal, it undergoes downconversion, giving rise to a pair of entangled photons with orthogonal polarizations. The emitted photons form two cones, one for each polarization, and their correlation can be visualized as shown in the diagram below:
+Beta barium borate (BBO) crystals are widely employed non-linear materials for SPDC due to their high non-linearity and birefringence properties. When a pump photon enters a properly oriented BBO crystal, it undergoes downconversion, giving rise to a pair of entangled photons with orthogonal polarizations. The emitted photons form two cones, one for each polarization, and their correlation. 
 
 ![BBO Crystal Polarization Entanglement](https://www.rics-notebook.com/BBO.webp)
 
@@ -68,16 +68,7 @@ This entangled state serves as a fundamental resource for various quantum protoc
 
 ## 🔄 Generating All Four Bell States
 
-While the $|\Psi^+\rangle$ state is readily obtained from SPDC, generating the remaining three Bell states requires additional manipulations using optical elements such as waveplates. By introducing precise phase shifts and swapping polarizations, we can transform $|\Psi^+\rangle$ into the other Bell states. The necessary transformations are summarized in the table below:
-
-| Target Bell State | Optical Element(s)        | Gate Operation | Resulting State                          |
-|-------------------|---------------------------|----------------|------------------------------------------|
-| $|\Psi^+\rangle$  | None                      | $I \otimes I$  | $\frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$ |
-| $|\Psi^-\rangle$  | Half-Wave Plate ($\pi/2$) | $I \otimes Z$  | $\frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$ |
-| $|\Phi^+\rangle$  | Half-Wave Plate (45°)     | $I \otimes X$  | $\frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$ |
-| $|\Phi^-\rangle$  | Two Half-Wave Plates      | $I \otimes ZX$ | $\frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$ |
-
-These transformations showcase the versatility of entangled photon sources and the ability to engineer desired entangled states for specific applications.
+While the $|\Psi^+\rangle$ state is readily obtained from SPDC, generating the remaining three Bell states requires additional manipulations using optical elements such as waveplates. By introducing precise phase shifts and swapping polarizations, we can transform $|\Psi^+\rangle$ into the other Bell states. 
 
 ## 📡 Detection of Bell States
 
