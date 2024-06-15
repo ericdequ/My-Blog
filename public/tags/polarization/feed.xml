@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 14 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/polarization/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/Single-Photon Sources</guid>
+    <title>Single-Photon Sources, Detectors, and Beamsplitters: Exploring Quantum Light</title>
+    <link>https://www.rics-notebook.com/blog/Physics/Single-Photon Sources</link>
+    <description>Dive into the world of quantum optics with a comprehensive exploration of single-photon sources, detectors, and beamsplitters. Understand the principles behind quantum light and its applications in modern technology.</description>
+    <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Photon</category><category>Single-Photon Source</category><category>Single-Photon Detector</category><category>Beamsplitter</category><category>Polarization</category>
+  </item>
+
+    </channel>
+  </rss>

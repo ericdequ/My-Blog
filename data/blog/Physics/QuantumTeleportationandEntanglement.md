@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Teleportation and Entanglement'
-date: '2024-06-03'
+date: '2024-06-13'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Quantum Physics',
     'Bell States',
   ]
-draft: true
+draft: false
 summary: 'Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how information is transferred between qubits, the role of Bell states, and the profound implications for quantum communication.'
 ---
 

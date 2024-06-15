@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 11 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 13 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-physics/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/QuantumTeleportationandEntanglement</guid>
+    <title>Quantum Teleportation and Entanglement</title>
+    <link>https://www.rics-notebook.com/blog/Physics/QuantumTeleportationandEntanglement</link>
+    <description>Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how information is transferred between qubits, the role of Bell states, and the profound implications for quantum communication.</description>
+    <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Quantum Teleportation</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Bell States</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Physics/BellsInequality</guid>
     <title>Bells Inequality and Its Implications</title>
