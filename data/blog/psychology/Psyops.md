@@ -1,8 +1,8 @@
 ---
 title: 'Psychological Operations (PSYOPS)'
-date: '2021-05-06'
+date: '2024-06-16'
 tags: ['propaganda', 'information warfare', 'military strategy', 'psychology']
-draft: true
+draft: false
 summary: 'Psychological Operations, or PSYOPS, are a type of military strategy that uses communication and information to influence the emotions, motives, and decision-making of target audiences. Throughout history, PSYOPS have been used to shape public opinion, undermine enemy morale, and achieve strategic objectives.'
 ---
 
