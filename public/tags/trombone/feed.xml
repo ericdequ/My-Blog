@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 18 Mar 2008 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/trombone/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Reviews/ZachB</guid>
+    <title>Zachary Bethel</title>
+    <link>https://www.rics-notebook.com/blog/Reviews/ZachB</link>
+    <description>A review of Zachary Bethels music lessons, highlighting his exceptional teaching skills and comprehensive approach to brass education.</description>
+    <pubDate>Tue, 18 Mar 2008 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Music Lessons</category><category>Education</category><category>Review</category><category>Trombone</category>
+  </item>
+
+    </channel>
+  </rss>
