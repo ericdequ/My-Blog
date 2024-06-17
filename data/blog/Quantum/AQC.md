@@ -1,6 +1,6 @@
 ---
 title: 'Adiabatic Quantum Computing: Concept and Applications'
-date: '2024-06-16'
+date: '2024-06-17'
 tags:
   [
     'Quantum Computing',
@@ -9,7 +9,7 @@ tags:
     'Quantum Mechanics',
     'Optimization',
   ]
-draft: true
+draft: false
 summary: 'Explore the concept of Adiabatic Quantum Computing (AQC), its principles, and its applications. Understand the adiabatic theorem, the problem Hamiltonian, and the challenges involved in implementing AQC for practical problems.'
 ---
 
