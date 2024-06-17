@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 17 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/apple-vision-pro/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/ARGOLF</guid>
+    <title>Transforming Golf Putting with Augmented Reality: Enhancing Precision and Performance 🏌️‍♂️</title>
+    <link>https://www.rics-notebook.com/blog/inventions/ARGOLF</link>
+    <description>Discover how augmented reality and satellite construction tools are revolutionizing golf putting. Enhance your precision and performance on the green with cutting-edge technology like Apple Vision Pro, Meta Glasses, and Trimble. 🏌️‍♂️</description>
+    <pubDate>Mon, 17 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Golf</category><category>Augmented Reality</category><category>Apple Vision Pro</category><category>Meta Glasses</category><category>Satellite Construction Tools</category><category>Trimble</category><category>Sports Technology</category><category>Putting Assistance</category>
+  </item>
+
+    </channel>
+  </rss>
