@@ -1,7 +1,7 @@
 ---
 
 title: 'Quantum Simulation of Chemistry Problems'
-date: '2024-06-03'
+date: '2024-06-18'
 tags:
   [
     'Quantum Simulation',
@@ -10,7 +10,7 @@ tags:
     'Haber-Bosch Process',
     'Nitrogenase Enzyme',
   ]
-draft: true
+draft: false
 summary: 'Explore how quantum simulation can address complex chemistry problems, such as nitrogen fixation, and the potential impact on industrial processes and our understanding of biological mechanisms.'
 ---
 

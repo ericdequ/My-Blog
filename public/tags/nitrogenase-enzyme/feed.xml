@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 18 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/nitrogenase-enzyme/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/ChemSimulations</guid>
+    <title>Quantum Simulation of Chemistry Problems</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/ChemSimulations</link>
+    <description>Explore how quantum simulation can address complex chemistry problems, such as nitrogen fixation, and the potential impact on industrial processes and our understanding of biological mechanisms.</description>
+    <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Simulation</category><category>Quantum Chemistry</category><category>Nitrogen Fixation</category><category>Haber-Bosch Process</category><category>Nitrogenase Enzyme</category>
+  </item>
+
+    </channel>
+  </rss>

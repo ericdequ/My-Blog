@@ -46,7 +46,7 @@ Despite the controversy surrounding him, Dee's influence can still be felt today
 - Enochian Language: A supposed angelic language "received" by Dee and Edward Kelley 👼
 - Crystal Ball: Used for scrying and divination 🔮
 - Aztec Obsidian Mirror: Used for scrying and communication with spirits 🪞
-- Philosopher's Stone: A legendary alchemical substance said to turn base metals into gold 🧪
+- Philosophers Stone: A legendary alchemical substance said to turn base metals into gold 🧪
 - Sigillum Dei Aemeth: A magical diagram used in Dee's occult rituals 🔱
 - Hieroglyphic Monad: A symbol representing the stages of alchemical creation 🌑🌓🌕
 

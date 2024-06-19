@@ -28,7 +28,7 @@ Vibration or frequency is pivotal in accessing these higher states. By elevating
 
 ## 🍯 Alchemy & The Magnum Opus
 
-Alchemy is both a philosophical and protoscientific tradition aiming to transform. The Magnum Opus or "Great Work" is the path to enlightenment in alchemical terms, leading one through stages to create the Philosopher's Stone.
+Alchemy is both a philosophical and protoscientific tradition aiming to transform. The Magnum Opus or "Great Work" is the path to enlightenment in alchemical terms, leading one through stages to create the Philosophers Stone.
 
 ## 📜 Hermes Trismegistus & Hermeticism
 
