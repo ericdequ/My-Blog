@@ -1,7 +1,7 @@
 ---
 
 title: 'Hybrid Quantum-Classical Computing: Leveraging Ternary Logic for Enhanced Performance'
-date: '2024-06-07'
+date: '2024-06-19'
 tags:
   [
     'Quantum Computing',
@@ -10,7 +10,7 @@ tags:
     'Quantum Algorithms',
     'Computer Architecture',
   ]
-draft: true
+draft: false
 summary: 'Explore the innovative concept of hybrid quantum-classical computing using ternary logic. Understand the principles, potential advantages, and challenges of integrating negative, positive, and zero states to enhance computational speed and efficiency.'
 ---
 
