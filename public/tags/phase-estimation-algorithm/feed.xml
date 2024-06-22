@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 20 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/phase-estimation-algorithm/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</guid>
+    <title>Phase Estimation: A Key Quantum Algorithm</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</link>
+    <description>Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.</description>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Phase Estimation Algorithm</category><category>Shor’s Algorithm</category><category>Quantum Fourier Transform</category><category>Quantum Mechanics</category>
+  </item>
+
+    </channel>
+  </rss>

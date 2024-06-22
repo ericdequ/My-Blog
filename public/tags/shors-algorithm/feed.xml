@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 20 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/shors-algorithm/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</guid>
+    <title>Phase Estimation: A Key Quantum Algorithm</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</link>
+    <description>Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.</description>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Phase Estimation Algorithm</category><category>Shor’s Algorithm</category><category>Quantum Fourier Transform</category><category>Quantum Mechanics</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/cyber/RSACryptosystem</guid>
     <title>RSA Cryptosystem and Shor’s Algorithm: A Quantum Leap in Cryptography 🔐✨</title>

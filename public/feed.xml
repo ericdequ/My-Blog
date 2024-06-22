@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 20 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 21 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QRNG</guid>
+    <title>Random Numbers and Quantum Random Number Generation</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QRNG</link>
+    <description>Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.</description>
+    <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Random Number Generation</category><category>Quantum Random Number Generators</category><category>Cryptography</category><category>Monte Carlo Methods</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Personal/RobotRic</guid>
     <title>The Waterproof Wanderer: From Blog Post to Best-Selling Novel</title>
@@ -18,6 +28,16 @@
     <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Novel</category><category>AI</category><category>Spirituality</category><category>Resilience</category><category>Life Lessons</category><category>Humanity</category><category>Book Launch</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</guid>
+    <title>Phase Estimation: A Key Quantum Algorithm</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/PhaseEstimation</link>
+    <description>Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.</description>
+    <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Phase Estimation Algorithm</category><category>Shor’s Algorithm</category><category>Quantum Fourier Transform</category><category>Quantum Mechanics</category>
   </item>
 
   <item>

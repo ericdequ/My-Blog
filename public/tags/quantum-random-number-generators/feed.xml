@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 21 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/quantum-random-number-generators/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/QRNG</guid>
+    <title>Random Numbers and Quantum Random Number Generation</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/QRNG</link>
+    <description>Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.</description>
+    <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Random Number Generation</category><category>Quantum Random Number Generators</category><category>Cryptography</category><category>Monte Carlo Methods</category>
+  </item>
+
+    </channel>
+  </rss>

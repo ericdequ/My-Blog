@@ -1,6 +1,6 @@
 ---
 title: 'Phase Estimation: A Key Quantum Algorithm'
-date: '2024-06-03'
+date: '2024-06-20'
 tags:
   [
     'Quantum Computing',
@@ -9,7 +9,7 @@ tags:
     'Quantum Fourier Transform',
     'Quantum Mechanics',
   ]
-draft: true
+draft: false
 summary: 'Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.'
 ---
 

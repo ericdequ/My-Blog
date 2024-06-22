@@ -1,6 +1,6 @@
 ---
 title: 'Random Numbers and Quantum Random Number Generation'
-date: '2024-06-03'
+date: '2024-06-21'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Cryptography',
     'Monte Carlo Methods',
   ]
-draft: true
+draft: false
 summary: 'Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.'
 ---
 
