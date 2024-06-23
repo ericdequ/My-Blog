@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/quantum-communication/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/photon-loss/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/Repeaters</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Communication</category><category>Quantum Repeaters</category><category>Photon Loss</category><category>No-Cloning Theorem</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Space/Qcommunicate</guid>
-    <title>Quantum-Secured Communication and Data Processing: Ensuring the Safety and Efficiency of Orbital Package Delivery</title>
-    <link>https://www.rics-notebook.com/blog/Space/Qcommunicate</link>
-    <description>Learn how quantum technologies revolutionize secure communication and data processing in the orbital package delivery industry. From unbreakable encryption to efficient data retrieval, discover the ways in which quantum computing ensures the safety and efficiency of space logistics.</description>
-    <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Communication</category><category>Quantum Cryptography</category><category>Data Security</category><category>Quantum Algorithms</category><category>Real-Time Tracking</category><category>Space</category>
   </item>
 
     </channel>

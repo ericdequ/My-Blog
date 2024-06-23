@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Repeaters: Overcoming Long-Distance Communication Challenges'
-date: '2024-06-03'
+date: '2024-06-23'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Photon Loss',
     'No-Cloning Theorem',
   ]
-draft: true
+draft: false
 summary: 'Explore the concept of quantum repeaters and their role in overcoming the challenges of long-distance quantum communication, including photon loss and the no-cloning theorem.'
 ---
 
