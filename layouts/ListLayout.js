@@ -87,17 +87,17 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                 }}
               >
                 <article className="p-6 border border-primary-300 dark:border-primary-700 rounded-lg shadow-sm hover:shadow-md hover:border-primary-500 dark:hover:border-primary-500 transition duration-200 relative">
-                {firstImage && (
-  <div className="absolute top-2 right-2 w-24 h-24">
-    <Image
-      src={firstImage}
-      alt={title}
-      width={96}
-      height={96}
-      className="rounded-md object-cover"
-    />
-  </div>
-)}
+                  {firstImage && (
+                    <div className="absolute top-2 right-2 w-24 h-24">
+                      <Image
+                        src={firstImage}
+                        alt={title}
+                        width={96}
+                        height={96}
+                        className="rounded-md object-cover"
+                      />
+                    </div>
+                  )}
                   <dl>
                     <dt className="sr-only">Published on</dt>
                     <dd className="text-base font-medium leading-6 text-secondary-500 dark:text-secondary-400">
