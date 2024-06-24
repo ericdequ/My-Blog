@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 18 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-simulation/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/SimulationIdeasIssues</guid>
+    <title>Quantum Simulation: Ideas and Issues</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/SimulationIdeasIssues</link>
+    <description>Explore the realm of quantum simulation, a pivotal concept in quantum mechanics. Learn about the challenges, methodologies, and the profound implications of simulating quantum systems with quantum computers.</description>
+    <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Quantum Simulation</category><category>Quantum Computing</category><category>Hamiltonians</category><category>Quantum Chemistry</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/ChemSimulations</guid>
     <title>Quantum Simulation of Chemistry Problems</title>
