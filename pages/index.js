@@ -4,10 +4,10 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
-
 import { motion } from 'framer-motion'
+import Image from 'next/image'
 
-const MAX_DISPLAY = 5
+const MAX_DISPLAY = 3
 
 export async function getStaticProps() {
   const posts = await getAllFilesFrontMatter('blog')
@@ -42,7 +42,7 @@ export default function Home({ posts }) {
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-primary-200 dark:divide-primary-700">
         <motion.div
-          className="space-y-2 pt-6 pb-8 md:space-y-5 overflow-x-hidden overflow-y-hidden"
+          className="space-y-2 pt-6 pb-8 md:space-y-5"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
@@ -54,6 +54,7 @@ export default function Home({ posts }) {
             {siteMetadata.description}
           </p>
         </motion.div>
+
         <motion.ul
           className="divide-y divide-primary-200 dark:divide-primary-700"
           variants={containerVariants}
@@ -66,7 +67,7 @@ export default function Home({ posts }) {
             </p>
           )}
           {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, date, title, summary, tags, images } = frontMatter
             return (
               <motion.li key={slug} className="py-12" variants={postVariants}>
                 <article>
@@ -80,27 +81,41 @@ export default function Home({ posts }) {
                     <div className="space-y-5 xl:col-span-3">
                       <div className="space-y-6">
                         <div>
-                          <h2 className="text-2xl font-bold leading-8 tracking-tight  mb-3 my-3">
+                          <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
                             <Link
                               href={`/blog/${slug}`}
-                              className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
+                              className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200 "
                             >
                               {title}
                             </Link>
                           </h2>
-                          <div className="flex flex-wrap">
-                            {tags &&
-                              Array.isArray(tags) &&
-                              tags.map((tag) => (
-                                <Tag key={tag} text={tag} className="animate-magical-fade" />
-                              ))}
+                          <div className="flex flex-wrap mt-2">
+                            {tags.map((tag) => (
+                              <Tag key={tag} text={tag} />
+                            ))}
                           </div>
                         </div>
+                        {images && images.length > 0 && (
+                          <Link
+                            href={`/blog/${slug}`}
+                            className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
+                          >
+                            <div className="relative aspect-[16/9] w-full">
+                              <Image
+                                src={images[0]}
+                                alt={title}
+                                layout="fill"
+                                objectFit="cover"
+                                className="rounded-lg"
+                              />
+                            </div>
+                          </Link>
+                        )}
                         <div className="prose max-w-none text-secondary-500 dark:text-secondary-400">
                         <Link
-                              href={`/blog/${slug}`}
-                              className=""
-                            >
+                            href={`/blog/${slug}`}
+                           
+                          >
                           {summary}
                           </Link>
                         </div>
@@ -108,7 +123,7 @@ export default function Home({ posts }) {
                       <div className="text-base font-medium leading-6">
                         <Link
                           href={`/blog/${slug}`}
-                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 animate-magical-fade"
+                          className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                           aria-label={`Read "${title}"`}
                         >
                           Read more &rarr;
@@ -122,6 +137,7 @@ export default function Home({ posts }) {
           })}
         </motion.ul>
       </div>
+
       {posts.length > MAX_DISPLAY && (
         <motion.div
           className="flex justify-end text-base font-medium leading-6"
@@ -131,13 +147,14 @@ export default function Home({ posts }) {
         >
           <Link
             href="/blog"
-            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 "
+            className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
             aria-label="View all posts"
           >
             All Posts &rarr;
           </Link>
         </motion.div>
       )}
+
       {siteMetadata.newsletter.provider !== '' && (
         <motion.div
           className="flex items-center justify-center pt-4"
