@@ -25,7 +25,7 @@ Quantum simulation involves using a quantum computer to model the behavior of qu
 
 ### 🌀 Hamiltonian Simulation
 
-The fundamental goal of quantum simulation is to simulate a target Hamiltonian \( H_{\text{sys}} \) using a different set of Hamiltonians \( H_{k}^{\text{QC}} \), which are the Hamiltonians of the quantum computing units. The task is to determine whether the algebra of \( H_{\text{sys}} \) can be spanned by the algebra of \( H_{k}^{\text{QC}} \). This is a crucial group theory problem and forms the foundation of quantum simulation.
+The fundamental goal of quantum simulation is to simulate a target Hamiltonian  using a different set of Hamiltonians, which are the Hamiltonians of the quantum computing units. The task is to determine whether the algebra of can be spanned. This is a crucial group theory problem and forms the foundation of quantum simulation.
 
 ## ✨ Methodologies in Quantum Simulation
 
