@@ -4,6 +4,8 @@ date: '2023-04-30'
 tags: ['Creativity', 'Self-help', 'Personal', life-lessons, 'rick-rubin']
 draft: false
 summary: Discover the key insights and lessons from Rick Rubin's "The Creative Act," a thought-provoking exploration of the creative process and how to cultivate it in your daily life. From embracing uncertainty to fostering collaboration, learn how to unlock your creative potential and lead a more fulfilling life.
+
+images: ['https://www.rics-notebook.com/articleimage/TheCreativeAct.png']
 ---
 
 # Unlocking Your Creative Potential: Insights from Rick Rubin's 'The Creative Act'

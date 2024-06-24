@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Dolphins', 'Sleep', 'Marine Biology', 'Aquatic Life', 'Nature','Questions']
 draft: false
 summary: "Dolphins are remarkable creatures that manage to sleep while living in the water. In this blog post, we explore the unique sleeping patterns of dolphins and how they avoid drowning while resting."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoDolphinsSleep.png']
 ---
 
 # 🐬 Sleeping Underwater: How Do Dolphins Sleep Without Drowning? 🐬

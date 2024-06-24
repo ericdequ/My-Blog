@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.'
+
+images: ['https://www.rics-notebook.com/articleimage/HoneyWell.png']
 ---
 
 # Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing

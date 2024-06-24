@@ -4,6 +4,8 @@ date: '2023-04-20'
 tags: ['Art', 'AI', 'Bing', 'GPT', 'Dalle']
 draft: false
 summary: How to use Bing Create to make AI images
+
+images: ['https://www.rics-notebook.com/articleimage/Bing_Create.png']
 ---
 
 # How to Use Bing Create to Make AI Images 🎨

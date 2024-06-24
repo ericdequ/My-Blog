@@ -5,6 +5,8 @@ tags:
   ['Bat Houses', 'Pest Control', 'Ecological Balance', 'Insect Control', 'Biodiversity', 'Conservation']
 draft: false 
 summary: Discover the incredible benefits of promoting bat houses and learn how these nocturnal heroes help maintain ecological balance, control pest populations, and support a healthier environment for all.
+
+images: ['https://www.rics-notebook.com/articleimage/Nature/BatHouse.png']
 ---
 
 # Bat Houses: Unsung Heroes of Pest Control and Ecological Balance 🦇🏡

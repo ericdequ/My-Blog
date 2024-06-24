@@ -4,6 +4,8 @@ date: '2022-05-29'
 tags: ['Trigonometry', 'Mathematics', 'Education', 'Unit Circle', 'Sine', 'Cosine']
 draft: false
 summary: Sine and cosine functions are fundamental concepts in trigonometry that help us model periodic phenomena. By understanding these functions and their relationship to the unit circle, we can map problems in a new way and gain valuable insights into the world around us.
+
+images: ['https://www.rics-notebook.com/articleimage/Math/UnitCircle.png']
 ---
 
 # 🔍 Introduction: Exploring the World of Sine and Cosine 🔍

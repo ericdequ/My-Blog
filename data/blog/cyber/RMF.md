@@ -4,6 +4,8 @@ date: '2023-04-30'
 tags: ['Cyber', 'RMF']
 draft: false
 summary: 'RMF stands for Risk Management Framework, a guideline, standard, and process for risk management to help secure information systems (computers and networks) developed by National Institute of Standards and Technology (NIST).'
+
+images: ['https://www.rics-notebook.com/articleimage/RMF.png']
 ---
 
 # 🌟 What is RMF and why is it important? 🌟

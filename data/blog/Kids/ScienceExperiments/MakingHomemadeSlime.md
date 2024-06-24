@@ -5,6 +5,8 @@ tags: ['Slime', 'Science Experiments', 'Kids Science', 'Chemistry', 'Fun with Sc
 draft: false
 summary: "Create your own squishy and stretchy slime with this fun science experiment. This blog post explains the science behind slime and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/MakingHomemadeSlime.png']
 ---
 
 # 🧪 Squishy Fun: Making Homemade Slime 🧪

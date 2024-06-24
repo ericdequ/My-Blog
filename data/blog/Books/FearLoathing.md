@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: "Dive into the wild and chaotic world of Hunter S. Thompson's 'Fear and Loathing in Las Vegas,' a seminal work of Gonzo journalism that takes readers on a surreal and drug-fueled journey through the heart of the American Dream. Discover the book's enduring legacy and its scathing critique of American culture and society."
+
+images: ['https://www.rics-notebook.com/articleimage/FearLoathing.png']
 ---
 
 # Fear and Loathing in Las Vegas: A Savage Journey into the Heart of the American Dream

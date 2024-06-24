@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the fascinating connections between the ancient Eleusinian Mysteries, the psychoactive properties of ergot and LSA, and the infamous Salem Witch Trials. Delve into how these elements intersected to shape pivotal moments in history. 🌾🔮'
+
+images: ['https://www.rics-notebook.com/articleimage/Ergot.png']
 ---
 
 ## 🌾 From the Eleusinian Mysteries to the Salem Witch Trials: The Role of Ergot and LSA in History

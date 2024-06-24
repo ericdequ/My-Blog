@@ -4,6 +4,8 @@ date: '2023-11-23'
 tags: ['Next', 'Vercel', 'Podcast', 'Youtube', 'Spotify', 'soundcloud']
 draft: false
 summary: A next js app built to share and display videos and podcast near you!
+
+images: ['https://www.rics-notebook.com/articleimage/PodHub/PodHub.png']
 ---
 
 ## Pod Hub

@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'Explore a groundbreaking method of package transportation that leverages Earths rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/OrbitalPackageDelivery.png']
 ---
 
 ## 🌎 Orbital Package Delivery: A Paradigm Shift in Transportation

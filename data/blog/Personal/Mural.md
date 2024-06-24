@@ -4,6 +4,8 @@ date: '2024-05-14'
 tags: ['Art', 'Family', 'Veronica', 'RumpusArt']
 draft: false
 summary: 'A touching reflection on the profound impact of a family portrait commissioned by my brother from Rumpus Art, celebrating the memory of our late father and the enduring love of our family.'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/Mural.png']
 ---
 
 ## 🎨 A Masterpiece of Love and Memories

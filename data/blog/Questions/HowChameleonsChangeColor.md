@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Chameleons', 'Color Change', 'Chromatophores', 'Biology', 'Camouflage','Questions']
 draft: false
 summary: "Chameleons are famous for their ability to change color, but how do they do it? This blog post explores the fascinating biological mechanisms behind chameleons color-changing abilities and the purposes they serve in the wild."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowChameleonsChangeColor.png']
 ---
 
 # 🦎 Colorful Masters of Disguise: How Chameleons Change Color 🦎

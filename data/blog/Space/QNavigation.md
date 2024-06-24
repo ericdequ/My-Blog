@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover the cutting-edge world of quantum sensing and navigation, and learn how these technologies are revolutionizing the precision and accuracy of orbital package delivery. From atom interferometry to quantum clocks, explore the quantum devices that are enabling a new era of space logistics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/QNavigation.png']
 ---
 
 ## 🌌 The Need for Precise Navigation in Orbital Package Delivery

@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['CD', 'Music', 'Technology', 'Audio', 'Digital Storage','Questions']
 draft: false
 summary: "Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoesCDStoreMusic.png']
 ---
 
 # 💿 Decoding the Disc: How Does a CD Store Music? 💿

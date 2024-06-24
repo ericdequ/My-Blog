@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how a spontaneous encounter at a community pool taught me the importance of embracing my own differences and the power of diversity. This life-changing experience shifted my perspective on individualism and social interactions. 🌟'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/Individualism.png']
 ---
 
 ## 🌟 Embracing Individualism: A Night That Changed My Perspective

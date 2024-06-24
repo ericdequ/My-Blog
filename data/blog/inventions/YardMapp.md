@@ -4,6 +4,8 @@ date: '2023-08-19'
 tags: ['Yard Maintenance', 'Landscaping', 'Home Ownership', 'Mobile App', 'Service Providers']
 draft: false
 summary: 'YardMapp is a revolutionary app that connects homeowners with landscaping and yard maintenance professionals. With features like sprinkler system and lighting mapping, service requests, and provider ratings, YardMapp simplifies yard care and fosters long-lasting relationships between homeowners and service providers.'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/YardMapp.png']
 ---
 
 # 🌿 YardMapp: Your One-Stop Solution for Yard Care and Maintenance 🌿

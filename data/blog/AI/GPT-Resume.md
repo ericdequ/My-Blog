@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['GPT', 'Bard', 'Resume']
 draft: false
 summary: How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.
+
+images: ['https://www.rics-notebook.com/articleimage/GPT-Resume.png']
 ---
 
 # 🌟 How to Write an Effective Cover Letter and Resume Using ChatGPT, BARD, and Fun Language 🎉

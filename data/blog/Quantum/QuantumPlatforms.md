@@ -4,6 +4,8 @@ date: '2023-08-31'
 tags: ['Quantum', 'Platforms']
 draft: false
 summary: 'Discover the leading quantum platforms that are revolutionizing the world of quantum computing!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumPlatforms.png']
 ---
 
 🌐 Quantum computing is undergoing rapid advancements, and various platforms are emerging, offering distinct approaches and architectures. Quantum platforms serve as the bedrock upon which quantum algorithms are designed, tested, and executed.

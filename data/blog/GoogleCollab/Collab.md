@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['Google', 'MachineLearning', 'DataScience', 'education']
 draft: false
 summary: Google Colaboratory Colab is a free Jupyter notebook environment that provides access to powerful computing resources for machine learning and data science projects.
+
+images: ['https://www.rics-notebook.com/articleimage/Collab.png']
 ---
 
 ## Introduction

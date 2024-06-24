@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Belly Button', 'Human Body', 'Biology', 'Anatomy', 'Development','Questions']
 draft: false
 summary: "The belly button is a scar left behind after the umbilical cord is cut at birth. In this blog post, we explore the significance of the belly button and its role in fetal development and human anatomy."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHaveBellyButtons.png']
 ---
 
 # 👶 The Belly Button Story: Why Do We Have Belly Buttons? 👶

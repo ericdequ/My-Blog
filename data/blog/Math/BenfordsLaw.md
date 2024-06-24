@@ -4,6 +4,8 @@ date: '2024-05-04'
 tags: ['Data Science', 'Fraud', 'AI']
 draft: false
 summary: 'Discover the power of Benfords Law, a fascinating statistical principle that unveils hidden patterns in digits.'
+
+images: ['https://www.rics-notebook.com/articleimage/Math/BenfordsLaw.png']
 ---
 
 ## Benford's Law: Unraveling the Secrets of Digits in the Digital Age 🔍🌐

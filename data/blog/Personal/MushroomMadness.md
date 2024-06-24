@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'Two sides passionately debate the merits of psychedelics and holistic medicine versus traditional pharmaceuticals in the treatment of mental health issues. Will they find common ground, or will the lure of Big Pharma prove too strong?'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/MushroomMadness.png']
 ---
 
 ## 🍄💊 The Great Psychedelic Debate: Mushrooms vs. Meds

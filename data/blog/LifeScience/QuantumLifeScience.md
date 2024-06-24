@@ -13,6 +13,8 @@ tags:
 draft: false
 
 summary: 'Explore the groundbreaking applications of quantum computing in the life sciences. From accelerating DNA sequencing to revolutionizing drug discovery and personalized medicine, discover how quantum technologies are transforming the future of healthcare and biological research.'
+
+images: ['https://www.rics-notebook.com/articleimage/LifeScience/QuantumLifeScience.png']
 ---
 
 ## 🧬 Quantum Computing: Unlocking the Secrets of Life

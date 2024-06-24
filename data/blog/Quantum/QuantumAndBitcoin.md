@@ -5,6 +5,8 @@ tags: ['Quantum', 'Bitcoin', 'Cryptography', 'digitaltransformation']
 draft: false
 
 summary: 'Exploring the potential impact of quantum technologies on Bitcoins cryptographic foundations and the broader cryptocurrency landscape!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumAndBitcoin.png']
 ---
 
 🔐 Bitcoin, the pioneering cryptocurrency, relies heavily on cryptographic techniques for its security and integrity. However, with the advent of quantum technologies, there are growing concerns about the potential vulnerabilities of Bitcoin's cryptographic foundations.

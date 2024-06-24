@@ -4,6 +4,8 @@ date: '2024-04-23'
 tags: ['Space', 'Distance', 'Solar System']
 draft: False
 summary: 'A detailed exploration of the vastness of space, using familiar comparisons to illustrate distances within our solar system and beyond, and highlighting the differences between space and distance.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/SpaceOfSpace.png']
 ---
 
 # The Vastness of Space and the Wonders Within

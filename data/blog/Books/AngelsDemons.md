@@ -4,6 +4,8 @@ date: '2023-04-30'
 tags: ['Thriller', 'Symbology', 'Science', 'Faith']
 draft: false
 summary: Embark on a heart-pounding adventure through the pages of Dan Brown's "Angels & Demons," a masterful blend of history, science, and faith. Follow symbologist Robert Langdon as he races against time to unravel a deadly plot that threatens to shake the very foundations of the Catholic Church and the world of science.
+
+images: ['https://www.rics-notebook.com/articleimage/AngelsDemons.png']
 ---
 
 # Angels & Demons by Dan Brown: A Thrilling Journey into the Depths of History, Science, and Faith

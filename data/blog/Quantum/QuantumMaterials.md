@@ -4,6 +4,8 @@ date: '2023-09-05'
 tags: ['Quantum', 'Materials']
 draft: false
 summary: 'Venturing into the world of quantum materials, the foundational elements driving quantum technological advancements!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumMaterials.png']
 ---
 
 💎 The fabric of quantum technology isn't just built on complex algorithms and quantum bits (qubits), but also on the very materials that enable these phenomena. Quantum materials are substances that exhibit quantum mechanical effects at macroscopic scales.

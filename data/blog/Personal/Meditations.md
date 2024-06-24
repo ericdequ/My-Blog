@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['Mediation', 'Personal', 'Mindfulness', life-lessons, 'spiritual-practices']
 draft: false
 summary: 'Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/Meditations.png']
 ---
 
 # 🧘‍♂️ Meditations of a Developer

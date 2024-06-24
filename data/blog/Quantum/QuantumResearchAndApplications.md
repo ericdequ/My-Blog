@@ -4,6 +4,8 @@ date: '2023-09-09'
 tags: ['Quantum', 'Research', 'Applications', 'Physics', 'digitaltransformation']
 draft: false
 summary: 'Diving into the world of quantum research and witnessing its transformative applications across sectors!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumResearchAndApplications.png']
 ---
 
 🔬 Quantum technology, underpinned by decades of research, is heralding a new era of applications. From the microscopic realm of atoms to the vast expanse of the universe, quantum research is reshaping our understanding and offering transformative applications.

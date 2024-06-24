@@ -4,6 +4,8 @@ date: '2023-04-13'
 tags: ['Markdown', 'Documentation', 'Mermaid']
 draft: false
 summary: Using ChatGPT and Mermaid to Create System Architecture Diagrams
+
+images: ['https://www.rics-notebook.com/articleimage/Markdown/mermaid.png']
 ---
 
 # Tutorial: Using ChatGPT and Mermaid to Create System Architecture Diagrams

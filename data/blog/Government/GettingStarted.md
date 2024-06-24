@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Learn the steps to start a government contracting small business and secure federal contracts to grow your venture. 📈🏛️'
+
+images: ['https://www.rics-notebook.com/articleimage/GettingStarted.png']
 ---
 
 ## How to Start a Government Contracting Small Business 📈🏛️

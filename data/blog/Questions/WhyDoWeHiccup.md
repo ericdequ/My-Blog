@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Hiccups', 'Diaphragm', 'Involuntary Contractions', 'Vagus Nerve', 'Phrenic Nerve','Questions']
 draft: false
 summary: "Weve all been there – one moment youre going about your day, and the next, youre caught in the grip of a relentless case of the hiccups. But what exactly causes these annoying, involuntary contractions, and how can we make them stop? In this blog post, we investigate the mysterious case of the hiccups and explore the science behind this common yet perplexing phenomenon."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHiccup.png']
 ---
 
 # 🙃 Hic, Hic, Hooray: A Journey into the World of Hiccups 🙃

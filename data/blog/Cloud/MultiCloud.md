@@ -4,6 +4,8 @@ date: '2023-08-25'
 tags: ['MultiCloud', 'Cloud', 'devops', 'digitaltransformation']
 draft: false
 summary: 'In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.'
+
+images: ['https://www.rics-notebook.com/articleimage/MultiCloud.png']
 ---
 
 ## What is MultiCloud?

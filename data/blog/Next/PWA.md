@@ -4,6 +4,8 @@ date: '2023-10-26'
 tags: ['Next.js', 'PWA', 'Web Development', 'Tutorial', 'devops']
 draft: false
 summary: 'Delve into the journey of augmenting your Next.js project with PWA features, leveraging the pages directory for an organized and efficient structure.'
+
+images: ['https://www.rics-notebook.com/articleimage/Next/PWA.png']
 ---
 
 ## 🚀 Elevate Your Web App: Transforming Next.js Project into a PWA

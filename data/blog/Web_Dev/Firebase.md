@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: Firebase is a platform that helps developers build better mobile and web apps. It provides a variety of features that make it easy to develop, deploy, and scale apps. 🔥🎉
+
+images: ['https://www.rics-notebook.com/articleimage/Web_Dev/Firebase.png']
 ---
 
 # Firebase: The One-Stop Shop for Building Mobile and Web Apps 🚀💯

@@ -4,6 +4,8 @@ date: '2023-01-13'
 tags: ['Health', 'Mushrooms', 'Wellness']
 draft: false
 summary: Functional mushrooms are mushrooms that have been shown to have health benefits beyond their nutritional value. They are often used in traditional medicine and have been gaining popularity in recent years due to their potential to improve overall health and well-being.
+
+images: ['https://www.rics-notebook.com/articleimage/mushrooms.png']
 ---
 
 # Functional Mushrooms: Nature's Superpower 🍄💊🌿

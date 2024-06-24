@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how the humble slime mold, Physarum polycephalum, is revolutionizing the way we think about sustainable infrastructure and transportation networks. By studying the molds ability to create efficient pathways, researchers are gaining invaluable insights into optimizing our urban systems and paving the way for a more sustainable, quantum-inspired future.'
+
+images: ['https://www.rics-notebook.com/articleimage/Simulation/FungusSimulation.png']
 ---
 
 In the search for sustainable and efficient solutions to our infrastructure challenges, we often look to cutting-edge technologies and complex algorithms. However, a groundbreaking study led by Toshiyuki Nakagaki from Hokkaido University in Japan suggests that the answer may lie in one of nature's most unassuming creatures: the slime mold.

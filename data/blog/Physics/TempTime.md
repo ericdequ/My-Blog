@@ -5,6 +5,8 @@ tags:
   ['Time Dilation', 'Temperature', 'Relativity', 'Dissolution', 'Thermodynamics', 'Perception']
 draft: false
 summary: Explore the fascinating idea that temperature might affect the speed of time, causing our perception of dissolution rates to vary. Dive into the mathematics and physics behind this theory and discover how we can potentially use this phenomenon to calculate the relationship between temperature and time.
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/TempTime.png']
 ---
 
 # The Relativity of Time: Does Temperature Affect the Speed of Time? 🌡️⏰

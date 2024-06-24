@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover the ultimate app designed for pickleball enthusiasts to create, find, and manage tournaments. Enhance your pickleball experience with seamless organization, real-time updates, and community engagement. 🏓'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/Pickleball.png']
 ---
 
 ## 🌟 Revolutionize Your Pickleball Experience with the Ultimate Tournament App

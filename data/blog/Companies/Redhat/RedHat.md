@@ -4,6 +4,8 @@ date: '2023-07-07'
 tags: ['Red Hat', 'Open Source', 'Enterprise Solutions', 'devops']
 draft: false
 summary: 'Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.'
+
+images: ['https://www.rics-notebook.com/articleimage/RedHat.png']
 ---
 
 ## Who is Red Hat? 🌐🔥

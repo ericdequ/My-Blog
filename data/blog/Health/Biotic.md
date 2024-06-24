@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the fascinating connection between gut health and mental well-being, and discover how probiotics and prebiotics can revolutionize the way we approach depression treatment. Could a new strain of alcohol-resistant probiotics be the key to unlocking a happier, healthier mind? 🔑'
+
+images: ['https://www.rics-notebook.com/articleimage/Biotic.png']
 ---
 
 ## 🌟 Probiotics and Prebiotics: Unleashing the Power of Gut Health for Mental Well-being

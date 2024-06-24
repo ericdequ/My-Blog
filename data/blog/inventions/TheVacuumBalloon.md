@@ -4,6 +4,8 @@ date: '2023-08-19'
 tags: ['Vacuum Balloon', 'Space Exploration', 'Physics', 'Buoyancy', 'Atmospheric Pressure']
 draft: false
 summary: 'This blog post explores the intriguing concept of using a vacuum balloon to lift payloads to space. By examining the physics behind this idea, including buoyancy, atmospheric pressure, and material properties, we delve into the challenges and potential of this innovative approach to space exploration.'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/TheVacuumBalloon.png']
 ---
 
 # 🎈 The Vacuum Balloon: A Revolutionary Concept in Space Exploration? 🎈

@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Learn how to write a winning government proposal and secure federal contracts for your small business. 💼🏛️'
+
+images: ['https://www.rics-notebook.com/articleimage/Proposals.png']
 ---
 
 ## How to Write a Winning Government Proposal 💼🏛️

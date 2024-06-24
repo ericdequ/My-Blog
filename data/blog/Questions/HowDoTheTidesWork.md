@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Tides', 'Ocean', 'Gravity', 'Moon', 'Earth','Questions']
 draft: false
 summary: "Tides are the regular rise and fall of sea levels caused by the gravitational interactions between the Earth, Moon, and Sun. In this blog post, we explore the science behind tides, their causes, and their effects on coastal environments."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoTheTidesWork.png']
 ---
 
 # 🌊 The Rhythm of the Ocean: How Do Tides Work? 🌊

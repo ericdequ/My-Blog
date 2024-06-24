@@ -4,6 +4,8 @@ date: '2022-05-20'
 tags: ['Social App', 'Networking', 'Lifestyle', 'Technology', 'Relationships']
 draft: false
 summary: 'Discover EskimoBro, the app that helps you connect with others who share a unique bond through mutual romantic experiences. Sync contacts, learn about your Eskimo family tree, and build connections. Uniting Eskimos, one brother at a time. 🤝'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/EskimoBro.png']
 ---
 
 ## 🌟 Introducing EskimoBro: Uniting Eskimos One Brother at a Time

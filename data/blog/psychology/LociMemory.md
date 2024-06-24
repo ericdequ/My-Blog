@@ -4,6 +4,8 @@ date: '2023-01-07'
 tags: ['Memory Techniques', 'Method of Loci', 'Memory Palace']
 draft: false
 summary: 'Discover the ancient mnemonic technique known as the "art of memory" or the "method of loci." Learn how to create your own memory palace and unlock the power of your mind to remember vast amounts of information with ease.'
+
+images: ['https://www.rics-notebook.com/articleimage/psychology/LociMemory.png']
 ---
 
 # The Art of Memory: Unlocking the Power of the Memory Palace 🏰💭

@@ -4,6 +4,8 @@ date: '2024-01-03'
 tags: ['Quantum', 'Creativity']
 draft: false
 summary: 'This post explores the mysterious realm of the Quantum Field.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumField.png']
 ---
 
 # Tapping into the Quantum Field: Channeling Creative Energy for an Amazing Future

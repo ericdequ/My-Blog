@@ -4,6 +4,8 @@ date: '2024-05-01'
 tags: ['Renewable Energy', 'Critical Infrastructure', 'Power Grid Security', 'CYBERSECURITY']
 draft: false
 summary: 'The key to securing the US power grid lies in rethinking our approach to energy infrastructure. By decentralizing the grid and investing in localized renewable energy sources, we can create a more resilient, secure, and environmentally friendly system that is better equipped to handle the challenges of the future.'
+
+images: ['https://www.rics-notebook.com/articleimage/RenewableSecureEnergy.png']
 ---
 
 # 🔌 Rethinking the Power Grid: The Need for Change 🔌

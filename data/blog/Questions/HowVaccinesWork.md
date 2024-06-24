@@ -4,6 +4,8 @@ date: '2023-08-19'
 tags: ['Vaccines', 'Immunology', 'Public Health', 'Antibodies', 'Herd Immunity','Questions']
 draft: false
 summary: "Vaccines have been a game-changer in the fight against infectious diseases, saving countless lives and revolutionizing public health. But how exactly do these medical marvels work? In this blog post, we dive into the fascinating world of immunology and explore the intricate mechanisms behind vaccines, from the stimulation of antibodies to the development of herd immunity."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowVaccinesWork.png']
 ---
 
 # 💉 A Shot of Hope: The Life-Saving Power of Vaccines 💉

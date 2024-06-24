@@ -4,6 +4,8 @@ date: '2023-05-20'
 tags: ['Bioluminescence', 'Nature', 'Marine Biology', 'Science', 'Natural Phenomena', 'Wildlife']
 draft: false
 summary: 'Discover the captivating phenomenon of bioluminescence, where living organisms create their own light. From glowing oceans to luminescent forests, explore how and why this natural light show occurs. 🌌'
+
+images: ['https://www.rics-notebook.com/articleimage/Bioluminescence.png']
 ---
 
 ## 🌟 The Enchanting World of Bioluminescence: Nature’s Light Show

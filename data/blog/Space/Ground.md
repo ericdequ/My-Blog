@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'In this blog post, we explore the Ground Segment and Logistics of orbital package delivery. Learn about the critical infrastructure and processes that ensure the smooth flow of packages from the landing site to their final destinations, and discover how this innovative delivery method integrates with existing logistics networks.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Ground.png']
 ---
 
 ## 🏭 The Ground Segment and Logistics: Completing the Final Mile

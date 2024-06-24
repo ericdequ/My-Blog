@@ -4,6 +4,8 @@ date: '2023-05-04'
 tags: ['Isaac Newton', 'Science', 'Alchemy', 'Spirituality', 'Innovation']
 draft: false
 summary: 'Explore the fascinating life of Isaac Newton, the brilliant scientist who not only revolutionized physics and mathematics but also delved deep into the realms of alchemy and spirituality. Discover how Newtons unconventional pursuits fueled his groundbreaking scientific discoveries.'
+
+images: ['https://www.rics-notebook.com/articleimage/Idols/Newton.png']
 ---
 
 # Isaac Newton: The Alchemist Who Revolutionized Science 🍎🔬

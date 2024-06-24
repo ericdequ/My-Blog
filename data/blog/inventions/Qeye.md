@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: 'Explore how Qeye, a leading sales and go-to-market planning platform, is leveraging the power of quantum computing to revolutionize sales optimization. Discover the technical details behind integrating quantum algorithms with Qeyes existing platform to maximize revenue and drive business growth.'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/Qeye.png']
 ---
 
 # 🌀👁️ Qeye Meets Quantum Computing: A Game-Changer for Sales Optimization 🌀👁️

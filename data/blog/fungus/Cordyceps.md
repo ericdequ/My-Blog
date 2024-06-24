@@ -4,6 +4,8 @@ date: '2023-05-21'
 tags: ['Mushroom Cultivation', 'Pest Control', 'Fungi', 'Mycology', 'Agriculture', 'Science']
 draft: false
 summary: 'Explore the benefits of using Cordyceps fungi for pest management and its positive effects on plant and yard growth. Learn how to create your own Cordyceps-based pest control solutions and introduce them naturally to your yard.'
+
+images: ['https://www.rics-notebook.com/articleimage/Cordyceps.png']
 ---
 
 ## 🌿 Using Cordyceps for Pest Management: Sustainable Solutions for a Healthy Yard

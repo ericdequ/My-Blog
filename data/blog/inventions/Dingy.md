@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Dive into our comprehensive guide to building your own summer dinghy. From flotation and decking to the engine, learn how to create a fun and functional floating deck for your summer adventures. 🚤'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/Dingy.png']
 ---
 
 ## 🌟 DIY Summer Dinghy Project: Build Your Own Floating Deck!

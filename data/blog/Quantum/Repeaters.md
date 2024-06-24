@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the concept of quantum repeaters and their role in overcoming the challenges of long-distance quantum communication, including photon loss and the no-cloning theorem.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/Repeaters.png']
 ---
 
 ## 🌌 Introduction: The Challenge of Long-Distance Quantum Communication

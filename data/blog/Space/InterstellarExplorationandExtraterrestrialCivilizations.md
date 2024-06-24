@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Discover the challenges of cosmic radiation beyond the asteroid belt and how mushroom mycelium could revolutionize space exploration. Learn about the potential of biodegradable spaceships made from mycelium and how they could serve as the foundation for new civilizations beyond the Milky Way.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/InterstellarExplorationandExtraterrestrialCivilizations.png']
 ---
 
 ## ☢️ The Perils of Cosmic Radiation: Venturing Beyond the Asteroid Belt

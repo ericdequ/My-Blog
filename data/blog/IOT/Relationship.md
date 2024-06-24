@@ -4,6 +4,8 @@ date: '2023-04-23'
 tags: ['IoT', 'Relationship', 'Technology']
 draft: false
 summary: 'This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐'
+
+images: ['https://www.rics-notebook.com/articleimage/IOT/Relationship.png']
 ---
 
 # What is a relationship-based IoT model? 🤔

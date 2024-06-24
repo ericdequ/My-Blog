@@ -4,6 +4,8 @@ date: '2024-05-16'
 tags: ['Time', 'Language', 'Physics', 'Philosophy', 'Semantics']
 draft: false
 summary: 'Explore the intricacies of time and the need for new vocabulary to distinguish between the societal construct of time and the fundamental dimension itself. Discover the proposed terms "chronos" for the flow of time and "kairos" for the measure of time, as we delve into the technical and philosophical aspects of this essential concept.'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/TimevsTime.png']
 ---
 
 ## 🕰️ The Essence of Time: A Fundamental Dimension

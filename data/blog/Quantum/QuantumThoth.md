@@ -4,6 +4,8 @@ date: '2023-05-02'
 tags: ['Thoth', 'Quantum Physics', 'Emerald Tablet', 'Hermeticism', 'spiritual-practices']
 draft: false
 summary: 'Unveiling the profound insights of the Emerald Tablet of Thoth and its remarkable connections to modern quantum physics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumThoth.png']
 ---
 
 The Seven Hermetic Principles:

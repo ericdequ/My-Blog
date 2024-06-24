@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: 'Discover the intriguing effects of the Schumann Resonance on healing, wellness, and plant growth. This blog post explores the science behind Earths natural frequency and its potential benefits for living organisms. 🌍✨'
+
+images: ['https://www.rics-notebook.com/articleimage/SchumannResonance.png']
 ---
 
 ## 🌍 Exploring the Schumann Resonance: Effects on Healing, Wellness, and Plant Growth

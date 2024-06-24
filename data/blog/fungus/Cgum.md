@@ -4,6 +4,8 @@ date: '2024-06-10'
 tags:  ['Cordyceps', 'Energy', 'Stamina', 'Oral Health', 'Mouth Biome', 'Functional Gum']
 draft: false
 summary: Discover the revolutionary Cordycep Gum, a functional chewing gum that delivers a burst of energy and stamina while promoting a healthy mouth biome. Learn about the benefits of this innovative product and how it can help you power through your day with a smile.
+
+images: ['https://www.rics-notebook.com/articleimage/Cgum.png']
 ---
 
 # Cordycep Gum: Energizing and Invigorating with a Healthy Mouth Biome Boost 💪😁

@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Airplanes', 'Aviation', 'Aerodynamics', 'Lift', 'Bernoullis Principle','Questions']
 draft: false
 summary: 'Have you ever marveled at the sight of an airplane soaring through the sky and wondered how these massive machines manage to stay airborne? In this blog post, we uncover the scientific principles that allow airplanes to defy gravity and explore the fascinating world of aerodynamics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowPlanesStayUp.png']
 ---
 
 # ✈️ Up, Up, and Away: How Airplanes Conquer the Skies ✈️

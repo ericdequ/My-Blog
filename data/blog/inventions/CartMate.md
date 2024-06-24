@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'CartMate is a groundbreaking app that brings the convenience of ride-sharing to golf cart transportation in beach and vacation towns. With options for users to drive or ride, and the ability to earn free rides by driving others, CartMates fosters a strong sense of community while providing an eco-friendly and fun way to explore your favorite vacation spots.'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/CartMate.png']
 ---
 
 # 🌴 CartMates: Your Friendly Neighborhood Golf Cart Service 🌴

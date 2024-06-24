@@ -4,6 +4,8 @@ date: '2023-08-10'
 tags: ['Ansible', 'Automation', 'Public Sector', 'Private Sector', 'devops']
 draft: false
 summary: 'In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.'
+
+images: ['https://www.rics-notebook.com/articleimage/Ansible.png']
 ---
 
 ## What is Ansible? 🌐🤖

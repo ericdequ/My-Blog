@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Solar Energy', 'Photovoltaics', 'Renewable Energy', 'Semiconductors', 'P-N Junction','Questions']
 draft: false
 summary: "Solar panels have become increasingly popular as a clean and renewable energy source, but have you ever wondered how these seemingly simple devices convert sunlight into electricity? In this blog post, we dive into the fascinating science behind solar panels and explore the photovoltaic effect that makes this green technology possible."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoSolarPanelsWork.png']
 ---
 
 # ☀️ The Power of the Sun: A Bright Future for Energy ☀️

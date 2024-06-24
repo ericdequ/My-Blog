@@ -4,6 +4,8 @@ date: '2023-10-10'
 tags: ['Government Contracting', 'Small Business', 'Procurement', 'Federal Contracts', 'GSA Schedule', 'Compliance', 'Opportunities', 'Bidding', 'Success']
 draft: false
 summary: 'Discover how to break into the lucrative world of government contracting. From understanding the basics to mastering the bidding process, this guide covers all you need to get started and thrive in this competitive industry.'
+
+images: ['https://www.rics-notebook.com/articleimage/Startup/starting_strong_your_blueprint_to_forming_a_successful_company.png']
 ---
 
 ## Entering the Government Contracting Arena 🌍📈

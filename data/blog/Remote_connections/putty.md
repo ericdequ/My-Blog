@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['Putty', 'SSH', 'Networking', 'education']
 draft: false
 summary: 'Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.'
+
+images: ['https://www.rics-notebook.com/articleimage/Remote_connections/putty.png']
 ---
 
 ## What is Putty?

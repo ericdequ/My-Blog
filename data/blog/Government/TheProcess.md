@@ -5,6 +5,8 @@ tags:
   ['Government Contracts', 'Business Strategy', 'TTP', 'government-sales', 'government-procurement']
 draft: false
 summary: 'Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.'
+
+images: ['https://www.rics-notebook.com/articleimage/TheProcess.png']
 ---
 
 ## Introduction: The Vast Landscape of Government Contracts 🌐📜

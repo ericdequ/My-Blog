@@ -4,6 +4,8 @@ date: '2022-11-21'
 tags: ['Quantum', 'Physics']
 draft: false
 summary: 'Unlocking the secrets of the universe with the fascinating field of Quantum Physics!'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/QuantamPhysics.png']
 ---
 
 🤔 Have you ever wondered about the nature of reality and the mysteries of the

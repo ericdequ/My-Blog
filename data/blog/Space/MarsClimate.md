@@ -4,6 +4,8 @@ date: '2023-08-19'
 tags: ['Mars', 'Soil Composition', 'Chemical Analysis', 'Martian Climate', 'Space Exploration']
 draft: false
 summary: 'This blog post delves into the fascinating world of Martian soil composition, chemical makeup, and climate. By examining data from various Mars missions and scientific studies, we gain a deeper understanding of the Red Planet and its potential to support future human exploration and habitation.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/MarsClimate.png']
 ---
 
 # 🚀 Unraveling the Mysteries of Mars: Soil, Chemicals, and Climate 🚀

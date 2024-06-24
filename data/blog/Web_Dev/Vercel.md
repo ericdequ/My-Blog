@@ -4,6 +4,8 @@ date: '2023-04-17'
 tags: ['Vercel', 'Hosting', 'Front-End', 'education', 'devops']
 draft: false
 summary: Example how to host a website with vercel
+
+images: ['https://www.rics-notebook.com/articleimage/Web_Dev/Vercel.png']
 ---
 
 ## Introduction to Vercel 🚀

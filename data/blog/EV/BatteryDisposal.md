@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the clean methods of disposing and recycling lithium-ion batteries, addressing the concerns surrounding electric vehicles. Learn about the environmental benefits of EVs compared to traditional vehicles and discover the advancements in battery recycling facilities that mitigate the impact of battery disposal.'
+
+images: ['https://www.rics-notebook.com/articleimage/BatteryDisposal.png']
 ---
 
 ## 🔋 The Rise of Electric Vehicles and Lithium-Ion Batteries

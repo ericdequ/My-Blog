@@ -4,6 +4,8 @@ date: '2023-08-19'
 tags: ['Electric Cars', 'Batteries', 'Regenerative Braking', 'Energy Efficiency', 'Sustainable Transportation','Questions'] 
 draft: false
 summary: "Electric cars have taken the automotive world by storm, offering a cleaner, greener alternative to traditional gasoline-powered vehicles. But what exactly makes these high-tech marvels tick? In this blog post, we dive into the fascinating science behind electric cars, from the power of lithium-ion batteries to the magic of regenerative braking."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoElectricCarsWork.png']
 ---
 
 # 🔌 The Rise of the Electric Machine: A Greener Future 🔌

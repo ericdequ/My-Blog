@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'What began as a simple blog post has blossomed into a captivating novel that explores the journey of a waterproof robot as it navigates the challenges of a mighty river and seeks to understand the essence of humanity. Discover how this story has captured hearts worldwide and sparked discussions on the nature of consciousness and existence.'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/RobotRic.png']
 ---
 
 ## 🚀 From Blog to Bestseller: The Waterproof Wanderer's Incredible Journey

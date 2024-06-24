@@ -4,6 +4,8 @@ date: '2023-08-14'
 tags: ['AI', 'Cloud', 'Architecture', 'Design']
 draft: false
 summary: 'The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.'
+
+images: [https://www.rics-notebook.com/articleimage/AISASS.png]
 ---
 
 ## Introduction: The Synergy of AI and Cloud 🌐🔧

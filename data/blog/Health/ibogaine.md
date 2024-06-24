@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the potential of ibogaine as a transformative treatment for addiction. Delve into its pharmacological makeup, therapeutic applications, and the profound spiritual impact it can have on individuals seeking recovery. 🌿💊🧠'
+
+images: ['https://www.rics-notebook.com/articleimage/ibogaine.png']
 ---
 
 ## 🌿 Ibogaine: Pharmacological Profile, Anti-Addiction Properties, and Spiritual Impact

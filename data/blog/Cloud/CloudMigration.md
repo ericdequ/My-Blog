@@ -4,6 +4,8 @@ date: '2023-07-25'
 tags: ['Cloud', 'Migration', 'devops', 'digitaltransformation']
 draft: false
 summary: 'Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.'
+
+images: ['https://www.rics-notebook.com/articleimage/CloudMigration.png']
 ---
 
 ## What is Cloud Migration?

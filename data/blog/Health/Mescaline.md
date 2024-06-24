@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Dive into the potential of mescaline as a groundbreaking treatment for depression. Explore its therapeutic mechanisms, historical context, and the benefits it could bring to modern mental health care. 🌵💊🧠'
+
+images: ['https://www.rics-notebook.com/articleimage/Mescaline.png']
 ---
 
 ## 🌵 Mescaline: Exploring the Psychedelic Path to Antidepressant Treatments

@@ -4,6 +4,8 @@ date: '2023-04-23'
 tags: ['KaliLinux', 'Security', 'PenetrationTesting']
 draft: false
 summary: 'This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀'
+
+images: ['https://www.rics-notebook.com/articleimage/Kali.png']
 ---
 
 ## What is Kali Linux? 🐉

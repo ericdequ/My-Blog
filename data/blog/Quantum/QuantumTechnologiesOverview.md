@@ -5,6 +5,8 @@ tags: ['Quantum', 'Technologies', 'Overview']
 draft: false
 
 summary: 'Navigating the vast landscape of quantum technologies and exploring their transformative potential!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumTechnologiesOverview.png']
 ---
 
 🌌 Quantum technologies, riding on the wave of quantum mechanics, are set to redefine our technological landscape. From computing to communication, the implications of quantum tech are vast, transformative, and brimming with potential.

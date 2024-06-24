@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Electric Eels', 'Electricity', 'Biology', 'Marine Life', 'Nature','Questions']
 draft: false
 summary: "Electric eels are fascinating creatures capable of generating powerful electric shocks. In this blog post, we explore the biological mechanisms that allow electric eels to produce electricity and the purposes it serves."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoElectricEelsGenerateElectricity.png']
 ---
 
 # ⚡ The Shocking Truth: How Do Electric Eels Generate Electricity? ⚡

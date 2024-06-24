@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Geckos', 'Adhesion', 'Setae', 'Van der Waals Forces', 'Biology','Questions']
 draft: false
 summary: "Ever wondered how geckos can effortlessly scamper up walls and across ceilings? In this blog post, we explore the fascinating biological mechanisms that enable geckos to stick to surfaces with such ease."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowLizardsStickToWalls.png']
 ---
 
 # 🦎 The Marvel of Gecko Adhesion: How Geckos Stick to Walls 🦎

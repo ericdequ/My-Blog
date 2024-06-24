@@ -4,6 +4,8 @@ date: '2018-03-23'
 tags: ['Static Electricity', 'Dancing Ghosts', 'Science Experiments', 'Kids Science', 'Physics', 'Fun with Science']
 draft: false
 summary: "Learn about static electricity with this fun experiment that makes tissue paper ghosts dance. This blog post explains the science behind static electricity and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/DancingGhost.png']
 ---
 
 # 👻 Dancing Ghosts: Exploring Static Electricity with Tissue Paper 👻

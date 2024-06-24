@@ -4,6 +4,8 @@ date: '2021-06-18'
 tags: ['Purple Shampoo', 'Blonde Hair', 'Hair Care', 'Color Theory', 'Tips']
 draft: false
 summary: "Purple shampoo is a game-changer for blonde hair, but how does it work? This blog post explores the science behind purple shampoo, its color-correcting properties, and the best tips for using it effectively to maintain beautiful, bright blonde locks."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/PurpleShampoo.png']
 ---
 
 # 💜 Purple Shampoo: The Science Behind Blonde Hair Maintenance 💜

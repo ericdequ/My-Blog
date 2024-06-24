@@ -11,6 +11,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QRNG.png']
 ---
 
 ## 🎲 Introduction: The Significance of Random Numbers

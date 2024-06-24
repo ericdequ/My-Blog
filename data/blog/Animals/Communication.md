@@ -5,6 +5,8 @@ tags:
   ['Animal Communication', 'Technology', 'Machine Learning', 'Scientific Discovery', 'Bioacoustics']
 draft: false
 summary: 'Discover how cutting-edge technologies like machine learning are revolutionizing our understanding of animal communication, paving the way for groundbreaking scientific discoveries and new ways of interacting with the natural world.'
+
+images: ['https://www.rics-notebook.com/articleimage/Communication.png']
 ---
 
 ![Sperm Whale](https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-114809316.jpg?resize=1200,675)

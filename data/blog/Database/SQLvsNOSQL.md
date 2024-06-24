@@ -4,6 +4,8 @@ date: '2023-02-19'
 tags: ['Database', 'SQL', 'NO-SQL', 'devops']
 draft: false
 summary: 'When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more'
+
+images: ['https://www.rics-notebook.com/articleimage/SQLvsNOSQL.png']
 ---
 
 # SQL vs NoSQL: What's the Difference? 📊

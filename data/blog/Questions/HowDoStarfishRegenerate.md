@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Starfish', 'Regeneration', 'Biology', 'Marine Life', 'Nature','Questions']
 draft: false
 summary: "Starfish have an incredible ability to regenerate lost limbs, a process that can take several months. In this blog post, we explore how starfish regenerate their limbs and the cellular mechanisms behind this remarkable feat."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoStarfishRegenerate.png']
 ---
 
 # 🌟 The Amazing Regeneration of Starfish: How Do Starfish Regenerate Lost Limbs? 🌟

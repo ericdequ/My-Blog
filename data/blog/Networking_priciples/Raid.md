@@ -4,6 +4,8 @@ date: '2023-04-24'
 tags: ['RAID', 'Storage', 'Technology', 'devops']
 draft: false
 summary: 'A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.'
+
+images: ['https://www.rics-notebook.com/articleimage/Networking_priciples/Raid.png']
 ---
 
 # Understanding RAID Levels

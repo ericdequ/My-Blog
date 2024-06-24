@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Dive into the world of quantum optics with a comprehensive exploration of single-photon sources, detectors, and beamsplitters. Understand the principles behind quantum light and its applications in modern technology.'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/Single-PhotonSources.png']
 ---
 
 ## 🔬 Introduction: The Quantum World of Photons

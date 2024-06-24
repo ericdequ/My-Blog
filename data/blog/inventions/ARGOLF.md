@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how augmented reality and satellite construction tools are revolutionizing golf putting. Enhance your precision and performance on the green with cutting-edge technology like Apple Vision Pro, Meta Glasses, and Trimble. 🏌️‍♂️'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/ARGOLF.png']
 ---
 
 ## 🌟 Transforming Golf Putting with Augmented Reality: Enhancing Precision and Performance

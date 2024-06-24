@@ -4,6 +4,8 @@ date: '2024-01-20'
 tags: ['Flipper Zero', 'Hacking', 'Cybersecurity', 'IoT', 'Gadgets', 'Technical Guide']
 draft: false
 summary: 'Dive into the technical depths of Flipper Zero, a versatile hacking tool. Learn how to set it up, explore its functionalities, and understand its workings in this comprehensive guide. 🛠️🔒'
+
+images: ['https://www.rics-notebook.com/articleimage/Flipperzero.png']
 ---
 
 ## 🌟 Flipper Zero: The Ultimate Guide to Setup, Functionality, and Technical Insights

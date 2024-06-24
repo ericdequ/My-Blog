@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Microwaves', 'Cooking', 'Electromagnetic Waves', 'Dielectric Heating', 'Food Science','Questions']
 draft: false
 summary: "Microwaves have revolutionized the way we cook and reheat our food, offering a quick and convenient solution for our busy lives. But have you ever stopped to wonder how these magical appliances actually work? In this blog post, we delve into the fascinating science behind microwave cooking and uncover the secrets of this culinary marvel."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoMicrowavesWork.png']
 ---
 
 # 🌮 From Frozen to Fiesta: The Microwave Magic 🌮

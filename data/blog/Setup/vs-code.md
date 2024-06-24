@@ -4,6 +4,8 @@ date: '2022-11-21'
 tags: ['setup', 'code', 'vs-code', 'education']
 draft: false
 summary: example and tutorial how to setup vscode
+
+images: ['https://www.rics-notebook.com/articleimage/Setup/vs-code.png']
 ---
 
 Visual Studio Code (VS Code) is a free and open-source code editor developed by Microsoft. It is available on Windows, macOS, and Linux. VS Code is a powerful text editor that can be used for a variety of programming languages, including JavaScript, TypeScript, Python, C++, Java, and Go.

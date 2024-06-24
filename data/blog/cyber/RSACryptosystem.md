@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️'
+
+images: ['https://www.rics-notebook.com/articleimage/RSACryptosystem.png']
 ---
 
 ## 🔐 RSA Cryptosystem and Shor’s Algorithm: A Quantum Leap in Cryptography

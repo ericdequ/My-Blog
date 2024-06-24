@@ -4,6 +4,8 @@ date: '2024-04-01'
 tags: ['Quantum Computing', 'Google', 'Superconducting Qubits', 'Quantum AI', 'Quantum Supremacy']
 draft: false
 summary: "Discover Google's cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy."
+
+images: ['https://www.rics-notebook.com/articleimage/Google.png']
 ---
 
 # Google: Advancing Quantum Computing with Superconducting Qubits and Quantum AI

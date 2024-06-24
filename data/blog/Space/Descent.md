@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'In this blog post, we dive into the critical Descent Phase of orbital package delivery. Learn about the challenges of reentry, the role of the Guidance, Navigation, and Control (GNC) system, and the technologies enabling precise and autonomous landing of packages.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Descent.png']
 ---
 
 ## 🌎 The Descent Phase: Guiding Packages Safely Back to Earth

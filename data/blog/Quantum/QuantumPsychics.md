@@ -4,6 +4,8 @@ date: '2023-09-15'
 tags: ['Quantum', 'Platforms', 'Psychics', 'Entanglement', 'spiritual-practices']
 draft: false
 summary: 'How Quantum mechanics are a proof of psychic and meta physic capabilities'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumPsychics.png']
 ---
 
 Have you ever Gone and seen a Psychic??? Do you believe in Telepathic Abilities???

@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Helium', 'Voice', 'Science', 'Physics', 'Acoustics','Questions']
 draft: false
 summary: "Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoesHeliumChangeYourVoice.png']
 ---
 
 # 🎈 Helium's Funny Effect: Why Does Helium Make Your Voice Sound Funny? 🎈

@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Explore innovative methods and supplements to facilitate the cross-breeding of mushroom species like Lion’s Mane and Cordyceps. Delve into the science behind mycelial fusion and discover how to create novel fungal hybrids. 🍄🔬'
+
+images: ['https://www.rics-notebook.com/articleimage/cross.png']
 ---
 
 ## 🍄 Theoretical Approaches to Cross-Breeding Mushroom Species

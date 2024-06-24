@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the growing trend of microdosing LSD and psilocybin mushrooms. From tech innovators in Silicon Valley to everyday soccer moms, discover how people are using these psychedelics to boost creativity, enhance mental health, and inspire new ideas. 🌟💡🍄'
+
+images: ['https://www.rics-notebook.com/articleimage/Microdosing.png']
 ---
 
 ## 🌟 From Silicon Valley to Soccer Moms: The Microdosing Revolution

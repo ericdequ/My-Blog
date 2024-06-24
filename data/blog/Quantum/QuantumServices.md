@@ -4,6 +4,8 @@ date: '2023-09-01'
 tags: ['Quantum', 'Services']
 draft: false
 summary: 'Unveiling the plethora of services in the quantum domain that are making quantum tech accessible and impactful!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumServices.png']
 ---
 
 🛠️ Quantum technology is not just about quantum computers but also about the myriad of services that support, complement, and enhance these machines. Quantum services are integral for the holistic growth and implementation of quantum technologies across various sectors.

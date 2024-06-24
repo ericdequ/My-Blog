@@ -14,6 +14,8 @@ tags:
   ]
 draft: false
 summary: 'Explore how quantum computing can revolutionize food transportation and distribution, tackling the global hunger epidemic and unlocking unprecedented advancements for humanity. Discover the potential of quantum algorithms in optimizing logistics, considering variables such as food shelf life, to ensure efficient and equitable food distribution worldwide.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumFood.png']
 ---
 
 ## 🍽️ The Global Hunger Epidemic: A Call to Action

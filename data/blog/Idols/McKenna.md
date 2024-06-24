@@ -4,6 +4,8 @@ date: '2021-05-04'
 tags: ['Consciousness', 'Counterculture', 'Philosophy']
 draft: false
 summary: 'Explore the life and cultural impact of Terence McKenna, the renowned ethnobotanist, philosopher, and psychedelic pioneer whose ideas and advocacy helped shape the modern psychedelic renaissance and influenced generations of thinkers, artists, and seekers of expanded consciousness.'
+
+images: ['https://www.rics-notebook.com/articleimage/Idols/McKenna.png']
 ---
 
 # Terence McKenna: The Poet-Philosopher Who Shaped the Psychedelic Renaissance 🍄🌀

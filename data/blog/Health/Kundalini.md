@@ -4,6 +4,8 @@ date: '2023-02-24'
 tags: ['Kundalini', 'Yoga', 'Meditation', 'Spirituality']
 draft: false
 summary: 'Discover the transformative power of Kundalini Yoga, its origins, and how to practice it for a balanced and fulfilling life.'
+
+images: ['https://www.rics-notebook.com/articleimage/Kundalini.png']
 ---
 
 ## 🧘‍♂️ Kundalini Yoga: The Path to Awakening and Self-Realization 🌟

@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: "Discover the potential benefits and risks of St. John's Wort, a natural herbal remedy used for centuries to alleviate depression and improve mood. From its history to its modern applications, let's explore the secrets of this powerful plant. 🌼"
+
+images: ['https://www.rics-notebook.com/articleimage/stjohn.png']
 ---
 
 ## 🌟 St. John's Wort: Unlocking the Secrets of Nature's Mood Booster

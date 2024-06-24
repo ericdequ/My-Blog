@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how 5-HTP, a natural supplement, can help you maximize your festival experience. From boosting your mood to improving sleep quality, 5-HTP is a game-changer for ravers and festival-goers alike. 🌈🎶'
+
+images: ['https://www.rics-notebook.com/articleimage/HTP.png']
 ---
 
 ## 🌟 5-HTP: The Natural Supplement for Enhancing Your Festival Experience

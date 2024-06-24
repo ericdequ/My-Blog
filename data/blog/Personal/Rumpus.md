@@ -4,6 +4,8 @@ date: '2023-09-29'
 tags: ['Art', 'Raffle', 'Veronica', 'RumpusArt']
 draft: false
 summary: 'An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronicas artistry.'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/Rumpus.png']
 ---
 
 ## 🎉 My Raffle Win and the Wonders of Synchronicity

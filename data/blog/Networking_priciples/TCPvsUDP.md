@@ -4,6 +4,8 @@ date: '2023-04-23'
 tags: ['TCP', 'UDP', 'Networking', 'devops']
 draft: false
 summary: 'In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀'
+
+images: ['https://www.rics-notebook.com/articleimage/Networking_priciples/TCPvsUDP.png']
 ---
 
 ## What is TCP? 🔗

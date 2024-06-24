@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how quantum computing is transforming the finance industry, from portfolio optimization and risk management to fraud detection and algorithmic trading. Learn about the potential applications and benefits of this cutting-edge technology in the world of finance.'
+
+images: ['https://www.rics-notebook.com/articleimage/QuantumFinance.png']
 ---
 
 ## 🌐 Quantum Computing: The Next Frontier in Finance

@@ -11,6 +11,8 @@ tags:
   ]
 draft: true
 summary: 'Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.'
+
+images: ['https://www.rics-notebook.com/articleimage/QuantumCyber/BBM.png']
 ---
 
 ## 🌌 Introduction: BBM92 Quantum Key Distribution

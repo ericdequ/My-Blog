@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Fish', 'Breathing', 'Gills', 'Marine Biology', 'Aquatic Life','Questions']
 draft: false
 summary: "Fish have evolved specialized organs called gills to extract oxygen from water. In this blog post, we explore how fish breathe underwater, the anatomy of gills, and the process of gas exchange in aquatic environments."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoFishBreathUnderWater.png']
 ---
 
 # 🐠 Underwater Breathing: How Do Fish Breathe Underwater? 🐠

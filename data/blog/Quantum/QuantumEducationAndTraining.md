@@ -4,6 +4,8 @@ date: '2023-09-13'
 tags: ['Quantum', 'Education', 'Training']
 draft: false
 summary: 'Understanding the significance of education and training in the quantum domain and the avenues available for learning!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumEducationAndTraining.png']
 ---
 
 🎓 As the quantum realm becomes increasingly relevant, the importance of education and training in quantum technologies cannot be overstated. From university courses to online platforms, there's a growing emphasis on imparting quantum knowledge and skills.

@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Goosebumps', 'Human Body', 'Biology', 'Evolution', 'Skin','Questions']
 draft: false
 summary: "Goosebumps are a fascinating reaction of our skin to various stimuli. In this blog post, we explore the science behind goosebumps, their evolutionary origins, and why we still get them today."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeGetGooseBumps.png']
 ---
 
 # 🐔 The Curious Case of Goosebumps: Why Do We Get Them? 🐔

@@ -4,6 +4,8 @@ date: '2022-03-21'
 tags: ['Electrictiy', 'AC', 'DC', 'Physics']
 draft: false
 summary: AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/ACvsDC.png']
 ---
 
 ## Introduction

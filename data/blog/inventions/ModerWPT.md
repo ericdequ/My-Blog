@@ -5,6 +5,8 @@ tags:
   ['Wireless Power Transmission', 'Technology', 'Innovation', 'Sustainable Energy', 'Tech Stack']
 draft: false
 summary: 'Dive into the fascinating world of Wireless Power Transmission (WPT), from Nikola Teslas groundbreaking work to modern capabilities and challenges. Discover how WPT fits into today’s tech stack and its potential for sustainable energy solutions. 🌐🔋'
+
+images: ['https://www.rics-notebook.com/articleimage/inventions/ModerWPT.png']
 ---
 
 ## 🌟 Exploring Wireless Power Transmission: From Tesla's Vision to Modern Applications

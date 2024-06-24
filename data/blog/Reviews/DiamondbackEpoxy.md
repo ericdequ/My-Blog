@@ -4,6 +4,8 @@ date: '2023-05-27'
 tags: ['Epoxy Flooring', 'DiamondBack Flooring', 'Review', 'Garage Transformation']
 draft: false
 summary: 'A detailed review of DiamondBack Flooring and their exceptional epoxy flooring services in Central Florida.'
+
+images: ['https://www.rics-notebook.com/articleimage/Reviews/DiamondbackEpoxy.png']
 ---
 
 ## 🌟 DiamondBack Flooring: Precision in Every Pour

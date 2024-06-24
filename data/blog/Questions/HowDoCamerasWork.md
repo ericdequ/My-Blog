@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Cameras', 'Photography', 'Optics', 'Image Sensors', 'Aperture','Questions']
 draft: false
 summary: "Cameras have become an integral part of our lives, enabling us to capture and preserve precious moments, tell compelling stories, and explore the world around us. But have you ever wondered about the intricate science and technology that goes into creating these amazing devices? In this blog post, we dive into the fascinating world of cameras and unravel the secrets behind how they capture the images that shape our memories and perceptions."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoCamerasWork.png']
 ---
 
 # 📸 A Lens on the World: The Magic of Cameras 📸

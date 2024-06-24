@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover how iRuler leverages advanced rule checking and NLP analysis to secure IoT automation platforms. Learn about threat models, vulnerabilities, and evaluation results to ensure your IoT devices operate safely and efficiently. 🔒'
+
+images: ['https://www.rics-notebook.com/articleimage/iRuler.png']
 ---
 
 ## 🌟 iRuler: Safeguarding IoT Automation with Advanced Rule Checking and NLP Analysis

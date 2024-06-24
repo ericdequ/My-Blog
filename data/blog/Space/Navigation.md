@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'In this blog post, we explore the Orbital Transit Phase of orbital package delivery. Learn about the intricacies of orbital mechanics, package tracking, and the critical role of space communication in ensuring the smooth transit of packages through space.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Navigation.png']
 ---
 
 ## 🛰️ The Orbital Transit Phase: Navigating the Space Superhighway

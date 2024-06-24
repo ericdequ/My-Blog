@@ -5,6 +5,8 @@ tags: ['Lava Lamp', 'Density', 'Science Experiments', 'Kids Science', 'Physics',
 draft: false
 summary: "Create your own lava lamp and learn about liquid density and immiscibility. This blog post explains the science behind a homemade lava lamp and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/DIYLavaLamp.png']
 ---
 
 # 🌈 DIY Lava Lamp: Exploring Liquid Density and Immiscibility 🌈

@@ -4,6 +4,8 @@ date: '2023-04-01'
 tags: ['Database', 'Mongo', 'No-SQL', 'devops']
 draft: false
 summary: 'How to Work with and Setup a MongoDB Database 🗄️💾'
+
+images: ['https://www.rics-notebook.com/articleimage/Mongo.png']
 ---
 
 # How to Work with and Setup a MongoDB Database 🗄️💾

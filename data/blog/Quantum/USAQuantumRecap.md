@@ -4,6 +4,8 @@ date: '2024-01-16'
 tags: ['Quantum', 'GOVERNMENT', 'Cryptography', 'PUBLIC-SECTOR']
 draft: false
 summary: 'A deep dive into the United States significant strides in quantum computing and cryptography as part of the National Quantum Initiative (NQI) and the National Quantum Coordination Office (NQCO).'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/USAQuantumRecap.png']
 ---
 
 # Quantum Leap in the USA: 2023 Quantum Initiatives

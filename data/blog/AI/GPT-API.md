@@ -4,6 +4,8 @@ date: '2023-04-11'
 tags: ['GPT', 'AI', 'API']
 draft: false
 summary: example and tutorial how to setup vscode
+
+images: ['https://www.rics-notebook.com/articleimage/GPT-API.png']
 ---
 
 # Working with OpenAI API 🚀🤖

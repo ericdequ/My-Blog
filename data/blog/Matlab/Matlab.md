@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['Matlab', 'programming', 'Software', 'Development']
 draft: false
 summary: 'MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Matlab/Matlab.png']
 ---
 
 ## **Introduction**

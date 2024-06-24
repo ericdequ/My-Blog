@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the innovative concept of hybrid quantum-classical computing using ternary logic. Understand the principles, potential advantages, and challenges of integrating negative, positive, and zero states to enhance computational speed and efficiency.'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/Hybrid.png']
 ---
 
 ## 🌌 Introduction to Hybrid Quantum-Classical Computing with Ternary Logic

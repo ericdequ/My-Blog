@@ -5,6 +5,8 @@ tags: ['Quantum', 'Government Initiatives']
 draft: false
 
 summary: 'Exploring the strategic quantum initiatives led by governments worldwide and their vision for a quantum-empowered future!'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumGovernmentInitiatives.png']
 ---
 
 🏛️ Governments worldwide are recognizing the transformative potential of quantum technologies. From funding research projects to fostering public-private partnerships, national initiatives are paving the way for a quantum-empowered future.

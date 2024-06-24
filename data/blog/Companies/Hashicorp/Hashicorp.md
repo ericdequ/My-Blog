@@ -4,6 +4,8 @@ date: '2023-08-06'
 tags: ['HashiCorp', 'Infrastructure Automation', 'DevOps']
 draft: false
 summary: 'In the realm of infrastructure automation and DevOps, few names shine as brightly as HashiCorp. Delve into the journey of this trailblazing company, its suite of tools, and the competitive landscape it thrives in.'
+
+images: ['https://www.rics-notebook.com/articleimage/Hashicorp.png']
 ---
 
 ## Who is HashiCorp? 🌐🚀

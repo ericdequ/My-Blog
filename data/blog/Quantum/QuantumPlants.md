@@ -15,6 +15,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the revolutionary potential of quantum sensors in understanding the quantum properties of plants. Discover how these cutting-edge technologies could unveil the secrets of plant communication and quantum processes at room temperature, opening new frontiers in plant biology and quantum science. 🌿🔬✨'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumPlants.png']
 ---
 
 ## 🌿🔬 Quantum Sensors: Unlocking the Mysteries of Plant Communication and Quantum Processes

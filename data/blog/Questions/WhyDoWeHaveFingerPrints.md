@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Fingerprints', 'Human Body', 'Biology', 'Identity', 'Forensics','Questions']
 draft: false
 summary: "Fingerprints are unique to each individual and serve various important functions. In this blog post, we explore the biological purpose of fingerprints, their formation, and their significance in human identity and forensic science."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHaveFingerPrints.png']
 ---
 
 # 🖐️ The Unique Patterns of Identity: Why Do We Have Fingerprints? 🖐️

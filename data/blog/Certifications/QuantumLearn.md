@@ -16,6 +16,8 @@ tags:
   ]
 draft: false
 summary: 'Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀'
+
+images: ['https://www.rics-notebook.com/articleimage/QuantumLearn.png']
 ---
 
 ## 🎓 QuantumLearn: Empowering Learners Through Open Source

@@ -4,6 +4,8 @@ date: '2023-09-15'
 tags: ['Quantum', 'Science', 'Rebel', 'digitaltransformation']
 draft: false
 summary: 'Why it is important to challenge facts'
+
+images: ['https://www.rics-notebook.com/articleimage/Quantum/RethinkingQuantum.png']
 ---
 
 **Reflections on Perception and Reality**

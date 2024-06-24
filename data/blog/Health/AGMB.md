@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Interested in growing your own mushrooms effortlessly? Learn how to build an Auto Grow Mushroom Box with this detailed guide. From microcontrollers to sensors, we cover everything you need to get started. 🌱'
+
+images: ['https://www.rics-notebook.com/articleimage/AGMB.png']
 ---
 
 ## 🌟 Building an Auto Grow Mushroom Box: A Comprehensive Guide

@@ -5,6 +5,8 @@ tags: ['Crystal Growing', 'Chemistry', 'Science Experiments', 'Kids Science', 'F
 draft: false
 summary: "Growing crystals is a fascinating science experiment that illustrates the process of crystallization. This blog post explains the science behind crystal formation and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/GrowingCrystals.png']
 ---
 
 # ✨ Growing Crystals: Discover the Magic of Crystal Formation ✨

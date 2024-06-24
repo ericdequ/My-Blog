@@ -4,6 +4,8 @@ date: '2023-05-20'
 tags: ['Short Story', 'Humor', 'Philosophy', 'Quantum-Physics', 'Spirituality', 'life-lessons']
 draft: false
 summary: 'In this thought-provoking piece, a spiritual guru and a quantum physicist engage in a heated debate about the nature of the universe. Will they find common ground, or will their perspectives remain worlds apart?'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/SpiritalScientist.png']
 ---
 
 ## 🌌⚛️ The Cosmic Debate: Monk vs. Physicist

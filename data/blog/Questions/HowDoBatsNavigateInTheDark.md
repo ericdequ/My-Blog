@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Bats', 'Echolocation', 'Navigation', 'Biology', 'Nocturnal','Questions']
 draft: false
 summary: "Bats are masters of nocturnal navigation, effortlessly flying through the dark to find food and avoid obstacles. In this blog post, we explore the fascinating echolocation system that enables bats to navigate in complete darkness."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoBatsNavigateInTheDark.png']
 ---
 
 # 🦇 Navigating the Night: How Do Bats Navigate in the Dark? 🦇

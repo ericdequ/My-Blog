@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Whales', 'Communication', 'Marine Biology', 'Acoustics', 'Nature', 'Questions']
 draft: false
 summary: "Whales are known for their complex and haunting songs, but how do they communicate? In this blog post, we explore the fascinating ways whales use sound to communicate across the vast ocean."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoWhalesCommunicate.png']
 ---
 
 # 🐋 Whale Song: How Do Whales Communicate? 🐋

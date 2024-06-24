@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Dive into the fascinating world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion (SPDC) and explore how entangled Bell states are generated and detected. Learn about the applications of entangled photons in quantum cryptography and quantum information science.'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/EntangledPhotonSources.png']
 ---
 
 ## 🌌 Introduction: Entangled Photon Sources and Detectors

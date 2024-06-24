@@ -4,6 +4,8 @@ date: '2023-01-08'
 tags: ['GitHub', 'code', 'Collaboration', 'education']
 draft: false
 summary: example and tutorial how to setup and use GitHub
+
+images: ['https://www.rics-notebook.com/articleimage/Setup/GitHub.png']
 ---
 
 ## 🐈‍⬛ How to Use GitHub

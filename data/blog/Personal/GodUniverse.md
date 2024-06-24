@@ -13,6 +13,8 @@ tags:
   ]
 draft: false
 summary: 'How God is the origin we are all expressions of One!'
+
+images: ['https://www.rics-notebook.com/articleimage/Personal/GodUniverse.png']
 ---
 
 ## 🌌 God as the Origin: Expressions and the Universe

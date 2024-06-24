@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Ice', 'Water', 'Density', 'Hydrogen Bonding', 'Anomalous Properties','Questions']
 draft: false
 summary: "Have you ever wondered why ice cubes float in your drink, defying the common expectation that solids should sink? The phenomenon of ice floating on water has puzzled curious minds for centuries. In this blog post, we dive into the fascinating science behind this peculiar behavior and explore the unique properties of water that make it possible."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyIceFloatsonWater.png']
 ---
 
 # ❄️ The Paradox of Floating Ice: A Cool Conundrum ❄️

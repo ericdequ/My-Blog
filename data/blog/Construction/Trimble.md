@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Discover the wide range of innovative solutions and technologies offered by Trimble, a global leader in construction technology. From GPS and geospatial solutions to cutting-edge software and hardware, Trimble empowers construction professionals to work smarter, faster, and more efficiently across the entire project lifecycle.'
+
+images: ['https://www.rics-notebook.com/articleimage/Trimble.png']
 ---
 
 # 🌐 Trimble: Transforming the Construction Landscape 🌐

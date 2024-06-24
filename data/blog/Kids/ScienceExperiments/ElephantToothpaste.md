@@ -5,6 +5,8 @@ tags: ['Elephant Toothpaste', 'Chemical Reactions', 'Science Experiments', 'Kids
 draft: false
 summary: "Elephant Toothpaste is a fun and visually exciting science experiment that demonstrates a rapid chemical reaction. This blog post explains the science behind Elephant Toothpaste and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/ElephantToothpaste.png']
 ---
 
 # 🎉 Explosive Fun with Elephant Toothpaste: A Chemical Reaction Extravaganza! 🎉

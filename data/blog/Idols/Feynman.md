@@ -4,6 +4,8 @@ date: '2024-03-04'
 tags: ['Richard Feynman', 'Quantum Physics', 'Quantum Computing', 'Science', 'Innovation']
 draft: false
 summary: 'Journey through the life and mind of Richard Feynman, the brilliant physicist who not only revolutionized quantum mechanics but also foresaw a future where quantum computers would become the norm. Discover how Feynmans unique perspective and relentless curiosity shaped his groundbreaking contributions to science.'
+
+images: ['https://www.rics-notebook.com/articleimage/Feynman.png']
 ---
 
 # Richard Feynman: The Quantum Visionary Who Shaped the Future 🌌🔭

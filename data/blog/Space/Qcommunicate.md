@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Learn how quantum technologies revolutionize secure communication and data processing in the orbital package delivery industry. From unbreakable encryption to efficient data retrieval, discover the ways in which quantum computing ensures the safety and efficiency of space logistics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Qcommunicate.png']
 ---
 
 ## 🔐 The Importance of Secure Communication in Orbital Package Delivery

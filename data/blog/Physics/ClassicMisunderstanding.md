@@ -4,6 +4,8 @@ date: '2023-05-06'
 tags: ['Gravity', 'Physics']
 draft: false
 summary: 'Embark on a journey through the captivating world of gravity, exploring its classical interpretations, potential connections to electromagnetism and quantum mechanics, and the cutting-edge theories that may revolutionize our understanding of this fundamental force.'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/ClassicMisunderstanding.png']
 ---
 
 # Unraveling the Enigma of Gravity: From Classical Concepts to Cutting-Edge Theories

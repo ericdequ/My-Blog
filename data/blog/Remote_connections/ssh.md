@@ -4,6 +4,8 @@ date: '2023-03-21'
 tags: ['SSH', 'Security', 'RemoteAccess', 'education']
 draft: false
 summary: 'Learn the basics of Secure Shell (SSH) for secure remote access to computers,including its benefits, how to use it, and tips for maximizing its security.'
+
+images: ['https://www.rics-notebook.com/articleimage/Remote_connections/ssh.png']
 ---
 
 ## 🔐 Secure Shell (SSH) for Beginners: A Simple Guide 🚀

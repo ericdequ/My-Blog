@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Sky', 'Blue', 'Atmosphere', 'Light', 'Scattering', 'Planets', 'Astronomy','Questions']
 draft: false
 summary: "Why is the sky blue? Its a question that has puzzled countless generations. In this blog post, we unravel the mystery behind the skys captivating blue hue and explore what the sky looks like on other planets."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyIsSkyBlue.png']
 ---
 
 # 🌌 The Eternal Question: Why Is the Sky Blue? 🌌

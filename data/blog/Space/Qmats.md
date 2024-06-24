@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the cutting-edge world of quantum-enabled material science and advanced propulsion, and discover how these technologies are revolutionizing the performance and efficiency of orbital package delivery systems. From lightweight, high-strength materials to optimized propulsion systems, learn how quantum computing is enabling a new era of space logistics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Qmats.png']
 ---
 
 ## 🚀 The Importance of Materials and Propulsion in Orbital Package Delivery

@@ -4,6 +4,8 @@ date: '2024-05-03'
 tags: ['Tesla', 'Wireless', 'Energy', 'Physics']
 draft: false
 summary: 'This post explores the fascinating world of wireless power transmission and its potential to revolutionize the way we power our devices and create captivating lighting shows. We delve into the math and physics behind resonant inductive coupling and provide a guide for building your own Tesla coil-based wireless power devices.'
+
+images: ['https://www.rics-notebook.com/articleimage/Physics/WirelessEnergy.png']
 ---
 
 # The Magic of Wireless Power Transmission: Unleashing Tesla's Vision

@@ -12,6 +12,8 @@ tags:
   ]
 draft: false
 summary: 'Explore the cutting-edge world of quantum simulation and modeling, and discover how these technologies revolutionize the design and optimization of orbital package delivery systems. From atmospheric re-entry to materials science, learn how quantum algorithms and hybrid approaches are pushing the boundaries of what is possible in space logistics.'
+
+images: ['https://www.rics-notebook.com/articleimage/Space/Qsimulation.png']
 ---
 
 ## 🌌 The Complexity of Orbital Package Delivery Simulation

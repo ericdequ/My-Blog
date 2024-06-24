@@ -5,6 +5,8 @@ tags: ['Baking Soda Volcano', 'Chemical Reactions', 'Science Experiments', 'Kids
 draft: false
 summary: "The Baking Soda and Vinegar Volcano is a classic science experiment that illustrates an exciting chemical reaction. This blog post explains the science behind the volcanic eruption and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
+
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/VinegarVolcano.png']
 ---
 
 # 🌋 Erupting Fun: Creating a Baking Soda and Vinegar Volcano 🌋

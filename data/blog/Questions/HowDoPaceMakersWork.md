@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Pacemaker', 'Heart', 'Medical Technology', 'Health', 'Cardiology','Questions']
 draft: false
 summary: "Pacemakers are life-saving devices that help regulate heart rhythms. In this blog post, we explore how pacemakers work, their components, and how they ensure the heart beats properly."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoPaceMakersWork.png']
 ---
 
 # ❤️ Heartbeat Harmony: How Does a Pacemaker Regulate the Heart? ❤️

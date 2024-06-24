@@ -4,6 +4,8 @@ date: '2023-08-25'
 tags: ['Quantum', 'Cybersecurity']
 draft: false
 summary: 'Diving into the world of Quantum Cybersecurity and its significance in an era of quantum computers!'
+
+images: ['https://www.rics-notebook.com/articleimage/QuantumCyber/QuantumCyberSecurity.png']
 ---
 
 🔒 In today's digital era, where data breaches and cyberattacks are ever-prevalent, cybersecurity remains a top priority for individuals, businesses, and governments alike. With the advent of quantum computing, new challenges and opportunities arise in the realm of cybersecurity. Welcome to the world of Quantum Cybersecurity!

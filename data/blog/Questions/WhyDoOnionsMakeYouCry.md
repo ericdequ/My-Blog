@@ -4,6 +4,8 @@ date: '2020-05-29'
 tags: ['Onions', 'Lachrymatory Factor', 'Sulfenic Acids', 'Syn-Propanethial-S-Oxide', 'Crying','Questions']
 draft: false
 summary: "Chopping onions is a culinary task that often comes with an unwelcome side effect: tears. But have you ever wondered why these pungent bulbs have the power to make us cry? In this blog post, we dive into the fascinating science behind onion-induced tears and explore the chemical reactions that turn meal prep into a teary affair."
+
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoOnionsMakeYouCry.png']
 ---
 
 # 😢 The Onion Effect: A Culinary Conundrum 😢
