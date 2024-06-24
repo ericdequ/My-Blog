@@ -86,45 +86,48 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                   visible: { opacity: 1, y: 0 },
                 }}
               >
-                <article className="p-6 border border-primary-300 dark:border-primary-700 rounded-lg shadow-sm hover:shadow-md hover:border-primary-500 dark:hover:border-primary-500 transition duration-200 relative">
-                  {firstImage && (
-                    <div className="absolute top-2 right-2 w-24 h-24">
-                      <Image
-                        src={firstImage}
-                        alt={title}
-                        width={96}
-                        height={96}
-                        className="rounded-md object-cover"
-                      />
-                    </div>
-                  )}
-                  <dl>
-                    <dt className="sr-only">Published on</dt>
-                    <dd className="text-base font-medium leading-6 text-secondary-500 dark:text-secondary-400">
-                      <time dateTime={date}>{formatDate(date)}</time>
-                    </dd>
-                  </dl>
-                  <div className="space-y-3">
-                    <h3 className="text-2xl font-bold leading-8 tracking-tight">
-                      <Link
-                        href={`/blog/${slug}`}
-                        className="text-primary-900 dark:text-primary-100 hover:underline hover:text-primary-700 dark:hover:text-primary-300 transition duration-200"
-                      >
-                        {title}
-                      </Link>
-                    </h3>
-                    <div className="flex flex-wrap gap-2 mt-2 center">
-                      {tags.map((tag) => (
-                        <Tag key={tag} text={tag} />
-                      ))}
-                    </div>
-                    <Link href={`/blog/${slug}`} className="block mt-2">
-                      <div className="prose max-w-none text-secondary-500 dark:text-secondary-400">
-                        {summary}
+                <Link
+                            href={`/blog/${slug}`}>
+                <article
+                  className="relative p-6 border border-primary-300 dark:border-primary-700 rounded-lg shadow-sm hover:shadow-md hover:border-primary-500 dark:hover:border-primary-500 transition duration-200"
+                  style={{
+                    backgroundImage: `url(${firstImage})`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                  }}
+                >
+                 
+                  <div className="relative z-10 flex flex-col md:flex-row md:items-center">
+                    <div className="flex-grow">
+                      <dl>
+                        <dt className="sr-only">Published on</dt>
+                        <dd className="text-base font-medium leading-6 text-white">
+                          <time dateTime={date}>{formatDate(date)}</time>
+                        </dd>
+                      </dl>
+                      <div className="space-y-3">
+                        <h3 className="text-2xl font-bold leading-8 tracking-tight text-white">
+                          <Link
+                            href={`/blog/${slug}`}
+                            className="hover:underline transition duration-200"
+                          >
+                            {title}
+                          </Link>
+                        </h3>
+                        <div className="flex flex-wrap gap-2 mt-2">
+                          {tags.map((tag) => (
+                            <Tag key={tag} text={tag} className="bg-white text-primary-900" />
+                          ))}
+                        </div>
+                        <Link href={`/blog/${slug}`} className="block mt-2">
+                          <div className="prose max-w-none text-white">{summary}</div>
+                        </Link>
                       </div>
-                    </Link>
+                    </div>
                   </div>
+                  <div className="absolute inset-0 bg-black opacity-50 rounded-lg"></div>
                 </article>
+                </Link>
               </motion.li>
             )
           })}

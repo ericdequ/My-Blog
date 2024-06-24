@@ -84,12 +84,12 @@ export default function Home({ posts }) {
                           <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
                             <Link
                               href={`/blog/${slug}`}
-                              className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200 "
+                              className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
                             >
                               {title}
                             </Link>
                           </h2>
-                          <div className="flex flex-wrap mt-2">
+                          <div className="flex flex-wrap justify-center mt-2">
                             {tags.map((tag) => (
                               <Tag key={tag} text={tag} />
                             ))}
@@ -111,16 +111,11 @@ export default function Home({ posts }) {
                             </div>
                           </Link>
                         )}
-                        <div className="prose max-w-none text-secondary-500 dark:text-secondary-400">
-                        <Link
-                            href={`/blog/${slug}`}
-                           
-                          >
-                          {summary}
-                          </Link>
+                        <div className="prose max-w-none text-center text-secondary-500 dark:text-secondary-400">
+                          <Link href={`/blog/${slug}`}>{summary}</Link>
                         </div>
                       </div>
-                      <div className="text-base font-medium leading-6">
+                      <div className="text-base font-medium leading-6 text-center">
                         <Link
                           href={`/blog/${slug}`}
                           className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"

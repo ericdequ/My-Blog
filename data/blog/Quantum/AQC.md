@@ -1,6 +1,6 @@
 ---
 title: 'Adiabatic Quantum Computing: Concept, Applications, and Challenges'
-date: '2024-06-17'
+date: '2024-06-24'
 tags:
   [
     'Quantum Computing',
@@ -11,8 +11,9 @@ tags:
     'Quantum Annealing',
     'Quantum Simulation',
   ]
-draft: true
+draft: false
 summary: 'Explore the concept of Adiabatic Quantum Computing (AQC), its principles, applications, and challenges. Understand the adiabatic theorem, problem Hamiltonian, quantum annealing, and the potential of AQC in solving complex problems across various domains.'
+images: ['https://www.rics-notebook.com/articleimage/Quantum/AQC.webp']
 ---
 
 ## 🌌 Introduction to Adiabatic Quantum Computing (AQC)
