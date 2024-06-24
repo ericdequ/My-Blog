@@ -1,6 +1,6 @@
 ---
 title: 'Quantum Simulation: Ideas and Issues'
-date: '2024-06-03'
+date: '2024-06-23'
 tags:
   [
     'Quantum Mechanics',
@@ -9,7 +9,7 @@ tags:
     'Hamiltonians',
     'Quantum Chemistry',
   ]
-draft: true
+draft: false
 summary: 'Explore the realm of quantum simulation, a pivotal concept in quantum mechanics. Learn about the challenges, methodologies, and the profound implications of simulating quantum systems with quantum computers.'
 ---
 
