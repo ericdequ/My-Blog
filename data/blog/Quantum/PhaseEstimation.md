@@ -5,59 +5,56 @@ tags:
   [
     'Quantum Computing',
     'Phase Estimation Algorithm',
-    'Shor’s Algorithm',
+    'Shors Algorithm',
     'Quantum Fourier Transform',
     'Quantum Mechanics',
   ]
 draft: false
 summary: 'Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.'
-
 images: ['https://www.rics-notebook.com/articleimage/Quantum/PhaseEstimation.png']
 ---
 
 ## 🌌 Introduction to Phase Estimation
 
-The phase estimation algorithm is a crucial tool in the quantum computing toolkit, enabling various applications such as Shor's factorization algorithm and quantum simulations. It allows us to estimate the phase \( \theta \) of an eigenvalue of a unitary operator \( U \) with an eigenvector \( |\psi\rangle \). This capability is foundational for many quantum algorithms that leverage the unique properties of quantum mechanics.
-
-![Phase Estimation](https://courses.xpro.mit.edu/assets/courseware/v1/20b9b2db52f7791b363e6fa007fcf435/asset-v1:xPRO+QCFx2+R17+type@asset+block/PhaseEst.jpg)
+The phase estimation algorithm is a crucial tool in the quantum computing toolkit, enabling various applications such as Shor's factorization algorithm and quantum simulations. It allows us to estimate the phase θ of an eigenvalue of a unitary operator U with an eigenvector |ψ⟩. This capability is foundational for many quantum algorithms that leverage the unique properties of quantum mechanics.
 
 ## 🔍 How Phase Estimation Works
 
 ### Initial Setup
 
 The phase estimation algorithm starts with two registers:
-1. **First Register:** Contains \( n \) qubits initialized in the ground state \( |0\rangle \).
-2. **Second Register:** Represents the state \( |\psi\rangle \), which is an eigenvector of the unitary operator \( U \) with an unknown eigenvalue \( e^{2\pi i \theta} \).
+1. **First Register:** Contains n qubits initialized in the ground state |0⟩.
+2. **Second Register:** Represents the state |ψ⟩, which is an eigenvector of the unitary operator U with an unknown eigenvalue e^(2πiθ).
 
-The number of qubits \( n \) determines the accuracy of the phase estimation, with larger \( n \) providing higher precision.
+The number of qubits n determines the accuracy of the phase estimation, with larger n providing higher precision.
 
 ### Superposition and Controlled Operations
 
 The protocol begins by creating a superposition state in the first register:
 
-\[ \frac{1}{\sqrt{2^n}} \sum_{k=0}^{2^n-1} |k\rangle \]
+1/√(2^n) ∑(k=0 to 2^n-1) |k⟩
 
-Next, controlled-\( U \) operations are applied on the state \( |\psi\rangle \), where the integer \( k \) in \( U^k \) depends on the individual controlling qubit in the first register.
+Next, controlled-U operations are applied on the state |ψ⟩, where the integer k in U^k depends on the individual controlling qubit in the first register.
 
 ### Inverse Quantum Fourier Transform
 
 The first register, prior to the inverse quantum Fourier transform, can be expressed as:
 
-\[ \frac{1}{\sqrt{2^n}} \sum_{k=0}^{2^n-1} e^{2\pi i \theta k} |k\rangle \]
+1/√(2^n) ∑(k=0 to 2^n-1) e^(2πiθk) |k⟩
 
 Applying the inverse quantum Fourier transform yields:
 
-\[ \frac{1}{2^n} \sum_{m=0}^{2^n-1} \sum_{k=0}^{2^n-1} e^{2\pi i \left(\frac{k\theta - m}{2^n}\right)} |m\rangle \]
+1/(2^n) ∑(m=0 to 2^n-1) ∑(k=0 to 2^n-1) e^(2πi((kθ - m)/2^n)) |m⟩
 
-The sum in the square brackets simplifies to a geometric series, enabling the estimation of the phase \( \theta \).
+The sum in the square brackets simplifies to a geometric series, enabling the estimation of the phase θ.
 
 ### Measurement and Precision
 
-The precision of the phase estimation is determined by the number of qubits \( n \). The phase \( \theta \) can be expressed with \( n \) bits, providing an approximation with a precision of \( 2^{-n} \).
+The precision of the phase estimation is determined by the number of qubits n. The phase θ can be expressed with n bits, providing an approximation with a precision of 2^(-n).
 
 ## 🌟 Applications of Phase Estimation
 
-### Shor’s Algorithm
+### Shor's Algorithm
 
 Phase estimation is a critical component of Shor's algorithm, which efficiently factors large numbers and thereby compromises classical encryption schemes like RSA. The algorithm uses phase estimation to find the periodicity in the function related to the factorization problem.
 
@@ -87,4 +84,3 @@ The phase estimation algorithm is a fundamental building block in the quantum co
 
 1. Nielsen, M. A., & Chuang, I. L. (2010). Quantum Computation and Quantum Information. Cambridge University Press.
 2. Shor, P. W. (1997). "Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer." SIAM Journal on Computing.
-3. Troyer, M., & others. (2015). "Towards quantum chemistry on a quantum computer." Nature Communications.

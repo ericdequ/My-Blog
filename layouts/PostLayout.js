@@ -41,8 +41,20 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           animate="visible"
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <header className="pt-6 xl:pb-6">
-            <div className="space-y-1 text-center">
+          <header className="pt-6 xl:pb-6 relative">
+            {images && images.length > 0 && (
+              <div className="absolute inset-0 z-0">
+                <Image
+                  src={images[0]}
+                  alt={title}
+                  layout="fill"
+                  objectFit="cover"
+                  className="opacity-50 dark:opacity-30"
+                />
+                <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white dark:to-gray-900"></div>
+              </div>
+            )}
+            <div className="space-y-1 text-center relative z-10">
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Published on</dt>
