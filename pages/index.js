@@ -6,6 +6,7 @@ import { getAllFilesFrontMatter } from '@/lib/mdx'
 import formatDate from '@/lib/utils/formatDate'
 import { motion } from 'framer-motion'
 import Image from 'next/image'
+import styles from '../styles/CustomImageBackground.module.css'
 
 const MAX_DISPLAY = 3
 
@@ -80,37 +81,35 @@ export default function Home({ posts }) {
                     </dl>
                     <div className="space-y-5 xl:col-span-3">
                       <div className="space-y-6">
-                        <div>
-                          <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
-                            <Link
-                              href={`/blog/${slug}`}
-                              className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
-                            >
-                              {title}
-                            </Link>
-                          </h2>
-                          <div className="flex flex-wrap justify-center mt-2">
-                            {tags.map((tag) => (
-                              <Tag key={tag} text={tag} />
-                            ))}
-                          </div>
-                        </div>
-                        {images && images.length > 0 && (
-                          <Link
-                            href={`/blog/${slug}`}
-                            className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
+                        <div></div>
+                      </div>
+                      {images && images.length > 0 && (
+                        <Link
+                          href={`/blog/${slug}`}
+                          className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
+                        >
+                          <div
+                            className={`relative aspect-[16/9] w-full ${styles.imageBackground}`}
                           >
-                            <div className="relative aspect-[16/9] w-full">
-                              <Image
-                                src={images[0]}
-                                alt={title}
-                                layout="fill"
-                                objectFit="cover"
-                                className="rounded-lg"
-                              />
+                            <Image
+                              src={images[0]}
+                              alt={title}
+                              layout="fill"
+                              objectFit="cover"
+                              className="rounded-lg"
+                            />
+                            <div className={styles.overlay}>
+                              <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
+                                {title}
+                              </h2>
                             </div>
-                          </Link>
-                        )}
+                          </div>
+                        </Link>
+                      )}
+                      <div className="flex flex-wrap justify-center mt-2">
+                        {tags.map((tag) => (
+                          <Tag key={tag} text={tag} />
+                        ))}
                         <div className="prose max-w-none text-center text-secondary-500 dark:text-secondary-400">
                           <Link href={`/blog/${slug}`}>{summary}</Link>
                         </div>

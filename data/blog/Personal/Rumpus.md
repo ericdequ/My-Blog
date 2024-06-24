@@ -1,11 +1,9 @@
-Here's the revised version with enhanced markdown formatting:
-
 ---
 title: '🎨 Rumpus Art Raffle: A Symphony of Serendipity'
 date: '2023-09-29'
-tags: ['🎨 Art', '🎉 Raffle', '👩‍🎨 Veronica', '🌈 RumpusArt']
+tags: ['Art', 'Raffle', 'Veronica', 'RumpusArt']
 draft: false
-summary: 'An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronica''s artistry. 🌌🎨'
+summary: 'An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronicas artistry. 🌌🎨'
 images: ['https://www.rics-notebook.com/rumpus.webp']
 ---
 
