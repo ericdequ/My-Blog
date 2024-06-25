@@ -10,72 +10,90 @@ export default function Pagination({ totalPages, currentPage }) {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
-      className="space-y-2 pt-6 pb-8 md:space-y-5"
+      className="flex items-center justify-between pt-6 pb-8"
     >
-      <nav className="flex items-center justify-between">
-        {!prevPage ? (
+      {!prevPage ? (
+        <div className="w-1/3">
           <button
             rel="previous"
-            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-secondary-500 transition-colors duration-200 hover:bg-primary-100 dark:text-secondary-400 dark:hover:bg-primary-800 disabled:opacity-50"
+            className="cursor-not-allowed rounded-full px-6 py-3 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 disabled:opacity-50"
             disabled={!prevPage}
           >
-            Previous
-          </button>
-        ) : (
-          <Link href={currentPage - 1 === 1 ? `/blog/` : `/blog/page/${currentPage - 1}`}>
-            <motion.button
-              rel="previous"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
+            <motion.span
+              initial={{ x: -10, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.2 }}
-              className="rounded-md bg-primary-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-primary-600 dark:bg-primary-600 dark:hover:bg-primary-700"
+              className="inline-block"
             >
-              <motion.span
-                initial={{ x: -10, opacity: 0 }}
-                animate={{ x: 0, opacity: 1 }}
-                transition={{ duration: 0.2 }}
-              >
-                Previous
-              </motion.span>
-            </motion.button>
-          </Link>
-        )}
-        <motion.span
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ delay: 0.2, duration: 0.5 }}
-          className="text-sm text-secondary-700 dark:text-secondary-200"
-        >
-          Page {currentPage} of {totalPages}
-        </motion.span>
-        {!nextPage ? (
+              &#10094;
+            </motion.span>
+          </button>
+        </div>
+      ) : (
+        <Link href={currentPage - 1 === 1 ? `/blog/` : `/blog/page/${currentPage - 1}`}>
+          <motion.button
+            rel="previous"
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            transition={{ duration: 0.2 }}
+            className="rounded-full bg-gradient-to-r from-amber-500 to-emerald-500 px-6 py-3 text-sm font-medium text-white shadow-lg"
+          >
+            <motion.span
+              initial={{ x: -10, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              transition={{ duration: 0.2 }}
+              className="inline-block"
+            >
+              &#10094;
+            </motion.span>
+          </motion.button>
+        </Link>
+      )}
+      <motion.span
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.2, duration: 0.5 }}
+        className="text-sm text-gray-700 dark:text-gray-200"
+      >
+        Page {currentPage} of {totalPages}
+      </motion.span>
+      {!nextPage ? (
+        <div className="w-1/3 text-right">
           <button
             rel="next"
-            className="cursor-not-allowed rounded-md px-4 py-2 text-sm font-medium text-secondary-500 transition-colors duration-200 hover:bg-primary-100 dark:text-secondary-400 dark:hover:bg-primary-800 disabled:opacity-50"
+            className="cursor-not-allowed rounded-full px-6 py-3 text-sm font-medium text-gray-500 transition-colors duration-200 hover:bg-gray-100 dark:text-gray-400 dark:hover:bg-gray-700 disabled:opacity-50"
             disabled={!nextPage}
           >
-            Next
-          </button>
-        ) : (
-          <Link href={`/blog/page/${currentPage + 1}`}>
-            <motion.button
-              rel="next"
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
+            <motion.span
+              initial={{ x: 10, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
               transition={{ duration: 0.2 }}
-              className="rounded-md bg-primary-500 px-4 py-2 text-sm font-medium text-white transition-colors duration-200 hover:bg-primary-600 dark:bg-primary-600 dark:hover:bg-primary-700"
+              className="inline-block"
             >
-              <motion.span
-                initial={{ x: 10, opacity: 0 }}
-                animate={{ x: 0, opacity: 1 }}
-                transition={{ duration: 0.2 }}
-              >
-                Next
-              </motion.span>
-            </motion.button>
-          </Link>
-        )}
-      </nav>
+              &#10095;
+            </motion.span>
+          </button>
+        </div>
+      ) : (
+        <Link href={`/blog/page/${currentPage + 1}`}>
+          <motion.button
+            rel="next"
+            whileHover={{ scale: 1.1 }}
+            whileTap={{ scale: 0.9 }}
+            transition={{ duration: 0.2 }}
+            className="rounded-full bg-gradient-to-r from-amber-500 to-emerald-500 px-6 py-3 text-sm font-medium text-white shadow-lg"
+          >
+            <motion.span
+              initial={{ x: 10, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
+              transition={{ duration: 0.2 }}
+              className="inline-block"
+            >
+              &#10095;
+            </motion.span>
+          </motion.button>
+        </Link>
+      )}
     </motion.div>
   )
 }
