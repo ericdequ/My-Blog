@@ -5,7 +5,7 @@ tags: ['Quantum', 'Spirituality', 'Religion', 'spiritual-practices']
 draft: false
 summary: 'Exploring the profound connections between quantum mechanics and spiritual teachings from various religious traditions.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantaReliga.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantaReliga.webp']
 ---
 
 🌌 Quantum mechanics, with its mind-bending principles and counter-intuitive implications, has intrigued scientists and philosophers alike. Interestingly, many of these quantum concepts find striking parallels in the spiritual teachings of various religions. Let's embark on a journey to unravel these connections:

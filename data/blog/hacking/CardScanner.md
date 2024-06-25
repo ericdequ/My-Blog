@@ -5,7 +5,7 @@ tags: ['CreditCard', 'Scanners', 'Cybersecurity', 'FraudPrevention']
 draft: false
 summary: 'Credit card scanners are devices that can read magnetic stripes or chips on credit or debit cards. Learn about the two main types of credit card scanners, where they can be found, and tips for protecting yourself from credit card scanner fraud.'
 
-images: ['https://www.rics-notebook.com/articleimage/CardScanner.png']
+images: ['https://www.rics-notebook.com/articleimage/CardScanner.webp']
 ---
 
 ## What are Credit Card Scanners?

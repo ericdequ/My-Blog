@@ -16,7 +16,7 @@ tags:
 draft: false
 summary: 'Delve into the potential benefits of 2C-B, a psychedelic compound with promising applications in nootropics and antidepressants. Explore its pharmacological properties, therapeutic potential, and the current state of research. 💊🧠🌟'
 
-images: ['https://www.rics-notebook.com/articleimage/CB.png']
+images: ['https://www.rics-notebook.com/articleimage/CB.webp']
 ---
 
 ## 💊 Exploring the Potential Benefits of 2C-B: A Promising Avenue for Nootropics and Antidepressants

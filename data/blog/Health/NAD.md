@@ -5,7 +5,7 @@ tags: ['NAD+', 'Health Benefits', 'Anti-Aging', 'Cellular Health', 'Longevity', 
 draft: false
 summary: 'Discover the incredible potential of NAD+, a vital molecule that holds the key to cellular health and longevity. From boosting energy levels to slowing down the aging process, NAD+ is a game-changer in the world of health and wellness. 💪'
 
-images: ['https://www.rics-notebook.com/articleimage/NAD.png']
+images: ['https://www.rics-notebook.com/articleimage/NAD.webp']
 ---
 
 ## 🌟 The Miraculous Molecule: Exploring the Potential of NAD+

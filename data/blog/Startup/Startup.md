@@ -5,7 +5,7 @@ tags: ['Entrepreneurship', 'Company Formation', 'Business Strategy']
 draft: false
 summary: 'Embarking on the entrepreneurial journey? Forming a company is the first significant step. Dive into this guide to understand the nuances of company formation and ensure a robust foundation for your business.'
 
-images: ['https://www.rics-notebook.com/articleimage/Startup/Startup.png']
+images: ['https://www.rics-notebook.com/articleimage/Startup/Startup.webp']
 ---
 
 ## The Dream of Entrepreneurship 🌐🚀

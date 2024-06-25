@@ -5,7 +5,7 @@ tags: ['RaspberryPi', 'DIY', 'Projects']
 draft: false
 summary: 'In this blog post, we will guide you through the process of setting up a Raspberry Pi, from gathering the necessary materials to installing the Raspbian operating system and configuring your Raspberry Pi for a variety of projects. 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/Raspi/RaspiSetup.png']
+images: ['https://www.rics-notebook.com/articleimage/Raspi/RaspiSetup.webp']
 ---
 
 # How to Set Up a Raspberry Pi 📚

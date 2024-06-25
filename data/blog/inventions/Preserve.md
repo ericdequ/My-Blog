@@ -5,7 +5,7 @@ tags: ['Voice Cloning', 'Technology', 'Family', 'Legacy', 'Innovation', 'Emotion
 draft: false
 summary: 'Discover VoiceClone, an innovative app that allows you to clone your voice to read books for your children or leave lasting messages for loved ones. Preserve your voice and create meaningful connections that transcend time. 💖'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/Preserve.png']
+images: ['https://www.rics-notebook.com/articleimage/inventions/Preserve.webp']
 ---
 
 ## 🌟 VoiceClone: Preserve Your Voice for Future Generations with Innovative Technology

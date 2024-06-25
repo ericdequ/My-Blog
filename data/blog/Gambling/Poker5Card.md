@@ -5,7 +5,7 @@ tags: ['Poker', 'Card Games', '5 Card Poker']
 draft: false
 summary: Learn how to play 5 card poker, a classic and entertaining card game suitable for beginners and experienced players. Discover the basic rules, hand rankings, and specific strategies that can help you improve your chances of winning.
 
-images: ['https://www.rics-notebook.com/articleimage/Poker5Card.png']
+images: ['https://www.rics-notebook.com/articleimage/Poker5Card.webp']
 ---
 
 # How to Play 5 Card Poker: Master the Classic Card Game 🃏♠️♥️♦️♣️

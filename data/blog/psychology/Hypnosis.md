@@ -5,7 +5,7 @@ tags: ['Hypnosis', 'Subconscious']
 draft: false
 summary: 'Embark on a captivating journey into the realm of hypnosis and discover the awe-inspiring feats achieved through this powerful psychological tool. From medical marvels to mind-bending demonstrations, uncover the untapped potential of the human mind and the transformative power of suggestion.'
 
-images: ['https://www.rics-notebook.com/articleimage/psychology/Hypnosis.png']
+images: ['https://www.rics-notebook.com/articleimage/psychology/Hypnosis.webp']
 ---
 
 # The Incredible World of Hypnosis: Exploring the Mind's Untapped Potential 🧠💫

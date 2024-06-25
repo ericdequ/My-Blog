@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover the fascinating process of how tower cranes, the giants of the construction world, erect themselves to reach dizzying heights. This blog post delves into the intricate mechanics and engineering behind self-erecting cranes, shedding light on one of the most impressive feats in modern construction.'
 
-images: ['https://www.rics-notebook.com/articleimage/Cranes.png']
+images: ['https://www.rics-notebook.com/articleimage/Cranes.webp']
 ---
 
 # 🏗️ Unraveling the Mystery: How Do Tower Cranes Erect Themselves? 🏗️

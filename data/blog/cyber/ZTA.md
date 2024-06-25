@@ -5,7 +5,7 @@ tags: ['ZTA', 'Zero Trust', 'Cybersecurity']
 draft: false
 summary: 'Trust nothing, verify everything! Step into the world of Zero Trust Architecture and understand why its become a cornerstone in modern cybersecurity strategies.'
 
-images: ['https://www.rics-notebook.com/articleimage/ZTA.png']
+images: ['https://www.rics-notebook.com/articleimage/ZTA.webp']
 ---
 
 ## What is ZTA?

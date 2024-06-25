@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: Quantum computing is transforming various industries, from cybersecurity and life sciences to logistics, finance, and communications. Discover how this cutting-edge technology is being used today and explore the exciting possibilities it holds for the near future.
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumOverview.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumOverview.webp']
 ---
 
 # Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻

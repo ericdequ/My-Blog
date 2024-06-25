@@ -5,7 +5,7 @@ tags: ['Gig Economy', 'Construction Technology', 'Workforce Management', 'Innova
 draft: false
 summary: 'Workr is a groundbreaking app designed to decentralize the construction workforce, enabling subcontractors and individuals to connect on-the-fly. This blog post explores how this platform empowers workers and transforms the construction industry in our technologically driven world.'
 
-images: ['https://www.rics-notebook.com/articleimage/Workr.png']
+images: ['https://www.rics-notebook.com/articleimage/Workr.webp']
 ---
 
 # 🏗️ Workr: A New Era for Construction Workforce Management 🏗️

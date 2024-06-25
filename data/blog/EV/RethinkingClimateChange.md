@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'In the face of the global warming crisis, humanity has a unique opportunity to come together, innovate, and create a sustainable future. Discover how this challenge can be a catalyst for unity, scientific breakthroughs, and a brighter tomorrow for our planet.'
 
-images: ['https://www.rics-notebook.com/articleimage/RethinkingClimateChange.png']
+images: ['https://www.rics-notebook.com/articleimage/RethinkingClimateChange.webp']
 ---
 
 Climate change and global warming are undeniably among the most pressing challenges of our time. The Earth's temperature is rising at an alarming rate, with the global average temperature increasing by 0.85°C between 1880 and 2012. This has led to melting glaciers, rising sea levels, and more frequent and intense natural disasters. In fact, the World Health Organization estimates that climate change will cause an additional 250,000 deaths per year between 2030 and 2050. While the situation may seem dire, I firmly believe that this crisis presents a unique opportunity for humanity to unite, innovate, and create a sustainable future for generations to come.

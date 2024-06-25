@@ -5,7 +5,7 @@ tags: ['Gratitude', 'Thank You Cards', 'Gift Etiquette', 'Digital Communication'
 draft: false
 summary: 'Gratitude is a user-friendly app that simplifies the process of sending thank you cards for gifts received. With customizable templates and the option to send digital or physical cards, expressing gratitude has never been easier or more streamlined.'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/Gratitude.png']
+images: ['https://www.rics-notebook.com/articleimage/inventions/Gratitude.webp']
 ---
 
 # 🎉 Gratitude: Revolutionizing the Art of Saying Thank You 🎉

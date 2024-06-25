@@ -16,7 +16,7 @@ draft: false
 
 summary: 'Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.'
 
-images: ['https://www.rics-notebook.com/articleimage/Logistics/Optimization.png']
+images: ['https://www.rics-notebook.com/articleimage/Logistics/Optimization.webp']
 ---
 
 ## 🎛️ Quantum Algorithms: Powering Logistics Optimization

@@ -5,7 +5,7 @@ tags: ['Autumn', 'Leaves', 'Chlorophyll', 'Carotenoids', 'Anthocyanins','Questio
 draft: false
 summary: "Every year, as summer fades into fall, nature puts on a breathtaking display of color, transforming the landscape into a vibrant tapestry of red, orange, and gold. But have you ever wondered what causes this spectacular transformation? In this blog post, we delve into the fascinating science behind the changing colors of fall leaves and explore the intricate processes that create autumns most stunning spectacle."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoLeavesChangeColor.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoLeavesChangeColor.webp']
 ---
 
 # 🍂 A Kaleidoscope of Color: The Magic of Fall Foliage 🍂

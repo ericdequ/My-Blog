@@ -5,7 +5,7 @@ tags: ['Mushroom Cultivation', 'Herbicides', 'Fungi', 'Mycology', 'Agriculture',
 draft: false
 summary: 'Discover how to cultivate Cordyceps militaris and use its extract as a natural herbicide. Learn the step-by-step process to prepare, extract, and apply this powerful solution in your garden.'
 
-images: ['https://www.rics-notebook.com/articleimage/CultivatingCordyceps.png']
+images: ['https://www.rics-notebook.com/articleimage/CultivatingCordyceps.webp']
 ---
 
 ## 🍄 Cultivating Cordyceps Militaris for Herbicidal Use

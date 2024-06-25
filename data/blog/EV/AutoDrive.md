@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Explore the safety benefits of autonomous vehicles compared to human drivers and discover how widespread adoption of auto-drive features can revolutionize transportation. Learn about the crucial role of quantum computers in optimizing complex traffic systems and enabling smarter logistics for faster and more efficient travel.'
 
-images: ['https://www.rics-notebook.com/articleimage/AutoDrive.png']
+images: ['https://www.rics-notebook.com/articleimage/AutoDrive.webp']
 ---
 
 ## 🚗 The Advent of Autonomous Vehicles: Enhancing Road Safety

@@ -5,7 +5,7 @@ tags: ['Mushrooms', 'Health Benefits', 'Nutrition', 'Superfoods', 'Natural Remed
 draft: false
 summary: 'Dive into the fascinating world of mushrooms and discover the unique benefits each type offers. From boosting immunity to enhancing cognitive function, mushrooms are more than just a culinary delight theyre a powerhouse of nutrients and health benefits. 🌱'
 
-images: ['https://www.rics-notebook.com/articleimage/MagicoMushrooms.png']
+images: ['https://www.rics-notebook.com/articleimage/MagicoMushrooms.webp']
 ---
 
 ## 🌟 The Magic of Mushrooms: Exploring Types and Their Potential Benefits

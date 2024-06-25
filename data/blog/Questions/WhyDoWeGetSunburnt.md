@@ -5,7 +5,7 @@ tags: ['Sunburn', 'Skin', 'UV Rays', 'Health', 'Dermatology','Questions']
 draft: false
 summary: "Sunburns are a common consequence of spending too much time in the sun. In this blog post, we explore the science behind sunburns, the role of UV rays, and how to protect your skin from sun damage."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeGetSunburnt.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeGetSunburnt.webp']
 ---
 
 # ☀️ Sunburn Unveiled: Why Do We Get Sunburned? ☀️

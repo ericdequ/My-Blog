@@ -5,7 +5,7 @@ tags: ['Quantum Computing', 'Energy Efficiency', 'Sustainable Technology', 'AI',
 draft: false
 summary: 'This post explores how the inherent quantum mechanical nature of the world can be leveraged to create more energy-efficient computing systems. By comparing classical and quantum computers to DC and AC currents, we highlight the potential for quantum computers to drastically reduce the energy consumption of AI models and data centers.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/ACQCompute.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/ACQCompute.webp']
 ---
 
 # The Quantum Revolution: Harnessing Nature's Alternating Currents for Sustainable Computing

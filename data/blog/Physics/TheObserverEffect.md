@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Explore the profound implications of the observer effect in quantum mechanics and how it highlights the unique role of human consciousness in shaping reality. Discover how artificial intelligence, despite its vast potential, cannot replace the magic of human observation and creation.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/TheObserverEffect.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/TheObserverEffect.webp']
 ---
 
 ## 🧘‍♀️ Introduction: The Quantum Dance of Consciousness

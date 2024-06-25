@@ -5,7 +5,7 @@ tags: ['Drug-Discovery', 'History']
 draft: false
 summary: 'Explore the remarkable story of Albert Hofmann, the Swiss chemist who accidentally discovered LSD and embarked on a mind-altering bicycle ride that would forever change our understanding of consciousness and the human psyche.'
 
-images: ['https://www.rics-notebook.com/articleimage/AlbertHoffman.png']
+images: ['https://www.rics-notebook.com/articleimage/AlbertHoffman.webp']
 ---
 
 # Albert Hofmann's Accidental Discovery of LSD and the Bicycle Ride that Changed the World 🚲💫

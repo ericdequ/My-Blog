@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Explore the realm of quantum simulation, a pivotal concept in quantum mechanics. Learn about the challenges, methodologies, and the profound implications of simulating quantum systems with quantum computers.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/SimulationIdeasIssues.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/SimulationIdeasIssues.webp']
 ---
 
 ## 🌌 Introduction: Quantum Simulation

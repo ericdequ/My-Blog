@@ -5,7 +5,7 @@ tags: ['Misdirection', 'Neuroscience']
 draft: false
 summary: 'Explore the fascinating world of misdirection and how it exploits the vulnerabilities of the human brain. From neuroscience research to business applications and the secrets of pickpocketing, discover how attention manipulation can be both a powerful tool and a cautionary tale.'
 
-images: ['https://www.rics-notebook.com/articleimage/psychology/Misdirection.png']
+images: ['https://www.rics-notebook.com/articleimage/psychology/Misdirection.webp']
 ---
 
 # The Art of Misdirection: Hacking the Brain for Fun and Profit 🧠🎩

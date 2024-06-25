@@ -5,7 +5,7 @@ tags: ['Drones', 'Flight', 'Aviation', 'Technology', 'Engineering','Questions']
 draft: false
 summary: "Drones, also known as unmanned aerial vehicles (UAVs), have become increasingly popular for various applications. In this blog post, we explore the principles and technology behind how drones fly and the components that make it possible."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoDronesFly.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoDronesFly.webp']
 ---
 
 # 🚁 The Mechanics of Flight: How Do Drones Fly? 🚁

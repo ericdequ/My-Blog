@@ -12,7 +12,7 @@ tags:
 draft: true
 summary: 'Explore the Trotterization method for Hamiltonian simulation in quantum computing. Learn how this technique breaks down complex quantum operations into simpler steps, enabling efficient quantum simulations.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/Trotterization.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/Trotterization.webp']
 ---
 
 ## 🌀 Introduction: Hamiltonian Simulation and Trotterization

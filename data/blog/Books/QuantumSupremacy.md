@@ -5,7 +5,7 @@ tags: ['Quantum Computing', 'Physics', 'Technology', 'Future']
 draft: false
 summary: "Explore the groundbreaking world of quantum computing with renowned physicist Michio Kaku in his captivating book, 'Quantum Supremacy.' Discover how this revolutionary technology is set to transform industries, solve complex problems, and shape the future of computing and human civilization."
 
-images: ['https://www.rics-notebook.com/articleimage/QuantumSupremacy.png']
+images: ['https://www.rics-notebook.com/articleimage/QuantumSupremacy.webp']
 ---
 
 # Quantum Supremacy: Unveiling the Future of Computing with Michio Kaku

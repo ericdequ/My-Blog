@@ -6,7 +6,7 @@ draft: false
 summary: "Discover the mystery of invisible ink with this fun science experiment using lemon juice. This blog post explains the science behind invisible ink and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting."
 
 
-images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/InvisibleInkWithLemonJuice.png']
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/InvisibleInkWithLemonJuice.webp']
 ---
 
 # 🕵️‍♂️ Secrets Revealed: Exploring Invisible Ink with Lemon Juice 🕵️‍♀️

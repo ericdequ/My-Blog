@@ -5,7 +5,7 @@ tags: ['Hangovers', 'Alcohol', 'Supplements', 'Prevention', 'Health', 'Science']
 draft: false
 summary: "Discover the science behind hangovers and learn about effective supplements that can help minimize their impact. From the causes to prevention strategies, this blog post explores the complexities of alcohol's effects on the body and offers practical solutions for a more comfortable morning after. 🌅"
 
-images: ['https://www.rics-notebook.com/articleimage/Hangover.png']
+images: ['https://www.rics-notebook.com/articleimage/Hangover.webp']
 ---
 
 ## 🌟 The Science of Hangovers: Understanding the Causes and Effective Supplements for Prevention

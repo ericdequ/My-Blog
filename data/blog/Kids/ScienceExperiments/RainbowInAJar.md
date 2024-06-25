@@ -6,7 +6,7 @@ draft: false
 summary: "Create a stunning rainbow in a jar and learn about liquid density. This blog post explains the science behind this colorful experiment and provides detailed steps for conducting it with kids, either one-on-one or in a classroom setting."
 
 
-images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/RainbowInAJar.png']
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/RainbowInAJar.webp']
 ---
 
 # 🌈 Rainbow in a Jar: Exploring Liquid Density and Color 🌈

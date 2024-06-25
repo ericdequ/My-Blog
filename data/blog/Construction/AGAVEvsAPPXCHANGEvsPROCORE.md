@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'In this comprehensive comparison, we examine three leading construction tech integration platforms: Agave, Procore, and Trimble App Xchange. Discover the unique features, strengths, and benefits of each platform, and gain insights into which solution best fits your construction companys specific needs and requirements.'
 
-images: ['https://www.rics-notebook.com/articleimage/AGAVEvsAPPXCHANGEvsPROCORE.png']
+images: ['https://www.rics-notebook.com/articleimage/AGAVEvsAPPXCHANGEvsPROCORE.webp']
 ---
 
 # 🏗️ Introduction: Navigating the Construction Tech Integration Landscape 🏗️

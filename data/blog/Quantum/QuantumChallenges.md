@@ -5,7 +5,7 @@ tags: ['Quantum', 'Challenges']
 draft: false
 summary: 'Exploring the challenges in the quantum domain and the relentless pursuit to overcome them!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumChallenges.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumChallenges.webp']
 ---
 
 🧩 As we venture deeper into the quantum realm, it's not just potentials that we encounter, but also challenges. These challenges, both technical and conceptual, shape the trajectory of quantum tech and influence its real-world applicability.

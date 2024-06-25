@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: Discover the transformative potential of moving Space Force from under the Department of Defense to the Department of Education. Learn how this strategic shift can boost education, optimize defense spending, support small businesses, and signal a global commitment to scientific advancements and cooperation.
 
-images: ['https://www.rics-notebook.com/articleimage/DOE.png']
+images: ['https://www.rics-notebook.com/articleimage/DOE.webp']
 ---
 
 # Transforming Education and Defense: Moving Space Force under the Department of Education 🚀🎓

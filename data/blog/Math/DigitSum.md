@@ -5,7 +5,7 @@ tags: ['Mathematics']
 draft: false
 summary: 'Dive into the fascinating world of number theory and discover the potential of digit sum in finding new ways to Explore large numbers. Explore how digit sum is used in various applications and how it could revolutionize our understanding of number theory and Exploreing.'
 
-images: ['https://www.rics-notebook.com/articleimage/Math/DigitSum.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/DigitSum.webp']
 ---
 
 ## Exploring Number Theory and Digit Sum: Unveiling New Possibilities in Exploreing Large Numbers 🔢🔍

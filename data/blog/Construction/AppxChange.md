@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Discover how Trimble App Xchange is transforming the construction industry by enabling seamless data flow and interoperability across various systems. With its low-code integration platform, extensive marketplace, and strategic partnerships, Trimble App Xchange empowers construction professionals to streamline data management, enhance collaboration, and drive project success.'
 
-images: ['https://www.rics-notebook.com/articleimage/AppxChange.png']
+images: ['https://www.rics-notebook.com/articleimage/AppxChange.webp']
 ---
 
 # 🏗️🔄 Trimble App Xchange: Unlocking the Power of Connected Construction 🏗️🔄

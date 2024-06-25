@@ -5,7 +5,7 @@ tags: ['Quantum', 'Future', 'Predictions']
 draft: false
 summary: 'Exploring predictions about the trajectory of quantum technologies and envisioning the transformative quantum future!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumFuturePredictions.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumFuturePredictions.webp']
 ---
 
 🔮 The quantum realm, with its myriad potentials, promises a future that's both exciting and transformative. As we navigate the early stages of the quantum revolution, predictions about its trajectory offer insights into the changes and innovations on the horizon.

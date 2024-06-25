@@ -5,7 +5,7 @@ tags: ['Absinthe', 'History', 'Spirits', 'Revival', 'Cultural Heritage']
 draft: false
 summary: 'Dive into the rich history of absinthe, the legendary spirit that has captivated artists and writers for centuries. Discover why it’s time for absinthe to make a comeback in modern mixology and cultural appreciation. 🍸'
 
-images: ['https://www.rics-notebook.com/articleimage/Absinthe.png']
+images: ['https://www.rics-notebook.com/articleimage/Absinthe.webp']
 ---
 
 ## 🌟 Absinthe: A Storied Elixir Poised for a Modern Revival

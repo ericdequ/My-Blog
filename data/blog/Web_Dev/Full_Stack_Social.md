@@ -19,7 +19,7 @@ tags:
 draft: false
 summary: 'This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse '
 
-images: ['https://www.rics-notebook.com/articleimage/Web_Dev/Full_Stack_Social.png']
+images: ['https://www.rics-notebook.com/articleimage/Web_Dev/Full_Stack_Social.webp']
 ---
 
 # 🚀 Introduction to Full Stack Social Media App

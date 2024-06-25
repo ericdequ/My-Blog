@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'This blog post explores the benefits of AI companies implementing a feature similar to Google Search Console, allowing businesses to submit their information to the AIs knowledge base. By incorporating user-generated content and a robust validation infrastructure, AI companies can bridge the gap between human-created data and AI training data, ultimately benefiting both the companies and the users.'
 
-images: ['https://www.rics-notebook.com/articleimage/AISearchConsole.png']
+images: ['https://www.rics-notebook.com/articleimage/AISearchConsole.webp']
 ---
 
 # 🌉 Bridging the Gap: The Need for a Google-like Search Content Feature in AI 🌉

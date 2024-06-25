@@ -11,7 +11,7 @@ tags:
   ]
 draft: false
 summary: 'Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.'
-images: ['https://www.rics-notebook.com/articleimage/Quantum/PhaseEstimation.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/PhaseEstimation.webp']
 ---
 
 ## 🌌 Introduction to Phase Estimation

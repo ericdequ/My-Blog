@@ -5,7 +5,7 @@ tags: ['REDTEAM', 'Cybersecurity', 'Adversarial Testing']
 draft: false
 summary: 'In the chess game of cybersecurity, sometimes you need to think several moves ahead. REDTEAM assessments provide an adversarial perspective, simulating real-world attack tactics to uncover vulnerabilities. Dive into the world of REDTEAMing and its importance.'
 
-images: ['https://www.rics-notebook.com/articleimage/REDTEAM.png']
+images: ['https://www.rics-notebook.com/articleimage/REDTEAM.webp']
 ---
 
 ## What is REDTEAM?

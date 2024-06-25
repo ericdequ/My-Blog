@@ -16,7 +16,7 @@ tags:
 draft: false
 summary: 'Dive into the fascinating world of Yopo seeds and Rapé from both a pharmacological and shamanic spiritual perspective. Explore their traditional uses, active compounds, and the profound impact these sacred substances have on mental and spiritual well-being. 🌿✨'
 
-images: ['https://www.rics-notebook.com/articleimage/Yopo.png']
+images: ['https://www.rics-notebook.com/articleimage/Yopo.webp']
 ---
 
 ## 🌿 Yopo Seeds and Rapé: A Pharmacological and Shamanic Exploration

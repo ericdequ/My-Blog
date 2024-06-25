@@ -16,7 +16,7 @@ tags:
 draft: false
 summary: 'Discover how quantum algorithms can transform airline routing, leading to billions in cost savings and reduced environmental impact. Explore the power of quantum computing in tackling complex optimization problems and revolutionizing the aviation industry.'
 
-images: ['https://www.rics-notebook.com/articleimage/Logistics/AirLine.png']
+images: ['https://www.rics-notebook.com/articleimage/Logistics/AirLine.webp']
 ---
 
 ## ✈️ Quantum Computing: A Game-Changer for Airline Routing

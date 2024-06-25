@@ -5,7 +5,7 @@ tags: ['Astrology', 'Quantum Physics', 'Spirituality', 'Science', 'spiritual-pra
 draft: false
 summary: 'Explore the fascinating connection between astrology and quantum physics, and discover how the cosmic dance of celestial bodies may influence our lives through the lens of wave-particle duality and entanglement.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/Qstrology.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/Qstrology.webp']
 ---
 
 ## Astrology and Quantum Entanglement: Unveiling the Cosmic Dance 🌌🪐

@@ -5,7 +5,7 @@ tags: ['WimHof', 'Breathing', 'Cold']
 draft: false
 summary: 'Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.'
 
-images: ['https://www.rics-notebook.com/articleimage/Idols/Wim.png']
+images: ['https://www.rics-notebook.com/articleimage/Idols/Wim.webp']
 ---
 
 ## ❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️

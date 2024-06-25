@@ -5,7 +5,7 @@ tags: ['literature', 'poetry', 'satire', 'spanish golden age']
 draft: false
 summary: 'Francisco de Quevedo was a Spanish nobleman, politician, and one of the most prominent writers of the Spanish Golden Age. Known for his sharp wit, satirical works, and conceptismo style, Quevedo left an indelible mark on Spanish literature.'
 
-images: ['https://www.rics-notebook.com/articleimage/FransicoDeQuevedo.png']
+images: ['https://www.rics-notebook.com/articleimage/FransicoDeQuevedo.webp']
 ---
 
 ## **Francisco de Quevedo: Master of Wit and Satire 🖋️**

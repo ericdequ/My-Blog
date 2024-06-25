@@ -5,7 +5,7 @@ tags: ['Brain Freeze', 'Cold', 'Ice Cream', 'Biology', 'Neuroscience','Questions
 draft: false
 summary: "Ever experienced that sudden, intense headache after eating ice cream too quickly? In this blog post, we explore the phenomenon of brain freeze, why it happens, and how to prevent it."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeGetBrainFreeze.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeGetBrainFreeze.webp']
 ---
 
 # 🧊 The Chilling Mystery of Brain Freeze: Why Do We Get It? 🧊

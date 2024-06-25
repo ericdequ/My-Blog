@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Explore the exciting world of electric vehicles and discover how revolutionizing our infrastructure is crucial for a sustainable future. From wireless charging roads to smart city integration, learn about the innovative solutions that will power the next generation of transportation.'
 
-images: ['https://www.rics-notebook.com/articleimage/Infrastructure.png']
+images: ['https://www.rics-notebook.com/articleimage/Infrastructure.webp']
 ---
 
 The world is on the cusp of a transportation revolution, with electric vehicles (EVs) leading the charge towards a cleaner, greener future. As more and more consumers embrace EVs, it has become increasingly clear that our current infrastructure is not equipped to handle the growing demand for charging solutions. To truly unlock the potential of electric vehicles and create a sustainable future, we must reimagine and rebuild our infrastructure from the ground up.

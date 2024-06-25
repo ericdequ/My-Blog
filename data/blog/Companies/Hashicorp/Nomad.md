@@ -5,7 +5,7 @@ tags: ['Nomad', 'Orchestration', 'Workloads', 'devops']
 draft: false
 summary: 'Managing and scheduling workloads can be a herculean task. With HashiCorps Nomad, experience a scheduler that seamlessly orchestrates tasks across any infrastructure. Dive into the world of efficient workload orchestration.'
 
-images: ['https://www.rics-notebook.com/articleimage/Nomad.png']
+images: ['https://www.rics-notebook.com/articleimage/Nomad.webp']
 ---
 
 ## What is Nomad? 📊🚀

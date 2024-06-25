@@ -5,7 +5,7 @@ tags: ['Short Story', 'War', 'Peace', 'life-lessons']
 draft: false
 summary: 'In a war-torn Middle Eastern desert, an officers crash landing leads him to an unexpected encounter with the enemy, revealing their shared humanity and igniting a hope for peace.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/TheDesertPeace.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/TheDesertPeace.webp']
 ---
 
 ## 🏜️⚔️ The Desert Peace

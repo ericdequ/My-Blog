@@ -5,7 +5,7 @@ tags: ['Python', 'Programming', 'Tutorial', 'education', 'devops']
 draft: false
 summary: 'Learn how to set up Python on your computer and write your first Python script, an essential skill for any aspiring programmer.'
 
-images: ['https://www.rics-notebook.com/articleimage/Python/PythonSetup.png']
+images: ['https://www.rics-notebook.com/articleimage/Python/PythonSetup.webp']
 ---
 
 ## 🐍 Getting Started with Python: Your First Python Script 🚀

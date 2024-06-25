@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'This post explores the powerful synergy between AI and quantum computing, focusing on how AI can enhance Randomized Benchmarking and gate fidelity. By leveraging the probabilistic nature of both fields, we can create a feedback loop that iteratively improves quantum performance and AI prediction accuracy.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/AIErrorCorrection.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/AIErrorCorrection.webp']
 ---
 
 # Quantum Synergies: Integrating AI with Randomized Benchmarking and Gate Fidelity for Enhanced Quantum Computing Performance 🧠💻

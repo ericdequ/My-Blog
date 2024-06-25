@@ -5,7 +5,7 @@ tags: ['Health', 'Nutrition', 'Herbal Medicine', 'Cordyceps', 'Fungi', 'Mycology
 draft: false
 summary: 'Explore the remarkable health benefits of ingesting Cordyceps. Learn how this powerful fungus can boost your energy, improve immunity, enhance athletic performance, and more.'
 
-images: ['https://www.rics-notebook.com/articleimage/CordycepsEffects.png']
+images: ['https://www.rics-notebook.com/articleimage/CordycepsEffects.webp']
 ---
 
 ## 🌿 The Benefits of Ingesting Cordyceps: A Natural Boost for Health and Vitality

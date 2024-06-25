@@ -13,7 +13,7 @@ draft: false
 
 summary: 'Discover how mycelium networks, found in mushrooms, are being harnessed to create sustainable and eco-friendly quantum and thermodynamic computing systems. This groundbreaking approach offers enhanced stability, fault-tolerance, and environmental sustainability, potentially revolutionizing fields such as drug discovery, material science, optimization, and cryptography.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/MQC.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/MQC.webp']
 ---
 
 # Abstract

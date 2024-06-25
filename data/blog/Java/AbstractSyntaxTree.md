@@ -5,7 +5,7 @@ tags: ['AST', 'Parsing', 'Refactoring', 'CodeGeneration', 'Debugging', 'Analysis
 draft: false
 summary: 'Abstract syntax trees (ASTs) are tree representations of the abstract syntactic structure of source code and are useful for parsing, refactoring,code generation, debugging, and analysis.'
 
-images: ['https://www.rics-notebook.com/articleimage/Java/AbstractSyntaxTree.png']
+images: ['https://www.rics-notebook.com/articleimage/Java/AbstractSyntaxTree.webp']
 ---
 
 ## What is an Abstract Syntax Tree?

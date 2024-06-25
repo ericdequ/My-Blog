@@ -5,7 +5,7 @@ tags: ['AI', 'GPT', 'BARD']
 draft: false
 summary: disscussion of the differences between GPT and BARD
 
-images: ['https://www.rics-notebook.com/articleimage/bard_Vs_GPT.png']
+images: ['https://www.rics-notebook.com/articleimage/bard_Vs_GPT.webp']
 ---
 
 # Bard vs GPT: What's the Difference? 🤔

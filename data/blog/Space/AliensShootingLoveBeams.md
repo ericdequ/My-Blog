@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Explore the recent phenomenon of the northern lights being visible far from the poles, driven by increased solar activity and geomagnetic storms. Learn about the science behind solar cycles, space weather forecasting, and how to predict and observe auroras.'
 
-images: ['https://www.rics-notebook.com/articleimage/Space/AliensShootingLoveBeams.png']
+images: ['https://www.rics-notebook.com/articleimage/Space/AliensShootingLoveBeams.webp']
 ---
 
 ## 🌌 Understanding Recent Widespread Visibility of the Northern Lights

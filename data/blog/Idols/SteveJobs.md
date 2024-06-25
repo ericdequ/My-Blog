@@ -5,7 +5,7 @@ tags: ['Steve Jobs', 'Apple', 'iPhone', 'Spirituality', 'Technology']
 draft: false
 summary: 'Explore the extraordinary life of Steve Jobs, the visionary co-founder of Apple, and discover how his spiritual journey influenced his approach to technology. Learn about his transformative encounter with Be Here Now, his connection to Neem Karoli Baba, and how these experiences shaped his leadership style and the iconic products he created.'
 
-images: ['https://www.rics-notebook.com/articleimage/Idols/SteveJobs.png']
+images: ['https://www.rics-notebook.com/articleimage/Idols/SteveJobs.webp']
 ---
 
 ## Steve Jobs: The Visionary Who Blended Spirituality and Technology 🍎🕉️

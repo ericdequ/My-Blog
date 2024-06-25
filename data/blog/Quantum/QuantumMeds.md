@@ -5,7 +5,7 @@ tags: ['Quantum Computing', 'Drug Discovery', 'Mental Health', 'Pharmacology', '
 draft: false
 summary: Explore how quantum computing is unlocking new frontiers in drug discovery, creating powerful treatments for incurable diseases, and shaping a new class of medications to revolutionize mental health care.
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumMeds.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumMeds.webp']
 ---
 
 # Harnessing Quantum Computing for Next-Generation Drug Discovery 🔬💊

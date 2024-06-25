@@ -5,7 +5,7 @@ tags: ['idols', 'tesla', 'inventors']
 draft: false
 summary: 'Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Teslas inventions, which also included the Tesla coil and the radio, have had a profound impact on the modern world.'
 
-images: ['https://www.rics-notebook.com/articleimage/Idols/Tesla.png']
+images: ['https://www.rics-notebook.com/articleimage/Idols/Tesla.webp']
 ---
 
 ## **Nikola Tesla: A Genius Ahead of His Time 🌟**

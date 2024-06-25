@@ -5,7 +5,7 @@ tags: ['Spirituality', 'Psychology', 'Be Here Now']
 draft: false
 summary: 'Discover the life and teachings of Ram Dass, the influential spiritual teacher who bridged Eastern wisdom and Western psychology. Learn about his transformative journey with psychedelics, his groundbreaking book "Be Here Now," and how he introduced a new understanding of spirituality to the Western world.'
 
-images: ['https://www.rics-notebook.com/articleimage/Idols/RamDass.png']
+images: ['https://www.rics-notebook.com/articleimage/Idols/RamDass.webp']
 ---
 
 ## Ram Dass: Pioneering Spiritual Teacher, Psychedelic Explorer, and Author of "Be Here Now"

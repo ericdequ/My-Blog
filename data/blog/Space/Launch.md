@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'In this blog post, we dive into the critical Launch Phase of orbital package delivery. Learn about the key aspects of payload preparation, launch vehicle selection, trajectory optimization, and the safety protocols that ensure a successful launch.'
 
-images: ['https://www.rics-notebook.com/articleimage/Space/Launch.png']
+images: ['https://www.rics-notebook.com/articleimage/Space/Launch.webp']
 ---
 
 ## 🚀 The Launch Phase: Setting the Stage for Orbital Package Delivery

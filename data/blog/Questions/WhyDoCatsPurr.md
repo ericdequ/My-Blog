@@ -5,7 +5,7 @@ tags: ['Cats', 'Purring', 'Biology', 'Animal Behavior', 'Pet','Questions']
 draft: false
 summary: "Purring is one of the most recognizable sounds cats make, but why do they do it? In this blog post, we explore the various reasons behind why cats purr and the science that explains this comforting behavior."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoCatsPurr.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoCatsPurr.webp']
 ---
 
 # 🐱 The Mystery of Cat Purring: Why Do Cats Purr? 🐱

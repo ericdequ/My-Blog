@@ -5,7 +5,7 @@ tags: ['Book Review', 'Inspiration', life-lessons, 'spiritual-practices', 'the-a
 draft: false
 summary: Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.
 
-images: ['https://www.rics-notebook.com/articleimage/Alchemist.png']
+images: ['https://www.rics-notebook.com/articleimage/Alchemist.webp']
 ---
 
 # The Profound Impact of The Alchemist: A Book That Can Change Your Life 📖✨

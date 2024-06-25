@@ -5,7 +5,7 @@ tags: ['Health', 'Plant Medicines', 'Anxiety', 'Nootropics']
 draft: false
 summary: Plant medicines have been used for centuries to treat a variety of conditions, including anxiety and cognitive impairment. Discover some of the most well-known plant medicines that have been shown to be effective in treating anxiety and improving cognitive function.
 
-images: ['https://www.rics-notebook.com/articleimage/plantmeds.png']
+images: ['https://www.rics-notebook.com/articleimage/plantmeds.webp']
 ---
 
 # Plant Medicines for Anti-Anxiety and Nootropics 🌿🧠

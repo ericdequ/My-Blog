@@ -5,7 +5,7 @@ tags: ['Quantum Computing', 'Microsoft', 'Topological Qubits', 'Quantum Developm
 draft: false
 summary: "Explore Microsoft's unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications."
 
-images: ['https://www.rics-notebook.com/articleimage/Microsoft.png']
+images: ['https://www.rics-notebook.com/articleimage/Microsoft.webp']
 ---
 
 # Microsoft: Developing Topological Qubits and Quantum Development Kit

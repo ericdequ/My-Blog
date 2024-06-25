@@ -5,7 +5,7 @@ tags: ['Social App', 'Nightlife', 'Bar Hopping', 'Technology', 'Community', 'Eve
 draft: false
 summary: 'Discover BarBuzz, the app that transforms your bar-hopping experience. Chat with friends, post updates, and share videos in real-time chat rooms dedicated to your favorite bars. Join the buzz and enhance your nightlife adventures. 🎉'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/BarBuzz.png']
+images: ['https://www.rics-notebook.com/articleimage/inventions/BarBuzz.webp']
 ---
 
 ## 🌟 Introducing BarBuzz: The Ultimate App for Bar Hopping and Socializing

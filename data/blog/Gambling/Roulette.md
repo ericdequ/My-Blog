@@ -5,7 +5,7 @@ tags: ['Roulette', 'Casino Games', 'Gambling']
 draft: false
 summary: Learn how to improve your chances of winning at roulette with various strategies and tips. Understand the odds, betting options, and how to manage your emotions while playing this popular casino game.
 
-images: ['https://www.rics-notebook.com/articleimage/Roulette.png']
+images: ['https://www.rics-notebook.com/articleimage/Roulette.webp']
 ---
 
 # Mastering Roulette: Tips and Strategies for Casino Success 🎲🎰

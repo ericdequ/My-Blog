@@ -5,7 +5,7 @@ tags: ['SOC', 'Cybersecurity', 'Surveillance']
 draft: false
 summary: 'In the ceaseless battle against cyber threats, a Security Operations Center stands as the first line of defense. Explore how SOC operates and why its pivotal in the modern digital age.'
 
-images: ['https://www.rics-notebook.com/articleimage/SOC.png']
+images: ['https://www.rics-notebook.com/articleimage/SOC.webp']
 ---
 
 ## What is SOC?

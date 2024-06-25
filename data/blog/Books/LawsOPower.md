@@ -5,7 +5,7 @@ tags: ['Power', 'Success', 'Mastery', life-lessons]
 draft: false
 summary: 'Learn the principles of power and success with the timeless wisdom of The 48 Laws of Power.'
 
-images: ['https://www.rics-notebook.com/articleimage/LawsOPower.png']
+images: ['https://www.rics-notebook.com/articleimage/LawsOPower.webp']
 ---
 
 ## Introduction

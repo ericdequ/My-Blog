@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Discover how Procore, a leading construction management software company, is transforming the construction industry with its comprehensive suite of tools and cloud-based platform. From project management to financial tracking, Procore streamlines processes, enhances collaboration, and boosts productivity for construction professionals worldwide.'
 
-images: ['https://www.rics-notebook.com/articleimage/ProCore.png']
+images: ['https://www.rics-notebook.com/articleimage/ProCore.webp']
 ---
 
 # 🏗️💻 Procore: Building the Future of Construction Technology 🏗️💻

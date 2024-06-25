@@ -5,7 +5,7 @@ tags: ['Soccer', 'Subculture', 'Diversity', 'Life-Lessons', 'Personal-Growth']
 draft: false
 summary: 'Growing up immersed in the diverse, demanding world of youth soccer in America teaches invaluable lessons about hard work, cultural understanding, and personal growth.'
 
-images: ['https://www.rics-notebook.com/articleimage/sports/jogobonito.png']
+images: ['https://www.rics-notebook.com/articleimage/sports/jogobonito.webp']
 ---
 
 # ⚽ Life Lessons from the Beautiful Game 🌍

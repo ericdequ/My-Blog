@@ -5,7 +5,7 @@ tags: ['Professional', 'Linkedin', 'Tips']
 draft: false
 summary: 'Guide to using Linkedin to find a job and network with other professionals'
 
-images: ['https://www.rics-notebook.com/articleimage/Professional/Linkedin.png']
+images: ['https://www.rics-notebook.com/articleimage/Professional/Linkedin.webp']
 ---
 
 # How to Use LinkedIn to Connect with People and Advance Your Career

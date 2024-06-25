@@ -15,7 +15,7 @@ tags:
 draft: false
 summary: 'Learn how to transform dried mushrooms into a thriving liquid culture using advanced techniques and the potential benefits of NAD+. Discover the step-by-step process and scientific insights behind this innovative approach. 🍄🔬'
 
-images: ['https://www.rics-notebook.com/articleimage/DtL.png']
+images: ['https://www.rics-notebook.com/articleimage/DtL.webp']
 ---
 
 ## 🍄 Transforming Dried Mushrooms into Liquid Culture: A Modern Approach with NAD+

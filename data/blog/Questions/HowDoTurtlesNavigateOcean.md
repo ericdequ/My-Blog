@@ -5,7 +5,7 @@ tags: ['Sea Turtles', 'Navigation', 'Marine Biology', 'Animal Behavior', 'Nature
 draft: false
 summary: "Sea turtles are known for their incredible navigational abilities, crossing vast oceans to return to their nesting sites. In this blog post, we explore how sea turtles navigate using the Earths magnetic field and other cues."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoTurtlesNavigateOcean.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoTurtlesNavigateOcean.webp']
 ---
 
 # 🐢 Navigating the Seas: How Do Sea Turtles Navigate Across the Ocean? 🐢

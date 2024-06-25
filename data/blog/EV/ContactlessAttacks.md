@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Explore the trustworthiness of autonomous vehicles and their sensors through the lens of contactless attacks. Understand the research, methodologies, findings, and potential solutions for enhancing sensor resilience in self-driving cars. 🚗🔒'
 
-images: ['https://www.rics-notebook.com/articleimage/ContactlessAttacks.png']
+images: ['https://www.rics-notebook.com/articleimage/ContactlessAttacks.webp']
 ---
 
 ## 🌟 Can You Trust Autonomous Vehicles: Contactless Attacks Against Sensors of Self-driving Vehicles

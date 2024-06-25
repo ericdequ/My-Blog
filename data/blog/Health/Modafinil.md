@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover the potential benefits and risks of modafinil, a popular smart drug used for cognitive enhancement. From improving focus and productivity to promoting wakefulness, modafinil has gained attention as a performance-enhancing substance. 🧠💡'
 
-images: ['https://www.rics-notebook.com/articleimage/Modafinil.png']
+images: ['https://www.rics-notebook.com/articleimage/Modafinil.webp']
 ---
 
 ## 🌟 Modafinil: The Smart Drug for Enhanced Cognitive Performance

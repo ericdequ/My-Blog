@@ -5,7 +5,7 @@ tags: ['Personal', 'RoadMap']
 draft: false
 summary: 'My guide to becoming a software developer'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/Software_dev.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/Software_dev.webp']
 ---
 
 # Becoming a Software Engineer: The Challenges and How to Overcome Them

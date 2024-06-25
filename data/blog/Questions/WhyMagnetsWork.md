@@ -5,7 +5,7 @@ tags: ['Magnets', 'Magnetism', 'Magnetic Fields', 'Domains', 'Electromagnetism',
 draft: false
 summary: "Magnets have captivated humans for centuries, inspiring a sense of wonder and curiosity about the invisible forces that shape our world. From the simple fridge magnets that hold our favorite photos to the powerful electromagnets used in modern technology, the magic of magnets is all around us. In this blog post, we explore the fascinating science behind how magnets work, delve into the mysteries of magnetic attraction, and compare magnetic force to gravity."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyMagnetsWork.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyMagnetsWork.webp']
 ---
 
 # 🧲 Stuck on You: The Mesmerizing World of Magnets 🧲

@@ -15,7 +15,7 @@ tags:
 draft: false
 summary: 'Investigate the emerging trend of microdosing ayahuasca and its potential benefits. Learn about the research on using ayahuasca without MAOI inhibitors to harness the effects of DMT without hallucinations. 🌿💊🧠'
 
-images: ['https://www.rics-notebook.com/articleimage/MicrodosingAyahuasca.png']
+images: ['https://www.rics-notebook.com/articleimage/MicrodosingAyahuasca.webp']
 ---
 
 ## 🌿 Microdosing Ayahuasca: Exploring the Benefits Without Hallucinations

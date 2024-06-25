@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Ready to dive into the fascinating world of quantum computing? Check out these top-notch learning resources, from introductory courses to advanced programming tutorials. Start your quantum journey today! 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/QuantumResources.png']
+images: ['https://www.rics-notebook.com/articleimage/QuantumResources.webp']
 ---
 
 ## 🌟 Discover the Best Quantum Computing Learning Resources

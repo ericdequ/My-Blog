@@ -5,7 +5,7 @@ tags: ['Internet', 'Cybersecurity', 'Quantum', 'devops', 'digitaltransformation'
 draft: false
 summary: 'Discover how quantum networks are set to revolutionize modern communication, offering unparalleled security and efficiency. Learn about the basics of quantum communication and explore the potential applications and advantages of this cutting-edge technology.'
 
-images: ['https://www.rics-notebook.com/articleimage/Networking_priciples/QuantumNetworks.png']
+images: ['https://www.rics-notebook.com/articleimage/Networking_priciples/QuantumNetworks.webp']
 ---
 
 # Quantum Networks: The Future of Secure and Efficient Communication 🌐🔐

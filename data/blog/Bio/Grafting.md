@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: 'Discover the technical science behind grafting plants and learn how to graft plants successfully with this comprehensive step-by-step guide. 🌱🔬✂️'
 
-images: ['https://www.rics-notebook.com/articleimage/Grafting.png']
+images: ['https://www.rics-notebook.com/articleimage/Grafting.webp']
 ---
 
 ## 🌱 The Science and Art of Grafting Plants

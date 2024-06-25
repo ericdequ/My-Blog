@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻'
 
-images: ['https://www.rics-notebook.com/articleimage/QuadraticSieve.png']
+images: ['https://www.rics-notebook.com/articleimage/QuadraticSieve.webp']
 ---
 
 ## 🔍 The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm

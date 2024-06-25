@@ -5,7 +5,7 @@ tags: ['Government', Sales', 'Trust', 'Contracting', 'government-sales', 'govern
 draft: false
 summary: 'In the government contracting world, your track record speaks volumes. Understand why past performance is crucial and how to leverage it effectively in securing government contracts.'
 
-images: ['https://www.rics-notebook.com/articleimage/Trust.png']
+images: ['https://www.rics-notebook.com/articleimage/Trust.webp']
 ---
 
 ## Why Past Performance Matters 🎖️🏛️

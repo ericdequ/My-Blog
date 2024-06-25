@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: 'Discover how smart homes and neighborhoods can seamlessly integrate with nature to create sustainable, connected communities. From green architecture and energy-efficient technologies to urban gardens and wildlife habitats, explore the exciting possibilities of harmonizing technology and ecology in our living spaces.'
 
-images: ['https://www.rics-notebook.com/articleimage/SmartHouses.png']
+images: ['https://www.rics-notebook.com/articleimage/SmartHouses.webp']
 ---
 
 As our cities and communities evolve, there is a growing recognition of the need to harmonize our living spaces with the natural world around us. By designing and building smart homes and neighborhoods that seamlessly integrate with nature, we can create sustainable, connected communities that promote both technological innovation and ecological well-being.

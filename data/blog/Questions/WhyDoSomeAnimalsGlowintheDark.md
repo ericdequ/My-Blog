@@ -5,7 +5,7 @@ tags: ['Bioluminescence', 'Animals', 'Glow', 'Nature', 'Biology','Questions']
 draft: false
 summary: "Have you ever wondered why some animals glow in the dark? In this blog post, we delve into the fascinating phenomenon of bioluminescence and explore the reasons behind this natural light show."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoSomeAnimalsGlowintheDark.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoSomeAnimalsGlowintheDark.webp']
 ---
 
 # 🌟 Glowing Wonders: Why Do Some Animals Glow in the Dark? 🌟

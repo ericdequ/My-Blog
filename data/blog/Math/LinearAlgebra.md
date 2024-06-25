@@ -6,7 +6,7 @@ draft: false
 summary: Linear algebra is a branch of mathematics that deals with linear equations,
   matrices, and vector spaces.
 
-images: ['https://www.rics-notebook.com/articleimage/Math/LinearAlgebra.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/LinearAlgebra.webp']
 ---
 
 ## **Introduction**

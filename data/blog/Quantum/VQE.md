@@ -13,7 +13,7 @@ tags:
 draft: true
 summary: 'Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/VQE.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/VQE.webp']
 ---
 
 ## 🌌 Introduction to Variational Quantum Eigensolver (VQE)

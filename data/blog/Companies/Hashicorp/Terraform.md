@@ -5,7 +5,7 @@ tags: ['Terraform', 'Infrastructure as Code', 'Automation', 'devops']
 draft: false
 summary: 'Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.'
 
-images: ['https://www.rics-notebook.com/articleimage/Terraform.png']
+images: ['https://www.rics-notebook.com/articleimage/Terraform.webp']
 ---
 
 ## What is Terraform? 🌍⚙️

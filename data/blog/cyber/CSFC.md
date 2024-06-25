@@ -5,7 +5,7 @@ tags: ['CSfC', 'Security', 'Classified Data']
 draft: false
 summary: '🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/CSFC.png']
+images: ['https://www.rics-notebook.com/articleimage/CSFC.webp']
 ---
 
 # 💡 What is CSfC and why is it important? 💡

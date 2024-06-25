@@ -5,7 +5,7 @@ tags: ['Red Hat Virtualization', 'Infrastructure', 'Public Sector', 'Private Sec
 draft: false
 summary: 'In an age where infrastructure flexibility is paramount, Red Hat Virtualization emerges as a key enabler. Dive into how this solution is reshaping the infrastructural landscapes of both public and private sectors.'
 
-images: ['https://www.rics-notebook.com/articleimage/RHVirtualization.png']
+images: ['https://www.rics-notebook.com/articleimage/RHVirtualization.webp']
 ---
 
 ## What is Red Hat Virtualization? 🌐🌌

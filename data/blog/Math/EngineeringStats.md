@@ -8,7 +8,7 @@ summary: Engineering statistics is the application of statistical methods to
   variety of problems in engineering, including quality control, design of
   experiments, reliability engineering, risk analysis, and data mining.
 
-images: ['https://www.rics-notebook.com/articleimage/Math/EngineeringStats.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/EngineeringStats.webp']
 ---
 
 = **Introduction**

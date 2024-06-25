@@ -6,7 +6,7 @@ tags: ['Music Lessons', 'Education', 'Review', 'Trombone']
 draft: false
 summary: 'A review of Zachary Bethels music lessons, highlighting his exceptional teaching skills and comprehensive approach to brass education.'
 
-images: ['https://www.rics-notebook.com/articleimage/Reviews/ZachB.png']
+images: ['https://www.rics-notebook.com/articleimage/Reviews/ZachB.webp']
 ---
 
 ## 🎵 Zachary Bethel: Exceptional Music Lessons for Brass Instruments

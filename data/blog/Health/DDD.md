@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: Explore the potential of open source pharma discovery platforms in democratizing drug discovery and empowering people. Learn how decentralizing the pharmaceutical industry, inspired by the success of AI communities like Hugging Face, can lead to more accessible and affordable medicines while still benefiting all stakeholders.
 
-images: ['https://www.rics-notebook.com/articleimage/DDD.png']
+images: ['https://www.rics-notebook.com/articleimage/DDD.webp']
 ---
 
 # Democratizing Drug Discovery: The Case for Open Source Pharma Platforms 💊🌍

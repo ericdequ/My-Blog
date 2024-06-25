@@ -5,7 +5,7 @@ tags: ['Quantum', 'Companies']
 draft: false
 summary: 'Exploring the companies at the forefront of quantum technological advancements and their vision for the quantum future!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumCompanies.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumCompanies.webp']
 ---
 
 🏢 The quantum revolution isn't just driven by academic research and individual enthusiasts; companies worldwide are playing a pivotal role in advancing quantum technologies. From startups to tech giants, the corporate world is heavily investing in quantum research and development.

@@ -5,7 +5,7 @@ tags: ['3D Printing', 'Construction Innovation', 'Sustainable Development', 'Fut
 draft: false
 summary: '3D printing technology is transforming the construction industry by reducing costs and construction time, while also exploring new materials for a sustainable future. This blog post delves into how 3D construction printing can shape the future of building development.'
 
-images: ['https://www.rics-notebook.com/articleimage/PrintingHouses.png']
+images: ['https://www.rics-notebook.com/articleimage/PrintingHouses.webp']
 ---
 
 # 🏗️ The Rise of 3D Construction Printing: A Game Changer 🏗️

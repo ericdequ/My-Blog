@@ -7,7 +7,7 @@ summary: Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers ad
   topics in multivariable calculus, including vector calculus, line integrals,
   surface integrals, and volumes of revolution.
 
-images: ['https://www.rics-notebook.com/articleimage/Math/Calc3.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/Calc3.webp']
 ---
 
 - **Introduction**

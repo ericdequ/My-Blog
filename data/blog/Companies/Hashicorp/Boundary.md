@@ -5,7 +5,7 @@ tags: ['Boundary', 'Zero Trust', 'Access Management', 'devops']
 draft: false
 summary: 'The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.'
 
-images: ['https://www.rics-notebook.com/articleimage/Boundary.png']
+images: ['https://www.rics-notebook.com/articleimage/Boundary.webp']
 ---
 
 ## What is Boundary? 🛡️🔗

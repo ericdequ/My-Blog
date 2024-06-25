@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.'
 
-images: ['https://www.rics-notebook.com/articleimage/IonQ.png']
+images: ['https://www.rics-notebook.com/articleimage/IonQ.webp']
 ---
 
 # IonQ: Pioneering Trapped Ion Quantum Computing

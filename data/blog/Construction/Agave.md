@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.'
 
-images: ['https://www.rics-notebook.com/articleimage/Agave.png']
+images: ['https://www.rics-notebook.com/articleimage/Agave.webp']
 ---
 
 # 🌉 Agave: Bridging the Gap in Construction Data Integration 🌉

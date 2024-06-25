@@ -5,7 +5,7 @@ tags: ['Quantum Theory', 'Relativity', 'Time', 'Reality', 'Entanglement', 'Perce
 draft: false
 summary: 'Dive into the fascinating world of quantum theory and relativity as we explore how our perception of time shapes our reality. Discover the mind-bending concepts of entanglement and the need for new vocabulary to distinguish between the dimension of time and our societal construct of time.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/QuantumRelativity.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/QuantumRelativity.webp']
 ---
 
 ## 🌌 The Quantum Dance of Reality

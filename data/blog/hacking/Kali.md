@@ -5,7 +5,7 @@ tags: ['KaliLinux', 'Security', 'PenetrationTesting']
 draft: false
 summary: 'This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/Kali.png']
+images: ['https://www.rics-notebook.com/articleimage/Kali.webp']
 ---
 
 ## What is Kali Linux? 🐉
@@ -57,7 +57,7 @@ Kali Linux comes with a vast array of tools for various security tasks. Here's a
 | John the Ripper      | Password cracking tool that supports hundreds of hash and cipher types. Useful for cracking password databases and archives.                                           |
 | Metasploit Framework | Powerful exploit development and execution framework. Provides a large database of vetted exploits and payloads for various platforms.                                 |
 | Nmap                 | Network discovery and security auditing tool. Useful for scanning networks, ports, services, operating systems and more. Extensible with scripts.                      |
-| Ntopng               | High-speed web-based traffic analysis and flow collection tool. Useful for network monitoring and detecting anomalies.                                                 |
+| Ntowebp               | High-speed web-based traffic analysis and flow collection tool. Useful for network monitoring and detecting anomalies.                                                 |
 | Owasp Zap            | Integrated penetration testing tool for finding vulnerabilities in web applications. Intercepting proxy allows inspection and modification of traffic.                 |
 | Responder            | LLMNR, NBT-NS and MDNS poisoner. Useful for capturing NTLMv1/v2 hashes on a network without needing to modify victim host file.                                        |
 | Sqlmap               | Automatic SQL injection tool. Detects and exploits SQL injection flaws to take over database servers.                                                                  |

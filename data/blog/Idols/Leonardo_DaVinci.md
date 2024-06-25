@@ -5,7 +5,7 @@ tags: ['renaissance', 'da Vinci', 'genius']
 draft: false
 summary: 'Leonardo da Vinci was an Italian polymath whose interests spanned various fields including art, science, engineering, anatomy, and more. Known for masterpieces like Mona Lisa and The Last Supper, da Vinci also made significant contributions to various scientific and technological fields through his detailed journals and sketches.'
 
-images: ['https://www.rics-notebook.com/articleimage/Idols/Leonardo_DaVinci.png']
+images: ['https://www.rics-notebook.com/articleimage/Idols/Leonardo_DaVinci.webp']
 ---
 
 ## **Leonardo da Vinci: A Renaissance Genius 🌟**

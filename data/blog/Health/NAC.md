@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover the remarkable benefits of NAC, a potent antioxidant that supports optimal health and well-being. From promoting respiratory health to supporting mental well-being and detoxification, NAC is a versatile supplement that can help you thrive. 💪'
 
-images: ['https://www.rics-notebook.com/articleimage/NAC.png']
+images: ['https://www.rics-notebook.com/articleimage/NAC.webp']
 ---
 
 ## 🌟 NAC: The Powerful Antioxidant for Optimal Health and Well-being

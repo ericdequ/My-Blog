@@ -5,7 +5,7 @@ tags: ['Calculus', 'Mathematics', 'Education']
 draft: false
 summary: Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.
 
-images: ['https://www.rics-notebook.com/articleimage/Math/Calc1.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/Calc1.webp']
 ---
 
 - **Introduction**

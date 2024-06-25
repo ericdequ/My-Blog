@@ -5,7 +5,7 @@ tags: ['Irrigation', 'Lighting', 'Florida Sprinkler & Light', 'Review', 'Luxury 
 draft: false
 summary: 'A comprehensive review of Florida Sprinkler & Light, highlighting their premium irrigation and outdoor lighting services in Central Florida.'
 
-images: ['https://www.rics-notebook.com/articleimage/Reviews/FloridaSprinklerLight.png']
+images: ['https://www.rics-notebook.com/articleimage/Reviews/FloridaSprinklerLight.webp', 'https://www.floridasprinklerlight.com/FSL_logo.jpg']
 ---
 
 ## 🌟 Florida Sprinkler & Light: Luxury in Every Detail

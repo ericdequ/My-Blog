@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Embark on a fascinating journey through the realms of relativity and thermodynamics as we explore how time bends at the speed of light and how temperature influences the perception of time for particles. Discover the mind-bending concepts behind time dilation and the intricate dance of molecules that defines temperature.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/TheWarpingOftime.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/TheWarpingOftime.webp']
 ---
 
 ## ⏰ The Elasticity of Time: A Relativistic Perspective

@@ -5,7 +5,7 @@ tags:  ['Quantum Physics', 'Law', 'Logic', 'Love', 'Mysteries', 'Probability']
 draft: false
 summary: Explore the fascinating world of quantum physics through the lens of the 3 Ls - Law, Logic, and Love. Discover how these concepts intertwine to unravel the mysteries of the universe, from guessing playing cards to understanding the intricate dance of particles at the subatomic level.
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/LLL.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/LLL.webp']
 ---
 
 # The 3 L's of Quantum Physics: Law, Logic, and Love 🌌❤️

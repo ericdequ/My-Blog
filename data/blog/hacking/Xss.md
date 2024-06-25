@@ -8,7 +8,7 @@ summary: 'Cross-site scripting (XSS) is a type of security vulnerability that al
   types of XSS attacks, best practices for preventing XSS attacks, and
   additional tips for protecting your website from XSS attacks.'
 
-images: ['https://www.rics-notebook.com/articleimage/Xss.png']
+images: ['https://www.rics-notebook.com/articleimage/Xss.webp']
 ---
 
 ## What are XSS Attacks?

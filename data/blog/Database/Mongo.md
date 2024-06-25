@@ -5,7 +5,7 @@ tags: ['Database', 'Mongo', 'No-SQL', 'devops']
 draft: false
 summary: 'How to Work with and Setup a MongoDB Database 🗄️💾'
 
-images: ['https://www.rics-notebook.com/articleimage/Mongo.png']
+images: ['https://www.rics-notebook.com/articleimage/Mongo.webp']
 ---
 
 # How to Work with and Setup a MongoDB Database 🗄️💾

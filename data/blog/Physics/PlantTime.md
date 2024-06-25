@@ -5,7 +5,7 @@ tags: ['Time', 'Relativity', 'Physics', 'Biology', 'Perception']
 draft: false
 summary: 'Explore the fascinating world of relative time and how size and speed affect the temporal experience of organisms and objects. From the rapid growth of bacteria in warm environments to the mind-bending implications of Einsteins theory of relativity, discover how time is not a universal constant but a relative experience that varies across scales and velocities.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/PlantTime.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/PlantTime.webp']
 ---
 
 ## 🌍 The Relativity of Time: A Journey Through Scales and Speeds

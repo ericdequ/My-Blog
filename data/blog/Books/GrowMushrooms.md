@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Explore The Psilocybin Mushroom Bible by Dr. K Mandrake PhD and Virginia Haze, a definitive guide to growing and using magic mushrooms. Discover the detailed methods and techniques outlined in this comprehensive book. 🌱'
 
-images: ['https://www.rics-notebook.com/articleimage/GrowMushrooms.png']
+images: ['https://www.rics-notebook.com/articleimage/GrowMushrooms.webp']
 ---
 
 ## 🌟 The Psilocybin Mushroom Bible: A Comprehensive Guide to Growing and Using Magic Mushrooms

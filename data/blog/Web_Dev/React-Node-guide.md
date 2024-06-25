@@ -5,7 +5,7 @@ tags: ['React', 'Node', 'Front-End', 'education', 'devops']
 draft: false
 summary: Example and explanation of react and node JS
 
-images: ['https://www.rics-notebook.com/articleimage/Web_Dev/React-Node-guide.png']
+images: ['https://www.rics-notebook.com/articleimage/Web_Dev/React-Node-guide.webp']
 ---
 
 💨 Introduction

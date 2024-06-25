@@ -5,7 +5,7 @@ tags: ['Quantum', 'Science', 'Rebel', 'digitaltransformation']
 draft: false
 summary: 'Why it is important to challenge facts'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/RethinkingQuantum.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/RethinkingQuantum.webp']
 ---
 
 **Reflections on Perception and Reality**

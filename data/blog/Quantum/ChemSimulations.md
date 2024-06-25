@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'Explore how quantum simulation can address complex chemistry problems, such as nitrogen fixation, and the potential impact on industrial processes and our understanding of biological mechanisms.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/ChemSimulations.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/ChemSimulations.webp']
 ---
 
 ## 🌌 Introduction: The Challenge of Quantum Simulation in Chemistry

@@ -5,7 +5,7 @@ tags: ['Quantum', 'Cybersecurity', 'Homeland Security', 'Startup']
 draft: false
 summary: 'A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumAndCybersecurity.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumAndCybersecurity.webp']
 ---
 
 🛡️ As we stand at the cusp of what's arguably the most significant technological revolution of our times, the quantum realm beckons with both its promises and perils. While it's easy to get lost in the marvels of quantum computation, teleportation, and entanglement, there's a shadow that looms large - the potential disruption of our digital security frameworks.

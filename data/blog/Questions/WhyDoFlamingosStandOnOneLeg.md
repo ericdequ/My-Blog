@@ -5,7 +5,7 @@ tags: ['Flamingos', 'Behavior', 'Biology', 'Birds', 'Nature','Questions']
 draft: false
 summary: "Flamingos are famous for their iconic one-legged stance. In this blog post, we explore the reasons behind this peculiar behavior and how it benefits these beautiful birds."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoFlamingosStandOnOneLeg.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoFlamingosStandOnOneLeg.webp']
 ---
 
 # 🦩 The Flamingo Stance: Why Do Flamingos Stand on One Leg? 🦩

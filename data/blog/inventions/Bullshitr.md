@@ -5,7 +5,7 @@ tags: ['AI', 'Home Improvement', 'Contractors', 'Customer Service']
 draft: false
 summary: 'Bullshitr is an innovative app designed to record and analyze conversations between mechanics or contractors and their customers. It ensures transparency, validity, and competitiveness in quotes, making the home improvement process more trustworthy and efficient.'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/Bullshitr.png']
+images: ['https://www.rics-notebook.com/articleimage/inventions/Bullshitr.webp']
 ---
 
 # 🛠️ Bullshitr: Bringing Transparency to Home Improvement 🛠️

@@ -5,7 +5,7 @@ tags: ['Nature', 'Holistic Medicine', 'Mobile App', 'AI', 'Plant Identification'
 draft: false
 summary: In a world increasingly disconnected from nature, a mobile app that combines plant identification and AI-driven holistic medicine suggestions could help people reconnect with the natural world and discover the healing potential of plants around them.
 
-images: ['https://www.rics-notebook.com/articleimage/PlantApp.png']
+images: ['https://www.rics-notebook.com/articleimage/PlantApp.webp']
 ---
 
 # Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺

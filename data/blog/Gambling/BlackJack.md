@@ -5,7 +5,7 @@ tags: ['Blackjack', 'Casino', 'Strategy']
 draft: false
 summary: Learn how to improve your chances of winning at blackjack by playing by the book, understanding specific cases, and using a running count. Discover how these strategies can give you an edge over the casino and make the game more enjoyable.
 
-images: ['https://www.rics-notebook.com/articleimage/BlackJack.png']
+images: ['https://www.rics-notebook.com/articleimage/BlackJack.webp']
 ---
 
 # Winning Strategies for Blackjack 🃏♠️♥️♦️♣️

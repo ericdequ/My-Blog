@@ -5,7 +5,7 @@ tags: ['Esoteric', 'Consciousness', 'Meditation', 'Alchemy', life-lessons, 'spir
 draft: false
 summary: 'Understanding consciousness, energy, and the practices that can lead to an elevated state of being.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/Consciousness.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/Consciousness.webp']
 ---
 
 # 🌌 Transcend & Receive Energy: The Esoteric Path

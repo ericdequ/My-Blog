@@ -5,7 +5,7 @@ tags: ['Vault', 'Secret Management', 'Security', 'devops']
 draft: false
 summary: 'In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.'
 
-images: ['https://www.rics-notebook.com/articleimage/Vault.png']
+images: ['https://www.rics-notebook.com/articleimage/Vault.webp']
 ---
 
 ## What is Vault? 🛡️🔐

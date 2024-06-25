@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Robot Ric',
     description: 'My Book Series about a robot who learns about the world and humanity',
     url: 'https://robotric.org/',
-    imgSrc: 'https://robotric.org/river/INSTA.png',
+    imgSrc: 'https://robotric.org/river/INSTA.webp',
   },
   {
     title: 'Quantum Cyber Solutions',
@@ -60,13 +60,13 @@ const projectsData = [
     title: 'Dione',
     description: 'A WebApp used to display betting odds from a variety of sportsbooks',
     url: 'https://dione-murex.vercel.app/',
-    imgSrc: 'https://dione-murex.vercel.app/rouleye.png',
+    imgSrc: 'https://dione-murex.vercel.app/rouleye.webp',
   },
   {
     title: 'Introspective',
     description: 'A website I built to get anonymous feedback from friends, family and peers',
     url: 'https://introspective.vercel.app/',
-    imgSrc: 'https://introspective.vercel.app/logo.png',
+    imgSrc: 'https://introspective.vercel.app/logo.webp',
   },
   {
     title: 'Pod Hub',

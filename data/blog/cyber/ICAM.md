@@ -5,7 +5,7 @@ tags: ['ICAM', 'Identity Management', 'Cybersecurity']
 draft: false
 summary: 'In the digital age, managing identity is both a security necessity and an efficiency driver. Dive into the world of ICAM and discover how it seamlessly blends top-tier security with streamlined access.'
 
-images: ['https://www.rics-notebook.com/articleimage/ICAM.png']
+images: ['https://www.rics-notebook.com/articleimage/ICAM.webp']
 ---
 
 ## What is ICAM?

@@ -5,7 +5,7 @@ tags: ['GitHub', 'code', 'Collaboration', 'education']
 draft: false
 summary: example and tutorial how to setup and use GitHub
 
-images: ['https://www.rics-notebook.com/articleimage/Setup/GitHub.png']
+images: ['https://www.rics-notebook.com/articleimage/Setup/GitHub.webp']
 ---
 
 ## 🐈‍⬛ How to Use GitHub

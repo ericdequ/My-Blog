@@ -5,7 +5,7 @@ tags: ['Quantum', 'Networking']
 draft: false
 summary: 'Embarking on a journey through Quantum Networking, the future of secure and efficient communication!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumNetworking.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumNetworking.webp']
 ---
 
 🌍 Quantum Networking, a domain at the intersection of quantum mechanics and classical networking, promises to revolutionize how we communicate, share, and store information. This field aims to leverage the peculiarities of quantum mechanics to establish ultra-secure and efficient communication networks.

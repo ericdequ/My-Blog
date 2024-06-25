@@ -5,7 +5,7 @@ tags: ['Trains', 'Transportation', 'Engineering', 'Friction', 'Traction','Questi
 draft: false
 summary: 'Have you ever wondered how trains manage to climb steep hills without slipping or stalling? In this blog post, we explore the fascinating engineering principles and techniques that allow trains to conquer even the most challenging uphill battles.'
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowTrainsGoUphill.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowTrainsGoUphill.webp']
 ---
 
 # 🚂 Choo-Choo-Choosing to Climb: The Uphill Journey of Trains 🚂

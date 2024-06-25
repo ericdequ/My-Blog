@@ -5,7 +5,7 @@ tags: ['Quantum', 'Cybersecurity', 'Checklist']
 draft: false
 summary: 'Navigating the essentials of cybersecurity in a quantum world and preparing for the quantum transition!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumCybersecurityChecklist.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumCybersecurityChecklist.webp']
 ---
 
 🔒 In a world rapidly transitioning to quantum technologies, cybersecurity needs a quantum leap too. Quantum computers, with their unparalleled computational prowess, could potentially break many of the cryptographic systems in place today. So, how do we prepare?

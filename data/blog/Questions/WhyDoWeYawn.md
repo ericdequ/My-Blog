@@ -5,7 +5,7 @@ tags: ['Yawning', 'Biology', 'Human Body', 'Psychology', 'Behavior','Questions']
 draft: false
 summary: "Yawning is a common yet mysterious behavior that we all experience. In this blog post, we explore the various theories behind why we yawn and the possible functions this seemingly simple act serves."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeYawn.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeYawn.webp']
 ---
 
 # 😴 The Mystery of Yawning: Why Do We Yawn? 😴

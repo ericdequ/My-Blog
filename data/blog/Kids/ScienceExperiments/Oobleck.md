@@ -5,7 +5,7 @@ tags: ['Oobleck', 'Non-Newtonian Fluids', 'Science Experiments', 'Kids Science',
 draft: false
 summary: "Discover the fascinating world of non-Newtonian fluids with Oobleck! This blog post explains the science behind Oobleck and provides detailed steps for conducting this fun experiment with kids, either one-on-one or in a classroom setting."
 
-images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/Oobleck.png']
+images: ['https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/Oobleck.webp']
 ---
 
 # 🥳 Fun with Science: Exploring Non-Newtonian Fluids with Oobleck 🥳

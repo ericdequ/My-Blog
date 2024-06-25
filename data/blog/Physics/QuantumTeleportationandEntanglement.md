@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how quantum information is transferred between qubits, the crucial role of Bell states, and the profound implications for quantum communication and computing.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.webp']
 ---
 
 ## 🌌 Introduction: Quantum Teleportation and Entanglement

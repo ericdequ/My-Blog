@@ -5,7 +5,7 @@ tags: ['Drones', 'LiDAR', 'Construction Technology', 'Future of Building']
 draft: false
 summary: 'Drones and LiDAR technology are setting new standards in the construction industry, enhancing precision, efficiency, and safety. This blog explores how these technologies are revolutionizing site surveying, monitoring, and overall project management.'
 
-images: ['https://www.rics-notebook.com/articleimage/Lidar.png']
+images: ['https://www.rics-notebook.com/articleimage/Lidar.webp']
 ---
 
 # 🚁 Revolutionizing Construction with Drones and LiDAR 🚁

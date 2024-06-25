@@ -5,7 +5,7 @@ tags: ['GPT', 'AI', 'API']
 draft: false
 summary: example and tutorial how to setup vscode
 
-images: ['https://www.rics-notebook.com/articleimage/GPT-API.png']
+images: ['https://www.rics-notebook.com/articleimage/GPT-API.webp']
 ---
 
 # Working with OpenAI API 🚀🤖

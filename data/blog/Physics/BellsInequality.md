@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Explore the profound implications of Bells Inequality in quantum mechanics. Understand the experimental tests, the concept of local realism, and how these principles challenge our understanding of the nature of reality.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/BellsInequality.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/BellsInequality.webp']
 ---
 
 ## 🌌 Introduction: Understanding Bell's Inequality

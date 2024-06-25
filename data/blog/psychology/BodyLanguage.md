@@ -5,7 +5,7 @@ tags: ['Psychology', 'Communication', 'BodyLanguage']
 draft: false
 summary: 'Learn how to read people and understand body language with these tips and tricks. Improve your communication skills, build stronger relationships, and become a more successful negotiator. 💬💪'
 
-images: ['https://www.rics-notebook.com/articleimage/psychology/BodyLanguage.png']
+images: ['https://www.rics-notebook.com/articleimage/psychology/BodyLanguage.webp']
 ---
 
 # How to Read People and Understand Body Language 💬💪

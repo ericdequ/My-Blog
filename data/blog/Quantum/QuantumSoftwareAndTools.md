@@ -6,7 +6,7 @@ draft: false
 summary: 'Exploring the software and tools ecosystem thats driving quantum technological 
 advancements!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumSoftwareAndTools.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumSoftwareAndTools.webp']
 ---
 
 💻 As quantum hardware advances, so does the ecosystem of software and tools that drive these machines. Quantum software and tools enable researchers, developers, and enthusiasts to design, simulate, and execute quantum algorithms.

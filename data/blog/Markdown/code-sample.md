@@ -5,7 +5,7 @@ tags: ['markdown', 'code', 'features', 'education']
 draft: false
 summary: Example of a markdown file with code blocks and syntax highlighting
 
-images: ['https://www.rics-notebook.com/articleimage/Markdown/code-sample.png']
+images: ['https://www.rics-notebook.com/articleimage/Markdown/code-sample.webp', 'https://via.placeholder.com/150']
 ---
 
 A sample post with markdown.

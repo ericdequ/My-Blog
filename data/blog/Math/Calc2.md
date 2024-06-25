@@ -6,7 +6,7 @@ draft: false
 summary: Calculus 2 covers advanced topics in differentiation and integration,
   including Taylor series, sequences and series, and multivariable calculus.
 
-images: ['https://www.rics-notebook.com/articleimage/Math/Calc2.png']
+images: ['https://www.rics-notebook.com/articleimage/Math/Calc2.webp']
 ---
 
 ## Introduction

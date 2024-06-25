@@ -5,7 +5,7 @@ tags: ['Dreams', 'Sleep', 'Subconscious', 'REM Sleep', 'Psychology','Questions']
 draft: false
 summary: "Why do we dream? Its a question that has puzzled humans for centuries, inspiring countless theories and sparking the imagination of people across the globe. In this blog post, we delve into the captivating world of dreams and explore the scientific theories behind these enigmatic nocturnal adventures."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeDream.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeDream.webp']
 ---
 
 # 💤 The Enigma of Dreams: A Journey into the Sleeping Mind 💤

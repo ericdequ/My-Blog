@@ -6,7 +6,7 @@ tags:
 draft: false
 summary: 'Embark on a journey into the heart of the ayahuasca experience, where ancient shamanic wisdom intertwines with modern scientific understanding. Explore the spiritual significance of this sacred brew and uncover the pharmacological mechanisms that make it a potent tool for inner exploration and healing. 🌈'
 
-images: ['https://www.rics-notebook.com/articleimage/Ayahuasca.png']
+images: ['https://www.rics-notebook.com/articleimage/Ayahuasca.webp']
 ---
 
 ## 🌟 Ayahuasca: Exploring the Spiritual Realm and the Science of MAOIs

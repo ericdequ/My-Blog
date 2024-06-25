@@ -5,7 +5,7 @@ tags: ['Wi-Fi', 'Wireless Technology', 'Radio Waves', 'Internet', 'Communication
 draft: false
 summary: "Wi-Fi has revolutionized the way we connect, work, and entertain ourselves, offering a seamless and convenient way to access the internet without the constraints of wires or cables. But have you ever wondered how this invisible technology actually works? In this blog post, we unravel the science behind Wi-Fi and explore the fascinating world of wireless communication."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowWifiWorks.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowWifiWorks.webp']
 ---
 
 # 📶 Surfing the Invisible Waves: The Magic of Wi-Fi 📶

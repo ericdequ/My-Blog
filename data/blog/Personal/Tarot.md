@@ -5,7 +5,7 @@ tags: ['Divination', 'Tarot', 'Spirituality', 'spiritual-practices']
 draft: false
 summary: 'Discover the fascinating world of Tarot, an ancient divination practice that offers insights into your past, present, and future.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/Tarot.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/Tarot.webp']
 ---
 
 ## Tarot: Unveiling the Mysteries of the Cards 🃏✨

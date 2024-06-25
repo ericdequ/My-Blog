@@ -5,7 +5,7 @@ tags: ['Serverless', 'Google Cloud', 'Cloud Computing', 'education', 'devops']
 draft: false
 summary: 'Insightful exploration of deploying a serverless application on Google Cloud, emphasizing cost efficiency and technical scalability.'
 
-images: ['https://www.rics-notebook.com/articleimage/Web_Dev/GoogleAppPatt.png']
+images: ['https://www.rics-notebook.com/articleimage/Web_Dev/GoogleAppPatt.webp']
 ---
 
 # Building a Serverless Application on Google Cloud

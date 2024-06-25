@@ -5,7 +5,7 @@ tags: ['DDoS', 'Cybersecurity']
 draft: false
 summary: 'Distributed denial-of-service (DDoS) attacks are becoming increasingly common and can result in significant damage to businesses and organizations. Learn about the causes of DDoS attacks, how to prevent them, and tips for protecting your website or server from this devastating cyber attack.'
 
-images: ['https://www.rics-notebook.com/articleimage/DDos.png']
+images: ['https://www.rics-notebook.com/articleimage/DDos.webp']
 ---
 
 ## What is a DDoS Attack?

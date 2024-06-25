@@ -5,7 +5,7 @@ tags: ['Smoke Detectors', 'Safety', 'Technology', 'Fire Prevention', 'Home','Que
 draft: false
 summary: "Smoke detectors are crucial for home safety, alerting us to potential fires. In this blog post, we explore the technology behind smoke detectors and how they sense smoke to keep us safe."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoSmokeDetectorsWork.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoSmokeDetectorsWork.webp']
 ---
 
 # 🔥 The Silent Guardians: How Do Smoke Detectors Sense Smoke? 🔥

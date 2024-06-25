@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Two opposing sides debate the merits and drawbacks of covert and overt policing, ultimately finding a compromise in a community-oriented model that focuses on crime prevention and building trust.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/UndercoverCops.png']
+images: ['https://www.rics-notebook.com/articleimage/Personal/UndercoverCops.webp']
 ---
 
 ## 🗣️ The Great Policing Debate: Finding Common Ground

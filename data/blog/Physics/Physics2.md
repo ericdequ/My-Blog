@@ -5,7 +5,7 @@ tags: ['physics', 'college', 'physics']
 draft: false
 summary: 'College Physics 2 is a continuation of College Physics 1. It covers more advanced topics in mechanics, thermodynamics, electromagnetism, and waves.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/Physics2.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/Physics2.webp']
 ---
 
 ## **Introduction**

@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.'
 
-images: ['https://www.rics-notebook.com/articleimage/DWave.png']
+images: ['https://www.rics-notebook.com/articleimage/DWave.webp']
 ---
 
 # D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems

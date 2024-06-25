@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Exploring quantum computings influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumMusic.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumMusic.webp']
 ---
 
 # Harmonizing Soundscapes: Quantum Computing's Role in Music Innovation and Listening Experience 🎶🚀

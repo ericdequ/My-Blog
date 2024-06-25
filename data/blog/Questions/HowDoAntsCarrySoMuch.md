@@ -5,7 +5,7 @@ tags: ['Ants', 'Strength', 'Biology', 'Insects', 'Nature','Questions']
 draft: false
 summary: "Ants are known for their incredible strength, often carrying objects many times their own body weight. In this blog post, we explore the biology behind this remarkable ability and how ants leverage their strength."
 
-images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoAntsCarrySoMuch.png']
+images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoAntsCarrySoMuch.webp']
 ---
 
 # 🐜 Ant Strength: How Do Ants Carry Objects Much Larger Than Themselves? 🐜

@@ -5,7 +5,7 @@ tags: ['Manim', 'Python', 'Animation', 'Data Visualization', 'Tutorial']
 draft: false
 summary: 'Learn how to create stunning mathematical animations using Manim, a powerful Python library. This step-by-step guide will walk you through the process of setting up Manim and creating your first animation, providing code examples and practical tips along the way.'
 
-images: ['https://www.rics-notebook.com/articleimage/Setup/Manim.png']
+images: ['https://www.rics-notebook.com/articleimage/Setup/Manim.webp']
 ---
 
 ## 📚 Introduction

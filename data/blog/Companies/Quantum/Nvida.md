@@ -5,7 +5,7 @@ tags: ['Quantum Computing', 'NVIDIA', 'GPU Technology', 'Quantum Circuit Simulat
 draft: false
 summary: 'Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.'
 
-images: ['https://www.rics-notebook.com/articleimage/Nvida.png']
+images: ['https://www.rics-notebook.com/articleimage/Nvida.webp']
 ---
 
 # NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology

@@ -5,7 +5,7 @@ tags: ['occultism', 'mathematics', 'astrology', 'advisors']
 draft: false
 summary: 'John Dee was an English mathematician, astronomer, astrologer, occultist, and advisor to Queen Elizabeth I. He was a highly influential figure in the Elizabethan era, known for his extensive knowledge and his interest in the supernatural.'
 
-images: ['https://www.rics-notebook.com/articleimage/JohnDee.png']
+images: ['https://www.rics-notebook.com/articleimage/JohnDee.webp']
 ---
 
 ## **John Dee: The Enigmatic Elizabethan Polymath 🔮**

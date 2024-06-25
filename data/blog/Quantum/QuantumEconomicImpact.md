@@ -5,7 +5,7 @@ tags: ['Quantum', 'Economic Impact', 'digitaltransformation']
 draft: false
 summary: 'Understanding the profound economic implications of quantum technologies on industries, economies, and the global landscape!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumEconomicImpact.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumEconomicImpact.webp']
 ---
 
 💰 The quantum realm, while being a domain of physics, promises to have profound economic implications. As quantum technologies mature, they are set to revolutionize industries, drive economic growth, and redefine the global economic landscape.

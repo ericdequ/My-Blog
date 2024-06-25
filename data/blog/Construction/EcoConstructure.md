@@ -5,7 +5,7 @@ tags: ['Sustainable Building', 'Eco-Friendly Construction', 'Smart Homes', 'Gree
 draft: false
 summary: 'As the global emphasis on sustainability intensifies, the construction industry is pivotal in steering towards eco-friendly solutions. This blog post explores the integration of green building techniques, sustainable materials, and smart technology in modern construction to foster a healthier planet.'
 
-images: ['https://www.rics-notebook.com/articleimage/EcoConstructure.png']
+images: ['https://www.rics-notebook.com/articleimage/EcoConstructure.webp']
 ---
 
 # 🌱 Building Towards a Greener Future: The Shift in Construction 🌱

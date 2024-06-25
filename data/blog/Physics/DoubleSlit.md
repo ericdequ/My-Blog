@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Embark on a mind-bending journey through the double slit experiment, the cornerstone of quantum mechanics. Unravel the mysteries of wave-particle duality, the observer effect, and the profound implications for our understanding of reality and consciousness.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.webp']
 ---
 
 ## 🌌 Introduction: A Quantum Odyssey

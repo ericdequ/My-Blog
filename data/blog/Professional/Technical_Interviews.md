@@ -5,7 +5,7 @@ tags: ['Technical Interviews', 'Software Development', 'Job Interviews']
 draft: false
 summary: Increase your chances of success in technical interviews for software developer positions by following these tips and tricks. Learn how to prepare, practice, stay confident, and follow up after the interview.
 
-images: ['https://www.rics-notebook.com/articleimage/Professional/Technical_Interviews.png']
+images: ['https://www.rics-notebook.com/articleimage/Professional/Technical_Interviews.webp']
 ---
 
 # How to Ace Technical Interviews as a Software Developer 💯

@@ -5,7 +5,7 @@ tags: ['Physics', 'College', 'Physics']
 draft: false
 summary: 'College Physics 1 is a foundational course that introduces students to the basic concepts of physics, including mechanics, thermodynamics, electromagnetism, and waves.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/Physics1.png']
+images: ['https://www.rics-notebook.com/articleimage/Physics/Physics1.webp']
 ---
 
 ## **Introduction**

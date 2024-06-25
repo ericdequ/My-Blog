@@ -5,7 +5,7 @@ tags: ['Quantum Mechanics', 'Spirituality', 'Consciousness', 'Mandela Effect', '
 draft: false
 summary: 'This post delves into the complex relationship between quantum mechanical superposition and the spiritual nature of reality. We explore how ideas and concepts can become entangled, creating a spectrum of superposition states that are ultimately measured and confirmed by society. The Mandela Effect serves as an example of how loss of coherence within a quantum superposition clump can lead to divergent base realities, suggesting that we are not merely sensors learning about our environment, but active creators participating in an interconnected web of consciousness.'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/EntangledGroupSuperPosition.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/EntangledGroupSuperPosition.webp']
 ---
 
 # 🌀 The Quantum Dance of Ideas: Superposition, Entanglement, and the Nature of Reality 🌀

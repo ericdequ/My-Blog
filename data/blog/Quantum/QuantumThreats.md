@@ -6,7 +6,7 @@ draft: false
 
 summary: 'Navigating the potential risks in the quantum domain and understanding the defenses against them!'
 
-images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumThreats.png']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumThreats.webp']
 ---
 
 🚫 The quantum realm, with its vast potentials, also brings forth new challenges, especially in the domain of cybersecurity. Quantum threats are potential risks associated with the advent and widespread adoption of quantum technologies.

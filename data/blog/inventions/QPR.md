@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover how QPR Quantum Pack & Route, a cutting-edge quantum software solution, is transforming the logistics industry by optimizing vehicle routing and 3D bin packing. Leveraging D-Wave Systems quantum annealing technology and hybrid quantum-classical algorithms, QPR enables companies to streamline their supply chain, reduce costs, and improve efficiency.'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/QPR.png']
+images: ['https://www.rics-notebook.com/articleimage/inventions/QPR.webp']
 ---
 
 # 🚚 Introducing QPR Quantum Pack & Route 🚚
