@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 24 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 25 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-simulation/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Quantum/Trotterization</guid>
+    <title>Hamiltonian Simulation: Trotterization</title>
+    <link>https://www.rics-notebook.com/blog/Quantum/Trotterization</link>
+    <description>Explore the Trotterization method for Hamiltonian simulation in quantum computing. Learn how this technique breaks down complex quantum operations into simpler steps, enabling efficient quantum simulations.</description>
+    <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Simulation</category><category>Hamiltonian</category><category>Trotterization</category><category>Quantum Mechanics</category><category>Quantum Computing</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/AQC</guid>
     <title>Adiabatic Quantum Computing: Concept, Applications, and Challenges</title>
