@@ -5,7 +5,7 @@ tags: ['Reverse Microwave', 'Rapid Cooling', 'Thermodynamics', 'Quantum Computin
 draft: true
 summary: 'This blog post explores the concept of a reverse microwave for rapid cooling, examining the physics behind this innovative idea and its potential impact on both consumer technology and quantum computing research.'
 
-images: ['https://example.com/reversemicrowave.webp']
+images: ['https://www.rics-notebook.com/inventions/reversemicrowave.webp']
 ---
 
 # 🧊 The Reverse Microwave: Chilling Innovation in Cooling Technology 🧊
@@ -121,3 +121,5 @@ To contribute to this exciting field of research:
 - Advocate for increased funding and resources for cooling technology research
 
 By investing in the development of rapid cooling technology today, we're not just creating convenient appliances for our homes – we're potentially unlocking new possibilities in quantum computing and beyond. The future of cooling is bright, and it's time for us all to be a part of this chilling revolution!
+
+
