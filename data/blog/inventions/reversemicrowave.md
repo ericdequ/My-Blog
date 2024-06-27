@@ -2,7 +2,7 @@
 title: 'The Reverse Microwave: Revolutionizing Rapid Cooling Technology'
 date: '2024-06-26'
 tags: ['Reverse Microwave', 'Rapid Cooling', 'Thermodynamics', 'Quantum Computing', 'Consumer Technology']
-draft: true
+draft: false
 summary: 'This blog post explores the concept of a reverse microwave for rapid cooling, examining the physics behind this innovative idea and its potential impact on both consumer technology and quantum computing research.'
 
 images: ['https://www.rics-notebook.com/inventions/reversemicrowave.webp']
