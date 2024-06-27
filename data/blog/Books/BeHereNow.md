@@ -9,8 +9,8 @@ tags:
     'Neem Karoli Baba',
     'Steve Jobs',
     'Mark Zuckerberg',
-    life-lessons,
-    'spiritual-practices',
+    lifelessons,
+    'spiritual',
   ]
 draft: false
 summary: Explore the transformative journey of Ram Dass from Harvard psychologist to spiritual guru, as chronicled in his influential book "Be Here Now." Discover how his experiences with psychedelics and his guru, Neem Karoli Baba, helped shape a generation of seekers, including tech visionaries like Steve Jobs and Mark Zuckerberg.
