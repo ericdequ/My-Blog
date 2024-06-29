@@ -5,7 +5,7 @@ tags: ['EPR Wormholes', 'Quantum Entanglement', 'General Relativity', 'Quantum G
 draft: false
 summary: 'This article explores the fascinating concept of EPR wormholes, which connect quantum entanglement with the geometry of spacetime, potentially offering insights into quantum gravity.'
 
-images: ['https://www.rics-notebook.com/Physics/EPR.webp']
+images: ['https://www.rics-notebook.com/articleimage/Physics/EPR.webp']
 ---
 
 # 🕳️ EPR Wormholes: Quantum Bridges in Spacetime 🕳️
