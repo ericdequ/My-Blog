@@ -1,4 +1,5 @@
 ---
+
 title: 'Linear Algebra'
 date: '2022-07-21'
 tags: ['LinearAlgebra', 'Math', 'Calculus']
@@ -37,7 +38,19 @@ There are many key concepts that students must learn in Linear Algebra. Here are
 a few of the most important ones:
 
 - **Linear equations.** Linear equations are equations that can be written in
-  the form $Ax=b$, where $A$ is a matrix, $x$ is a vector, and $b$ is a vector.
+  the form 
+
+$Ax=b$
+, where 
+
+$A$
+ is a matrix, 
+
+$x$
+ is a vector, and 
+
+$b$
+ is a vector.
 - **Matrices.** Matrices are rectangular arrays of numbers. They are used to
   represent linear transformations.
 - **Vector spaces.** Vector spaces are sets of vectors that can be added

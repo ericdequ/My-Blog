@@ -1,4 +1,5 @@
 ---
+
 title: 'Integrating Blockchain, IoT, and Wireless Power Transfer: A Comprehensive Tech Stack for the Future'
 date: '2023-09-21'
 tags: ['Blockchain', 'IoT', 'Wireless Power Transfer', 'Technology', 'Innovation', 'Tech Stack']

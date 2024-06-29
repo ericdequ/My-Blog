@@ -1,4 +1,5 @@
 ---
+
 title: "The Chilling Mystery of Brain Freeze: Why Do We Get It?"
 date: '2020-05-29'
 tags: ['Brain Freeze', 'Cold', 'Ice Cream', 'Biology', 'Neuroscience','Questions']
@@ -33,11 +34,13 @@ Brain freeze is thought to be a protective mechanism. The rapid changes in blood
 While brain freeze can be quite uncomfortable, there are simple ways to prevent and alleviate it.
 
 ### 🛑 Prevention Tips:
+
 - **Eat Slowly**: Take smaller bites or sips of cold foods and beverages to avoid sudden temperature changes in your mouth.
 - **Warm the Roof of Your Mouth**: Press your tongue against the roof of your mouth to warm it up.
 - **Drink Warm Water**: Sip warm water slowly to counteract the cold stimulus.
 
 ### 💡 Relief Tips:
+
 - **Cover Your Mouth**: Cup your hands over your mouth and breathe in warm air to warm the palate.
 - **Tilt Your Head Back**: This can help reduce blood flow to the brain and relieve pain.
 - **Massage Your Temples**: Gently massaging your temples can help alleviate the headache.

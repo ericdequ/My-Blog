@@ -1,4 +1,5 @@
 ---
+
 title: 'The Art of Memory: Unlocking the Power of the Memory Palace'
 date: '2023-01-07'
 tags: ['Memory Techniques', 'Method of Loci', 'Memory Palace']

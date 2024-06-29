@@ -1,4 +1,5 @@
 ---
+
 title: 'The Quantum Reality of Time: Unraveling the Fabric of Our Perception'
 date: '2024-05-16'
 tags: ['Quantum Theory', 'Relativity', 'Time', 'Reality', 'Entanglement', 'Perception', 'Poetry']

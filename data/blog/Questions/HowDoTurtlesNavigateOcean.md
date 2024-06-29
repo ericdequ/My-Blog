@@ -1,4 +1,5 @@
 ---
+
 title: "Navigating the Seas: How Do Sea Turtles Navigate Across the Ocean?"
 date: '2020-05-29'
 tags: ['Sea Turtles', 'Navigation', 'Marine Biology', 'Animal Behavior', 'Nature','Questions']
@@ -28,11 +29,13 @@ Sea turtles use a combination of environmental cues and innate abilities to navi
 Sea turtles undertake some of the longest migrations in the animal kingdom. Their ability to navigate across the ocean ensures their survival and the continuation of their species.
 
 ### 🐢 Types of Sea Turtles:
+
 - **Loggerhead Turtles**: Known for their long migrations from feeding grounds to nesting beaches.
 - **Green Turtles**: Migrate between feeding areas and nesting sites, often traveling thousands of miles.
 - **Leatherback Turtles**: The largest sea turtles, known for their extensive migrations across entire ocean basins.
 
 ### 🐢 Navigational Challenges:
+
 - **Human Impacts**: Pollution, climate change, and coastal development can disrupt the magnetic fields and environmental cues sea turtles rely on for navigation.
 - **Predation and Bycatch**: Sea turtles face threats from predators and accidental capture in fishing gear during their migrations.
 

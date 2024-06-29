@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum-Powered Sales Optimization'
 date: '2024-06-10'
 tags:

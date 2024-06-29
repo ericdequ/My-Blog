@@ -1,4 +1,5 @@
 ---
+
 title: 'A Quantum Perspectice of a Psychic Reality'
 date: '2023-09-15'
 tags: ['Quantum', 'Platforms', 'Psychics', 'Entanglement', 'spiritual-practices']

@@ -1,4 +1,5 @@
 ---
+
 title: ' Mastering Attention in NLP'
 date: '2023-05-03'
 tags: ['Neurolinguistic Programming', 'Cognitive', 'Psychology']

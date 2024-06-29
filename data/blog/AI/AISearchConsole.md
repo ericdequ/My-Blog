@@ -1,4 +1,5 @@
 ---
+
 title: 'Bridging the Gap: Why AI Companies Should Adopt a Google-like Search Content Feature'
 date: '2024-02-18'
 tags:

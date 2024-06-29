@@ -1,4 +1,5 @@
 ---
+
 title: 'The Observer Effect: Unveiling the Quantum Magic of Human Consciousness'
 date: '2024-05-19'
 tags:

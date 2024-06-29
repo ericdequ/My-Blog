@@ -1,4 +1,5 @@
 ---
+
 title: 'The Great Psychedelic Debate: Mushrooms vs. Meds'
 date: '2022-05-20'
 tags:

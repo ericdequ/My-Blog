@@ -1,4 +1,5 @@
 ---
+
 title: "The Magic of Microwaves: Unraveling the Science Behind Quick and Easy Meals"
 date: '2020-05-29'
 tags: ['Microwaves', 'Cooking', 'Electromagnetic Waves', 'Dielectric Heating', 'Food Science','Questions']

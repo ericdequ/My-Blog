@@ -1,4 +1,5 @@
 ---
+
 title: 'Albert Hofmann: Accidental Discovery of LSD and the Bicycle Ride that Changed the World'
 date: '2022-05-04'
 tags: ['Drug-Discovery', 'History']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Getting Started with Kali Linux: A Beginners Guide 🔒'
 date: '2023-04-23'
 tags: ['KaliLinux', 'Security', 'PenetrationTesting']

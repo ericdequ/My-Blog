@@ -1,4 +1,5 @@
 ---
+
 title: 'Consul: Pioneering Service Discovery and Networking 🌐🔍'
 date: '2023-08-02'
 tags: ['Consul', 'Service Discovery', 'Service Mesh', 'devops']

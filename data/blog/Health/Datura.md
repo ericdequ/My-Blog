@@ -1,4 +1,5 @@
 ---
+
 title: 'Datura: The Enigmatic Plant and Its Spiritual Journey Through Time'
 date: '2022-05-03'
 tags: ['Entheogens', 'Shamanism', 'Spirituality', 'Herbalism']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Securing the Power Grid: The Case for Localized Renewable Infrastructure'
 date: '2024-05-01'
 tags: ['Renewable Energy', 'Critical Infrastructure', 'Power Grid Security', 'CYBERSECURITY']

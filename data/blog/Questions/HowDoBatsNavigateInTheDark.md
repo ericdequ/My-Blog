@@ -1,4 +1,5 @@
 ---
+
 title: "Navigating the Night: How Do Bats Navigate in the Dark?"
 date: '2020-05-29'
 tags: ['Bats', 'Echolocation', 'Navigation', 'Biology', 'Nocturnal','Questions']
@@ -28,13 +29,16 @@ Echolocation is a biological sonar system used by bats to navigate and find food
 Echolocation serves several critical functions in the lives of bats, enabling them to thrive in their nocturnal habitats.
 
 ### 🍽️ Hunting for Food:
+
 - **Detecting Prey**: Bats use echolocation to detect and catch flying insects, their primary food source. The precise information from the echoes allows them to track and capture their prey with incredible accuracy.
 
 ### 🛡️ Avoiding Obstacles:
+
 - **Navigating Obstacles**: Echolocation helps bats avoid obstacles such as trees, buildings, and other structures, ensuring safe flight in the dark.
 - **Spatial Awareness**: By continuously emitting sound waves and interpreting echoes, bats maintain an up-to-date mental map of their environment, allowing them to navigate complex landscapes.
 
 ### 💬 Communication:
+
 - **Social Interaction**: Some bat species use echolocation calls for social communication, such as signaling territory or coordinating group movements.
 
 # 🌌 Masters of the Night 🌌

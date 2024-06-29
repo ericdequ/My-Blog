@@ -1,4 +1,5 @@
 ---
+
 title: "The Invisible Highway: Decoding the Science Behind Wi-Fi Technology"
 date: '2023-08-19' 
 tags: ['Wi-Fi', 'Wireless Technology', 'Radio Waves', 'Internet', 'Communication','Questions']

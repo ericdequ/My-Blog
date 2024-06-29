@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Teleportation and Entanglement: Bridging Space with Quantum Information'
 date: '2024-06-13'
 tags:
@@ -16,7 +17,6 @@ summary: 'Explore the fascinating concept of quantum teleportation and its relia
 
 images: ['https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.webp']
 ---
-
 
 # Quantum Teleportation and Entanglement: Bridging Space with Quantum Information
 
@@ -44,10 +44,22 @@ Bell states are specific entangled states of two qubits, crucial for teleportati
 
 **Memorize them as:** "The Quantum Quartet" - four special dance moves that qubits perform together:
 
-1. $|\Phi^+\rangle$: The "Synchronized Spin"
-2. $|\Phi^-\rangle$: The "Mirror Spin"
-3. $|\Psi^+\rangle$: The "Flip Flop"
-4. $|\Psi^-\rangle$: The "Opposite Flip Flop"
+1. 
+
+$|\Phi^+\rangle$
+: The "Synchronized Spin"
+2. 
+
+$|\Phi^-\rangle$
+: The "Mirror Spin"
+3. 
+
+$|\Psi^+\rangle$
+: The "Flip Flop"
+4. 
+
+$|\Psi^-\rangle$
+: The "Opposite Flip Flop"
 
 ## ✨ Quantum Teleportation Protocol: Step-by-Step
 

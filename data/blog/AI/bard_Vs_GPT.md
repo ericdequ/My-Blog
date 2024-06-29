@@ -1,4 +1,5 @@
 ---
+
 title: 'Chat GPT VS Bard'
 date: '2023-04-18'
 tags: ['AI', 'GPT', 'BARD']

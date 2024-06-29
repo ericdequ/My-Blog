@@ -1,4 +1,5 @@
 ---
+
 title: 'Putty: A Guide for SSH Connections 💻'
 date: '2023-03-21'
 tags: ['Putty', 'SSH', 'Networking', 'education']

@@ -1,4 +1,5 @@
 ---
+
 title: 'SOC: The Digital Watchtower Guarding Against Cyber Threats 🌐🛡️'
 date: '2023-07-25'
 tags: ['SOC', 'Cybersecurity', 'Surveillance']

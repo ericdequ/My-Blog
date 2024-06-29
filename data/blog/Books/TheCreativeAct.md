@@ -1,4 +1,5 @@
 ---
+
 title: "Unlocking Your Creative Potential: Insights from Rick Rubin's 'The Creative Act'"
 date: '2023-04-30'
 tags: ['Creativity', 'Self-help', 'Personal', life-lessons, 'rick-rubin']

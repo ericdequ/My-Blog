@@ -1,4 +1,5 @@
 ---
+
 title: 'Acoustic Quantum Computing Harnessing the Power of Sound'
 date: '2024-03-06'
 tags: ['Acoustics', 'Entanglement', 'Qubits', 'Physics']
@@ -22,7 +23,19 @@ The frequency of a tuning fork is given by the equation:
 
 $f = \frac{1}{2L}\sqrt{\frac{E}{\rho}}$
 
-where $f$ is the frequency, $L$ is the length of the tines, $E$ is the Young's modulus of the material, and $\rho$ is the density.
+where 
+
+$f$
+ is the frequency, 
+
+$L$
+ is the length of the tines, 
+
+$E$
+ is the Young's modulus of the material, and 
+
+$\rho$
+ is the density.
 
 By varying the length and material properties of the tuning forks, we can create qubits with different frequencies, allowing for a larger computational space.
 
@@ -30,11 +43,29 @@ By varying the length and material properties of the tuning forks, we can create
 
 To perform quantum operations, we need to establish entanglement between the tuning fork qubits. We achieve this by placing the tuning forks in close proximity and allowing their sound waves to interact. The resulting interference pattern creates a quantum superposition of the individual qubit states.
 
-The entanglement strength between two tuning forks can be quantified using the acoustic coupling coefficient, $\kappa$:
+The entanglement strength between two tuning forks can be quantified using the acoustic coupling coefficient, 
+
+$\kappa$
+:
 
 $\kappa = \frac{2\pi f_0 \rho v}{Z_1 Z_2}$
 
-where $f_0$ is the resonant frequency, $\rho$ is the density of the medium, $v$ is the speed of sound in the medium, and $Z_1$ and $Z_2$ are the acoustic impedances of the tuning forks.
+where 
+
+$f_0$
+ is the resonant frequency, 
+
+$\rho$
+ is the density of the medium, 
+
+$v$
+ is the speed of sound in the medium, and 
+
+$Z_1$
+ and 
+
+$Z_2$
+ are the acoustic impedances of the tuning forks.
 
 By carefully designing the arrangement of tuning forks and controlling the acoustic coupling, we can create complex entangled states necessary for quantum computation.
 
@@ -46,7 +77,16 @@ For example, to apply a Hadamard gate to a tuning fork qubit, we can use an acou
 
 $f_H = f_1 - f_0$
 
-where $f_H$ is the Hadamard gate frequency, $f_1$ is the frequency of the |1⟩ state, and $f_0$ is the frequency of the |0⟩ state.
+where 
+
+$f_H$
+ is the Hadamard gate frequency, 
+
+$f_1$
+ is the frequency of the |1⟩ state, and 
+
+$f_0$
+ is the frequency of the |0⟩ state.
 
 Multi-qubit gates, such as the CNOT gate, can be implemented by leveraging the acoustic coupling between tuning forks and applying targeted sound waves to control the interaction.
 

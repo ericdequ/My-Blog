@@ -1,4 +1,5 @@
 ---
+
 title: 'Theoretical Approaches to Cross-Breeding Mushroom Species 🍄🔬'
 date: '2023-05-21'
 tags:
@@ -43,8 +44,8 @@ Mycelial fusion, also known as hyphal anastomosis, is a process where hyphae fro
 
 #### **Growth Enhancers**:
 
-1. **NAD+ (Nicotinamide Adenine Dinucleotide)**: Enhances cellular respiration and energy production, promoting growth and health of the mycelia&#8203;`【oaicite:3】`&#8203;&#8203;`【oaicite:2】`&#8203;.
-2. **NAC (N-Acetylcysteine)**: Acts as an antioxidant, reducing oxidative stress and fostering a healthier growth environment&#8203;`【oaicite:1】`&#8203;&#8203;`【oaicite:0】`&#8203;.
+1. **NAD+ (Nicotinamide Adenine Dinucleotide)**: Enhances cellular respiration and energy production, promoting growth and health of the mycelia&#8 203;`【oaicite:3】`&#8 203;&#8 203;`【oaicite:2】`&#8 203;.
+2. **NAC (N-Acetylcysteine)**: Acts as an antioxidant, reducing oxidative stress and fostering a healthier growth environment&#8 203;`【oaicite:1】`&#8 203;&#8 203;`【oaicite:0】`&#8 203;.
 
 #### **Hormones and Growth Regulators**:
 

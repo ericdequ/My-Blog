@@ -1,4 +1,5 @@
 ---
+
 title: 'The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm 🔍✨'
 date: '2024-02-21'
 tags:
@@ -28,12 +29,14 @@ Think of the Quadratic Sieve as a magical spell for splitting big numbers. It's 
 ## 📚 Mathematical Foundations: The Recipe for Number Magic
 
 ### The Smooth Number Hunt
+
 Imagine you're on a treasure hunt, but instead of gold, you're looking for "smooth numbers" - numbers that break down into small prime pieces easily.
 
 **Visualize it as:** "Prime Piece Puzzle"
 - Smooth numbers are like jigsaw puzzles made only of small, prime-shaped pieces.
 
 ### The Quadratic Spell
+
 Picture a wizard's spell that turns regular numbers into special "squared" numbers:
 
 Q(x) = (x + floor(√N))² - N
@@ -51,18 +54,22 @@ Remember the steps with the acronym "SILC":
 4. **C**ombine and Conquer: Mix the magic numbers to reveal the secret factors
 
 ### 1. Setting the Stage
+
 **Visualize as:** "Choosing Your Wand"
 - Pick prime numbers for your magical toolkit, like selecting the right wands for different spells.
 
 ### 2. Smooth Number Hunt
+
 **Think of it as:** "Sieving for Gold"
 - You're panning for smooth number gold in a river of regular numbers.
 
 ### 3. Linear Algebra Magic
+
 **Imagine:** "Building a Number Matrix"
 - You're constructing a magical matrix, like in "The Matrix" movie, but with numbers!
 
 ### 4. The Final Spell
+
 **Visualize as:** "The Grand Reveal"
 - Like a magician's final trick, you combine your magical numbers to unveil the hidden factors.
 

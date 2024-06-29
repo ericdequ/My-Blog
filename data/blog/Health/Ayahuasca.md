@@ -1,4 +1,5 @@
 ---
+
 title: 'Ayahuasca: Exploring the Spiritual Realm and the Science of MAOIs 🌿🔬'
 date: '2023-05-21'
 tags:

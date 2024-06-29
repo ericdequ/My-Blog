@@ -1,4 +1,5 @@
 ---
+
 title: "Why Do Flamingos Stand on One Leg?: The Flamingo Stance"
 date: '2020-05-29'
 tags: ['Flamingos', 'Behavior', 'Biology', 'Birds', 'Nature','Questions']
@@ -35,6 +36,7 @@ Flamingos have evolved several adaptations that enable them to maintain their on
 Flamingos can be found in various parts of the world, often inhabiting shallow lakes, lagoons, and estuaries. Their vibrant pink color comes from the carotenoid pigments in their diet, which consists mainly of algae, shrimp, and other small aquatic organisms.
 
 ### 🦩 Fun Flamingo Facts:
+
 - **Coloration**: Baby flamingos are born with gray feathers, which gradually turn pink as they consume carotenoid-rich foods.
 - **Social Birds**: Flamingos are highly social birds that live in large colonies, sometimes numbering in the thousands.
 - **Feeding Behavior**: They use their unique beaks to filter-feed on small organisms in the water.

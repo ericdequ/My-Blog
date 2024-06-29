@@ -1,4 +1,5 @@
 ---
+
 title: 'Hamiltonian Simulation: Trotterization'
 date: '2024-06-25'
 tags:
@@ -14,7 +15,6 @@ summary: 'Explore the Trotterization method for Hamiltonian simulation in quantu
 
 images: ['https://www.rics-notebook.com/articleimage/Quantum/Trotterization.webp']
 ---
-
 
 # Hamiltonian Simulation: Trotterization
 

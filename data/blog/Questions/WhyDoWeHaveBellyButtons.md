@@ -1,4 +1,5 @@
 ---
+
 title: "Why Do We Have Belly Buttons? : The Belly Button Story"
 date: '2020-05-29'
 tags: ['Belly Button', 'Human Body', 'Biology', 'Anatomy', 'Development','Questions']
@@ -27,10 +28,12 @@ The belly button is the scar left behind after the umbilical cord, which connect
 The belly button serves as a reminder of our early development and the crucial role the umbilical cord played in sustaining us before birth.
 
 ### 🌟 Fetal Development:
+
 - **Nutrient Supply**: The umbilical cord provided all the necessary nutrients and oxygen needed for the developing fetus to grow and thrive in the womb.
 - **Waste Removal**: It also facilitated the removal of waste products from the baby's bloodstream, ensuring a healthy environment for development.
 
 ### 👶 Post-Birth Connection:
+
 - **Health Indicator**: In some cultures, the belly button is believed to be an indicator of a baby's health and well-being.
 - **Cultural Significance**: The belly button has cultural and symbolic meanings in various societies, often associated with birth, life, and connection.
 

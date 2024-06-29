@@ -1,4 +1,5 @@
 ---
+
 title: 'Ai Money Maker'
 date: '2023-02-03'
 tags: ['AI', 'Business', 'GPT', 'Money']

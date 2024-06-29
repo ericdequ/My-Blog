@@ -1,4 +1,5 @@
 ---
+
 title: 'The Fungal Connection: Exploring the Evolutionary Intertwining of Animals, Fungi, and Plants 🍄🌿🐾'
 date: '2024-05-21'
 tags:

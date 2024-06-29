@@ -1,4 +1,5 @@
 ---
+
 title: 'Embracing Individualism: A Night That Changed My Perspective'
 date: '2019-05-20'
 tags:

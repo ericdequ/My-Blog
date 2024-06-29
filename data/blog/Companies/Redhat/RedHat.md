@@ -1,4 +1,5 @@
 ---
+
 title: 'Red Hat: Championing the Open Source Spirit in the Enterprise Arena 🌐🔥'
 date: '2023-07-07'
 tags: ['Red Hat', 'Open Source', 'Enterprise Solutions', 'devops']

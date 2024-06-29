@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Potential & Capabilities Unraveling the Quantum Revolution 🌌'
 date: '2023-09-06'
 tags: ['Quantum', 'Potential', 'Capabilities', 'Physics', 'digitaltransformation']

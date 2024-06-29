@@ -1,4 +1,5 @@
 ---
+
 title: 'Steve Jobs: The Visionary Who Blended Spirituality and Technology'
 date: '2022-05-04'
 tags: ['Steve Jobs', 'Apple', 'iPhone', 'Spirituality', 'Technology']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Plant Neurobiology: Exploring the Intricate Communication Networks in Plants 🌿🧠'
 date: '2024-05-21'
 tags:  ['Plant Neurobiology','Plant Perception','Microbiome','Gut Feelings','Electrophysiology','Plant Behavior','Symbiosis','Speculative Biology','Indigenous Wisdom',]

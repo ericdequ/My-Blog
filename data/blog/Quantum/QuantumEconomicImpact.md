@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Economic Impact: The Financial Ripples of the Quantum Wave 💰'
 date: '2023-09-15'
 tags: ['Quantum', 'Economic Impact', 'digitaltransformation']

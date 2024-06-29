@@ -1,4 +1,5 @@
 ---
+
 title: 'Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗'
 date: '2023-08-04'
 tags: ['Boundary', 'Zero Trust', 'Access Management', 'devops']

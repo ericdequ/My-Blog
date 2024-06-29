@@ -1,4 +1,5 @@
 ---
+
 title: 'The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening'
 date: '2023-04-30'
 tags:

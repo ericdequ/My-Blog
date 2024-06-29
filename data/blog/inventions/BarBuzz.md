@@ -1,4 +1,5 @@
 ---
+
 title: 'Introducing BarBuzz: The Ultimate App for Bar Hopping and Socializing 🍻'
 date: '2023-05-20'
 tags: ['Social App', 'Nightlife', 'Bar Hopping', 'Technology', 'Community', 'Event Planning']

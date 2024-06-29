@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Mechanics: A Spiritual Perspective Across Religions 🌌'
 date: '2024-04-25'
 tags: ['Quantum', 'Spirituality', 'Religion', 'spiritual-practices']

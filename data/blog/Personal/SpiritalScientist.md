@@ -1,4 +1,5 @@
 ---
+
 title: 'The Cosmic Debate: Monk vs. Physicist'
 date: '2023-05-20'
 tags: ['Short Story', 'Humor', 'Philosophy', 'Quantum-Physics', 'Spirituality', 'life-lessons']

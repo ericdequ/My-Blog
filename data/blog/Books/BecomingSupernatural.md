@@ -1,4 +1,5 @@
 ---
+
 title: "Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza's 'Becoming Supernatural'"
 date: '2023-04-30'
 tags: ['Development', 'Spirituality', 'Meditation', 'Quantum', 'spiritualpractices']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Ibogaine: Pharmacological Profile, Anti-Addiction Properties, and Spiritual Impact 🌿✨'
 date: '2022-05-22'
 tags:

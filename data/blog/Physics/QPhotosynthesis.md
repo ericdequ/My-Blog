@@ -1,4 +1,5 @@
 ---
+
 title: 'Photosynthesis: From Quantum Magic to Plant Mass'
 date: '2024-06-26'
 tags: ['Photosynthesis', 'Quantum Biology', 'Plant Science', 'Energy Conversion']

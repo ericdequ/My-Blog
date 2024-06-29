@@ -1,4 +1,5 @@
 ---
+
 title: "Colorful Masters of Disguise: How Chameleons Change Color"
 date: '2020-05-29'
 tags: ['Chameleons', 'Color Change', 'Chromatophores', 'Biology', 'Camouflage','Questions']
@@ -19,10 +20,12 @@ The secret to a chameleon's color-changing ability lies in specialized cells in 
 ## 🌈 Chromatophores and Iridophores 🌈
 
 ### Chromatophores:
+
 - **Red and Yellow Pigments**: These pigments are found in chromatophores, which are located in the chameleon's upper skin layers.
 - **Expansion and Contraction**: By expanding or contracting these cells, chameleons can change the intensity and presence of red and yellow hues in their skin.
 
 ### Iridophores:
+
 - **Structural Colors**: Iridophores are cells that contain microscopic crystals, which reflect light and create blue and green colors through a process known as structural coloration.
 - **Light Reflection**: By adjusting the spacing of these crystals, chameleons can change the way light is reflected, resulting in different colors.
 
@@ -35,12 +38,15 @@ Chameleons control their color changes through a combination of hormonal and neu
 Chameleons change color for several reasons, each serving an important role in their survival and social interactions.
 
 ### 🥷 Camouflage:
+
 - **Blending In**: Chameleons use color change to blend into their surroundings, making it harder for predators to spot them and easier for them to ambush prey.
 
 ### 💬 Communication:
+
 - **Social Signals**: Color changes can signal a chameleon's mood, health, or intentions to other chameleons. For example, bright colors might indicate aggression or readiness to mate, while darker colors can signal submission or stress.
 
 ### 🌡️ Temperature Regulation:
+
 - **Thermoregulation**: By changing to darker colors, chameleons can absorb more heat from the sun, while lighter colors help them reflect sunlight and stay cool.
 
 # 🌟 Nature's Palette 🌟

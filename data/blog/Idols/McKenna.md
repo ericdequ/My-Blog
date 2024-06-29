@@ -1,4 +1,5 @@
 ---
+
 title: 'Terence McKenna: The Poet-Philosopher Who Shaped the Psychedelic Renaissance'
 date: '2021-05-04'
 tags: ['Consciousness', 'Counterculture', 'Philosophy']

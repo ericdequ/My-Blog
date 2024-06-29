@@ -1,4 +1,5 @@
 ---
+
 title: 'Timothy Leary: The Psychedelic Pioneer Who Expanded Consciousness'
 date: '2021-05-04'
 tags: ['Psychology', 'Consciousness', 'Counterculture']

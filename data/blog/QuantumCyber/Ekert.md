@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Key Distribution: The Ekert91 Protocol'
 date: '2024-06-05'
 tags:
@@ -32,10 +33,21 @@ The protocol relies on entangled photon pairs described by Bell states. These ar
 **Visualize it as:** Two dancers perfectly in sync, no matter how far apart they are.
 
 Bell states:
-- $|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
-- $|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
-- $|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
-- $|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
+- 
+
+$|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
+
+- 
+
+$|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
+
+- 
+
+$|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
+
+- 
+
+$|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
 
 **Mnemonic:** "PHI for same (HH or VV), PSI for different (HV)"
 
@@ -48,9 +60,27 @@ Bell states:
 
 2. **Basis Selection and Measurement**:
    Alice and Bob randomly choose one of three measurement bases:
-   - Horizontal-Vertical ($0^\circ$ and $90^\circ$)
-   - Diagonal ($45^\circ$ and $-45^\circ$)
-   - Intermediate ($22.5^\circ$ and $67.5^\circ$)
+   - Horizontal-Vertical (
+
+$0^\circ$
+ and 
+
+$90^\circ$
+)
+   - Diagonal (
+
+$45^\circ$
+ and 
+
+$-45^\circ$
+)
+   - Intermediate (
+
+$22.5^\circ$
+ and 
+
+$67.5^\circ$
+)
    
    **Visualize:** A clock face with hands at 12, 1:30, 3, 4:30, 6, and 7:30.
 

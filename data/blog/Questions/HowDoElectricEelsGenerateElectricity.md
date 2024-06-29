@@ -1,4 +1,5 @@
 ---
+
 title: " How Do Electric Eels Generate Electricity? : The Shocking Truth"
 date: '2020-05-29'
 tags: ['Electric Eels', 'Electricity', 'Biology', 'Marine Life', 'Nature','Questions']
@@ -81,7 +82,6 @@ Electric eels are a testament to the incredible adaptations that have evolved in
 From the intricate workings of electrocytes and electric organs to the fascinating purposes of electric shocks, electric eels showcase the complexity and beauty of life on Earth. As we continue to study these remarkable creatures, we uncover new insights into the world of biological electricity and its potential applications in science and technology.
 
 Next time you think of electric eels, you'll know that their shocking abilities are the result of complex biological mechanisms and serve multiple important purposes. Let's celebrate the fascinating world of electric eels and the incredible science behind their electrifying powers. ⚡🐟
-
 
 References:
 - Catania, K. C. (2014). The shocking predatory strike of the electric eel. Science, 346(6214), 1231-1234.

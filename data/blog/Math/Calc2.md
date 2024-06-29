@@ -1,4 +1,5 @@
 ---
+
 title: 'Calculus 2: Advanced Concepts and Applications 💻'
 date: '2020-03-21'
 tags: ['Calculus 2', 'Mathematics', 'Engineering']

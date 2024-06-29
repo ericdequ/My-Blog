@@ -1,4 +1,5 @@
 ---
+
 title: 'Richard Feynman: The Quantum Visionary Who Shaped the Future'
 date: '2024-03-04'
 tags: ['Richard Feynman', 'Quantum Physics', 'Quantum Computing', 'Science', 'Innovation']

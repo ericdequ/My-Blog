@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Tech & Bitcoin: Navigating the Cryptographic Challenges 🔐'
 date: '2023-09-16'
 tags: ['Quantum', 'Bitcoin', 'Cryptography', 'digitaltransformation']

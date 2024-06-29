@@ -1,4 +1,5 @@
 ---
+
 title: 'The Magic of Wireless Power Transmission: Unleashing Teslas Vision'
 date: '2024-05-03'
 tags: ['Tesla', 'Wireless', 'Energy', 'Physics']
@@ -20,29 +21,74 @@ At the heart of wireless power transmission lies the concept of resonant inducti
 
 ### Resonant Inductive Coupling
 
-The efficiency of resonant inductive coupling depends on several factors, including the distance between the coils, their size, and the frequency of the alternating current. The optimal frequency for power transmission, $f_0$, is given by:
+The efficiency of resonant inductive coupling depends on several factors, including the distance between the coils, their size, and the frequency of the alternating current. The optimal frequency for power transmission, 
+
+$f_0$
+, is given by:
 
 $f_0 = \frac{1}{2\pi\sqrt{LC}}$
 
-Where $L$ is the inductance of the coils (in henries) and $C$ is the capacitance (in farads).
+Where 
 
-The power transferred, $P$, can be calculated using the following equation:
+$L$
+ is the inductance of the coils (in henries) and 
+
+$C$
+ is the capacitance (in farads).
+
+The power transferred, 
+
+$P$
+, can be calculated using the following equation:
 
 $P = \frac{\mu_0 \pi N_1 N_2 r_1^2 r_2^2 I_1^2 \omega^2}{2R} \cdot e^{-\frac{2R}{\delta}}$
 
 Where:
 
-- $\mu_0$ is the permeability of free space ($4\pi \times 10^{-7} H/m$)
-- $N_1$ and $N_2$ are the number of turns in the transmitter and receiver coils
-- $r_1$ and $r_2$ are the radii of the coils (m)
-- $I_1$ is the current in the transmitter coil (A)
-- $\omega$ is the angular frequency (rad/s)
-- $R$ is the distance between the coils (m)
-- $\delta$ is the skin depth (m), given by:
+- 
+
+$\mu_0$
+ is the permeability of free space (
+
+$4\pi \times 10^{-7} H/m$
+)
+- 
+
+$N_1$
+ and 
+
+$N_2$
+ are the number of turns in the transmitter and receiver coils
+- 
+
+$r_1$
+ and 
+
+$r_2$
+ are the radii of the coils (m)
+- 
+
+$I_1$
+ is the current in the transmitter coil (A)
+- 
+
+$\omega$
+ is the angular frequency (rad/s)
+- 
+
+$R$
+ is the distance between the coils (m)
+- 
+
+$\delta$
+ is the skin depth (m), given by:
 
 $\delta = \sqrt{\frac{2}{\mu_0 \sigma \omega}}$
 
-Where $\sigma$ is the conductivity of the medium (S/m).
+Where 
+
+$\sigma$
+ is the conductivity of the medium (S/m).
 
 ## Applications of Wireless Power Transmission
 
@@ -66,7 +112,10 @@ To experience the magic of wireless power transmission firsthand, you can build 
 
 1. **Gather the necessary components:** You'll need a high-voltage transformer, a capacitor, a spark gap, a primary coil, a secondary coil, and a power supply.
 
-2. **Calculate the optimal frequency:** Use the equation for $f_0$ to determine the ideal resonant frequency for your coils, based on their inductance and capacitance.
+2. **Calculate the optimal frequency:** Use the equation for 
+
+$f_0$
+ to determine the ideal resonant frequency for your coils, based on their inductance and capacitance.
 
 3. **Wind the coils:** Carefully wind the primary and secondary coils, ensuring that they have the correct number of turns and spacing.
 

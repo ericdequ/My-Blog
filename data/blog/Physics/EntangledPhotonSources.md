@@ -1,4 +1,5 @@
 ---
+
 title: 'Entangled Photon Sources and Detectors: Unlocking the Potential of Quantum Mechanics'
 date: '2024-06-12'
 tags:
@@ -28,12 +29,29 @@ In the realm of quantum mechanics, entanglement refers to a state where two or m
 
 The entanglement of two qubits (two-level quantum systems) can be elegantly represented by Bell states, named after the physicist John Stewart Bell. These states exhibit maximum entanglement and are defined as follows:
 
-- $|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
-- $|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
-- $|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
-- $|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
+- 
 
-where $|H\rangle$ and $|V\rangle$ represent the horizontal and vertical polarization states of a photon, respectively.
+$|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
+
+- 
+
+$|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
+
+- 
+
+$|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
+
+- 
+
+$|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
+
+where 
+
+$|H\rangle$
+ and 
+
+$|V\rangle$
+ represent the horizontal and vertical polarization states of a photon, respectively.
 
 ## 🔍 Generating Entangled Photons: Spontaneous Parametric Downconversion (SPDC)
 
@@ -41,10 +59,33 @@ where $|H\rangle$ and $|V\rangle$ represent the horizontal and vertical polariza
 
 Spontaneous parametric downconversion (SPDC) is a non-linear optical process that lies at the heart of entangled photon generation. In SPDC, a high-energy photon from a pump laser interacts with a non-linear crystal, leading to the creation of two lower-energy photons, known as the signal and idler photons. This process obeys the fundamental principles of energy and momentum conservation:
 
-- **Energy Conservation**: $\omega_p = \omega_s + \omega_i$
-- **Momentum Conservation**: $\vec{k}_p = \vec{k}_s + \vec{k}_i$
+- **Energy Conservation**: 
 
-where $\omega_p$, $\omega_s$, and $\omega_i$ represent the frequencies of the pump, signal, and idler photons, and $\vec{k}_p$, $\vec{k}_s$, and $\vec{k}_i$ denote their respective wave vectors.
+$\omega_p = \omega_s + \omega_i$
+
+- **Momentum Conservation**: 
+
+$\vec{k}_p = \vec{k}_s + \vec{k}_i$
+
+where 
+
+$\omega_p$
+, 
+
+$\omega_s$
+, and 
+
+$\omega_i$
+ represent the frequencies of the pump, signal, and idler photons, and 
+
+$\vec{k}_p$
+, 
+
+$\vec{k}_s$
+, and 
+
+$\vec{k}_i$
+ denote their respective wave vectors.
 
 ### 📸 Types of SPDC: Type-I and Type-II
 
@@ -70,7 +111,13 @@ This entangled state serves as a fundamental resource for various quantum protoc
 
 ## 🔄 Generating All Four Bell States
 
-While the $|\Psi^+\rangle$ state is readily obtained from SPDC, generating the remaining three Bell states requires additional manipulations using optical elements such as waveplates. By introducing precise phase shifts and swapping polarizations, we can transform $|\Psi^+\rangle$ into the other Bell states. 
+While the 
+
+$|\Psi^+\rangle$
+ state is readily obtained from SPDC, generating the remaining three Bell states requires additional manipulations using optical elements such as waveplates. By introducing precise phase shifts and swapping polarizations, we can transform 
+
+$|\Psi^+\rangle$
+ into the other Bell states. 
 
 ## 📡 Detection of Bell States
 
@@ -84,16 +131,31 @@ A typical setup for Bell state detection consists of the following components:
 
 2. **Hadamard Gate**: The Hadamard gate applies a superposition transformation to the qubits, converting the entangled state into a separable state that can be measured individually.
 
-3. **Measurement**: Finally, the qubits are measured in the computational basis (e.g., $|0\rangle$ and $|1\rangle$), and the measurement outcomes are used to determine the type of Bell state.
+3. **Measurement**: Finally, the qubits are measured in the computational basis (e.g., 
+
+$|0\rangle$
+ and 
+
+$|1\rangle$
+), and the measurement outcomes are used to determine the type of Bell state.
 
 ### 📊 Protocol for Bell State Detection
 
-The protocol for detecting a specific Bell state, such as $|\Psi^+\rangle$, can be summarized as follows:
+The protocol for detecting a specific Bell state, such as 
 
-- **Initial State**: The entangled photon pair is prepared in the $|\Psi^+\rangle$ state.
+$|\Psi^+\rangle$
+, can be summarized as follows:
+
+- **Initial State**: The entangled photon pair is prepared in the 
+
+$|\Psi^+\rangle$
+ state.
 - **CNOT Gate**: The CNOT gate is applied to the photon pair, entangling them further.
 - **Hadamard Gate**: The Hadamard gate is applied to one of the photons, transforming the entangled state into a separable state.
-- **Measurement**: Both photons are measured in the computational basis, and the measurement outcomes are analyzed to determine the presence of the $|\Psi^+\rangle$ state.
+- **Measurement**: Both photons are measured in the computational basis, and the measurement outcomes are analyzed to determine the presence of the 
+
+$|\Psi^+\rangle$
+ state.
 
 By extending this protocol to other Bell states and incorporating additional optical elements, we can reliably detect and distinguish between the four Bell states.
 

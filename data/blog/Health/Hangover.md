@@ -1,4 +1,5 @@
 ---
+
 title: 'The Science of Hangovers: Understanding the Causes and Effective Supplements for Prevention 🍸🔬'
 date: '2023-05-21'
 tags: ['Hangovers', 'Alcohol', 'Supplements', 'Prevention', 'Health', 'Science']

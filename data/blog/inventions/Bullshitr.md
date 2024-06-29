@@ -1,4 +1,5 @@
 ---
+
 title: 'Bullshitr: Ensuring Honest Conversations Between Contractors and Homeowners'
 date: '2023-05-18'
 tags: ['AI', 'Home Improvement', 'Contractors', 'Customer Service']

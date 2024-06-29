@@ -1,4 +1,5 @@
 ---
+
 title: 'Yopo Seeds and Rapé: A Pharmacological and Shamanic Exploration 🌿✨'
 date: '2022-05-01'
 tags:

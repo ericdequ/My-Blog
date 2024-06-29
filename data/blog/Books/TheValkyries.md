@@ -1,4 +1,5 @@
 ---
+
 title: 'The Valkyries by Paulo Coelho: A Journey of Love, Courage, and Self-Discovery'
 date: '2023-04-30'
 tags: ['Paulo Coelho', 'Spirituality', 'Self-Discovery', 'Love']

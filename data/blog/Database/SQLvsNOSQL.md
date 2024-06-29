@@ -1,4 +1,5 @@
 ---
+
 title: 'SQL vs NoSQL: Whats the Difference? 📊'
 date: '2023-02-19'
 tags: ['Database', 'SQL', 'NO-SQL', 'devops']

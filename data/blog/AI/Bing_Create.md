@@ -1,4 +1,5 @@
 ---
+
 title: 'Bing Create'
 date: '2023-04-20'
 tags: ['Art', 'AI', 'Bing', 'GPT', 'Dalle']

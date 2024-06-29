@@ -1,4 +1,5 @@
 ---
+
 title: 'Isaac Newton: The Alchemist Who Revolutionized Science'
 date: '2023-05-04'
 tags: ['Isaac Newton', 'Science', 'Alchemy', 'Spirituality', 'Innovation']

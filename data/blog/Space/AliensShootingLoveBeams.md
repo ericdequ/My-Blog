@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding Recent Widespread Visibility of the Northern Lights'
 date: '2024-05-14'
 tags:

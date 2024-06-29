@@ -1,4 +1,5 @@
 ---
+
 title: 'The Double Slit Experiment: Unraveling the Quantum Enigma and Its Metaphysical Implications'
 date: '2024-05-19'
 tags:

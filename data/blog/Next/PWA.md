@@ -1,4 +1,5 @@
 ---
+
 title: 'Elevate Your Web App: Transforming Next.js Project into a PWA 🚀'
 date: '2023-10-26'
 tags: ['Next.js', 'PWA', 'Web Development', 'Tutorial', 'devops']

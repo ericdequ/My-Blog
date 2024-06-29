@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Electrodynamics: Unveiling the Mystical Dance of Light and Matter'
 date: '2024-06-26'
 tags: ['Quantum Electrodynamics', 'QED', 'Quantum Field Theory', 'Particle Physics', 'Esoteric Physics']

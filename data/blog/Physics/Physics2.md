@@ -1,4 +1,5 @@
 ---
+
 title: College Physics 2 Rotational Motion, Vibrations and Waves, Fluid Mechanics, thermodynamics, and Electromagnetism 📚
 date: '2022-03-21'
 tags: ['physics', 'college', 'physics']

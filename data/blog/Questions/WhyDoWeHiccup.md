@@ -1,4 +1,5 @@
 ---
+
 title: "The Mysterious Case of the Hiccups: Uncovering the Causes and Cures"
 date: '2020-05-29'
 tags: ['Hiccups', 'Diaphragm', 'Involuntary Contractions', 'Vagus Nerve', 'Phrenic Nerve','Questions']

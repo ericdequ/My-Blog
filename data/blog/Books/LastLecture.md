@@ -1,4 +1,5 @@
 ---
+
 title: 'The Last Lecture: A Powerful Message of Living Life to the Fullest'
 date: '2023-04-30'
 tags: ['Lessons', 'Inspiration', 'Personal']

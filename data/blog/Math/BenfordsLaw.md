@@ -1,4 +1,5 @@
 ---
+
 title: 'Benfords Law: Unraveling the Secrets of Digits in the Digital Age'
 date: '2024-05-04'
 tags: ['Data Science', 'Fraud', 'AI']
@@ -20,7 +21,10 @@ $$
 P(d) = \log_{10}(1 + \frac{1}{d})
 $$
 
-where $d$ is the leading digit (1, 2, ..., 9). This means that the number 1 appears as the first digit about 30.1% of the time, while the number 9 appears only 4.6% of the time.
+where 
+
+$d$
+ is the leading digit (1, 2, ..., 9). This means that the number 1 appears as the first digit about 30.1% of the time, while the number 9 appears only 4.6% of the time.
 
 Here's a table showing the expected frequencies of each leading digit according to Benford's Law:
 

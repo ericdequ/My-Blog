@@ -1,4 +1,5 @@
 ---
+
 title: 'Mushroom Mycelium: The Key to Interstellar Exploration and Extraterrestrial Civilizations'
 date: '2024-05-13'
 tags:

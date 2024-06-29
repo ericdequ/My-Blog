@@ -1,4 +1,5 @@
 ---
+
 title: 'The No-Cloning Theorem: A Quantum Cover-Up'
 date: '2024-05-16'
 tags: ['Quantum Mechanics', 'Satire', 'Science', 'Humor', 'Pop Culture', 'Movies']

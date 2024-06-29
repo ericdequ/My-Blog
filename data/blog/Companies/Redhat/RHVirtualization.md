@@ -1,4 +1,5 @@
 ---
+
 title: 'Red Hat Virtualization: Redefining Infrastructure for Diverse Enterprise Needs 🌐🌌'
 date: '2023-08-11'
 tags: ['Red Hat Virtualization', 'Infrastructure', 'Public Sector', 'Private Sector', 'devops']

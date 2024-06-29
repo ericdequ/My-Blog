@@ -1,4 +1,5 @@
 ---
+
 title: 'Robot Ric: From Blog Post to Best-Selling Novel'
 date: '2024-06-20'
 tags:

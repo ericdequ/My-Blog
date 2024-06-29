@@ -1,4 +1,5 @@
 ---
+
 title: 'Absinthe: A Storied Elixir Poised for a Modern Revival'
 date: '2022-05-20'
 tags: ['Absinthe', 'History', 'Spirits', 'Revival', 'Cultural Heritage']

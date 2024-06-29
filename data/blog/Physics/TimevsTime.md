@@ -1,4 +1,5 @@
 ---
+
 title: 'Redefining Time: Introducing New Words for a Fundamental Dimension'
 date: '2024-05-16'
 tags: ['Time', 'Language', 'Physics', 'Philosophy', 'Semantics']

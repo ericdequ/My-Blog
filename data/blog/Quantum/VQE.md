@@ -1,4 +1,5 @@
 ---
+
 title: 'Variational Quantum Eigensolver: An Efficient Approach to Quantum Simulations'
 date: '2024-06-03'
 tags:
@@ -38,23 +39,53 @@ VQE employs a hybrid approach, combining quantum and classical computations in a
 
 ### Initialization and Trial Wave Function
 
-The VQE protocol begins with the initialization of a trial wave function $|\psi(\theta)\rangle$ on a quantum computer. Here, $\theta$ represents a set of tunable parameters that will be optimized throughout the process. The trial wave function is typically constructed using a parameterized quantum circuit, also known as an ansatz.
+The VQE protocol begins with the initialization of a trial wave function 
+
+$|\psi(\theta)\rangle$
+ on a quantum computer. Here, 
+
+$\theta$
+ represents a set of tunable parameters that will be optimized throughout the process. The trial wave function is typically constructed using a parameterized quantum circuit, also known as an ansatz.
 
 ### Measurement and Expectation Value
 
-The quantum processor evaluates the expectation value of the Hamiltonian $H$ for the trial wave function:
+The quantum processor evaluates the expectation value of the Hamiltonian 
 
-$$E(\theta) = \langle \psi(\theta) | H | \psi(\theta) \rangle$$
+$H$
+ for the trial wave function:
+
+$
+
+$E(\theta) = \langle \psi(\theta) | H | \psi(\theta) \rangle$
+$
 
 This involves repeated measurements to gather sufficient statistics and to measure in all required bases specified by the Hamiltonian, a process known as Hamiltonian averaging. The expectation value represents the average energy of the system for the given trial wave function.
 
 ### Classical Optimization
 
-A classical optimizer then adjusts the parameters $\theta$ to minimize the expectation value $E(\theta)$. Common optimization algorithms used in VQE include the Nelder-Mead simplex algorithm and stochastic gradient descent. The goal is to find the set of parameters that yield the lowest energy, thereby approximating the ground state.
+A classical optimizer then adjusts the parameters 
+
+$\theta$
+ to minimize the expectation value 
+
+$E(\theta)$
+. Common optimization algorithms used in VQE include the Nelder-Mead simplex algorithm and stochastic gradient descent. The goal is to find the set of parameters that yield the lowest energy, thereby approximating the ground state.
 
 ### Iterative Process
 
-This quantum-classical loop continues iteratively until the expectation value $E(\theta)$ converges to a steady state, ideally close to the ground-state energy $E_0$ of the Hamiltonian. The final set of optimized parameters $\theta^*$ defines the approximate ground state $|\psi(\theta^*)\rangle$.
+This quantum-classical loop continues iteratively until the expectation value 
+
+$E(\theta)$
+ converges to a steady state, ideally close to the ground-state energy 
+
+$E_0$
+ of the Hamiltonian. The final set of optimized parameters 
+
+$\theta^*$
+ defines the approximate ground state 
+
+$|\psi(\theta^*)\rangle$
+.
 
 ## 🧪 Ansatz Selection
 
@@ -96,7 +127,10 @@ VQE can also be used to study the behavior of strongly correlated systems, where
 
 1. **Convergence**: Ensuring that the classical optimization algorithm converges to the global minimum can be challenging. The optimization landscape may have many local minima, and the algorithm may get stuck in suboptimal solutions. Advanced optimization techniques, such as reinforcement learning or Bayesian optimization, are being explored to mitigate this issue.
 
-2. **State Preparation**: Efficiently preparing the trial wave function $|\psi(\theta)\rangle$ on a quantum computer is a complex task. The ansatz needs to be carefully designed to balance expressivity and implementability. Techniques like adiabatic state preparation or quantum circuit learning are being investigated to improve the efficiency of state preparation.
+2. **State Preparation**: Efficiently preparing the trial wave function 
+
+$|\psi(\theta)\rangle$
+ on a quantum computer is a complex task. The ansatz needs to be carefully designed to balance expressivity and implementability. Techniques like adiabatic state preparation or quantum circuit learning are being investigated to improve the efficiency of state preparation.
 
 3. **Measurement Overhead**: The need for repeated measurements in different bases can lead to significant overhead. Hamiltonian averaging requires measuring the expectation values of individual terms in the Hamiltonian, which scales with the system size. Techniques like grouping commuting terms or using low-rank approximations are being developed to reduce the measurement overhead.
 

@@ -1,4 +1,5 @@
 ---
+
 title: 'REDTEAM: Embracing Adversarial Tactics for Ironclad Security 🎯🚫'
 date: '2023-06-25'
 tags: ['REDTEAM', 'Cybersecurity', 'Adversarial Testing']

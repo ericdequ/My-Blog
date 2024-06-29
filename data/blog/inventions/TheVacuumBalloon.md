@@ -1,4 +1,5 @@
 ---
+
 title: 'The Vacuum Balloon: Exploring the Science and Feasibility of Lifting Payloads to Space'
 date: '2023-08-19'
 tags: ['Vacuum Balloon', 'Space Exploration', 'Physics', 'Buoyancy', 'Atmospheric Pressure']

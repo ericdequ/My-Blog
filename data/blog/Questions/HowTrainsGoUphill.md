@@ -1,4 +1,5 @@
 ---
+
 title: 'The Uphill Battle: How Trains Conquer Steep Inclines'
 date: '2020-05-29'
 tags: ['Trains', 'Transportation', 'Engineering', 'Friction', 'Traction','Questions']

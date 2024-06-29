@@ -1,4 +1,5 @@
 ---
+
 title: 'Getting Started with Manim: A Step-by-Step Guide'
 date: '2022-05-16'
 tags: ['Manim', 'Python', 'Animation', 'Data Visualization', 'Tutorial']

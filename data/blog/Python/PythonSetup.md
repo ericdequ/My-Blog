@@ -1,4 +1,5 @@
 ---
+
 title: 'Getting Started with Python: Your First Python Script 🚀'
 date: '2023-03-21'
 tags: ['Python', 'Programming', 'Tutorial', 'education', 'devops']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Gratitude: Effortless Thank You Cards for the Digital Age'
 date: '2023-05-18'
 tags: ['Gratitude', 'Thank You Cards', 'Gift Etiquette', 'Digital Communication']

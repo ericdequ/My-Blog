@@ -1,4 +1,5 @@
 ---
+
 title: 'Rethinking the World as we know it'
 date: '2023-09-15'
 tags: ['Quantum', 'Science', 'Rebel', 'digitaltransformation']

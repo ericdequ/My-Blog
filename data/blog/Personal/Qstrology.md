@@ -1,4 +1,5 @@
 ---
+
 title: 'Astrology and Quantum Entanglement: Unveiling the Cosmic Dance'
 date: '2024-01-04'
 tags: ['Astrology', 'Quantum Physics', 'Spirituality', 'Science', 'spiritual-practices']

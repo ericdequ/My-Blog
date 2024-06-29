@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Future Predictions: Gazing into the Quantum Horizon 🔮'
 date: '2023-09-14'
 tags: ['Quantum', 'Future', 'Predictions']

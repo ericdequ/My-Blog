@@ -1,4 +1,5 @@
 ---
+
 title: 'EPR Wormholes: Bridging Quantum Entanglement and Spacetime'
 date: '2024-06-27'
 tags: ['EPR Wormholes', 'Quantum Entanglement', 'General Relativity', 'Quantum Gravity']

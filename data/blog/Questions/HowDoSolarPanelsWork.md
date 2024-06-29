@@ -1,4 +1,5 @@
 ---
+
 title: "Harnessing the Sun: Unraveling the Science Behind Solar Panels"
 date: '2020-05-29'
 tags: ['Solar Energy', 'Photovoltaics', 'Renewable Energy', 'Semiconductors', 'P-N Junction','Questions']

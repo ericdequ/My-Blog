@@ -1,4 +1,5 @@
 ---
+
 title: 'Efficient Deployment with Serverless Google Cloud'
 date: '2024-02-21'
 tags: ['Serverless', 'Google Cloud', 'Cloud Computing', 'education', 'devops']

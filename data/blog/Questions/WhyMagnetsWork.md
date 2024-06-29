@@ -1,4 +1,5 @@
 ---
+
 title: "Why Magnets Work? : Exploring the Wonders of Magnets"
 date: '2023-08-19'
 tags: ['Magnets', 'Magnetism', 'Magnetic Fields', 'Domains', 'Electromagnetism','Questions']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Hemi-Sync: Unlocking Peak Performance Through Brain Synchronization'
 date: '2023-02-07'
 tags: ['Hemi-Sync', 'Brain Synchronization', 'Optimal Performance']

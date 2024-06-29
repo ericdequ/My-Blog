@@ -1,4 +1,5 @@
 ---
+
 title: 'Democratizing Drug Discovery: The Case for Open Source Pharma Platforms 💊🌍'
 date: '2024-06-10'
 tags:

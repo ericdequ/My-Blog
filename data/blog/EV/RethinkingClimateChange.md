@@ -1,4 +1,5 @@
 ---
+
 title: 'Facing the Climate Crisis Together: How Global Warming is an Opportunity for Unity and Innovation'
 date: '2024-04-17'
 tags:

@@ -1,4 +1,5 @@
 ---
+
 title: 'Be Safe and Secure with Credit Card Scanners 🔒'
 date: '2023-04-24'
 tags: ['CreditCard', 'Scanners', 'Cybersecurity', 'FraudPrevention']

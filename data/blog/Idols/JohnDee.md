@@ -1,4 +1,5 @@
 ---
+
 title: 'John Dee'
 date: '2022-09-06'
 tags: ['occultism', 'mathematics', 'astrology', 'advisors']

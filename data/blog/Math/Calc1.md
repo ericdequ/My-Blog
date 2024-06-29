@@ -1,4 +1,5 @@
 ---
+
 title: 'Calculus 1: The Foundations of Mathematics 💻'
 date: '2019-03-21'
 tags: ['Calculus', 'Mathematics', 'Education']

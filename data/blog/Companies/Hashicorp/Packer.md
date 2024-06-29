@@ -1,4 +1,5 @@
 ---
+
 title: 'Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️'
 date: '2023-08-05'
 tags: ['Packer', 'Image Creation', 'Automation', 'devops']

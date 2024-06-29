@@ -1,4 +1,5 @@
 ---
+
 title: 'The Teachings of Don Juan: A Yaqui Way of Knowledge - A Journey into the World of Shamanism'
 date: '2023-04-30'
 tags: ['Shamanism', 'Spiritual', 'Plant', life-lessons, 'spiritual-practices', 'carlos-castaneda']

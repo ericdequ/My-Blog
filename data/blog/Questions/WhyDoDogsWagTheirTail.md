@@ -1,4 +1,5 @@
 ---
+
 title: "The Tail-Wagging Truth: Decoding the Language of Dogs"
 date: '2020-05-29'
 tags: ['Dogs', 'Animal Behavior', 'Tail Wagging', 'Canine Communication', 'Emotions','Questions']

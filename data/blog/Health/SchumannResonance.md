@@ -1,4 +1,5 @@
 ---
+
 title: 'Exploring the Schumann Resonance: Effects on Healing, Wellness, and Plant Growth 🌍✨'
 date: '2023-08-27'
 tags:

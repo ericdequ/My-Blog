@@ -1,4 +1,5 @@
 ---
+
 title: "Capturing Moments: Unraveling the Science Behind How Cameras Work"
 date: '2020-05-29'
 tags: ['Cameras', 'Photography', 'Optics', 'Image Sensors', 'Aperture','Questions']

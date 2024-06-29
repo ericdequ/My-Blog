@@ -1,4 +1,5 @@
 ---
+
 title: 'Red Hat Enterprise Linux (RHEL): The Linux Pillar for Public and Private Enterprises 🌐🖥️'
 date: '2023-08-08'
 tags: ['RHEL', 'Enterprise Linux', 'Public Sector', 'Private Sector', 'devops']

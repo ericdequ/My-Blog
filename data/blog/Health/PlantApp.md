@@ -1,4 +1,5 @@
 ---
+
 title: 'Reconnecting with Nature through Plant Identification and Holistic Healing 🌿🩺'
 date: '2024-04-24'
 tags: ['Nature', 'Holistic Medicine', 'Mobile App', 'AI', 'Plant Identification']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Art of Misdirection: Hacking the Brain'
 date: '2022-05-04'
 tags: ['Misdirection', 'Neuroscience']

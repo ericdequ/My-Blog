@@ -1,4 +1,5 @@
 ---
+
 title: 'Golang and Gorilla Mux'
 date: '2023-02-03'
 tags: ['GO', 'Gorilla-Mux', 'Backend', 'education', 'devops']
@@ -79,5 +80,6 @@ go run main.go
 ### This will start the server on port 8080. We can open a web browser and go to http://localhost:8080 to see our web application.
 
 ## Conclusion
+
 In this blog post, we learned how to use Golang and gorilla mux to build a simple web application. We created a new project, created a main.go file, and started the server. We can now open a web browser and see our web application.
 ```

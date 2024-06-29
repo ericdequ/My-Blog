@@ -1,4 +1,5 @@
 ---
+
 title: 'Nikola Tesla'
 date: '2023-01-03'
 tags: ['idols', 'tesla', 'inventors']

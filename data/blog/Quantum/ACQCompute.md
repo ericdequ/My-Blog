@@ -1,4 +1,5 @@
 ---
+
 title: 'The Quantum Revolution: Harnessing Natures Alternating Currents for Sustainable Computing'
 date: '2024-05-02'
 tags: ['Quantum Computing', 'Energy Efficiency', 'Sustainable Technology', 'AI', 'Data Centers']

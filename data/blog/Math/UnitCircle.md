@@ -1,4 +1,5 @@
 ---
+
 title: 'Understanding Sine, Cosine, and the Unit Circle: Mapping Problems in a New Light 🌌'
 date: '2022-05-29'
 tags: ['Trigonometry', 'Mathematics', 'Education', 'Unit Circle', 'Sine', 'Cosine']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Defying Gravity: The Science Behind Airplanes Staying Aloft'
 date: '2020-05-29'
 tags: ['Airplanes', 'Aviation', 'Aerodynamics', 'Lift', 'Bernoullis Principle','Questions']

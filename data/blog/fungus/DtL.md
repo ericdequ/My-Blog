@@ -1,4 +1,5 @@
 ---
+
 title: 'Transforming Dried Mushrooms into Liquid Culture: A Modern Approach 🍄🔬'
 date: '2023-05-21'
 tags:

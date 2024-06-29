@@ -1,4 +1,5 @@
 ---
+
 title: 'The Desert Peace'
 date: '2023-05-20'
 tags: ['Short Story', 'War', 'Peace', 'life-lessons']

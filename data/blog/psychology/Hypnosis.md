@@ -1,4 +1,5 @@
 ---
+
 title: 'The Incredible World of Hypnosis: Exploring the Minds Untapped Potential'
 date: '2024-05-03'
 tags: ['Hypnosis', 'Subconscious']

@@ -1,4 +1,5 @@
 ---
+
 title: '⚽ Life Lessons from the Beautiful Game 🌍'
 date: '2019-10-19'
 tags: ['Soccer', 'Subculture', 'Diversity', 'Life-Lessons', 'Personal-Growth']

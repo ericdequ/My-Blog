@@ -1,4 +1,5 @@
 ---
+
 title: 'GPT API'
 date: '2023-04-11'
 tags: ['GPT', 'AI', 'API']
@@ -14,19 +15,19 @@ This README provides a comprehensive guide to working with the OpenAI API for ge
 
 ## Table of Contents 📚
 
-- [Working with OpenAI API 🚀🤖](#working-with-openai-api-)
-  - [Table of Contents 📚](#table-of-contents-)
-  - [Prerequisites ⚙️](#prerequisites-️)
-  - [Installation 📦](#installation-)
-  - [Configuration 🔧](#configuration-)
-  - [Usage 🛠️](#usage-️)
-  - [Text Generation 📝](#text-generation-)
-  - [Translation 🌍](#translation-)
-  - [Content Creation 🎨](#content-creation-)
-  - [Question Answering ❓](#question-answering-)
-  - [Tips and Best Practices 🎓](#tips-and-best-practices-)
-  - [Support and Community 💬](#support-and-community-)
-  - [License 📄](#license-)
+- [Working with OpenAI API 🚀🤖](#w orking-with-openai-api-)
+  - [Table of Contents 📚](#t able-of-contents-)
+  - [Prerequisites ⚙️](#p rerequisites-️)
+  - [Installation 📦](#i nstallation-)
+  - [Configuration 🔧](#c onfiguration-)
+  - [Usage 🛠️](#u sage-️)
+  - [Text Generation 📝](#t ext-generation-)
+  - [Translation 🌍](#t ranslation-)
+  - [Content Creation 🎨](#c ontent-creation-)
+  - [Question Answering ❓](#q uestion-answering-)
+  - [Tips and Best Practices 🎓](#t ips-and-best-practices-)
+  - [Support and Community 💬](#s upport-and-community-)
+  - [License 📄](#l icense-)
 
 ## Prerequisites ⚙️
 

@@ -1,4 +1,5 @@
 ---
+
 title: 'Building a Sustainable Future: Eco-Friendly Construction and Development'
 date: '2023-06-07'
 tags: ['Sustainable Building', 'Eco-Friendly Construction', 'Smart Homes', 'Green Architecture']

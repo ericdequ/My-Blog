@@ -1,4 +1,5 @@
 ---
+
 title: 'The Benefits of Ingesting Cordyceps: A Natural Boost for Health and Vitality'
 date: '2023-05-21'
 tags: ['Health', 'Nutrition', 'Herbal Medicine', 'Cordyceps', 'Fungi', 'Mycology', 'Wellness']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Quantum Key Distribution - BBM92'
 date: '2024-06-04'
 tags:
@@ -14,6 +15,7 @@ summary: 'Explore the BBM92 protocol for quantum key distribution, a method leve
 
 images: ['https://www.rics-notebook.com/articleimage/QuantumCyber/BBM.webp']
 ---
+
 # Quantum Key Distribution - BBM92
 
 ## 🌌 Introduction: BBM92 Quantum Key Distribution
@@ -28,10 +30,21 @@ The BBM92 protocol is an entanglement-based QKD protocol that uses pairs of enta
 
 In BBM92, entangled photon pairs are created in a maximally entangled Bell state. These states are defined as:
 
-- $|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
-- $|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
-- $|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
-- $|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
+- 
+
+$|\Psi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle + |V\rangle|H\rangle)$
+
+- 
+
+$|\Psi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|V\rangle - |V\rangle|H\rangle)$
+
+- 
+
+$|\Phi^+\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle + |V\rangle|V\rangle)$
+
+- 
+
+$|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
 
 These states exhibit perfect correlations, meaning measurements on one photon instantly determine the other's state, regardless of distance.
 
@@ -45,8 +58,19 @@ The protocol begins with generating entangled photon pairs in a Bell state, typi
 
 Alice and Bob randomly choose a measurement basis for each received photon:
 
-- Rectilinear basis: $H$ (0°) and $V$ (90°)
-- Diagonal basis: $+45^\circ$ and $-45^\circ$
+- Rectilinear basis: 
+
+$H$
+ (0°) and 
+
+$V$
+ (90°)
+- Diagonal basis: 
+
+$+45^\circ$
+ and 
+
+$-45^\circ$
 
 They measure each photon's polarization in their chosen basis and record results.
 

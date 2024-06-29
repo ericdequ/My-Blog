@@ -1,4 +1,5 @@
 ---
+
 title: "Purple Shampoo: The Science Behind Blonde Hair Maintenance"
 date: '2021-06-18'
 tags: ['Purple Shampoo', 'Blonde Hair', 'Hair Care', 'Color Theory', 'Tips']
@@ -19,10 +20,12 @@ The key to understanding how purple shampoo works lies in the principles of colo
 ## 🎨 Color Theory Basics 🎨
 
 ### Complementary Colors:
+
 - **Opposite on the Color Wheel**: Purple and yellow are complementary colors, meaning they sit opposite each other on the color wheel.
 - **Neutralization**: When complementary colors are mixed together, they neutralize each other, resulting in a more muted or balanced tone.
 
 ### Blonde Hair Challenges:
+
 - **Brassy Tones**: Blonde hair, especially when lightened or highlighted, tends to develop unwanted brassy, yellow, or orange tones over time due to factors like sun exposure, hard water, and heat styling.
 
 ## 💡 How Purple Shampoo Works 💡
@@ -37,14 +40,17 @@ Purple shampoo contains purple pigments that work to neutralize the unwanted yel
 To get the most out of your purple shampoo and maintain stunning blonde locks, follow these tips:
 
 ### 🕰️ Timing is Key:
+
 - **Start Slowly**: If you're new to purple shampoo, start by using it once a week and gradually increase frequency if needed.
 - **Leave it On**: For best results, let the purple shampoo sit on your hair for 2-5 minutes before rinsing.
 
 ### 🚿 Proper Application:
+
 - **Focus on Brassy Areas**: Apply purple shampoo primarily to the areas where brassiness tends to appear, such as the ends and around the face.
 - **Avoid Over-Use**: Using purple shampoo too often or leaving it on for too long can lead to a purple tint in your hair.
 
 ### 🧴 Pair with the Right Products:
+
 - **Purple Conditioner**: Follow up with a purple conditioner for added color correction and moisture.
 - **Moisturizing Products**: Keep your blonde hair healthy and hydrated with regular deep conditioning treatments and moisturizing styling products.
 

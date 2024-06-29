@@ -1,4 +1,5 @@
 ---
+
 title: 'QPR Quantum Pack & Route: Revolutionizing Logistics with Quantum-Optimized Routing and Packing'
 date: '2024-05-17'
 tags:

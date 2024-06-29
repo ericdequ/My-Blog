@@ -1,4 +1,5 @@
 ---
+
 title: 'From the Eleusinian Mysteries to the Salem Witch Trials: The Role of Ergot and LSA in History 🌾🔮'
 date: '2022-05-02'
 tags:

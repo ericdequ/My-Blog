@@ -1,4 +1,5 @@
 ---
+
 title: 'Mescaline: Exploring the Psychedelic Path to Antidepressant Treatments 🌵✨'
 date: '2022-05-11'
 tags:

@@ -1,4 +1,5 @@
 ---
+
 title: 'Harnessing Quantum Computing for Next-Generation Drug Discovery 🔬💊'
 date: '2024-04-19'
 tags: ['Quantum Computing', 'Drug Discovery', 'Mental Health', 'Pharmacology', 'Neuroscience']

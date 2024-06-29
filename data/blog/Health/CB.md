@@ -1,4 +1,5 @@
 ---
+
 title: 'Exploring the Potential Benefits of 2C-B: A Promising Avenue for Nootropics and Antidepressants 💊✨'
 date: '2022-05-01'
 tags:

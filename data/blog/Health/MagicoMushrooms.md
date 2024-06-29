@@ -1,4 +1,5 @@
 ---
+
 title: 'The Magic of Mushrooms: Exploring Types and Their Potential Benefits 🍄'
 date: '2023-05-20'
 tags: ['Mushrooms', 'Health Benefits', 'Nutrition', 'Superfoods', 'Natural Remedies', 'Fungi']

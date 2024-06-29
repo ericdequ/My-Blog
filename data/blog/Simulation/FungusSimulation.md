@@ -1,4 +1,5 @@
 ---
+
 title: 'Slime Mold and the Future of Sustainable Infrastructure: Learning from Natures Efficiency'
 date: '2024-03-16'
 tags:

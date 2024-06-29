@@ -1,4 +1,5 @@
 ---
+
 title: '🥳 Fun with Science: Exploring Non-Newtonian Fluids with Oobleck 🥳'
 date: '2017-11-21'
 tags: ['Oobleck', 'Non-Newtonian Fluids', 'Science Experiments', 'Kids Science', 'Physics', 'Fun with Science']
@@ -17,11 +18,13 @@ Oobleck is a classic science experiment that introduces kids to the strange and 
 Oobleck is a non-Newtonian fluid, which means its viscosity (resistance to flow) changes under stress or force. Unlike Newtonian fluids (like water), which have a constant viscosity, non-Newtonian fluids like Oobleck can become more solid-like when subjected to pressure.
 
 ### 🌟 Key Concepts:
+
 - **Viscosity**: A measure of a fluid's resistance to flow.
 - **Non-Newtonian Fluid**: A fluid whose viscosity changes with applied stress or force.
 - **Shear Thickening**: A property of some non-Newtonian fluids where they become more viscous (thicker) when agitated or stressed.
 
 ## 🧪 Materials Needed 🧪
+
 - Cornstarch
 - Water
 - Food coloring (optional)
@@ -47,11 +50,13 @@ Oobleck is a non-Newtonian fluid, which means its viscosity (resistance to flow)
 ## 🎓 Teaching Kids About Oobleck 🎓
 
 ### One-on-One Lesson:
+
 1. **Introduction**: Explain the concept of non-Newtonian fluids and how Oobleck is an example. Ask the child if they can think of other substances that might behave similarly.
 2. **Hands-On Activity**: Let the child measure and mix the ingredients. Encourage them to describe how the Oobleck feels and behaves.
 3. **Discussion**: Ask questions to prompt thinking, such as "Why do you think Oobleck behaves differently when you apply pressure?" or "What do you notice when you move your hand slowly through the Oobleck?"
 
 ### Classroom Activity:
+
 1. **Group Discussion**: Start with a brief discussion about fluids and viscosity. Show a video or demonstration of Oobleck to grab their interest.
 2. **Group Experiment**: Divide the class into small groups. Provide each group with the materials needed to make Oobleck.
 3. **Interactive Exploration**: Once all groups have made their Oobleck, encourage them to test its properties. Assign different tasks, like making Oobleck dance on a speaker or testing it with various objects.
@@ -60,10 +65,12 @@ Oobleck is a non-Newtonian fluid, which means its viscosity (resistance to flow)
 ## 🏆 Best Practices for Performing the Experiment 🏆
 
 ### One-on-One:
+
 - **Engagement**: Keep the child engaged by asking questions and encouraging them to explore different ways to interact with the Oobleck.
 - **Safety**: Ensure the child understands not to eat the Oobleck and to wash their hands thoroughly after the experiment.
 
 ### Classroom Setting:
+
 - **Preparation**: Prepare materials in advance and ensure each group has enough space to work comfortably.
 - **Supervision**: Monitor the groups to ensure they stay on task and handle the materials safely.
 - **Clean-Up**: Have a plan for clean-up, as Oobleck can be messy. Provide wipes or cloths for quick clean-ups and designate a disposal area for the used mixture.

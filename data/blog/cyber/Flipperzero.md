@@ -1,4 +1,5 @@
 ---
+
 title: 'Flipper Zero: The Ultimate Guide to Setup, Functionality, and Technical Insights'
 date: '2024-01-20'
 tags: ['Flipper Zero', 'Hacking', 'Cybersecurity', 'IoT', 'Gadgets', 'Technical Guide']

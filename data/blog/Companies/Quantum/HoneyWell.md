@@ -1,4 +1,5 @@
 ---
+
 title: 'Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing'
 date: '2024-04-01'
 tags:

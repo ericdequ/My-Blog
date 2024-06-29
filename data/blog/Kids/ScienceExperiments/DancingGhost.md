@@ -1,4 +1,5 @@
 ---
+
 title: '👻 Dancing Ghosts: Exploring Static Electricity with Tissue Paper 👻'
 date: '2018-03-23'
 tags: ['Static Electricity', 'Dancing Ghosts', 'Science Experiments', 'Kids Science', 'Physics', 'Fun with Science']
@@ -17,11 +18,13 @@ Making tissue paper ghosts dance with static electricity is a fun and simple sci
 Static electricity is the result of an imbalance between positive and negative charges in objects. When certain materials are rubbed together, electrons are transferred from one material to the other, creating static electricity. The charged object can then attract or repel other objects with opposite or similar charges.
 
 ### 🌟 Key Concepts:
+
 - **Static Electricity**: The buildup of electric charge on the surface of objects.
 - **Electrons**: Negatively charged particles that can move from one object to another.
 - **Attraction and Repulsion**: Objects with opposite charges attract each other, while objects with similar charges repel each other.
 
 ## 🧪 Materials Needed 🧪
+
 - Tissue paper
 - Scissors
 - A balloon
@@ -44,11 +47,13 @@ Static electricity is the result of an imbalance between positive and negative c
 ## 🎓 Teaching Kids About Static Electricity 🎓
 
 ### One-on-One Lesson:
+
 1. **Introduction**: Explain the basic concepts of static electricity and how rubbing certain materials together can create a static charge.
 2. **Hands-On Activity**: Let the child help cut out the ghost shapes and generate the static charge on the balloon. Guide them through the steps, ensuring they understand each part of the process.
 3. **Discussion**: Ask questions to encourage thinking, such as "Why do you think the ghosts are attracted to the balloon?" or "What happens if you rub the balloon on a different material?"
 
 ### Classroom Activity:
+
 1. **Group Discussion**: Start with a brief explanation of static electricity and electrostatic forces. Show a video or perform a small-scale demonstration to capture interest.
 2. **Group Experiment**: Divide the class into small groups. Provide each group with the necessary materials to create their dancing ghosts.
 3. **Interactive Exploration**: Allow the groups to perform the experiment and observe the effects of static electricity. Encourage them to note how different materials affect the static charge.
@@ -57,10 +62,12 @@ Static electricity is the result of an imbalance between positive and negative c
 ## 🏆 Best Practices for Performing the Experiment 🏆
 
 ### One-on-One:
+
 - **Engagement**: Keep the child engaged by allowing them to handle the materials and generate the static charge. Encourage them to ask questions and make predictions.
 - **Safety**: Ensure the child understands not to rub the balloon too hard on their hair to avoid static shocks. Supervise closely and provide guidance as needed.
 
 ### Classroom Setting:
+
 - **Preparation**: Prepare all materials in advance and ensure each group has a designated area to work. Lay down protective coverings to manage any mess.
 - **Supervision**: Monitor the groups to ensure they handle the materials safely and follow instructions.
 - **Clean-Up**: Have a plan for clean-up, as the tissue paper can create small bits of debris. Provide wipes or cloths for quick clean-ups and designate a disposal area for the used materials.

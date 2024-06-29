@@ -1,4 +1,5 @@
 ---
+
 title: 'DIY Summer Dinghy Project: Build Your Own Floating Deck! 🌞'
 date: '2022-05-20'
 tags:
@@ -15,7 +16,6 @@ summary: 'Dive into our comprehensive guide to building your own summer dinghy. 
 
 images: ['https://www.rics-notebook.com/articleimage/inventions/Dingy.webp']
 ---
-
 
 # DIY Summer Dinghy Project: Build Your Own Floating Deck! 🌞🚤
 

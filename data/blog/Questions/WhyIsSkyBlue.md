@@ -1,4 +1,5 @@
 ---
+
 title: "The Skys Blue Hue: Unraveling the Mystery and Exploring Other Worlds"
 date: '2020-05-29'
 tags: ['Sky', 'Blue', 'Atmosphere', 'Light', 'Scattering', 'Planets', 'Astronomy','Questions']
@@ -55,22 +56,27 @@ The intensity and shade of blue in the sky can vary depending on various factors
 What would the sky look like if you were standing on another planet? Let's explore!
 
 ### 🌕 The Moon
+
 - **Sky Color**: Black
 - **Reason**: The Moon has no atmosphere to scatter sunlight, so the sky appears black, even during the day.
 
 ### 🔴 Mars
+
 - **Sky Color**: Butterscotch to Orange
 - **Reason**: Mars has a thin atmosphere filled with fine dust particles that scatter sunlight differently than Earth's atmosphere. The dust particles give the Martian sky a reddish or butterscotch hue.
 
 ### 🌞 Venus
+
 - **Sky Color**: Yellowish
 - **Reason**: Venus has a thick atmosphere made mostly of carbon dioxide with clouds of sulfuric acid. This dense atmosphere scatters light in a way that makes the sky appear yellowish.
 
 ### 🌍 Titan (Moon of Saturn)
+
 - **Sky Color**: Orange
 - **Reason**: Titan's thick atmosphere is rich in nitrogen and methane, which scatters sunlight and creates a hazy, orange-colored sky.
 
 ### 🔵 Neptune
+
 - **Sky Color**: Blue
 - **Reason**: Neptune's atmosphere contains hydrogen, helium, and methane. The methane absorbs red light and scatters blue light, giving the sky a striking blue color, similar to Earth's but for different reasons.
 

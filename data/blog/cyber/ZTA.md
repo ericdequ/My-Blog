@@ -1,4 +1,5 @@
 ---
+
 title: 'ZTA Revolutionizing Cybersecurity with Zero Trust 🚫🔒'
 date: '2023-08-13'
 tags: ['ZTA', 'Zero Trust', 'Cybersecurity']

@@ -1,4 +1,5 @@
 ---
+
 title: 'The Psilocybin Mushroom Bible: A Comprehensive Guide to Growing and Using Magic Mushrooms 🍄'
 date: '2021-05-20'
 tags:

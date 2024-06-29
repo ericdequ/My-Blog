@@ -1,4 +1,5 @@
 ---
+
 title: '🎨 Rumpus Art Raffle: A Symphony of Serendipity'
 date: '2023-09-29'
 tags: ['Art', 'Raffle', 'Veronica', 'RumpusArt']
@@ -24,6 +25,7 @@ And who knows? The universe might just have another delightful surprise waiting 
 [![Raffle Joy](https://www.rics-notebook.com/rumpus.webp)](https://rumpusart.com/)
 
 ### 🎨 Explore Veronica's Captivating Collections:
+
 - [**Ignite Collection**](https://rumpusart.myshopify.com/collections/ignite-collection) 🔥
 - [**Balance Collection**](https://rumpusart.myshopify.com/collections/balance-collection) ⚖️
 - [**Complexity Collection**](https://rumpusart.myshopify.com/collections/complexity) 🧩

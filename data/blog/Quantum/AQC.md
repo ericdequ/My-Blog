@@ -1,4 +1,5 @@
 ---
+
 title: 'Adiabatic Quantum Computing: Concept, Applications, and Challenges'
 date: '2024-06-24'
 tags:
@@ -28,7 +29,28 @@ The foundation of AQC lies in the adiabatic theorem, first stated by Max Born an
 
 The adiabatic theorem can be expressed mathematically as follows:
 
-Let $H(t)$ be a time-dependent Hamiltonian with instantaneous eigenstates $|\psi_n(t)\rangle$ and eigenvalues $E_n(t)$. If the system starts in the ground state $|\psi_0(0)\rangle$ at $t=0$, and the evolution is slow enough, the state of the system at time $T$ will be close to the instantaneous ground state $|\psi_0(T)\rangle$, up to a phase factor.
+Let 
+
+$H(t)$
+ be a time-dependent Hamiltonian with instantaneous eigenstates 
+
+$|\psi_n(t)\rangle$
+ and eigenvalues 
+
+$E_n(t)$
+. If the system starts in the ground state 
+
+$|\psi_0(0)\rangle$
+ at 
+
+$t=0$
+, and the evolution is slow enough, the state of the system at time 
+
+$T$
+ will be close to the instantaneous ground state 
+
+$|\psi_0(T)\rangle$
+, up to a phase factor.
 
 The condition for adiabaticity is often expressed as:
 
@@ -36,7 +58,10 @@ $$
 \max_{0\leq t\leq T} \left|\frac{\langle\psi_1(t)|\frac{d}{dt}|\psi_0(t)\rangle}{E_1(t) - E_0(t)}\right| \ll 1
 $$
 
-where $|\psi_1(t)\rangle$ is the first excited state.
+where 
+
+$|\psi_1(t)\rangle$
+ is the first excited state.
 
 ## 🛠 The AQC Algorithm
 
@@ -44,17 +69,44 @@ where $|\psi_1(t)\rangle$ is the first excited state.
 
 An AQC algorithm consists of three primary components:
 
-1. **Initial Hamiltonian** ($H_{\text{initial}}$): Chosen to have a known ground state that is easy to prepare. An example is a Hamiltonian that aligns all spins along a specific axis.
-2. **Problem Hamiltonian** ($H_{\text{problem}}$): Encodes the solution to the computational problem. This Hamiltonian is designed within the constraints of the quantum hardware.
-3. **Evolution Path**: A smooth transition from $H_{\text{initial}}$ to $H_{\text{problem}}$, ensuring the system remains in the ground state throughout the process.
+1. **Initial Hamiltonian** (
+
+$H_{\text{initial}}$
+): Chosen to have a known ground state that is easy to prepare. An example is a Hamiltonian that aligns all spins along a specific axis.
+2. **Problem Hamiltonian** (
+
+$H_{\text{problem}}$
+): Encodes the solution to the computational problem. This Hamiltonian is designed within the constraints of the quantum hardware.
+3. **Evolution Path**: A smooth transition from 
+
+$H_{\text{initial}}$
+ to 
+
+$H_{\text{problem}}$
+, ensuring the system remains in the ground state throughout the process.
 
 ### Evolution Process
 
-The system starts in the ground state of $H_{\text{initial}}$ and evolves adiabatically into the ground state of $H_{\text{problem}}$. The evolution is governed by a time-dependent Hamiltonian $H(t)$, which interpolates between the initial and problem Hamiltonians:
+The system starts in the ground state of 
 
-$$ H(t) = (1 - s(t)) H_{\text{initial}} + s(t) H_{\text{problem}} $$
+$H_{\text{initial}}$
+ and evolves adiabatically into the ground state of 
 
-where $s(t)$ is a scheduling function that smoothly varies from 0 to 1 as time progresses.
+$H_{\text{problem}}$
+. The evolution is governed by a time-dependent Hamiltonian 
+
+$H(t)$
+, which interpolates between the initial and problem Hamiltonians:
+
+$
+
+$ H(t) = (1 - s(t)) H_{\text{initial}} + s(t) H_{\text{problem}} $
+$
+
+where 
+
+$s(t)$
+ is a scheduling function that smoothly varies from 0 to 1 as time progresses.
 
 ### Quantum Speedup
 
@@ -73,11 +125,41 @@ AQC is particularly well-suited for solving optimization problems. It can be app
 
 #### Case Study: Traveling Salesman Problem
 
-The Traveling Salesman Problem (TSP) is a classic NP-hard optimization problem that can be addressed using AQC. The problem involves finding the shortest possible route that visits each city exactly once and returns to the origin city. For a TSP with $n$ cities, the problem Hamiltonian can be constructed as:
+The Traveling Salesman Problem (TSP) is a classic NP-hard optimization problem that can be addressed using AQC. The problem involves finding the shortest possible route that visits each city exactly once and returns to the origin city. For a TSP with 
 
-$$ H_{\text{problem}} = A\sum_{i=1}^n (1 - \sum_{p=1}^n x_{i,p})^2 + A\sum_{p=1}^n (1 - \sum_{i=1}^n x_{i,p})^2 + B\sum_{i,j=1}^n \sum_{p=1}^{n-1} d_{ij} x_{i,p} x_{j,p+1} $$
+$n$
+ cities, the problem Hamiltonian can be constructed as:
 
-where $x_{i,p}$ is 1 if city $i$ is visited at position $p$ in the tour and 0 otherwise, $d_{ij}$ is the distance between cities $i$ and $j$, and $A$ and $B$ are coefficients to balance the constraints and objective function.
+$
+
+$ H_{\text{problem}} = A\sum_{i=1}^n (1 - \sum_{p=1}^n x_{i,p})^2 + A\sum_{p=1}^n (1 - \sum_{i=1}^n x_{i,p})^2 + B\sum_{i,j=1}^n \sum_{p=1}^{n-1} d_{ij} x_{i,p} x_{j,p+1} $
+$
+
+where 
+
+$x_{i,p}$
+ is 1 if city 
+
+$i$
+ is visited at position 
+
+$p$
+ in the tour and 0 otherwise, 
+
+$d_{ij}$
+ is the distance between cities 
+
+$i$
+ and 
+
+$j$
+, and 
+
+$A$
+ and 
+
+$B$
+ are coefficients to balance the constraints and objective function.
 
 ### Quantum Simulation
 

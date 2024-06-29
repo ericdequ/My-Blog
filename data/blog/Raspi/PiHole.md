@@ -1,4 +1,5 @@
 ---
+
 title: 'Pi-hole: Block Ads and Trackers on Your Network 🌐🚫'
 date: '2023-03-21'
 tags: ['Pihole', 'RaspberryPi', 'DNS', 'Network', 'AdBlocker']

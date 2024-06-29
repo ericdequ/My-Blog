@@ -1,4 +1,5 @@
 ---
+
 title: 'Protect Your Website from XSS Attacks 🔒'
 date: '2023-04-24'
 tags: ['XSS', 'Attacks', 'Cybersecurity']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Bells Inequality and Its Implications'
 date: '2024-06-11'
 tags:

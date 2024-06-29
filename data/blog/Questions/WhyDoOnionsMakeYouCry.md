@@ -1,4 +1,5 @@
 ---
+
 title: "The Tearful Truth: Exploring the Science of Why Onions Make You Cry"
 date: '2020-05-29'
 tags: ['Onions', 'Lachrymatory Factor', 'Sulfenic Acids', 'Syn-Propanethial-S-Oxide', 'Crying','Questions']
