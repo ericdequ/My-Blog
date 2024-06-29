@@ -1,8 +1,8 @@
 ---
 title: 'Morphic Resonance Theory: Exploring Natures Memory and Collective Knowledge'
-date: '2024-06-26'
+date: '2024-06-28'
 tags: ['Morphic Resonance', 'Rupert Sheldrake', 'Quantum Field Theory', 'Collective Consciousness', 'Nature']
-draft: true
+draft: false
 summary: 'This blog post delves into the intriguing concept of Morphic Resonance Theory, its implications for understanding nature and human knowledge, and its relationship to Quantum Field Theory.'
 images: ['https://www.rics-notebook.com/Physics/MFT.webp']
 ---

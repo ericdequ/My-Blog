@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 28 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/morphic-resonance/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/MFT</guid>
+    <title>Morphic Resonance Theory: Exploring Natures Memory and Collective Knowledge</title>
+    <link>https://www.rics-notebook.com/blog/Physics/MFT</link>
+    <description>This blog post delves into the intriguing concept of Morphic Resonance Theory, its implications for understanding nature and human knowledge, and its relationship to Quantum Field Theory.</description>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Morphic Resonance</category><category>Rupert Sheldrake</category><category>Quantum Field Theory</category><category>Collective Consciousness</category><category>Nature</category>
+  </item>
+
+    </channel>
+  </rss>

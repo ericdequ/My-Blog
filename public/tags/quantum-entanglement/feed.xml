@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 13 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 27 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-entanglement/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/EPR</guid>
+    <title>EPR Wormholes: Bridging Quantum Entanglement and Spacetime</title>
+    <link>https://www.rics-notebook.com/blog/Physics/EPR</link>
+    <description>This article explores the fascinating concept of EPR wormholes, which connect quantum entanglement with the geometry of spacetime, potentially offering insights into quantum gravity.</description>
+    <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>EPR Wormholes</category><category>Quantum Entanglement</category><category>General Relativity</category><category>Quantum Gravity</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Physics/QuantumTeleportationandEntanglement</guid>
     <title>Quantum Teleportation and Entanglement: Bridging Space with Quantum Information</title>

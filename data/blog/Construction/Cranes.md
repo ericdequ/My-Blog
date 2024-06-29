@@ -1,5 +1,5 @@
 ---
-title: 'How Are Cranes Built ?'
+title: 'How Are Cranes Built'
 date: '2022-05-18'
 tags:
   [

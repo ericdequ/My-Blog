@@ -18,9 +18,5 @@ When I'm not immersed in the world of quantum computing, I find myself captivate
 
 I'm always eager to connect with like-minded professionals who share my passion for the intersection of quantum computing and the boundless creativity of the human mind. Whether it's discussing emerging trends in quantum technologies, delving into the philosophical implications of consciousness, or exploring new opportunities for collaboration, I'm ready to embark on thought-provoking conversations that push the boundaries of our understanding. 💡🗣️
 
-My pronouns are We/One because we are all one & we will win. 😁
-
-Feel free to connect with me on LinkedIn and message me if you have any questions about my notebook or just want to chat.
-
 “The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence.”
 ― Nikola Tesla

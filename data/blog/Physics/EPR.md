@@ -1,8 +1,8 @@
 ---
 title: 'EPR Wormholes: Bridging Quantum Entanglement and Spacetime'
-date: '2024-06-26'
+date: '2024-06-27'
 tags: ['EPR Wormholes', 'Quantum Entanglement', 'General Relativity', 'Quantum Gravity']
-draft: true
+draft: false
 summary: 'This article explores the fascinating concept of EPR wormholes, which connect quantum entanglement with the geometry of spacetime, potentially offering insights into quantum gravity.'
 
 images: ['https://www.rics-notebook.com/Physics/EPR.webp']
