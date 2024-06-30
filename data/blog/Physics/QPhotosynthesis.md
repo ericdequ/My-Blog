@@ -1,9 +1,9 @@
 ---
 
 title: 'Photosynthesis: From Quantum Magic to Plant Mass'
-date: '2024-06-26'
+date: '2024-06-30'
 tags: ['Photosynthesis', 'Quantum Biology', 'Plant Science', 'Energy Conversion']
-draft: true
+draft: false
 summary: 'This article delves into the fascinating process of photosynthesis, exploring both its classical understanding and the emerging quantum perspective, revealing how plants transform light into mass at the most fundamental level.'
 
 images: ['https://www.rics-notebook.com/Physics/QPhotosynthesis.webp']
