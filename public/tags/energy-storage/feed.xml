@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/ac/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/energy-storage/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/Energy/SolarAC</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Solar Energy</category><category>AC</category><category>DC</category><category>Efficiency</category><category>Smart Grids</category><category>Energy Storage</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Physics/ACvsDC</guid>
-    <title>AC vs DC: Understanding the Differences 🔌</title>
-    <link>https://www.rics-notebook.com/blog/Physics/ACvsDC</link>
-    <description>AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.</description>
-    <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Electrictiy</category><category>AC</category><category>DC</category><category>Physics</category>
   </item>
 
     </channel>
