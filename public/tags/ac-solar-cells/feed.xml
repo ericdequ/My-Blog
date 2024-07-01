@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 01 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/ac-solar-cells/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Energy/QCSolarAC</guid>
+    <title>Quantum Computing: Revolutionizing Solar Cell Design and Efficiency 🌞💻</title>
+    <link>https://www.rics-notebook.com/blog/Energy/QCSolarAC</link>
+    <description>Quantum computers have the potential to revolutionize the design and optimization of solar cells, particularly in the development of AC solar cells. By leveraging the power of quantum simulations, researchers can explore new materials and configurations to maximize solar energy conversion efficiency.</description>
+    <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Solar Energy</category><category>AC Solar Cells</category><category>Simulations</category><category>Optimization</category>
+  </item>
+
+    </channel>
+  </rss>

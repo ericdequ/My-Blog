@@ -133,10 +133,12 @@ While promising, direct AC capture from solar panels faces several challenges:
 
 Harnessing the sun's natural AC energy directly is an exciting frontier in solar technology. By eliminating the need for DC to AC conversion, we can enhance efficiency, reduce costs, and simplify system designs. The integration of direct AC capture with smart grid technologies and advanced energy storage solutions paves the way for a more sustainable and reliable energy future. Ongoing research and development are crucial to overcoming current challenges and realizing the full potential of this innovative approach.
 
-
 In the words of physicist Richard Feynman, "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical."
 
 I believe this holds true as we are trying to classically mimic the Quantum Process of Photosynthesis 
 
 If You Want To Read More About Photosynthesis from a Quantum Perspective Check Out 
 [Here](https://www.rics-notebook.com/blog/Physics/QPhotosynthesis)
+
+Checkout How Quantum Computers Could be Used to simulate this idea to improve Solar Cells
+[Here](https://www.rics-notebook.com/blog/Physics/QCSolarAC)
