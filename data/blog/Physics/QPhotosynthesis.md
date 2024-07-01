@@ -6,7 +6,7 @@ tags: ['Photosynthesis', 'Quantum Biology', 'Plant Science', 'Energy Conversion'
 draft: false
 summary: 'This article delves into the fascinating process of photosynthesis, exploring both its classical understanding and the emerging quantum perspective, revealing how plants transform light into mass at the most fundamental level.'
 
-images: ['https://www.rics-notebook.com/Physics/QPhotosynthesis.webp']
+images: ['https://www.rics-notebook.com/articleimage/Physics/QPhotosynthesis.webp']
 ---
 
 # 🌿🔬 Photosynthesis: Nature's Quantum Alchemy 🔬🌿

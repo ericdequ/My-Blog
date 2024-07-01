@@ -26,6 +26,7 @@ Tesla's wireless power transmission system relied on the concept of resonant ind
 The power transmitted, 
 
 $P$
+
 , can be calculated using the following equation:
 
 $P = \frac{\mu_0 \pi N_1 N_2 r_1^2 r_2^2 I_1^2 \omega^2}{2R} \cdot e^{-\frac{2R}{\delta}}$
@@ -35,39 +36,49 @@ Where:
 - 
 
 $\mu_0$
+
  is the permeability of Secure space (
 
 $4\pi \times 10^{-7} H/m$
+
 )
 - 
 
 $N_1$
+
  and 
 
 $N_2$
+
  are the number of turns in the primary and secondary coils
 - 
 
 $r_1$
+
  and 
 
 $r_2$
+
  are the radii of the coils (m)
 - 
 
 $I_1$
+
  is the current in the primary coil (A)
 - 
 
 $\omega$
+
  is the angular frequency (rad/s)
 - 
 
 $R$
+
  is the distance between the coils (m)
 - 
 
 $\delta$
+
  is the skin depth of the Earth (m), given by:
 
 $\delta = \sqrt{\frac{2}{\mu_0 \sigma \omega}}$
@@ -75,6 +86,7 @@ $\delta = \sqrt{\frac{2}{\mu_0 \sigma \omega}}$
 Where 
 
 $\sigma$
+
  is the conductivity of the Earth (S/m).
 
 ### Overcoming Technical Challenges

@@ -24,6 +24,7 @@ $$
 where 
 
 $d$
+
  is the leading digit (1, 2, ..., 9). This means that the number 1 appears as the first digit about 30.1% of the time, while the number 9 appears only 4.6% of the time.
 
 Here's a table showing the expected frequencies of each leading digit according to Benford's Law:

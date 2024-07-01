@@ -23,7 +23,7 @@ Bing Create is a powerful tool that can be used to create a variety of AI images
 
 ## Tips for Using Bing Create 📝
 
-Here are some tips for using Bing Create to create the best possible AI images:
+Here are some tips for using Bing Create to create the best possible AIimages:
 
 1. Be as specific as possible in your prompts. The more specific you are, the better the AI images will be.
 2. Use keywords that are relevant to the image you want to create. For example, if you want to create an image of a cat, you would use keywords like "cat," "animal," and "furry."

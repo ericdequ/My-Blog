@@ -26,6 +26,7 @@ In addition to the focus on collaboration, the USA has also been investing heavi
 According to a report by The Quantum Insider published in January of this year, the budget expenditures for QIS R&D increased from 
 
 $449 million in 2019 to $
+
 918 million in 2022 , and requested budget authority of $844 million for 2023. This substantial and sustained investment in QIS R&D highlights the USA's commitment to accelerating its leadership in this field.
 
 Furthermore, the government has established several national laboratories whose sole focus is targeted at quantum computing research. These include:

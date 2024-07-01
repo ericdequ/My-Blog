@@ -1,17 +1,17 @@
 ---
+
 title: 'Harnessing the Suns Natural AC Energy for Solar Power 🌞🔌'
 date: '2024-06-30'
 tags: ['Solar Energy', 'AC', 'DC', 'Efficiency', 'Smart Grids', 'Energy Storage']
 draft: false
 summary: 'Solar panels typically convert sunlight into DC electricity, which is then converted to AC for household use. However, capturing the suns natural AC energy directly could enhance efficiency. Learn about the proposed methods, their benefits, and how they integrate with smart grid technologies and energy storage solutions.'
+
 images: ['https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp']
 ---
-
 
 ## How Solar Panels Work 
 
 convert sunlight into direct current (DC) electricity, which is then converted to alternating current (AC) for household use. However, new methods propose capturing the sun's natural AC energy directly, skipping the conversion and potentially improving efficiency. These advancements, coupled with smart grid technologies and energy storage solutions, are set to transform the solar energy landscape.
-
 
 Solar panels are composed of photovoltaic (PV) cells, which convert sunlight into electrical energy. When sunlight hits the PV cells, it excites electrons, creating an electric current. This current is initially DC, which must be converted to AC for most household applications.
 
@@ -39,12 +39,12 @@ Some researchers propose designing PV cells that can oscillate the DC current th
    $$
     \eta_{AC} = \frac{P_{out, AC}}{P_{in, DC}} \times 100%
     $$
+
     Where:
 
     $\eta_{AC}$ = AC efficiency
     $P_{out, AC}$ = Output power as AC
     $P_{in, DC}$ = Input power as DC
-
 
 2. **Maxwell's Equations Adaptation:**
    Utilizing Maxwell's equations to design materials that naturally oscillate at desired frequencies:
@@ -61,7 +61,6 @@ Some researchers propose designing PV cells that can oscillate the DC current th
 Recent studies suggest that sunlight contains components that can induce oscillatory motion in certain materials. By aligning PV cell materials to these components, it may be possible to generate AC directly.
 
 #### Photonic Crystal Design  
-
 
 1. **Photonic Band Gap Structures:**
    Photonic crystals are engineered materials with periodic variations in their refractive index, creating a band gap that prevents light propagation in certain wavelength ranges. By designing PV cells with photonic crystals that have specific band gaps, it's possible to induce AC generation directly from sunlight. The relationship between the energy $E$ and the wave vector $\mathbf{k}$ in a photonic crystal is given by:

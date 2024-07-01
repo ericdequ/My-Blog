@@ -28,6 +28,7 @@ According to special relativity, as an object's velocity approaches the speed of
 $
 
 $\Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{v^2}{c^2}}}$
+
 $
 
 Where:
@@ -35,29 +36,36 @@ Where:
 - 
 
 $\Delta t'$
+
  is the time interval experienced by the moving object
 - 
 
 $\Delta t$
+
  is the time interval experienced by the stationary observer
 - 
 
 $v$
+
  is the velocity of the moving object
 - 
 
 $c$
+
  is the speed of light (approximately 299,792,458 meters per second)
 
 As the velocity (
 
 $v$
+
 ) approaches the speed of light (
 
 $c$
+
 ), the denominator of the fraction approaches zero, causing the time interval experienced by the moving object (
 
 $\Delta t'$
+
 ) to increase dramatically. In other words, time slows down significantly for objects traveling at relativistic speeds.
 
 ### 🌍 Everyday Examples of Time Dilation
@@ -78,6 +86,7 @@ The kinetic energy of a molecule is directly proportional to its temperature. Th
 $
 
 $\frac{1}{2}mv^2 = \frac{3}{2}k_BT$
+
 $
 
 Where:
@@ -85,18 +94,22 @@ Where:
 - 
 
 $m$
+
  is the mass of the molecule
 - 
 
 $v$
+
  is the average velocity of the molecules
 - 
 
 $k_B$
+
  is the Boltzmann constant (approximately 1.380649 × 10^-23 J/K)
 - 
 
 $T$
+
  is the absolute temperature in Kelvin
 
 As the temperature increases, the average velocity of the molecules also increases. This means that at higher temperatures, molecules are moving faster and colliding more frequently.

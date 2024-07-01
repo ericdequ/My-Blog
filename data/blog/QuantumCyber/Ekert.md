@@ -63,23 +63,29 @@ $|\Phi^-\rangle = \frac{1}{\sqrt{2}} (|H\rangle|H\rangle - |V\rangle|V\rangle)$
    - Horizontal-Vertical (
 
 $0^\circ$
+
  and 
 
 $90^\circ$
+
 )
    - Diagonal (
 
 $45^\circ$
+
  and 
 
 $-45^\circ$
+
 )
    - Intermediate (
 
 $22.5^\circ$
+
  and 
 
 $67.5^\circ$
+
 )
    
    **Visualize:** A clock face with hands at 12, 1:30, 3, 4:30, 6, and 7:30.

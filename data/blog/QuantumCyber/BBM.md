@@ -61,13 +61,16 @@ Alice and Bob randomly choose a measurement basis for each received photon:
 - Rectilinear basis: 
 
 $H$
+
  (0°) and 
 
 $V$
+
  (90°)
 - Diagonal basis: 
 
 $+45^\circ$
+
  and 
 
 $-45^\circ$

@@ -5,8 +5,7 @@ date: '2024-06-29'
 tags: ['Quantum Electrodynamics', 'QED', 'Quantum Field Theory', 'Particle Physics', 'Esoteric Physics']
 draft: false
 summary: 'This article delves into the profound depths of Quantum Electrodynamics (QED), exploring its foundations, esoteric implications, and its role in shaping our understanding of the universes hidden nature.'
-
-images: ['https://www.rics-notebook.com/Physics/QED.webp']
+images: ['https://www.rics-notebook.com/articleimage/Physics/QED.webp']
 ---
 
 # ⚡🔮 Quantum Electrodynamics: The Ethereal Symphony of Cosmos ⚡🔮

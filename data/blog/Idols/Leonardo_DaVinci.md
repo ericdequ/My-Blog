@@ -27,7 +27,7 @@ Leonardo died on _May 2, 1519_, in Amboise, France. Today, he remains a towering
 
 Leonardo was known for his mirror writing, a technique where text is written from right to left, and often required a mirror to be read properly. This unusual method could have been used to prevent smudging—as Leonardo was left-handed—or as a means of keeping his notes somewhat secretive.
 
-[Explore Leonardo's Notebooks](https://www.vam.ac.uk/articles/explore-leonardo-da-vinci-codex-forster-i#? c=&m=&s=0&cv=108&xywh=151%2C-585%2C1737%2C1168)
+[Explore Leonardo's Notebooks](https://www.vam.ac.uk/articles/explore-leonardo-da-vinci-codex-forster-i#?  c=&m=&s=0&cv=108&xywh=151%2C-585%2C1737%2C1168)
 
 ## **How He Got His Ideas 💡**
 

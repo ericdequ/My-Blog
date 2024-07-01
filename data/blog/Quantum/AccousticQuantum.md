@@ -26,15 +26,19 @@ $f = \frac{1}{2L}\sqrt{\frac{E}{\rho}}$
 where 
 
 $f$
+
  is the frequency, 
 
 $L$
+
  is the length of the tines, 
 
 $E$
+
  is the Young's modulus of the material, and 
 
 $\rho$
+
  is the density.
 
 By varying the length and material properties of the tuning forks, we can create qubits with different frequencies, allowing for a larger computational space.
@@ -46,6 +50,7 @@ To perform quantum operations, we need to establish entanglement between the tun
 The entanglement strength between two tuning forks can be quantified using the acoustic coupling coefficient, 
 
 $\kappa$
+
 :
 
 $\kappa = \frac{2\pi f_0 \rho v}{Z_1 Z_2}$
@@ -53,18 +58,23 @@ $\kappa = \frac{2\pi f_0 \rho v}{Z_1 Z_2}$
 where 
 
 $f_0$
+
  is the resonant frequency, 
 
 $\rho$
+
  is the density of the medium, 
 
 $v$
+
  is the speed of sound in the medium, and 
 
 $Z_1$
+
  and 
 
 $Z_2$
+
  are the acoustic impedances of the tuning forks.
 
 By carefully designing the arrangement of tuning forks and controlling the acoustic coupling, we can create complex entangled states necessary for quantum computation.
@@ -80,12 +90,15 @@ $f_H = f_1 - f_0$
 where 
 
 $f_H$
+
  is the Hadamard gate frequency, 
 
 $f_1$
+
  is the frequency of the |1⟩ state, and 
 
 $f_0$
+
  is the frequency of the |0⟩ state.
 
 Multi-qubit gates, such as the CNOT gate, can be implemented by leveraging the acoustic coupling between tuning forks and applying targeted sound waves to control the interaction.

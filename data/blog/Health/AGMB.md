@@ -30,6 +30,7 @@ Choosing the right microcontroller or computer is crucial for automating your mu
 1. **Arduino Board (
 
 $5-$
+
 15)**
 
    - **Pros**: Lots of compatible parts, affordable.
@@ -39,6 +40,7 @@ $5-$
 2. **Raspberry Pi (Raspi) (
 
 $15-$
+
 35)**
 
    - **Pros**: Full-fledged computer, supports web apps, easy to adjust.
@@ -55,34 +57,36 @@ $15-$
 1. **CO2 Sensor ($2.14)**
 
    - **Purpose**: Measures CO2 levels to ensure proper air quality for mushroom growth.
-   - **[CO2 Sensor Link](#) **
+   - **[CO2 Sensor Link](#)  **
 
 2. **Temperature and Humidity Sensor (
 
 $1.78 - $
+
 2)**
 
    - **Purpose**: Monitors the temperature and humidity, crucial for creating the ideal growing environment.
-   - **[Temp + Humidity Sensor Link](#) **
+   - **[Temp + Humidity Sensor Link](#)  **
 
 3. **Camera (
 
 $1.10 - $
+
 5.40)**
    - **Purpose**: Optional but useful for monitoring mushroom conditions via a web app.
-   - **[Camera Link](#) **
+   - **[Camera Link](#)  **
 
 ### Adjusters
 
 1. **Mister ($1.43)**
 
    - **Purpose**: Provides necessary humidity for mushroom growth.
-   - **[Mister Link](#) **
+   - **[Mister Link](#)  **
 
 2. **Air Pump ($5.95)**
 
    - **Purpose**: Ensures proper Fresh Air Exchange (FAE).
-   - **[Air Pump Link](#) **
+   - **[Air Pump Link](#)  **
 
 3. **LED Lights (~$2)**
    - **Purpose**: Provides light needed for certain stages of mushroom growth, controlled via timer or microcontroller.
@@ -97,6 +101,7 @@ $1.10 - $
 - **Soldering Iron (
 
 $10-$
+
 20)**: Required if using a microcontroller like the Raspi Pico that needs soldering.
 
 ### Additional Costs
@@ -111,6 +116,7 @@ The total cost per Auto Grow Box will depend on several factors:
 - **Microcontroller Used**: Ranges from 
 
 $4 to $
+
 35.
 - **Additional Features**: Sensors, camera, etc.
 - **Basic Hardware and Assembly**: Costs decrease as more boxes are built.
@@ -118,6 +124,7 @@ $4 to $
 **Estimated Total Cost**: 
 
 $35 - $
+
 70 per box
 
 ## 🔍 Research and Development

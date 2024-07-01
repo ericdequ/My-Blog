@@ -47,18 +47,22 @@ Bell states are specific entangled states of two qubits, crucial for teleportati
 1. 
 
 $|\Phi^+\rangle$
+
 : The "Synchronized Spin"
 2. 
 
 $|\Phi^-\rangle$
+
 : The "Mirror Spin"
 3. 
 
 $|\Psi^+\rangle$
+
 : The "Flip Flop"
 4. 
 
 $|\Psi^-\rangle$
+
 : The "Opposite Flip Flop"
 
 ## ✨ Quantum Teleportation Protocol: Step-by-Step

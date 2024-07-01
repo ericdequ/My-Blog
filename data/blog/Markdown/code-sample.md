@@ -42,6 +42,7 @@ You can also use Markdown to create custom formatting, such as:
 - > Blockquotes: `> Blockquotes` →
   > Blockquotes
 - ## Horizontal rules: `---` or `***` →
+
 - Definition lists:
   Term
   : Definition

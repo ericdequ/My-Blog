@@ -41,15 +41,19 @@ a few of the most important ones:
   the form 
 
 $Ax=b$
+
 , where 
 
 $A$
+
  is a matrix, 
 
 $x$
+
  is a vector, and 
 
 $b$
+
  is a vector.
 - **Matrices.** Matrices are rectangular arrays of numbers. They are used to
   represent linear transformations.
