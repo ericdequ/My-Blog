@@ -48,6 +48,7 @@ Some researchers propose designing PV cells that can oscillate the DC current th
 
 2. **Maxwell's Equations Adaptation:**
    Utilizing Maxwell's equations to design materials that naturally oscillate at desired frequencies:
+   
    $$
    \
    \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}, \quad \nabla \cdot \mathbf{B} = 0, \quad \nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}, \quad \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t}
