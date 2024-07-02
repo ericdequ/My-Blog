@@ -1,10 +1,10 @@
 ---
+
 title: 'Wormholes, Wonder, and Wormwood: A Quantum Tea Party'
 date: '2024-07-02'
 tags: ['Short Story', 'Humor', 'Quantum Physics', 'Spirituality', 'Wormholes', 'Alice in Wonderland']
 draft: false
-summary: 'Join Alice and Bob on a mind-bending journey through wormholes, quantum realms, and the power of perception in this whimsical tale that blends science and spirituality.'
-
+summary: 'Join Alice and Bob on a mind-bending journey through wormholes, quantum realms, and the power of perception in this whimsical tale'
 images: [''https://www.rics-notebook.com/articleimage/Personal/WWW.webp']
 ---
 

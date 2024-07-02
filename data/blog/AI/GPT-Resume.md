@@ -52,7 +52,7 @@ Are you tired of sending out countless resumes and cover letters that never get 
 ## 🖌️ Step 5: Style your documents with Markdown
 
 1. Learn Markdown basics 📚: Familiarize yourself with Markdown by checking out this [Markdown Guide](https://www.markdownguide.org/).
-2. Style your content 🎨: Apply Markdown formatting to your cover letter and resume, such as using `#`   , `##`   , and `###`    for headings, `*` or `-` for lists, and `**` for bold text.
+2. Style your content 🎨: Apply Markdown formatting to your cover letter and resume, such as using `#`    , `##`    , and `###`     for headings, `*` or `-` for lists, and `**` for bold text.
 
 ## 📤 Step 6: Export Markdown to PDF
 

@@ -57,7 +57,7 @@ $15-$
 1. **CO2 Sensor ($2.14)**
 
    - **Purpose**: Measures CO2 levels to ensure proper air quality for mushroom growth.
-   - **[CO2 Sensor Link](#)   **
+   - **[CO2 Sensor Link](#)    **
 
 2. **Temperature and Humidity Sensor (
 
@@ -66,7 +66,7 @@ $1.78 - $
 2)**
 
    - **Purpose**: Monitors the temperature and humidity, crucial for creating the ideal growing environment.
-   - **[Temp + Humidity Sensor Link](#)   **
+   - **[Temp + Humidity Sensor Link](#)    **
 
 3. **Camera (
 
@@ -74,19 +74,19 @@ $1.10 - $
 
 5.40)**
    - **Purpose**: Optional but useful for monitoring mushroom conditions via a web app.
-   - **[Camera Link](#)   **
+   - **[Camera Link](#)    **
 
 ### Adjusters
 
 1. **Mister ($1.43)**
 
    - **Purpose**: Provides necessary humidity for mushroom growth.
-   - **[Mister Link](#)   **
+   - **[Mister Link](#)    **
 
 2. **Air Pump ($5.95)**
 
    - **Purpose**: Ensures proper Fresh Air Exchange (FAE).
-   - **[Air Pump Link](#)   **
+   - **[Air Pump Link](#)    **
 
 3. **LED Lights (~$2)**
    - **Purpose**: Provides light needed for certain stages of mushroom growth, controlled via timer or microcontroller.

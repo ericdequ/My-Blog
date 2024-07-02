@@ -15,19 +15,19 @@ This README provides a comprehensive guide to working with the OpenAI API for ge
 
 ## Table of Contents 📚
 
-- [Working with OpenAI API 🚀🤖](#w   orking-with-openai-api-)
-  - [Table of Contents 📚](#t   able-of-contents-)
-  - [Prerequisites ⚙️](#p   rerequisites-️)
-  - [Installation 📦](#i   nstallation-)
-  - [Configuration 🔧](#c   onfiguration-)
-  - [Usage 🛠️](#u   sage-️)
-  - [Text Generation 📝](#t   ext-generation-)
-  - [Translation 🌍](#t   ranslation-)
-  - [Content Creation 🎨](#c   ontent-creation-)
-  - [Question Answering ❓](#q   uestion-answering-)
-  - [Tips and Best Practices 🎓](#t   ips-and-best-practices-)
-  - [Support and Community 💬](#s   upport-and-community-)
-  - [License 📄](#l   icense-)
+- [Working with OpenAI API 🚀🤖](#w    orking-with-openai-api-)
+  - [Table of Contents 📚](#t    able-of-contents-)
+  - [Prerequisites ⚙️](#p    rerequisites-️)
+  - [Installation 📦](#i    nstallation-)
+  - [Configuration 🔧](#c    onfiguration-)
+  - [Usage 🛠️](#u    sage-️)
+  - [Text Generation 📝](#t    ext-generation-)
+  - [Translation 🌍](#t    ranslation-)
+  - [Content Creation 🎨](#c    ontent-creation-)
+  - [Question Answering ❓](#q    uestion-answering-)
+  - [Tips and Best Practices 🎓](#t    ips-and-best-practices-)
+  - [Support and Community 💬](#s    upport-and-community-)
+  - [License 📄](#l    icense-)
 
 ## Prerequisites ⚙️
 
