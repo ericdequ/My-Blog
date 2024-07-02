@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 01 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Personal/WWW</guid>
+    <title>Wormholes, Wonder, and Wormwood: A Quantum Tea Party</title>
+    <link>https://www.rics-notebook.com/blog/Personal/WWW</link>
+    <description>Join Alice and Bob on a mind-bending journey through wormholes, quantum realms, and the power of perception in this whimsical tale</description>
+    <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Short Story</category><category>Humor</category><category>Quantum Physics</category><category>Spirituality</category><category>Wormholes</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Energy/QCSolarAC</guid>
     <title>Quantum Computing: Revolutionizing Solar Cell Design and Efficiency 🌞💻</title>
@@ -18,6 +28,16 @@
     <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Solar Energy</category><category>AC Solar Cells</category><category>Simulations</category><category>Optimization</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/QuantumGravity</guid>
+    <title>Quantum Gravity: The Quest to Unify the Forces of Nature</title>
+    <link>https://www.rics-notebook.com/blog/Physics/QuantumGravity</link>
+    <description>This article explores the challenging field of quantum gravity, which aims to reconcile general relativity with quantum mechanics, potentially providing a unified theory of all fundamental forces.</description>
+    <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Gravity</category><category>General Relativity</category><category>Quantum Mechanics</category><category>Fundamental Forces</category>
   </item>
 
   <item>
