@@ -1,9 +1,9 @@
 ---
 
 title: 'Quantum Gravity: The Quest to Unify the Forces of Nature'
-date: '2024-06-26'
+date: '2024-07-01'
 tags: ['Quantum Gravity', 'General Relativity', 'Quantum Mechanics', 'Fundamental Forces']
-draft: true
+draft: false
 summary: 'This article explores the challenging field of quantum gravity, which aims to reconcile general relativity with quantum mechanics, potentially providing a unified theory of all fundamental forces.'
 
 images: ['https://www.rics-notebook.com/Physics/QG.webp']
