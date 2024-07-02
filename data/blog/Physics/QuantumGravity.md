@@ -6,7 +6,7 @@ tags: ['Quantum Gravity', 'General Relativity', 'Quantum Mechanics', 'Fundamenta
 draft: false
 summary: 'This article explores the challenging field of quantum gravity, which aims to reconcile general relativity with quantum mechanics, potentially providing a unified theory of all fundamental forces.'
 
-images: ['https://www.rics-notebook.com/Physics/QG.webp']
+images: ['https://www.rics-notebook.com/articleimage/Physics/QG.webp']
 ---
 
 # 🌌 Quantum Gravity: Bridging the Microscopic and Cosmic Realms 🌌
