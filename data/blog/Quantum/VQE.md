@@ -1,7 +1,7 @@
 ---
 
 title: 'Variational Quantum Eigensolver: An Efficient Approach to Quantum Simulations'
-date: '2024-06-03'
+date: '2024-07-02'
 tags:
   [
     'Quantum Computing',
@@ -11,7 +11,7 @@ tags:
     'Quantum Mechanics',
     'Quantum Chemistry',
   ]
-draft: true
+draft: false
 summary: 'Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.'
 
 images: ['https://www.rics-notebook.com/articleimage/Quantum/VQE.webp']
