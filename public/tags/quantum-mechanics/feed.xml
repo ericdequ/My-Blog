@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 05 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-mechanics/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/QuantumCyber/BBM</guid>
+    <title>Quantum Key Distribution - BBM92</title>
+    <link>https://www.rics-notebook.com/blog/QuantumCyber/BBM</link>
+    <description>Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.</description>
+    <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>BBM92</category><category>Bell States</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/VQE</guid>
     <title>Variational Quantum Eigensolver: An Efficient Approach to Quantum Simulations</title>

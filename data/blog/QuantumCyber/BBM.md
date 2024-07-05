@@ -1,7 +1,7 @@
 ---
 
 title: 'Quantum Key Distribution - BBM92'
-date: '2024-06-04'
+date: '2024-07-05'
 tags:
   [
     'Quantum Mechanics',
@@ -10,7 +10,7 @@ tags:
     'BBM92',
     'Bell States',
   ]
-draft: true
+draft: false
 summary: 'Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.'
 
 images: ['https://www.rics-notebook.com/articleimage/QuantumCyber/BBM.webp']
