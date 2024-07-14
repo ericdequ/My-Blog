@@ -13,17 +13,6 @@ class MyDocument extends Document {
           <link rel="preconnect" href="https://www.quantumcybersolutions.com/" />
           <link rel="dns-prefetch" href="https://www.quantumcybersolutions.com/" />
 
-          <link rel="preconnect" href="https://www.plantheath.com/" />
-          <link rel="dns-prefetch" href="https://www.plantheath.com/" />
-
-          <link rel="preconnect" href="https://www.contechnews.com/" />
-          <link rel="dns-prefetch" href="https://www.contechnews.com/" />
-
-          <link rel="preconnect" href="https://www.govcon.me/" />
-          <link rel="dns-prefetch" href="https://www.govcon.me/" />
-
-          <link rel="preconnect" href="https://www.elontusk.org/" />
-          <link rel="dns-prefetch" href="https://www.elontusk.org/" />
 
           <link rel="preconnect" href="https://www.robotric.org/" />
           <link rel="dns-prefetch" href="https://www.robotric.org/" />
