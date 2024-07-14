@@ -6,14 +6,14 @@ tags: ['Epoxy Flooring', 'DiamondBack Flooring', 'Review', 'Garage Transformatio
 draft: false
 summary: 'A detailed review of DiamondBack Flooring and their exceptional epoxy flooring services in Central Florida.'
 
-images: ['https://www.rics-notebook.com/articleimage/Reviews/DiamondbackEpoxy.webp']
+images: ['https://www.rics-notebook.com/articleimage//Reviews/DiamondbackEpoxy_1_20240714_173953.webp', 'https://www.rics-notebook.com/articleimage/Reviews/DiamondbackEpoxy.webp']
 ---
 
 ## 🌟 DiamondBack Flooring: Precision in Every Pour
 
 Recently, I had the pleasure of working with [DiamondBack Flooring](https://www.diamondbackepoxy.com/), and I am beyond thrilled to share my experience with their outstanding epoxy flooring services that completely transformed my garage.
 
-![Garage Transformation](https://www.diamondbackepoxy.com/garage-transformation.webp)
+![Garage Transformation](https://www.rics-notebook.com/articleimage//Reviews/DiamondbackEpoxy_1_20240714_173953.webp)
 
 ### The Essence of DiamondBack Flooring
 

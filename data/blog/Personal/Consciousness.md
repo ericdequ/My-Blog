@@ -6,7 +6,7 @@ tags: ['Esoteric', 'Consciousness', 'Meditation', 'Alchemy', life-lessons, 'spir
 draft: false
 summary: 'Understanding consciousness, energy, and the practices that can lead to an elevated state of being.'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/Consciousness.webp']
+images: ['https://www.rics-notebook.com/articleimage/Personal/Consciousness.webp', 'https://www.rics-notebook.com/articleimage//Personal/Consciousness_1_20240714_173850.webp']
 ---
 
 # 🌌 Transcend & Receive Energy: The Esoteric Path
@@ -45,4 +45,4 @@ Esoteric truths span across different cultures and ages. From the Kabbalah's Tre
 
 Embarking on a journey to understand and elevate one's consciousness and energy is both a personal and universal quest. By blending ancient wisdom with modern perspectives, one can find pathways to transcend and truly tap into the energies of the universe.
 
-![Esoteric Pathways](/img/Esoteric.webp)
+![Esoteric Pathways](https://www.rics-notebook.com/articleimage//Personal/Consciousness_1_20240714_173850.webp)

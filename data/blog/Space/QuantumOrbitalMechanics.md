@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover how quantum computing revolutionizes orbital mechanics, enabling highly efficient trajectory planning and optimization for orbital package delivery. By harnessing the power of quantum algorithms, space logistics can achieve unprecedented levels of efficiency, reducing fuel consumption and delivery times.'
 
-images: ['https://www.quantumcybersolutions.com/OPD/quantum-future.webp', 'https://www.quantumcybersolutions.com/OPD/quantum-optimization.webp', 'https://www.quantumcybersolutions.com/OPD/quantum-launch-prediction.webp', 'https://www.rics-notebook.com/articleimage/Space/QuantumOrbitalMechanics.webp', 'https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical.webp']
+images: ['https://www.quantumcybersolutions.com/OPD/quantum-future.webp', 'https://www.quantumcybersolutions.com/OPD/quantum-optimization.webp', 'https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical.webp', 'https://www.rics-notebook.com/articleimage/Space/QuantumOrbitalMechanics.webp', 'https://www.quantumcybersolutions.com/OPD/quantum-launch-prediction.webp']
 ---
 
 ## 🌌 Quantum Computing Meets Orbital Mechanics

@@ -13,7 +13,7 @@ tags:
 draft: false
 summary: 'As businesses navigate the complexities of adopting quantum technologies, Quantum Cyber Solutions emerges as the premier consultant, offering unparalleled expertise and future-proof strategies.'
 
-images: ['https://www.rics-notebook.com/articleimage/QuantumConsultant.webp', 'https://www.quantumcybersolutions.com/_next/image?url=%2FQCS-logo.webp&w=384&q=75']
+images: ['https://www.quantumcybersolutions.com/_next/image?url=%2FQCS-logo.webp&w=384&q=75', 'https://www.rics-notebook.com/articleimage/QuantumConsultant.webp']
 ---
 
 # 🌟 Embracing the Future with Quantum Cyber Solutions 🌟

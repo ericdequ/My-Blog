@@ -15,7 +15,7 @@ tags:
 draft: false
 summary: 'How God is the origin we are all expressions of One!'
 
-images: ['https://www.rics-notebook.com/articleimage/Personal/GodUniverse.webp']
+images: ['https://www.rics-notebook.com/articleimage//Personal/GodUniverse_1_20240714_173904.webp', 'https://www.rics-notebook.com/articleimage/Personal/GodUniverse.webp']
 ---
 
 ## 🌌 God as the Origin: Expressions and the Universe
@@ -44,7 +44,7 @@ The notion of divinity in all reflects the belief that every aspect of creation 
 
 To further explore and visualize these concepts, you can watch the following animation. It delves into the idea that God is the origin, the universe is the totality of all possible spaces, and we are expressions of God.
 
-[![God Origin Universe Video](https://i9.ytimg.com/vi/Wfg-IZeRML8/mqdefault.jpg?v=66463abb&sqp=CJD3mLIG&rs=AOn4CLBHFVpWqwrB9SKqe5eGZgzq8YyzAw)](https://youtu.be/Wfg-IZeRML8)
+[![God Origin Universe Video](https://www.rics-notebook.com/articleimage//Personal/GodUniverse_1_20240714_173904.webp)](https://youtu.be/Wfg-IZeRML8)
 
 In this animation, we explore the idea that God is the origin and the starting point of everything. The universe, represented by the circular space, encompasses all of existence as we know it. Within this universe, we are all expressions and functions of God, emanating from the divine origin. The concept of oneness suggests that everything is interconnected and part of a greater whole. The idea of interconnectedness highlights the intricate relationships between all beings and phenomena. Lastly, the notion of divinity in all reflects the belief that every aspect of creation contains a spark of the divine essence.
 

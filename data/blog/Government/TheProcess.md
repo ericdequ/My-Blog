@@ -7,7 +7,7 @@ tags:
 draft: false
 summary: 'Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.'
 
-images: ['https://www.rics-notebook.com/articleimage/TheProcess.webp']
+images: ['https://www.rics-notebook.com/articleimage//Government/TheProcess_1_20240714_173803.webp', 'https://www.rics-notebook.com/articleimage/TheProcess.webp']
 ---
 
 ## Introduction: The Vast Landscape of Government Contracts 🌐📜
@@ -91,4 +91,4 @@ The government, with its extensive projects and substantial budgets, represents 
 
 Securing a government contract is a blend of strategy, diligence, and persistence. The Trust The Process (TTP) methodology offers a comprehensive roadmap, ensuring that every effort you invest moves you closer to your goal. Dive deep, stay committed, and watch as doors to unparalleled opportunities open for your business.
 
-![TTP](/img/Process.webp)
+![TTP](https://www.rics-notebook.com/articleimage//Government/TheProcess_1_20240714_173803.webp)
