@@ -6,7 +6,7 @@ tags: ['Art', 'Family', 'Veronica', 'RumpusArt']
 draft: false
 summary: 'A touching reflection on the profound impact of a family portrait commissioned by my brother from Rumpus Art, celebrating the memory of our late father and the enduring love of our family.'
 
-images: ['https://www.rics-notebook.com/fammural.jpg', '/fammural.jpg']
+images: ['https://www.rics-notebook.comhttps://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp', 'https://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp']
 ---
 
 ## 🎨 A Masterpiece of Love and Memories
@@ -17,7 +17,7 @@ The result was a stunning mural that not only showcased Veronica's incredible ta
 
 As we unveiled the portrait on our mom's birthday, emotions ran high. Tears of joy, nostalgia, and gratitude mingled as we marveled at the way [Veronica from Rumpus Art](https://rumpusart.com/epic-portraits) had managed to encapsulate decades of love, laughter, and shared experiences in a single, breathtaking image. It was a gift that transcended the material, offering a tangible connection to our past and a promise of the bonds that will continue to sustain us in the future.
 
-![Family Mural](/fammural.jpg)
+![Family Mural](https://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp)
 
 In a world that often feels increasingly disconnected and impersonal, the heartfelt touch of a hand-painted family portrait carries a significance that cannot be overstated. It serves as a daily reminder of the people who matter most, the moments that have shaped us, and the love that will forever bind us together.
 

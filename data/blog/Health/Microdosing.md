@@ -17,14 +17,14 @@ tags:
 draft: false
 summary: 'Explore the growing trend of microdosing LSD and psilocybin mushrooms. From tech innovators in Silicon Valley to everyday soccer moms, discover how people are using these psychedelics to boost creativity, enhance mental health, and inspire new ideas. 🌟💡🍄'
 
-images: ['https://www.rics-notebook.com/articleimage/Microdosing.webp', 'https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-01811-4/MediaObjects/41598_2021_1811_Fig2_HTML.webp?as=webp']
+images: ['https://www.rics-notebook.com/articleimage/Microdosing.webp', 'https://www.rics-notebook.com/articleimage/Health/Microdosing_1_20240714_155307.webp']
 ---
 
 ## 🌟 From Silicon Valley to Soccer Moms: The Microdosing Revolution
 
 Microdosing, the practice of taking sub-perceptual doses of psychedelic substances like LSD (lysergic acid diethylamide) and psilocybin mushrooms, is gaining popularity across diverse demographics. From tech innovators in Silicon Valley to everyday soccer moms, people are turning to microdosing to boost creativity, enhance mental health, and inspire new ideas. This blog post delves into the practice of microdosing, its potential benefits, and its widespread appeal.
 
-![Microdosing Benefits](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41598-021-01811-4/MediaObjects/41598_2021_1811_Fig2_HTML.webp?as=webp)
+![Microdosing Benefits](https://www.rics-notebook.com/articleimage/Health/Microdosing_1_20240714_155307.webp)
 
 ### 🔬 What is Microdosing?
 

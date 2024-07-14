@@ -1,7 +1,7 @@
 ---
 
 title: 'Quantum Key Distribution: The Ekert91 Protocol'
-date: '2024-06-05'
+date: '2024-07-14'
 tags:
   [
     'Quantum Mechanics',
@@ -10,7 +10,7 @@ tags:
     'Ekert91',
     'Bell States',
   ]
-draft: true
+draft: false
 summary: 'Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bells inequality.'
 
 images: ['https://www.rics-notebook.com/articleimage/QuantumCyber/Ekert.webp']

@@ -18,7 +18,7 @@ tags:
 draft: false
 summary: 'Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/QuantumLearn.webp', 'https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75']
+images: ['https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75', 'https://www.rics-notebook.com/articleimage/QuantumLearn.webp']
 ---
 
 ## 🎓 QuantumLearn: Empowering Learners Through Open Source
@@ -33,7 +33,7 @@ By embracing an open-source philosophy, QuantumLearn ensures:
 2. **Collaboration**: We believe in the collective wisdom of our community. Together, we can create a more comprehensive and dynamic learning resource.
 3. **Continuous Improvement**: With the help of our users, we can swiftly identify and fix issues, ensuring a seamless learning experience.
 
-[Experience the power of open source learning!](https://quantumlearn.vercel.app/)
+[Experience the power of open source learning!](https://quantumlearn.org/)
 
 ## 🤝 How You Can Contribute
 
@@ -59,6 +59,6 @@ Dive into a wide array of subjects, including:
 
 QuantumLearn is more than just a platform; it's a global community united by a passion for knowledge. By contributing and learning together, we can create a more accessible, engaging, and impactful educational experience for all.
 
-[Start your QuantumLearn journey now](https://quantumlearn.vercel.app/) and be a part of the open-source learning revolution! Together, let's unlock the boundless potential of collaborative education. 🌍🔓
+[Start your QuantumLearn journey now](https://quantumlearn.org/) and be a part of the open-source learning revolution! Together, let's unlock the boundless potential of collaborative education. 🌍🔓
 
-![QuantumLearn Logo](https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75)
+![QuantumLearn Logo](https://quantumlearn.org/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75)
