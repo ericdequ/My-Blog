@@ -6,7 +6,7 @@ tags: ['AI', 'Software', 'LangChain', 'devops']
 draft: false
 summary: 'The rise of AI in software development is undeniable. Dive into how LangChain can be your secret weapon in not just creating AI software apps but also seamlessly integrating them into your existing software suite.'
 
-images: ['https://www.rics-notebook.com/articleimage/LangChain.webp']
+images: ['https://www.rics-notebook.com/articleimage/LangChain.webp', 'https://www.rics-notebook.com/articleimage/AI/LangChain.webp']
 ---
 
 ## The AI Revolution in Software 🌐🤖

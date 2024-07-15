@@ -18,7 +18,7 @@ tags:
 draft: false
 summary: 'Embark on a thought-provoking journey through the realms of evolution and speculative biology, as we explore the intriguing possibility of animals being a unique crossbreed between fungi and plants. Delve into the striking similarities between animal flesh and mushrooms, uncover the critical role of microbial allies, and consider the wisdom of indigenous traditions and the whispers of the Amazon rainforest. 🔬🌿🌈'
 
-images: ['https://www.rics-notebook.com/articleimage/AnimalEvolution.webp']
+images: ['https://www.rics-notebook.com/articleimage/AnimalEvolution.webp', 'https://www.rics-notebook.com/articleimage/Bio/AnimalEvolution.webp']
 ---
 
 ## 🌟 The Fungal Connection: Exploring the Evolutionary Intertwining of Animals, Fungi, and Plants

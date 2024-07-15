@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: Embark on a life-changing journey with Paulo Coelho's "The Pilgrimage," a profound novel that explores the transformative power of self-discovery and spiritual awakening along the ancient Camino de Santiago pilgrimage route. Learn about the history of the Camino and the powerful RAM practices that guide Paulo on his path to self-realization.
 
-images: ['https://www.rics-notebook.com/articleimage/ThePilgramige.webp']
+images: ['https://www.rics-notebook.com/articleimage/ThePilgramige.webp', 'https://www.rics-notebook.com/articleimage/Books/ThePilgramige.webp']
 ---
 
 # The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening

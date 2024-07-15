@@ -6,7 +6,7 @@ tags: ['AI', 'Business', 'GPT', 'Money']
 draft: false
 summary: Some simple Ideas to make money with AI
 
-images: ['https://www.rics-notebook.com/articleimage/ai_money.webp']
+images: ['https://www.rics-notebook.com/articleimage/ai_money.webp', 'https://www.rics-notebook.com/articleimage/AI/ai_money.webp']
 ---
 
 # How to Make Money with AI 💸

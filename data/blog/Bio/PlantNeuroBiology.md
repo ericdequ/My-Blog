@@ -6,7 +6,7 @@ tags:  ['Plant Neurobiology','Plant Perception','Microbiome','Gut Feelings','Ele
 draft: false
 summary: 'Dive into the fascinating world of plant neurobiology, where the latest research reveals how plants sense and respond to their environment. Explore the parallels between plant signaling mechanisms and human gut feelings, supported by both scientific evidence and spiritual insights from indigenous wisdom. 🌿🧬✨'
 
-images: ['https://www.rics-notebook.com/articleimage/PlantNeuroBiology.webp']
+images: ['https://www.rics-notebook.com/articleimage/PlantNeuroBiology.webp', 'https://www.rics-notebook.com/articleimage/Bio/PlantNeuroBiology.webp']
 ---
 
 ## 🌿 Plant Neurobiology: Exploring the Intricate Communication Networks in Plants

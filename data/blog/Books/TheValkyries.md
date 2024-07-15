@@ -6,7 +6,7 @@ tags: ['Paulo Coelho', 'Spirituality', 'Self-Discovery', 'Love']
 draft: false
 summary: "Embark on a transformative journey of love, courage, and self-discovery with Paulo Coelho's enchanting novel, 'The Valkyries.' Explore the profound spiritual insights and life lessons woven throughout this captivating story, as Coelho invites readers to confront their fears, embrace their inner strength, and unlock the power of love."
 
-images: ['https://www.rics-notebook.com/articleimage/TheValkyries.webp']
+images: ['https://www.rics-notebook.com/articleimage/Books/TheValkyries.webp', 'https://www.rics-notebook.com/articleimage/TheValkyries.webp']
 ---
 
 # The Valkyries by Paulo Coelho: A Journey of Love, Courage, and Self-Discovery

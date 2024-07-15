@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Discover a groundbreaking approach to encryption that leverages the power of artificial intelligence. Explore how neural networks can be trained to encrypt and decrypt data using complex vector associations, offering a new paradigm in data security. Dive into the technical details and learn about the strengths, weaknesses, opportunities, and threats of this innovative encryption method.'
 
-images: ['https://www.rics-notebook.com/articleimage/AIEncryption.webp']
+images: ['https://www.rics-notebook.com/articleimage/AIEncryption.webp', 'https://www.rics-notebook.com/articleimage/AI/AIEncryption.webp']
 ---
 
 ## 🔒 Introduction to AI-Driven Encryption

@@ -6,7 +6,7 @@ tags: ['Art', 'AI', 'Bing', 'GPT', 'Dalle']
 draft: false
 summary: How to use Bing Create to make AI images
 
-images: ['https://www.rics-notebook.com/articleimage/Bing_Create.webp']
+images: ['https://www.rics-notebook.com/articleimage/AI/Bing_Create.webp', 'https://www.rics-notebook.com/articleimage/Bing_Create.webp']
 ---
 
 # How to Use Bing Create to Make AI Images 🎨

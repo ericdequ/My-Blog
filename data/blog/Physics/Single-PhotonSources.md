@@ -14,7 +14,7 @@ tags:
 draft: false
 summary: 'Dive into the world of quantum optics with a comprehensive exploration of single-photon sources, detectors, and beamsplitters. Understand the principles behind quantum light and its applications in modern technology.'
 
-images: ['https://www.rics-notebook.com/articleimage/Physics/Single-PhotonSources.webp', 'https://courses.xpro.mit.edu/assets/courseware/v1/50c31c3fb42016b86fc481200c7ef50a/asset-v1:xPRO+QCFx2+R17+type@asset+block/Polarized_Beam_Splitter.jpg']
+images: ['https://courses.xpro.mit.edu/assets/courseware/v1/50c31c3fb42016b86fc481200c7ef50a/asset-v1:xPRO+QCFx2+R17+type@asset+block/Polarized_Beam_Splitter.jpg', 'https://www.rics-notebook.com/articleimage/Physics/Single-PhotonSources.webp']
 ---
 
 ## 🔬 Introduction: The Quantum World of Photons

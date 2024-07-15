@@ -18,7 +18,7 @@ tags:
 draft: false
 summary: 'Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀'
 
-images: ['https://www.rics-notebook.com/articleimage/QuantumLearn.webp', 'https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75', 'https://quantumlearn.org/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75']
+images: ['https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75', 'https://quantumlearn.org/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75', 'https://www.rics-notebook.com/articleimage/Certifications/QuantumLearn.webp', 'https://www.rics-notebook.com/articleimage/QuantumLearn.webp']
 ---
 
 ## 🎓 QuantumLearn: Empowering Learners Through Open Source
