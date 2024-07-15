@@ -6,7 +6,7 @@ tags: ['Quantum Mechanics', 'Satire', 'Science', 'Humor', 'Pop Culture', 'Movies
 draft: false
 summary: 'Get ready to have your mind blown as we expose the biggest cover-up in quantum history. The no-cloning theorem? More like the no-cloning sham! Join us on a wild ride as we unravel the quantum conspiracies that have been hiding in plain sight.'
 
-images: ['https://www.rics-notebook.com/teleport.webp', 'https://www.rics-notebook.com/articleimage/Quantum/CloningTheorem.webp']
+images: ['https://www.rics-notebook.com/articleimage/Quantum/CloningTheorem.webp', 'https://www.rics-notebook.com/teleport.webp']
 ---
 
 ## 🕶️ The No-Cloning Theorem: A Quantum Cover-Up

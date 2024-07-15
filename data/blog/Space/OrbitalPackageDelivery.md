@@ -15,7 +15,7 @@ tags:
 draft: false
 summary: 'Explore a groundbreaking method of package transportation that leverages Earths rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.'
 
-images: ['https://www.rics-notebook.com/articleimage/Space/OrbitalPackageDelivery.webp', 'https://www.quantumcybersolutions.com/OPD/header.webp', 'https://www.quantumcybersolutions.com/OPD/orbital-mechanics.webp', 'https://www.quantumcybersolutions.com/OPD/environmental-benefits.webp', 'https://www.quantumcybersolutions.com/OPD/cost-savings.webp', 'https://www.quantumcybersolutions.com/OPD/advanced.webp']
+images: ['https://www.rics-notebook.com/articleimage/Space/OrbitalPackageDelivery.webp', 'https://www.quantumcybersolutions.com/OPD/cost-savings.webp', 'https://www.quantumcybersolutions.com/OPD/advanced.webp', 'https://www.quantumcybersolutions.com/OPD/environmental-benefits.webp', 'https://www.quantumcybersolutions.com/OPD/header.webp', 'https://www.quantumcybersolutions.com/OPD/orbital-mechanics.webp']
 ---
 
 ## 🌎 Orbital Package Delivery: A Paradigm Shift in Transportation
