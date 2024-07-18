@@ -13,7 +13,7 @@ tags:
     'Quantum Entanglement',
     'Metaphysics',
   ]
-draft: true
+draft: false
 summary: 'Embark on a mind-bending journey through the observer effect and the expansion of space, exploring the captivating idea that our perception of reality and time is intimately connected to our motion through the cosmos. We delve into the notion that we are the painters of reality, creating our experiences as we navigate the fabric of space, while the memory of our collective journey is woven into the tapestry of universal consciousness through the enigmatic threads of quantum entanglement.'
 
 images: ['https://www.rics-notebook.com/articleimage/Theory/Painters.webp']
