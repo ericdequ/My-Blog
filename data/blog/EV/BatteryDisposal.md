@@ -19,7 +19,7 @@ images: ['https://www.rics-notebook.com/articleimage/BatteryDisposal.webp']
 
 ## 🔋 The Rise of Electric Vehicles and Lithium-Ion Batteries
 
-Electric vehicles (EVs) have emerged as a promising solution to reduce greenhouse gas emissions and combat climate change. Central to the success of EVs are lithium-ion batteries, which power these eco-friendly vehicles. However, as the adoption of EVs grows, concerns have been raised about the environmental impact of disposing of these batteries. In this blog post, we'll explore the clean methods of lithium-ion battery disposal and recycling, and compare the environmental impact of battery disposal to the emissions of traditional vehicles.
+Electric vehicles (EVs) have emerged as a promising solution to reduce greenhouse gas emissions and combat climate change. Central to the success of EVs are lithium-ion batteries, which power these eco-friendly vehicles. However, as the adoption of EVs grows, concerns have been raised about the environmental impact of disposing of these batteries. In this blog post, well explore the clean methods of lithium-ion battery disposal and recycling, and compare the environmental impact of battery disposal to the emissions of traditional vehicles.
 
 ## ♻️ Clean Disposal and Recycling of Lithium-Ion Batteries
 

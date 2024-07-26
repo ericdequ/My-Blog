@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/HowTrainsGoUphill
 
 # 🚂 Choo-Choo-Choosing to Climb: The Uphill Journey of Trains 🚂
 
-Picture this: you're on a train, winding through a scenic mountain range, and suddenly, you notice the train is chugging uphill. You might find yourself wondering, "How on earth do these massive machines manage to climb such steep inclines without slipping or stalling?" Well, wonder no more! In this blog post, we'll dive into the fascinating world of train engineering and explore the secrets behind their uphill adventures.
+Picture this: you're on a train, winding through a scenic mountain range, and suddenly, you notice the train is chugging uphill. You might find yourself wondering, "How on earth do these massive machines manage to climb such steep inclines without slipping or stalling?" Well, wonder no more! In this blog post, well dive into the fascinating world of train engineering and explore the secrets behind their uphill adventures.
 
 # 🏔️ The Challenges of Climbing Hills 🏔️
 

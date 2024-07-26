@@ -19,7 +19,7 @@ images: ['https://www.rics-notebook.com/articleimage/QuantumFinance.webp']
 
 ## 🌐 Quantum Computing: The Next Frontier in Finance
 
-The finance industry is always looking for ways to gain a competitive edge, and quantum computing is emerging as a potential game-changer. With its ability to solve complex problems exponentially faster than classical computers, quantum computing has the potential to revolutionize various aspects of finance, from portfolio optimization and risk management to fraud detection and algorithmic trading. In this blog post, we'll explore the exciting applications of quantum computing in finance and how it could shape the future of the industry.
+The finance industry is always looking for ways to gain a competitive edge, and quantum computing is emerging as a potential game-changer. With its ability to solve complex problems exponentially faster than classical computers, quantum computing has the potential to revolutionize various aspects of finance, from portfolio optimization and risk management to fraud detection and algorithmic trading. In this blog post, well explore the exciting applications of quantum computing in finance and how it could shape the future of the industry.
 
 ## 📊 Portfolio Optimization: Maximizing Returns with Quantum Computing
 

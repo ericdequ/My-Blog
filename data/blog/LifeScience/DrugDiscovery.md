@@ -21,7 +21,7 @@ images: ['https://www.rics-notebook.com/articleimage/LifeScience/DrugDiscovery.w
 
 ## 🔬 Quantum Computing: A Paradigm Shift in Drug Discovery
 
-The process of drug discovery is a complex and time-consuming endeavor, often taking years and billions of dollars to bring a new medicine to market. However, the advent of quantum computing is poised to revolutionize this process, offering unprecedented computational power and enabling the simulation of complex molecular systems with unparalleled accuracy. In this post, we'll delve into the technical details of how quantum computing is being applied to accelerate drug discovery and transform the pharmaceutical industry.
+The process of drug discovery is a complex and time-consuming endeavor, often taking years and billions of dollars to bring a new medicine to market. However, the advent of quantum computing is poised to revolutionize this process, offering unprecedented computational power and enabling the simulation of complex molecular systems with unparalleled accuracy. In this post, well delve into the technical details of how quantum computing is being applied to accelerate drug discovery and transform the pharmaceutical industry.
 
 ## 🌿 Quantum Chemistry: Simulating Molecular Interactions
 

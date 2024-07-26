@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoLeavesChange
 
 # 🍂 A Kaleidoscope of Color: The Magic of Fall Foliage 🍂
 
-There's something enchanting about the arrival of autumn, as the world seems to burst into a symphony of color, painting the landscape in shades of crimson, amber, and gold. It's a time of year that captivates the senses and invites us to marvel at the breathtaking beauty of nature. But have you ever stopped to wonder what causes this stunning transformation? In this blog post, we'll unravel the science behind the changing colors of fall leaves and explore the intricate processes that create this awe-inspiring display.
+There's something enchanting about the arrival of autumn, as the world seems to burst into a symphony of color, painting the landscape in shades of crimson, amber, and gold. It's a time of year that captivates the senses and invites us to marvel at the breathtaking beauty of nature. But have you ever stopped to wonder what causes this stunning transformation? In this blog post, well unravel the science behind the changing colors of fall leaves and explore the intricate processes that create this awe-inspiring display.
 
 # 🌿 The Green Machine: Chlorophyll and Photosynthesis 🌿
 

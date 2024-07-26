@@ -13,7 +13,7 @@ images: ['https://www.rics-notebook.com/articleimage/Setup/Manim.webp']
 
 Manim, short for Mathematical Animation Engine, is a powerful Python library that allows you to create stunning animations and visualizations of mathematical concepts. Created by Grant Sanderson, the mind behind the popular YouTube channel 3Blue1Brown, Manim has gained a dedicated following among educators, researchers, and math enthusiasts.
 
-In this tutorial, we'll walk you through the process of setting up Manim and creating your first animation. Whether you're a seasoned Python developer or a beginner looking to explore the world of mathematical visualization, this guide will provide you with the foundation you need to get started with Manim.
+In this tutorial, well walk you through the process of setting up Manim and creating your first animation. Whether you're a seasoned Python developer or a beginner looking to explore the world of mathematical visualization, this guide will provide you with the foundation you need to get started with Manim.
 
 ## 🛠️ Setting Up Manim
 
@@ -39,7 +39,7 @@ Before we dive into creating animations, let's make sure you have Manim properly
 
 ## 🎬 Creating Your First Animation
 
-Now that you have Manim set up, let's create a simple animation to get a feel for how it works. We'll create an animation that showcases the creation of a circle and a square.
+Now that you have Manim set up, let's create a simple animation to get a feel for how it works. well create an animation that showcases the creation of a circle and a square.
 
 1. **Create a New Python File**: Open your favorite text editor and create a new file. Save it with a `.py` extension, for example, `first_animation.py`.
 

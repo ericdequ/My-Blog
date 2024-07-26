@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyIsSkyBlue.webp
 
 # 🌌 The Eternal Question: Why Is the Sky Blue? 🌌
 
-Look up on a clear, sunny day, and you'll be greeted by a vast expanse of blue stretching as far as the eye can see. The sky's mesmerizing blue color has captivated human curiosity for centuries, prompting the age-old question: "Why is the sky blue?" In this blog post, we'll dive into the fascinating science behind this phenomenon and unravel the mystery once and for all. Plus, we'll take a journey to other planets to see what their skies look like!
+Look up on a clear, sunny day, and you'll be greeted by a vast expanse of blue stretching as far as the eye can see. The sky's mesmerizing blue color has captivated human curiosity for centuries, prompting the age-old question: "Why is the sky blue?" In this blog post, well dive into the fascinating science behind this phenomenon and unravel the mystery once and for all. Plus, well take a journey to other planets to see what their skies look like!
 
 # ☀️ It All Starts with Sunlight ☀️
 

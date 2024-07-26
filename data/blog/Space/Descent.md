@@ -19,7 +19,7 @@ images: ['https://www.rics-notebook.com/articleimage/Space/Descent.webp']
 
 ## 🌎 The Descent Phase: Guiding Packages Safely Back to Earth
 
-After a package has completed its orbital journey, it enters the final and most critical stage of the delivery process: the Descent Phase. This phase involves the complex task of safely guiding the package through the Earth's atmosphere and precisely landing it at the designated location. In this post, we'll explore the three key stages of the Descent Phase - Deorbit and Reentry, Atmospheric Descent, and Landing and Recovery - and the crucial role of the Guidance, Navigation, and Control (GNC) system throughout this process.
+After a package has completed its orbital journey, it enters the final and most critical stage of the delivery process: the Descent Phase. This phase involves the complex task of safely guiding the package through the Earth's atmosphere and precisely landing it at the designated location. In this post, well explore the three key stages of the Descent Phase - Deorbit and Reentry, Atmospheric Descent, and Landing and Recovery - and the crucial role of the Guidance, Navigation, and Control (GNC) system throughout this process.
 
 ### 🔥 Stage 1: Deorbit and Reentry
 

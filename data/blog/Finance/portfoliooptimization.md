@@ -23,7 +23,7 @@ images: ['https://www.rics-notebook.com/articleimage/portfoliooptimization.webp'
 
 Portfolio optimization is a critical task in finance, involving the selection of assets to maximize returns while minimizing risk. As the number of assets and constraints increases, the optimization problem becomes increasingly complex, making it challenging for classical computers to solve efficiently. Quantum computing offers a potential solution, leveraging the principles of quantum mechanics to perform complex calculations and optimize portfolios more effectively.
 
-In this blog post, we'll dive deep into the technical details of quantum portfolio optimization, exploring the specific algorithms and quantum mechanics principles used. We'll also discuss how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.
+In this blog post, well dive deep into the technical details of quantum portfolio optimization, exploring the specific algorithms and quantum mechanics principles used. well also discuss how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.
 
 ## 🔢 Quantum Mechanics Principles in Portfolio Optimization
 

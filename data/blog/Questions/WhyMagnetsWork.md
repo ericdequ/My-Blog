@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyMagnetsWork.we
 
 # 🧲 Stuck on You: The Mesmerizing World of Magnets 🧲
 
-Have you ever marveled at the invisible force that causes magnets to attract or repel each other? Or wondered how a tiny magnet can hold a heavy piece of metal against the pull of gravity? The world of magnets is full of fascinating phenomena that have captivated human curiosity for centuries. In this blog post, we'll dive into the science behind magnets, explore the secrets of their magnetic attraction, and compare magnetic force to gravity.
+Have you ever marveled at the invisible force that causes magnets to attract or repel each other? Or wondered how a tiny magnet can hold a heavy piece of metal against the pull of gravity? The world of magnets is full of fascinating phenomena that have captivated human curiosity for centuries. In this blog post, well dive into the science behind magnets, explore the secrets of their magnetic attraction, and compare magnetic force to gravity.
 
 # 🎓 The ABCs of Magnets: Atoms, Fields, and Domains 🎓
 

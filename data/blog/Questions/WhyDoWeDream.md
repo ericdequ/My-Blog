@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeDream.webp
 
 # 💤 The Enigma of Dreams: A Journey into the Sleeping Mind 💤
 
-Close your eyes and drift off into the realm of dreams, where reality blends with fantasy, and the impossible becomes commonplace. Dreams have captivated human curiosity for as long as we can remember, prompting the age-old question: "Why do we dream?" In this blog post, we'll embark on a fascinating journey into the world of dreams, exploring the scientific theories and insights that aim to unravel the mysteries of our sleeping mind.
+Close your eyes and drift off into the realm of dreams, where reality blends with fantasy, and the impossible becomes commonplace. Dreams have captivated human curiosity for as long as we can remember, prompting the age-old question: "Why do we dream?" In this blog post, well embark on a fascinating journey into the world of dreams, exploring the scientific theories and insights that aim to unravel the mysteries of our sleeping mind.
 
 # 🧠 The Science of Sleep: REM and Dreams 🧠
 

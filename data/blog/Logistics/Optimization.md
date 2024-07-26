@@ -22,7 +22,7 @@ images: ['https://www.rics-notebook.com/articleimage/Logistics/Optimization.webp
 
 ## 🎛️ Quantum Algorithms: Powering Logistics Optimization
 
-Quantum computing is revolutionizing the logistics industry by enabling unprecedented optimization capabilities. At the heart of this transformation lie sophisticated quantum algorithms designed to tackle complex optimization problems. In this post, we'll explore the technical details, formulas, and code examples that bring these algorithms to life.
+Quantum computing is revolutionizing the logistics industry by enabling unprecedented optimization capabilities. At the heart of this transformation lie sophisticated quantum algorithms designed to tackle complex optimization problems. In this post, well explore the technical details, formulas, and code examples that bring these algorithms to life.
 
 ## 🧩 The Quantum Advantage in Optimization
 

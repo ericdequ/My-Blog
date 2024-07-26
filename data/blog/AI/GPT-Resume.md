@@ -13,7 +13,7 @@ images: ['https://www.rics-notebook.com/articleimage/AI/GPT-Resume.webp', 'https
 
 ## 📝 Introduction
 
-Are you tired of sending out countless resumes and cover letters that never get a response? 😞 Don't worry! We're here to help you stand out from the crowd with the power of ChatGPT, BARD, and some fun language to make your application shine. 🌟 In this blog post, we'll take you through the steps of creating an impressive cover letter and resume using these AI tools, markdown for styling, and how to export your masterpiece as a PDF.
+Are you tired of sending out countless resumes and cover letters that never get a response? 😞 Don't worry! We're here to help you stand out from the crowd with the power of ChatGPT, BARD, and some fun language to make your application shine. 🌟 In this blog post, well take you through the steps of creating an impressive cover letter and resume using these AI tools, markdown for styling, and how to export your masterpiece as a PDF.
 
 ## ✨ ChatGPT and BARD
 

@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/HowDoCamerasWork.
 
 # 📸 A Lens on the World: The Magic of Cameras 📸
 
-In today's visually-driven world, cameras have become an indispensable tool for capturing and sharing our experiences, emotions, and perspectives. From the smartphones in our pockets to the high-end professional gear used by photographers and filmmakers, cameras have the power to freeze time, tell stories, and evoke powerful emotions. But have you ever stopped to consider the science and technology that makes this magic possible? In this blog post, we'll explore the fascinating inner workings of cameras and unravel the secrets behind how they capture the images that shape our world.
+In today's visually-driven world, cameras have become an indispensable tool for capturing and sharing our experiences, emotions, and perspectives. From the smartphones in our pockets to the high-end professional gear used by photographers and filmmakers, cameras have the power to freeze time, tell stories, and evoke powerful emotions. But have you ever stopped to consider the science and technology that makes this magic possible? In this blog post, well explore the fascinating inner workings of cameras and unravel the secrets behind how they capture the images that shape our world.
 
 # 🌿 The Eye of the Camera: Lenses and Optics 🌿
 

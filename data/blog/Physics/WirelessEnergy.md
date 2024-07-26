@@ -13,7 +13,7 @@ images: ['https://www.rics-notebook.com/articleimage/Physics/WirelessEnergy.webp
 
 ## Introduction
 
-Imagine a world where wires are a thing of the past, where your devices charge themselves seamlessly, and where lighting shows and performance arts take on a magical quality. This is the promise of wireless power transmission, a technology that has captured the imagination of scientists and engineers for over a century. In this post, we'll explore the principles behind wireless power transmission, its potential applications, and how you can build your own Tesla coil-based devices to experience the magic firsthand.
+Imagine a world where wires are a thing of the past, where your devices charge themselves seamlessly, and where lighting shows and performance arts take on a magical quality. This is the promise of wireless power transmission, a technology that has captured the imagination of scientists and engineers for over a century. In this post, well explore the principles behind wireless power transmission, its potential applications, and how you can build your own Tesla coil-based devices to experience the magic firsthand.
 
 ## The Science of Wireless Power Transmission
 

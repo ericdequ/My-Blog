@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/HowPlanesStayUp.w
 
 # ✈️ Up, Up, and Away: How Airplanes Conquer the Skies ✈️
 
-Picture this: you're sitting in an airplane, gazing out the window as the ground falls away beneath you. Suddenly, you're struck by a thought: "How on earth does this enormous metal tube manage to stay in the air?" It's a question that has captivated the minds of countless travelers and aviation enthusiasts alike. In this blog post, we'll dive into the science behind the magic of flight and reveal the secrets that keep airplanes soaring high above the clouds.
+Picture this: you're sitting in an airplane, gazing out the window as the ground falls away beneath you. Suddenly, you're struck by a thought: "How on earth does this enormous metal tube manage to stay in the air?" It's a question that has captivated the minds of countless travelers and aviation enthusiasts alike. In this blog post, well dive into the science behind the magic of flight and reveal the secrets that keep airplanes soaring high above the clouds.
 
 # 🌬️ The Four Forces of Flight 🌬️
 

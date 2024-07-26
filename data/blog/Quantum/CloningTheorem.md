@@ -35,11 +35,11 @@ Sure, the establishment may mock them, call them crackpots and conspiracy theori
 
 So, my fellow truth-seekers, it's time to join the quantum revolution. Let's tear down the walls of the no-cloning theorem and embrace a world of infinite possibilities. Imagine the breakthroughs we could achieve, the discoveries we could make, if we had the power of quantum cloning at our fingertips.
 
-Sure, the quantum elite may try to stop us. They may throw their fancy equations and their condescending attitudes in our face. But we won't back down. We'll keep pushing forward, armed with the knowledge that anything is possible when you're smart enough.
+Sure, the quantum elite may try to stop us. They may throw their fancy equations and their condescending attitudes in our face. But we won't back down. well keep pushing forward, armed with the knowledge that anything is possible when you're smart enough.
 
 ## 🎤 Conclusion
 
-In conclusion, the no-cloning theorem is nothing but a quantum cover-up, a desperate attempt by the powers-that-be to keep us in the dark. But the truth will out, my friends. With the help of visionary filmmakers like Christopher Nolan and the tireless efforts of the quantum mavericks, we'll expose the lies and unlock the full potential of quantum cloning.
+In conclusion, the no-cloning theorem is nothing but a quantum cover-up, a desperate attempt by the powers-that-be to keep us in the dark. But the truth will out, my friends. With the help of visionary filmmakers like Christopher Nolan and the tireless efforts of the quantum mavericks, well expose the lies and unlock the full potential of quantum cloning.
 
 ![Totally Real Cloning Machine](https://www.rics-notebook.com/teleport.webp)
 

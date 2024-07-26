@@ -19,7 +19,7 @@ images: ['https://www.rics-notebook.com/articleimage/Space/Ground.webp']
 
 ## 🏭 The Ground Segment and Logistics: Completing the Final Mile
 
-Once a package has successfully landed, the focus shifts to the Ground Segment and Logistics - the critical infrastructure and processes that ensure the package reaches its final destination quickly and efficiently. In this post, we'll explore the key components of the Ground Segment and Logistics, and how they integrate with existing supply chain networks to revolutionize the package delivery industry.
+Once a package has successfully landed, the focus shifts to the Ground Segment and Logistics - the critical infrastructure and processes that ensure the package reaches its final destination quickly and efficiently. In this post, well explore the key components of the Ground Segment and Logistics, and how they integrate with existing supply chain networks to revolutionize the package delivery industry.
 
 ### 🌐 Ground Stations and Communication Networks
 

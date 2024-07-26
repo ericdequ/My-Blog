@@ -72,7 +72,7 @@ The group eventually agrees that a holistic approach to mental health is the way
 
 As the meeting ends, the Fungal Frontier and Pill Poppers leave with a newfound appreciation for each other's perspectives. While they may not see eye to eye on everything, they're united in their commitment to improving mental health outcomes and challenging the status quo.
 
-"Who knows?" muses Lucy as she packs up her mushroom-printed tote bag. "Maybe one day we'll have 'Psychedelic Therapy Centers' alongside traditional clinics - a truly integrative approach to mental health!"
+"Who knows?" muses Lucy as she packs up her mushroom-printed tote bag. "Maybe one day well have 'Psychedelic Therapy Centers' alongside traditional clinics - a truly integrative approach to mental health!"
 
 Dr. Stern chuckles, shaking his head. "Let's not get ahead of ourselves. But I'm open to the possibility. The most important thing is that we keep an open mind and let science guide us."
 

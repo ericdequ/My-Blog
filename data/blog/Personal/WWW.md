@@ -54,7 +54,7 @@ Just as Alice was about to ask about the dangers of mental wormhole collapse, ev
 
 "What a trip!" Bob exclaimed, his eyes twinkling with residual stardust. "Who knew Wonderland Wormwood tea could take us on such an astral adventure?"
 
-Alice grinned, realizing their minds had created a shared psychedelic experience that taught real scientific concepts. "It may have been the tea," she mused, "but the lessons were real. And who knows? Maybe one day, we'll turn these dreams into reality."
+Alice grinned, realizing their minds had created a shared psychedelic experience that taught real scientific concepts. "It may have been the tea," she mused, "but the lessons were real. And who knows? Maybe one day, well turn these dreams into reality."
 
 They clinked their teacups, the sound resonating with the hum of the universe. As they poured another round, they couldn't help but wonder: was the tea opening wormholes in their minds, or were their minds creating wormholes in reality?
 

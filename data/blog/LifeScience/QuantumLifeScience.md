@@ -20,7 +20,7 @@ images: ['https://www.rics-notebook.com/articleimage/LifeScience/QuantumLifeScie
 
 ## 🧬 Quantum Computing: Unlocking the Secrets of Life
 
-The life sciences are on the brink of a quantum revolution. As quantum computing technology advances, it is poised to transform the way we study and understand living systems, from the intricate workings of DNA to the complex processes that govern health and disease. In this post, we'll explore the various applications of quantum computing in the life sciences and how they are revolutionizing the field.
+The life sciences are on the brink of a quantum revolution. As quantum computing technology advances, it is poised to transform the way we study and understand living systems, from the intricate workings of DNA to the complex processes that govern health and disease. In this post, well explore the various applications of quantum computing in the life sciences and how they are revolutionizing the field.
 
 ## 🚀 Accelerating DNA Sequencing
 

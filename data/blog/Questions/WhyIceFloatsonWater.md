@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyIceFloatsonWat
 
 # ❄️ The Paradox of Floating Ice: A Cool Conundrum ❄️
 
-Picture this: you're enjoying a refreshing glass of iced water on a hot summer day. As you watch the ice cubes bobbing on the surface, you might find yourself wondering, "Why does ice float on water?" After all, most solids are denser than their liquid counterparts and tend to sink. So, what makes ice the exception to this rule? In this blog post, we'll unravel the mystery of floating ice and explore the fascinating science behind this seemingly paradoxical phenomenon.
+Picture this: you're enjoying a refreshing glass of iced water on a hot summer day. As you watch the ice cubes bobbing on the surface, you might find yourself wondering, "Why does ice float on water?" After all, most solids are denser than their liquid counterparts and tend to sink. So, what makes ice the exception to this rule? In this blog post, well unravel the mystery of floating ice and explore the fascinating science behind this seemingly paradoxical phenomenon.
 
 # 🌊 The Density Dilemma: Understanding the Basics 🌊
 

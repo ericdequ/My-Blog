@@ -19,7 +19,7 @@ images: ['https://www.rics-notebook.com/articleimage/Space/Navigation.webp']
 
 ## 🛰️ The Orbital Transit Phase: Navigating the Space Superhighway
 
-Once a package has been successfully launched into space, it enters the Orbital Transit Phase. This critical stage involves the precise maneuvering and tracking of packages as they traverse the vast expanses of space to reach their designated orbits. In this post, we'll delve into the key aspects of orbital transit, including orbital mechanics, package monitoring, and the vital role of space communication.
+Once a package has been successfully launched into space, it enters the Orbital Transit Phase. This critical stage involves the precise maneuvering and tracking of packages as they traverse the vast expanses of space to reach their designated orbits. In this post, well delve into the key aspects of orbital transit, including orbital mechanics, package monitoring, and the vital role of space communication.
 
 ### 🌌 Establishing Optimal Orbital Parameters
 

@@ -20,7 +20,7 @@ images: ['https://www.rics-notebook.com/articleimage/Cranes.webp']
 
 # 🏗️ Unraveling the Mystery: How Do Tower Cranes Erect Themselves? 🏗️
 
-Tower cranes, the towering giants of the construction industry, have long been a source of fascination for onlookers. These modern marvels can reach dizzying heights, seemingly defying gravity as they lift heavy loads with ease. But have you ever wondered how these colossal structures manage to erect themselves? In this blog post, we'll delve into the intriguing process behind self-erecting tower cranes.
+Tower cranes, the towering giants of the construction industry, have long been a source of fascination for onlookers. These modern marvels can reach dizzying heights, seemingly defying gravity as they lift heavy loads with ease. But have you ever wondered how these colossal structures manage to erect themselves? In this blog post, well delve into the intriguing process behind self-erecting tower cranes.
 
 The secret lies in a combination of clever engineering, precise mechanics, and a touch of construction magic:
 

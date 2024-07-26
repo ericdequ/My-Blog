@@ -11,7 +11,7 @@ images: ['https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHiccup.web
 
 # 🙃 Hic, Hic, Hooray: A Journey into the World of Hiccups 🙃
 
-Hiccups – they're unexpected, uncontrollable, and often unwelcome. Whether you're in the middle of a conversation, enjoying a meal, or trying to drift off to sleep, a sudden bout of hiccups can quickly derail your plans and leave you feeling frustrated and self-conscious. But have you ever stopped to wonder what causes these peculiar spasms and why they seem to strike at the most inopportune moments? In this blog post, we'll delve into the mysterious world of hiccups and uncover the science behind this all-too-common annoyance.
+Hiccups – they're unexpected, uncontrollable, and often unwelcome. Whether you're in the middle of a conversation, enjoying a meal, or trying to drift off to sleep, a sudden bout of hiccups can quickly derail your plans and leave you feeling frustrated and self-conscious. But have you ever stopped to wonder what causes these peculiar spasms and why they seem to strike at the most inopportune moments? In this blog post, well delve into the mysterious world of hiccups and uncover the science behind this all-too-common annoyance.
 
 # 🫁 The Anatomy of a Hiccup: Diaphragm, Nerves, and More 🫁
 
