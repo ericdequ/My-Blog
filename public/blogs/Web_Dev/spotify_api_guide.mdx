@@ -1,0 +1,107 @@
+---
+title: '🎶 Integrate Spotify Profile Data: A Web API Guide 🎶'
+date: '2023-03-28'
+tags: ['Spotify', 'Web API', 'JavaScript', 'TypeScript', 'education', 'devops']
+draft: false
+summary: 'A step-by-step guide to integrating Spotify profile data into your web app using the Spotify Web API.'
+---
+
+# 🎶 Integrate Spotify Profile Data: A Web API Guide
+
+Integrating Spotify into your web application is a powerful way to showcase user preferences, display songs, and playlists. Leveraging the Spotify Web API provides easy access to a trove of Spotify content, from songs and albums to user data. This guide will walk you through a simple client-side integration.
+
+## 🚀 Prerequisites
+
+Before delving into the details, ensure you have:
+
+- Node.js LTS environment or later.
+- npm version 7 or later.
+- An active Spotify account.
+
+## 🛠 Setting up your Spotify Developer Account
+
+1. Navigate to the Spotify Developer Dashboard.
+2. Complete your account setup by accepting the latest Developer Terms of Service.
+
+## 📝 Registering a New Spotify App
+
+To access the Spotify Web API, you must first register your app. This registration process provides you with credentials essential for API calls.
+
+1. Register a new app.
+2. Jot down your `client_id`.
+
+## 🎨 Building the Application
+
+### Setting up the project
+
+This guide utilizes Vite for serving our app:
+
+```bash
+npm create vite@latest spotify-profile-demo -- --template vanilla-ts
+cd spotify-profile-demo
+npm install
+npm run dev
+```
+
+Note: Make sure to choose the right code snippets for either TypeScript or JavaScript.
+
+### Structuring the User Interface
+
+Replace the content of your `index.html` file with the following:
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My Spotify Profile</title>
+    <script src="src/script.ts" type="module"></script>
+  </head>
+  <body>
+    <h1>Display your Spotify profile data</h1>
+
+    <section id="profile">
+      <h2>Logged in as <span id="displayName"></span></h2>
+      <span id="avatar"></span>
+      <ul>
+        <li>User ID: <span id="id"></span></li>
+        <li>Email: <span id="email"></span></li>
+        <li>Spotify URI: <a id="uri" href="#"></a></li>
+        <li>Link: <a id="url" href="#"></a></li>
+        <li>Profile Image: <span id="imgUrl"></span></li>
+      </ul>
+    </section>
+  </body>
+</html>
+```
+
+### Implementing API Calls
+
+Your app should:
+
+- Redirect users for Spotify authorization.
+- On successful authorization, fetch the user's Spotify profile data.
+- Display this data on the UI.
+
+For a full step-by-step breakdown, follow the snippets and instructions provided in the docs.
+
+## 🖼 Embedding a Spotify Playlist
+
+Enhance your web application by embedding a Spotify playlist:
+
+```html
+<iframe
+  style="border-radius:12px"
+  src="https://open.spotify.com/embed/playlist/45HlYPxbiLnoXh1hScMqI6?utm_source=generator&theme=0"
+  width="100%"
+  height="152"
+  frameborder="0"
+  allowfullscreen=""
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+></iframe>
+```
+
+## 🎉 Wrapping Up
+
+Now, you have an application that not only showcases Spotify user data but also embeds a lively playlist. Keep exploring the Spotify Web API for more features and possibilities!

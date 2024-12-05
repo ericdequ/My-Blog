@@ -28,7 +28,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
           <h1 className="text-4xl font-extrabold leading-10 tracking-tight text-primary-900 dark:text-primary-100 sm:text-5xl sm:leading-12 md:text-6xl md:leading-14">
             {title}
           </h1>
-          <div className="relative max-w-lg mx-auto">
+          <div className="relative max-w-lg mx-auto font-magical ">
             <label htmlFor="search" className="sr-only">
               Search articles
             </label>
