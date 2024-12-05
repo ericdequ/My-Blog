@@ -151,16 +151,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
-    <title>Decoding the Disc: How Does a CD Store Music?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
-    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</guid>
     <title>The Silent Guardians: How Do Smoke Detectors Sense Smoke?</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</link>
@@ -168,6 +158,16 @@
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Smoke Detectors</category><category>Safety</category><category>Technology</category><category>Fire Prevention</category><category>Home</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
+    <title>Decoding the Disc: How Does a CD Store Music?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
+    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
   </item>
 
     </channel>

@@ -121,16 +121,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
-    <title>Decoding the Disc: How Does a CD Store Music?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
-    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowDoFishBreathUnderWater</guid>
     <title>Underwater Breathing: How Do Fish Breathe Underwater?</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowDoFishBreathUnderWater</link>
@@ -221,6 +211,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
+    <title>Decoding the Disc: How Does a CD Store Music?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
+    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowLizardsStickToWalls</guid>
     <title>The Marvel of Gecko Adhesion: How Geckos Stick to Walls</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowLizardsStickToWalls</link>
@@ -268,26 +268,6 @@
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Dogs</category><category>Animal Behavior</category><category>Tail Wagging</category><category>Canine Communication</category><category>Emotions</category><category>Questions</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</guid>
-    <title>Heliums Funny Effect: Why Does Helium Make Your Voice Sound Funny?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</link>
-    <description>Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Helium</category><category>Voice</category><category>Science</category><category>Physics</category><category>Acoustics</category><category>Questions</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</guid>
-    <title>The Popcorn Phenomenon: Exploring the Science Behind the Pop</title>
-    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</link>
-    <description>Popcorn has been a beloved snack for generations, captivating us with its enticing aroma, satisfying crunch, and endless versatility. But have you ever wondered about the science behind those magical kernels that transform into fluffy, white morsels? In this blog post, we dive into the fascinating world of popcorn and explore the intricate processes that make this snack a true marvel of nature and food science.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Popcorn</category><category>Snacks</category><category>Food Science</category><category>Kernels</category><category>Steam Pressure</category><category>Questions</category>
   </item>
 
   <item>
@@ -418,6 +398,26 @@
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Yawning</category><category>Biology</category><category>Human Body</category><category>Psychology</category><category>Behavior</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</guid>
+    <title>Heliums Funny Effect: Why Does Helium Make Your Voice Sound Funny?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</link>
+    <description>Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Helium</category><category>Voice</category><category>Science</category><category>Physics</category><category>Acoustics</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</guid>
+    <title>The Popcorn Phenomenon: Exploring the Science Behind the Pop</title>
+    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</link>
+    <description>Popcorn has been a beloved snack for generations, captivating us with its enticing aroma, satisfying crunch, and endless versatility. But have you ever wondered about the science behind those magical kernels that transform into fluffy, white morsels? In this blog post, we dive into the fascinating world of popcorn and explore the intricate processes that make this snack a true marvel of nature and food science.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Popcorn</category><category>Snacks</category><category>Food Science</category><category>Kernels</category><category>Steam Pressure</category><category>Questions</category>
   </item>
 
   <item>

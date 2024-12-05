@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sun, 14 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 17 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Theory/Painters</guid>
+    <title>The Observer Effect and the Expansion of Space: Unveiling Our Role as Realitys Painters</title>
+    <link>https://www.rics-notebook.com/blog/Theory/Painters</link>
+    <description>Embark on a mind-bending journey through the observer effect and the expansion of space, exploring the captivating idea that our perception of reality and time is intimately connected to our motion through the cosmos. We delve into the notion that we are the painters of reality, creating our experiences as we navigate the fabric of space, while the memory of our collective journey is woven into the tapestry of universal consciousness through the enigmatic threads of quantum entanglement.</description>
+    <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Observer Effect</category><category>Quantum Mechanics</category><category>Space Expansion</category><category>Time Perception</category><category>Reality Creation</category><category>Collective Consciousness</category><category>Quantum Entanglement</category><category>Metaphysics</category>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/QuantumCyber/Ekert</guid>
     <title>Quantum Key Distribution: The Ekert91 Protocol</title>
@@ -271,6 +281,26 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Health/DDD</guid>
+    <title>Democratizing Drug Discovery: The Case for Open Source Pharma Platforms 💊🌍</title>
+    <link>https://www.rics-notebook.com/blog/Health/DDD</link>
+    <description>Explore the potential of open source pharma discovery platforms in democratizing drug discovery and empowering people. Learn how decentralizing the pharmaceutical industry, inspired by the success of AI communities like Hugging Face, can lead to more accessible and affordable medicines while still benefiting all stakeholders.</description>
+    <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Open Source</category><category>Pharma</category><category>Drug Discovery</category><category>Decentralization</category><category>AI</category><category>Medicine</category><category>Hugging Face</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Physics/TempTime</guid>
+    <title>The Relativity of Time: Does Temperature Affect the Speed of Time? 🌡️⏰</title>
+    <link>https://www.rics-notebook.com/blog/Physics/TempTime</link>
+    <description>Explore the fascinating idea that temperature might affect the speed of time, causing our perception of dissolution rates to vary. Dive into the mathematics and physics behind this theory and discover how we can potentially use this phenomenon to calculate the relationship between temperature and time.</description>
+    <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Time Dilation</category><category>Temperature</category><category>Relativity</category><category>Dissolution</category><category>Thermodynamics</category><category>Perception</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/education/DOE</guid>
     <title>Transforming Education and Defense: Moving Space Force under the Department of Education 🚀🎓</title>
     <link>https://www.rics-notebook.com/blog/education/DOE</link>
@@ -291,16 +321,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Health/DDD</guid>
-    <title>Democratizing Drug Discovery: The Case for Open Source Pharma Platforms 💊🌍</title>
-    <link>https://www.rics-notebook.com/blog/Health/DDD</link>
-    <description>Explore the potential of open source pharma discovery platforms in democratizing drug discovery and empowering people. Learn how decentralizing the pharmaceutical industry, inspired by the success of AI communities like Hugging Face, can lead to more accessible and affordable medicines while still benefiting all stakeholders.</description>
-    <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Open Source</category><category>Pharma</category><category>Drug Discovery</category><category>Decentralization</category><category>AI</category><category>Medicine</category><category>Hugging Face</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/inventions/Qeye</guid>
     <title>Quantum-Powered Sales Optimization</title>
     <link>https://www.rics-notebook.com/blog/inventions/Qeye</link>
@@ -308,16 +328,6 @@
     <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Sales Optimization</category><category>Go-to-Market Strategies</category><category>Qeye</category><category>Quadratic Unconstrained Binary Optimization</category><category>QUBO</category><category>Quantum Annealing</category><category>D-Wave Systems</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Physics/TempTime</guid>
-    <title>The Relativity of Time: Does Temperature Affect the Speed of Time? 🌡️⏰</title>
-    <link>https://www.rics-notebook.com/blog/Physics/TempTime</link>
-    <description>Explore the fascinating idea that temperature might affect the speed of time, causing our perception of dissolution rates to vary. Dive into the mathematics and physics behind this theory and discover how we can potentially use this phenomenon to calculate the relationship between temperature and time.</description>
-    <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Time Dilation</category><category>Temperature</category><category>Relativity</category><category>Dissolution</category><category>Thermodynamics</category><category>Perception</category>
   </item>
 
   <item>
@@ -1001,6 +1011,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</guid>
+    <title>Efficient Deployment with Serverless Google Cloud</title>
+    <link>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</link>
+    <description>Insightful exploration of deploying a serverless application on Google Cloud, emphasizing cost efficiency and technical scalability.</description>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Serverless</category><category>Google Cloud</category><category>Cloud Computing</category><category>education</category><category>devops</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</guid>
     <title>The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm 🔍✨</title>
     <link>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</link>
@@ -1018,16 +1038,6 @@
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cryptography</category><category>RSA</category><category>Shor’s Algorithm</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Factoring</category><category>Quantum Algorithms</category><category>MIT xPRO</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</guid>
-    <title>Efficient Deployment with Serverless Google Cloud</title>
-    <link>https://www.rics-notebook.com/blog/Web_Dev/GoogleAppPatt</link>
-    <description>Insightful exploration of deploying a serverless application on Google Cloud, emphasizing cost efficiency and technical scalability.</description>
-    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Serverless</category><category>Google Cloud</category><category>Cloud Computing</category><category>education</category><category>devops</category>
   </item>
 
   <item>
@@ -1231,16 +1241,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/education/QuantumResources</guid>
-    <title>Quantum Computing Top Learning Resources 🎓</title>
-    <link>https://www.rics-notebook.com/blog/education/QuantumResources</link>
-    <description>Ready to dive into the fascinating world of quantum computing? Check out these top-notch learning resources, from introductory courses to advanced programming tutorials. Start your quantum journey today! 🚀</description>
-    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Learning Resources</category><category>Online Courses</category><category>Tutorials</category><category>Quantum Programming</category><category>Education</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Finance/QuantumFinance</guid>
     <title>Quantum Computing in Finance: Revolutionizing the Industry</title>
     <link>https://www.rics-notebook.com/blog/Finance/QuantumFinance</link>
@@ -1248,6 +1248,16 @@
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Risk Management</category><category>Fraud Detection</category><category>Algorithmic Trading</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/education/QuantumResources</guid>
+    <title>Quantum Computing Top Learning Resources 🎓</title>
+    <link>https://www.rics-notebook.com/blog/education/QuantumResources</link>
+    <description>Ready to dive into the fascinating world of quantum computing? Check out these top-notch learning resources, from introductory courses to advanced programming tutorials. Start your quantum journey today! 🚀</description>
+    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Learning Resources</category><category>Online Courses</category><category>Tutorials</category><category>Quantum Programming</category><category>Education</category>
   </item>
 
   <item>
@@ -1531,36 +1541,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/CartMate</guid>
-    <title>CartMate: Revolutionizing Golf Cart Transportation in Beach and Vacation Towns</title>
-    <link>https://www.rics-notebook.com/blog/inventions/CartMate</link>
-    <description>CartMate is a groundbreaking app that brings the convenience of ride-sharing to golf cart transportation in beach and vacation towns. With options for users to drive or ride, and the ability to earn free rides by driving others, CartMates fosters a strong sense of community while providing an eco-friendly and fun way to explore your favorite vacation spots.</description>
-    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Golf Cart Transportation</category><category>Ride-Sharing</category><category>Beach Towns</category><category>Vacation Destinations</category><category>Community Building</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/TheVacuumBalloon</guid>
-    <title>The Vacuum Balloon: Exploring the Science and Feasibility of Lifting Payloads to Space</title>
-    <link>https://www.rics-notebook.com/blog/inventions/TheVacuumBalloon</link>
-    <description>This blog post explores the intriguing concept of using a vacuum balloon to lift payloads to space. By examining the physics behind this idea, including buoyancy, atmospheric pressure, and material properties, we delve into the challenges and potential of this innovative approach to space exploration.</description>
-    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Vacuum Balloon</category><category>Space Exploration</category><category>Physics</category><category>Buoyancy</category><category>Atmospheric Pressure</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/YardMapp</guid>
-    <title>YardMapp: Streamlining Yard Maintenance and Landscaping Services</title>
-    <link>https://www.rics-notebook.com/blog/inventions/YardMapp</link>
-    <description>YardMapp is a revolutionary app that connects homeowners with landscaping and yard maintenance professionals. With features like sprinkler system and lighting mapping, service requests, and provider ratings, YardMapp simplifies yard care and fosters long-lasting relationships between homeowners and service providers.</description>
-    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Yard Maintenance</category><category>Landscaping</category><category>Home Ownership</category><category>Mobile App</category><category>Service Providers</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowDoElectricCarsWork</guid>
     <title>The Electric Revolution: Exploring the Science Behind Electric Cars</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowDoElectricCarsWork</link>
@@ -1608,6 +1588,36 @@
     <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Mars</category><category>Soil Composition</category><category>Chemical Analysis</category><category>Martian Climate</category><category>Space Exploration</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/CartMate</guid>
+    <title>CartMate: Revolutionizing Golf Cart Transportation in Beach and Vacation Towns</title>
+    <link>https://www.rics-notebook.com/blog/inventions/CartMate</link>
+    <description>CartMate is a groundbreaking app that brings the convenience of ride-sharing to golf cart transportation in beach and vacation towns. With options for users to drive or ride, and the ability to earn free rides by driving others, CartMates fosters a strong sense of community while providing an eco-friendly and fun way to explore your favorite vacation spots.</description>
+    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Golf Cart Transportation</category><category>Ride-Sharing</category><category>Beach Towns</category><category>Vacation Destinations</category><category>Community Building</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/TheVacuumBalloon</guid>
+    <title>The Vacuum Balloon: Exploring the Science and Feasibility of Lifting Payloads to Space</title>
+    <link>https://www.rics-notebook.com/blog/inventions/TheVacuumBalloon</link>
+    <description>This blog post explores the intriguing concept of using a vacuum balloon to lift payloads to space. By examining the physics behind this idea, including buoyancy, atmospheric pressure, and material properties, we delve into the challenges and potential of this innovative approach to space exploration.</description>
+    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Vacuum Balloon</category><category>Space Exploration</category><category>Physics</category><category>Buoyancy</category><category>Atmospheric Pressure</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/YardMapp</guid>
+    <title>YardMapp: Streamlining Yard Maintenance and Landscaping Services</title>
+    <link>https://www.rics-notebook.com/blog/inventions/YardMapp</link>
+    <description>YardMapp is a revolutionary app that connects homeowners with landscaping and yard maintenance professionals. With features like sprinkler system and lighting mapping, service requests, and provider ratings, YardMapp simplifies yard care and fosters long-lasting relationships between homeowners and service providers.</description>
+    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Yard Maintenance</category><category>Landscaping</category><category>Home Ownership</category><category>Mobile App</category><category>Service Providers</category>
   </item>
 
   <item>
@@ -1941,56 +1951,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/fungus/Cordyceps</guid>
-    <title>Using Cordyceps for Pest Management: Sustainable Solutions for a Healthy Yard</title>
-    <link>https://www.rics-notebook.com/blog/fungus/Cordyceps</link>
-    <description>Explore the benefits of using Cordyceps fungi for pest management and its positive effects on plant and yard growth. Learn how to create your own Cordyceps-based pest control solutions and introduce them naturally to your yard.</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Mushroom Cultivation</category><category>Pest Control</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</guid>
-    <title>The Benefits of Ingesting Cordyceps: A Natural Boost for Health and Vitality</title>
-    <link>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</link>
-    <description>Explore the remarkable health benefits of ingesting Cordyceps. Learn how this powerful fungus can boost your energy, improve immunity, enhance athletic performance, and more.</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Health</category><category>Nutrition</category><category>Herbal Medicine</category><category>Cordyceps</category><category>Fungi</category><category>Mycology</category><category>Wellness</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/fungus/cross</guid>
-    <title>Theoretical Approaches to Cross-Breeding Mushroom Species 🍄🔬</title>
-    <link>https://www.rics-notebook.com/blog/fungus/cross</link>
-    <description>Explore innovative methods and supplements to facilitate the cross-breeding of mushroom species like Lion’s Mane and Cordyceps. Delve into the science behind mycelial fusion and discover how to create novel fungal hybrids. 🍄🔬</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Mushroom Cultivation</category><category>Cross-Breeding</category><category>Fungi</category><category>Mycology</category><category>Lion’s Mane</category><category>Cordyceps</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/fungus/CultivatingCordyceps</guid>
-    <title>Cultivating Cordyceps Militaris for Herbicidal Use</title>
-    <link>https://www.rics-notebook.com/blog/fungus/CultivatingCordyceps</link>
-    <description>Discover how to cultivate Cordyceps militaris and use its extract as a natural herbicide. Learn the step-by-step process to prepare, extract, and apply this powerful solution in your garden.</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Mushroom Cultivation</category><category>Herbicides</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/fungus/DtL</guid>
-    <title>Transforming Dried Mushrooms into Liquid Culture: A Modern Approach 🍄🔬</title>
-    <link>https://www.rics-notebook.com/blog/fungus/DtL</link>
-    <description>Learn how to transform dried mushrooms into a thriving liquid culture using advanced techniques and the potential benefits of NAD+. Discover the step-by-step process and scientific insights behind this innovative approach. 🍄🔬</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Mushroom Cultivation</category><category>Liquid Culture</category><category>Fungi</category><category>Mycology</category><category>NAD+</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Health/Ayahuasca</guid>
     <title>Ayahuasca: Exploring the Spiritual Realm and the Science of MAOIs 🌿🔬</title>
     <link>https://www.rics-notebook.com/blog/Health/Ayahuasca</link>
@@ -2021,16 +1981,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Health/Hangover</guid>
-    <title>The Science of Hangovers: Understanding the Causes and Effective Supplements for Prevention 🍸🔬</title>
-    <link>https://www.rics-notebook.com/blog/Health/Hangover</link>
-    <description>Discover the science behind hangovers and learn about effective supplements that can help minimize their impact. From the causes to prevention strategies, this blog post explores the complexities of alcohol&#39;s effects on the body and offers practical solutions for a more comfortable morning after. 🌅</description>
-    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Hangovers</category><category>Alcohol</category><category>Supplements</category><category>Prevention</category><category>Health</category><category>Science</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Health/HTP</guid>
     <title>5-HTP: The Natural Supplement for Enhancing Your Festival Experience 🎉</title>
     <link>https://www.rics-notebook.com/blog/Health/HTP</link>
@@ -2038,6 +1988,16 @@
     <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>5-HTP</category><category>Serotonin</category><category>Festival Supplements</category><category>Mood Enhancement</category><category>Sleep Quality</category><category>Rave Culture</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Health/Hangover</guid>
+    <title>The Science of Hangovers: Understanding the Causes and Effective Supplements for Prevention 🍸🔬</title>
+    <link>https://www.rics-notebook.com/blog/Health/Hangover</link>
+    <description>Discover the science behind hangovers and learn about effective supplements that can help minimize their impact. From the causes to prevention strategies, this blog post explores the complexities of alcohol&#39;s effects on the body and offers practical solutions for a more comfortable morning after. 🌅</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Hangovers</category><category>Alcohol</category><category>Supplements</category><category>Prevention</category><category>Health</category><category>Science</category>
   </item>
 
   <item>
@@ -2081,6 +2041,56 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/Cordyceps</guid>
+    <title>Using Cordyceps for Pest Management: Sustainable Solutions for a Healthy Yard</title>
+    <link>https://www.rics-notebook.com/blog/fungus/Cordyceps</link>
+    <description>Explore the benefits of using Cordyceps fungi for pest management and its positive effects on plant and yard growth. Learn how to create your own Cordyceps-based pest control solutions and introduce them naturally to your yard.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Pest Control</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</guid>
+    <title>The Benefits of Ingesting Cordyceps: A Natural Boost for Health and Vitality</title>
+    <link>https://www.rics-notebook.com/blog/fungus/CordycepsEffects</link>
+    <description>Explore the remarkable health benefits of ingesting Cordyceps. Learn how this powerful fungus can boost your energy, improve immunity, enhance athletic performance, and more.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Health</category><category>Nutrition</category><category>Herbal Medicine</category><category>Cordyceps</category><category>Fungi</category><category>Mycology</category><category>Wellness</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/CultivatingCordyceps</guid>
+    <title>Cultivating Cordyceps Militaris for Herbicidal Use</title>
+    <link>https://www.rics-notebook.com/blog/fungus/CultivatingCordyceps</link>
+    <description>Discover how to cultivate Cordyceps militaris and use its extract as a natural herbicide. Learn the step-by-step process to prepare, extract, and apply this powerful solution in your garden.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Herbicides</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/DtL</guid>
+    <title>Transforming Dried Mushrooms into Liquid Culture: A Modern Approach 🍄🔬</title>
+    <link>https://www.rics-notebook.com/blog/fungus/DtL</link>
+    <description>Learn how to transform dried mushrooms into a thriving liquid culture using advanced techniques and the potential benefits of NAD+. Discover the step-by-step process and scientific insights behind this innovative approach. 🍄🔬</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Liquid Culture</category><category>Fungi</category><category>Mycology</category><category>NAD+</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/fungus/cross</guid>
+    <title>Theoretical Approaches to Cross-Breeding Mushroom Species 🍄🔬</title>
+    <link>https://www.rics-notebook.com/blog/fungus/cross</link>
+    <description>Explore innovative methods and supplements to facilitate the cross-breeding of mushroom species like Lion’s Mane and Cordyceps. Delve into the science behind mycelial fusion and discover how to create novel fungal hybrids. 🍄🔬</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Cross-Breeding</category><category>Fungi</category><category>Mycology</category><category>Lion’s Mane</category><category>Cordyceps</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/Bio/Bioluminescence</guid>
     <title>The Enchanting World of Bioluminescence: Nature’s Light Show 🌟</title>
     <link>https://www.rics-notebook.com/blog/Bio/Bioluminescence</link>
@@ -2101,16 +2111,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/BarBuzz</guid>
-    <title>Introducing BarBuzz: The Ultimate App for Bar Hopping and Socializing 🍻</title>
-    <link>https://www.rics-notebook.com/blog/inventions/BarBuzz</link>
-    <description>Discover BarBuzz, the app that transforms your bar-hopping experience. Chat with friends, post updates, and share videos in real-time chat rooms dedicated to your favorite bars. Join the buzz and enhance your nightlife adventures. 🎉</description>
-    <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Social App</category><category>Nightlife</category><category>Bar Hopping</category><category>Technology</category><category>Community</category><category>Event Planning</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Personal/SpiritalScientist</guid>
     <title>The Cosmic Debate: Monk vs. Physicist</title>
     <link>https://www.rics-notebook.com/blog/Personal/SpiritalScientist</link>
@@ -2128,6 +2128,16 @@
     <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Short Story</category><category>War</category><category>Peace</category><category>life-lessons</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/BarBuzz</guid>
+    <title>Introducing BarBuzz: The Ultimate App for Bar Hopping and Socializing 🍻</title>
+    <link>https://www.rics-notebook.com/blog/inventions/BarBuzz</link>
+    <description>Discover BarBuzz, the app that transforms your bar-hopping experience. Chat with friends, post updates, and share videos in real-time chat rooms dedicated to your favorite bars. Join the buzz and enhance your nightlife adventures. 🎉</description>
+    <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Social App</category><category>Nightlife</category><category>Bar Hopping</category><category>Technology</category><category>Community</category><category>Event Planning</category>
   </item>
 
   <item>
@@ -2261,16 +2271,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</guid>
-    <title>Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza&#39;s &#39;Becoming Supernatural&#39;</title>
-    <link>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</link>
-    <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
-    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Development</category><category>Spirituality</category><category>Meditation</category><category>Quantum</category><category>spiritualpractices</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Books/BeHereNow</guid>
     <title>Be Here Now by Ram Dass: A Spiritual Journey from Psychedelics to Self-Discovery</title>
     <link>https://www.rics-notebook.com/blog/Books/BeHereNow</link>
@@ -2278,6 +2278,16 @@
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Ram Dass</category><category>Be Here Now</category><category>Spirituality</category><category>Neem Karoli Baba</category><category>Steve Jobs</category><category>Mark Zuckerberg</category><category>lifelessons</category><category>spiritual</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</guid>
+    <title>Unlocking Your Infinite Potential: Lessons from Dr. Joe Dispenza&#39;s &#39;Becoming Supernatural&#39;</title>
+    <link>https://www.rics-notebook.com/blog/Books/BecomingSupernatural</link>
+    <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Development</category><category>Spirituality</category><category>Meditation</category><category>Quantum</category><category>spiritualpractices</category>
   </item>
 
   <item>
@@ -2371,6 +2381,26 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Idols/Wim</guid>
+    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
+    <link>https://www.rics-notebook.com/blog/Idols/Wim</link>
+    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>WimHof</category><category>Breathing</category><category>Cold</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Networking_priciples/Raid</guid>
+    <title>Understanding RAID Levels 💻</title>
+    <link>https://www.rics-notebook.com/blog/Networking_priciples/Raid</link>
+    <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
+    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>RAID</category><category>Storage</category><category>Technology</category><category>devops</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/hacking/CardScanner</guid>
     <title>Be Safe and Secure with Credit Card Scanners 🔒</title>
     <link>https://www.rics-notebook.com/blog/hacking/CardScanner</link>
@@ -2401,26 +2431,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Idols/Wim</guid>
-    <title>❄️ Wim Hof: The Iceman, His Revolutionary Breathing Method, and Extraordinary Feats ❄️</title>
-    <link>https://www.rics-notebook.com/blog/Idols/Wim</link>
-    <description>Explore the life and achievements of Wim Hof, the Iceman, and learn about his groundbreaking Wim Hof Method that combines cold exposure, breathing techniques, and meditation.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>WimHof</category><category>Breathing</category><category>Cold</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Networking_priciples/Raid</guid>
-    <title>Understanding RAID Levels 💻</title>
-    <link>https://www.rics-notebook.com/blog/Networking_priciples/Raid</link>
-    <description>A comprehensive guide to understanding the different RAID levels and how they can improve performance, capacity, and fault tolerance of hard disk drives.</description>
-    <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>RAID</category><category>Storage</category><category>Technology</category><category>devops</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/psychology/BodyLanguage</guid>
     <title>How to Read People and Understand Body Language</title>
     <link>https://www.rics-notebook.com/blog/psychology/BodyLanguage</link>
@@ -2438,16 +2448,6 @@
     <pubDate>Mon, 24 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Psychology</category><category>Communication</category><category>BodyLanguage</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/hacking/Kali</guid>
-    <title>Getting Started with Kali Linux: A Beginners Guide 🔒</title>
-    <link>https://www.rics-notebook.com/blog/hacking/Kali</link>
-    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
-    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
   </item>
 
   <item>
@@ -2478,6 +2478,16 @@
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>RaspberryPi</category><category>DIY</category><category>Projects</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/hacking/Kali</guid>
+    <title>Getting Started with Kali Linux: A Beginners Guide 🔒</title>
+    <link>https://www.rics-notebook.com/blog/hacking/Kali</link>
+    <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
+    <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
   </item>
 
   <item>
@@ -2791,16 +2801,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/cyber/CSFC</guid>
-    <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
-    <link>https://www.rics-notebook.com/blog/cyber/CSFC</link>
-    <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
-    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>CSfC</category><category>Security</category><category>Classified Data</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Government/GettingStarted</guid>
     <title>How to Start a Government Contracting Small Business</title>
     <link>https://www.rics-notebook.com/blog/Government/GettingStarted</link>
@@ -2818,6 +2818,16 @@
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Government</category><category>Contracting</category><category>ProposalWriting</category><category>BusinessGrowth</category><category>government-sales</category><category>government-procurement</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/cyber/CSFC</guid>
+    <title>🔐 CSfC: Commercial Solutions for Classified - Securing Classified Data with Commercial Tech 🌐</title>
+    <link>https://www.rics-notebook.com/blog/cyber/CSFC</link>
+    <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
+    <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CSfC</category><category>Security</category><category>Classified Data</category>
   </item>
 
   <item>
@@ -3031,26 +3041,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/Dingy</guid>
-    <title>DIY Summer Dinghy Project: Build Your Own Floating Deck! 🌞</title>
-    <link>https://www.rics-notebook.com/blog/inventions/Dingy</link>
-    <description>Dive into our comprehensive guide to building your own summer dinghy. From flotation and decking to the engine, learn how to create a fun and functional floating deck for your summer adventures. 🚤</description>
-    <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>DIY Projects</category><category>Summer Activities</category><category>Boat Building</category><category>Floating Deck</category><category>Outdoor Fun</category><category>Engineering</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/EskimoBro</guid>
-    <title>Introducing EskimoBro: Uniting Eskimos One Brother at a Time</title>
-    <link>https://www.rics-notebook.com/blog/inventions/EskimoBro</link>
-    <description>Discover EskimoBro, the app that helps you connect with others who share a unique bond through mutual romantic experiences. Sync contacts, learn about your Eskimo family tree, and build connections. Uniting Eskimos, one brother at a time. 🤝</description>
-    <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Social App</category><category>Networking</category><category>Lifestyle</category><category>Technology</category><category>Relationships</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Personal/MushroomMadness</guid>
     <title>The Great Psychedelic Debate: Mushrooms vs. Meds</title>
     <link>https://www.rics-notebook.com/blog/Personal/MushroomMadness</link>
@@ -3068,6 +3058,26 @@
     <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Short Story</category><category>Dialogue</category><category>Police Reform</category><category>Community Policing</category><category>Compromise</category><category>life-lessons</category><category>Crime Prevention</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/Dingy</guid>
+    <title>DIY Summer Dinghy Project: Build Your Own Floating Deck! 🌞</title>
+    <link>https://www.rics-notebook.com/blog/inventions/Dingy</link>
+    <description>Dive into our comprehensive guide to building your own summer dinghy. From flotation and decking to the engine, learn how to create a fun and functional floating deck for your summer adventures. 🚤</description>
+    <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>DIY Projects</category><category>Summer Activities</category><category>Boat Building</category><category>Floating Deck</category><category>Outdoor Fun</category><category>Engineering</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/EskimoBro</guid>
+    <title>Introducing EskimoBro: Uniting Eskimos One Brother at a Time</title>
+    <link>https://www.rics-notebook.com/blog/inventions/EskimoBro</link>
+    <description>Discover EskimoBro, the app that helps you connect with others who share a unique bond through mutual romantic experiences. Sync contacts, learn about your Eskimo family tree, and build connections. Uniting Eskimos, one brother at a time. 🤝</description>
+    <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Social App</category><category>Networking</category><category>Lifestyle</category><category>Technology</category><category>Relationships</category>
   </item>
 
   <item>
@@ -3411,16 +3421,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
-    <title>Decoding the Disc: How Does a CD Store Music?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
-    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowDoFishBreathUnderWater</guid>
     <title>Underwater Breathing: How Do Fish Breathe Underwater?</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowDoFishBreathUnderWater</link>
@@ -3511,6 +3511,16 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
+    <title>Decoding the Disc: How Does a CD Store Music?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
+    <description>Compact Discs (CDs) revolutionized music storage and playback. In this blog post, we explore how CDs store music, the technology behind them, and how digital information is read from the disc to produce sound.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowLizardsStickToWalls</guid>
     <title>The Marvel of Gecko Adhesion: How Geckos Stick to Walls</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowLizardsStickToWalls</link>
@@ -3558,26 +3568,6 @@
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Dogs</category><category>Animal Behavior</category><category>Tail Wagging</category><category>Canine Communication</category><category>Emotions</category><category>Questions</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</guid>
-    <title>Heliums Funny Effect: Why Does Helium Make Your Voice Sound Funny?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</link>
-    <description>Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Helium</category><category>Voice</category><category>Science</category><category>Physics</category><category>Acoustics</category><category>Questions</category>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</guid>
-    <title>The Popcorn Phenomenon: Exploring the Science Behind the Pop</title>
-    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</link>
-    <description>Popcorn has been a beloved snack for generations, captivating us with its enticing aroma, satisfying crunch, and endless versatility. But have you ever wondered about the science behind those magical kernels that transform into fluffy, white morsels? In this blog post, we dive into the fascinating world of popcorn and explore the intricate processes that make this snack a true marvel of nature and food science.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Popcorn</category><category>Snacks</category><category>Food Science</category><category>Kernels</category><category>Steam Pressure</category><category>Questions</category>
   </item>
 
   <item>
@@ -3708,6 +3698,26 @@
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Yawning</category><category>Biology</category><category>Human Body</category><category>Psychology</category><category>Behavior</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</guid>
+    <title>Heliums Funny Effect: Why Does Helium Make Your Voice Sound Funny?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesHeliumChangeYourVoice</link>
+    <description>Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Helium</category><category>Voice</category><category>Science</category><category>Physics</category><category>Acoustics</category><category>Questions</category>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</guid>
+    <title>The Popcorn Phenomenon: Exploring the Science Behind the Pop</title>
+    <link>https://www.rics-notebook.com/blog/Questions/WhyDoesPopCornPop</link>
+    <description>Popcorn has been a beloved snack for generations, captivating us with its enticing aroma, satisfying crunch, and endless versatility. But have you ever wondered about the science behind those magical kernels that transform into fluffy, white morsels? In this blog post, we dive into the fascinating world of popcorn and explore the intricate processes that make this snack a true marvel of nature and food science.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Popcorn</category><category>Snacks</category><category>Food Science</category><category>Kernels</category><category>Steam Pressure</category><category>Questions</category>
   </item>
 
   <item>

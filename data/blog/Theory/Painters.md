@@ -1,6 +1,6 @@
 ---
 
-title: 'The Observer Effect and the Expansion of Space: Unveiling Our Role as Reality's Painters'
+title: 'The Observer Effect and the Expansion of Space: Unveiling Our Role as Realitys Painters'
 date: '2024-07-17'
 tags:
   [
