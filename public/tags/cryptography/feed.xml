@@ -1,98 +1,83 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 21 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/cryptography/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/cryptography/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Quantum/QRNG</guid>
     <title>Random Numbers and Quantum Random Number Generation</title>
     <link>https://www.rics-notebook.com/blog/Quantum/QRNG</link>
-    
     <description>Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.</description>
     <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Random Number Generation</category><category>Quantum Random Number Generators</category><category>Cryptography</category><category>Monte Carlo Methods</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/QRNG.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/QRNG.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/AI/AIEncryption</guid>
     <title>AI Driven Encryption: Harnessing Neural Networks for Enhanced Security</title>
     <link>https://www.rics-notebook.com/blog/AI/AIEncryption</link>
-    
     <description>Discover a groundbreaking approach to encryption that leverages the power of artificial intelligence. Explore how neural networks can be trained to encrypt and decrypt data using complex vector associations, offering a new paradigm in data security. Dive into the technical details and learn about the strengths, weaknesses, opportunities, and threats of this innovative encryption method.</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Encryption</category><category>Artificial Intelligence</category><category>Neural Networks</category><category>Cryptography</category><category>Data Security</category><category>Vector Encryption</category>
-    <image> https://www.rics-notebook.com/articleimage/AIEncryption.webp</image><image> https://www.rics-notebook.com/articleimage/AI/AIEncryption.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/AIEncryption.webp</image><image>https://www.rics-notebook.com/articleimage/AI/AIEncryption.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</guid>
     <title>The Quadratic Sieve: A Detailed Technical Overview of an Efficient Factoring Algorithm 🔍✨</title>
     <link>https://www.rics-notebook.com/blog/cyber/QuadraticSieve</link>
-    
     <description>Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cryptography</category><category>Factoring</category><category>Quadratic Sieve</category><category>Number Theory</category><category>Algorithm Design</category><category>Mathematics</category><category>Computer Science</category>
-    <image> https://www.rics-notebook.com/articleimage/QuadraticSieve.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/QuadraticSieve.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/cyber/RSACryptosystem</guid>
     <title>RSA Cryptosystem and Shor’s Algorithm: A Quantum Leap in Cryptography 🔐✨</title>
     <link>https://www.rics-notebook.com/blog/cyber/RSACryptosystem</link>
-    
     <description>Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cryptography</category><category>RSA</category><category>Shor’s Algorithm</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Factoring</category><category>Quantum Algorithms</category><category>MIT xPRO</category>
-    <image> https://www.rics-notebook.com/articleimage/RSACryptosystem.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/RSACryptosystem.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/USAQuantumRecap</guid>
     <title>The Quantum Leap: USAs Advances in Quantum Computing &amp; Cryptography</title>
     <link>https://www.rics-notebook.com/blog/Quantum/USAQuantumRecap</link>
-    
     <description>A deep dive into the United States significant strides in quantum computing and cryptography as part of the National Quantum Initiative (NQI) and the National Quantum Coordination Office (NQCO).</description>
     <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>GOVERNMENT</category><category>Cryptography</category><category>PUBLIC-SECTOR</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/USAQuantumRecap.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/USAQuantumRecap.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/QuantumAndBitcoin</guid>
     <title>Quantum Tech &amp; Bitcoin: Navigating the Cryptographic Challenges 🔐</title>
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumAndBitcoin</link>
-    
     <description>Exploring the potential impact of quantum technologies on Bitcoins cryptographic foundations and the broader cryptocurrency landscape!</description>
     <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Bitcoin</category><category>Cryptography</category><category>digitaltransformation</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumAndBitcoin.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/QuantumAndBitcoin.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/QuantumCyber/QuantumCyberSecurity</guid>
     <title>Quantum Cybersecurity: The Future of Secure Communication 🛡️</title>
     <link>https://www.rics-notebook.com/blog/QuantumCyber/QuantumCyberSecurity</link>
-    
     <description>Exploring the potential of Quantum Cybersecurity in safeguarding data and communications in the era of quantum computers. Learn about the principles, techniques, and importance of this emerging field.</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Cybersecurity</category><category>Cryptography</category><category>Data Security</category>
-    <image> https://www.rics-notebook.com/articleimage/QuantumCyber/QuantumCyberSecurity.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/QuantumCyber/QuantumCyberSecurity.webp</image>
+    </item>
+  </channel>
+</rss>

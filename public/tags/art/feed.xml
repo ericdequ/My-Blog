@@ -1,50 +1,43 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/art/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/art/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Personal/Mural</guid>
     <title>The Heartwarming Gift: A Family Portrait by Rumpus Art</title>
     <link>https://www.rics-notebook.com/blog/Personal/Mural</link>
-    
     <description>A touching reflection on the profound impact of a family portrait commissioned by my brother from Rumpus Art, celebrating the memory of our late father and the enduring love of our family.</description>
     <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Art</category><category>Family</category><category>Veronica</category><category>RumpusArt</category>
-    <image> https://www.rics-notebook.comhttps://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp</image><image> https://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.comhttps://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp</image><image>https://www.rics-notebook.com/articleimage/Personal/Mural_1_20240714_155333.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Personal/Rumpus</guid>
     <title>🎨 Rumpus Art Raffle: A Symphony of Serendipity</title>
     <link>https://www.rics-notebook.com/blog/Personal/Rumpus</link>
-    
     <description>An intimate exploration of my recent raffle win from Rumpus Art and the profound resonance of Veronicas artistry. 🌌🎨</description>
     <pubDate>Fri, 29 Sep 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Art</category><category>Raffle</category><category>Veronica</category><category>RumpusArt</category>
-    <image> https://www.rics-notebook.com/rumpus.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/rumpus.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/AI/Bing_Create</guid>
     <title>Bing Create</title>
     <link>https://www.rics-notebook.com/blog/AI/Bing_Create</link>
-    
     <description>How to use Bing Create to make AI images</description>
     <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Art</category><category>AI</category><category>Bing</category><category>GPT</category><category>Dalle</category>
-    <image> https://www.rics-notebook.com/articleimage/AI/Bing_Create.webp</image><image> https://www.rics-notebook.com/articleimage/Bing_Create.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/AI/Bing_Create.webp</image><image>https://www.rics-notebook.com/articleimage/Bing_Create.webp</image>
+    </item>
+  </channel>
+</rss>

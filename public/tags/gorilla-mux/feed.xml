@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 03 Feb 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/gorilla-mux/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/gorilla-mux/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Web_Dev/Golang</guid>
     <title>Golang and Gorilla Mux</title>
     <link>https://www.rics-notebook.com/blog/Web_Dev/Golang</link>
-    
     <description>This blog post shows how to use Golang and Gorilla mux to create a simple web application. The steps are to create a new project, create a main.go file, and start the server.</description>
     <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>GO</category><category>Gorilla-Mux</category><category>Backend</category><category>education</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Web_Dev/Golang.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Web_Dev/Golang.webp</image>
+    </item>
+  </channel>
+</rss>

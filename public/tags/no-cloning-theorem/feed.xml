@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/no-cloning-theorem/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Sun, 23 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/no-cloning-theorem/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Quantum/Repeaters</guid>
     <title>Quantum Repeaters: Overcoming Long-Distance Communication Challenges</title>
     <link>https://www.rics-notebook.com/blog/Quantum/Repeaters</link>
-    
     <description>Explore the concept of quantum repeaters and their role in overcoming the challenges of long-distance quantum communication, including photon loss and the no-cloning theorem.</description>
     <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Communication</category><category>Quantum Repeaters</category><category>Photon Loss</category><category>No-Cloning Theorem</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/Repeaters.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/Repeaters.webp</image>
+    </item>
+  </channel>
+</rss>

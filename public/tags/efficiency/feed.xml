@@ -1,38 +1,33 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/efficiency/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/efficiency/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Energy/SolarAC</guid>
     <title>Harnessing the Suns Natural AC Energy for Solar Power 🌞🔌</title>
     <link>https://www.rics-notebook.com/blog/Energy/SolarAC</link>
-    
     <description>Solar panels typically convert sunlight into DC electricity, which is then converted to AC for household use. However, capturing the suns natural AC energy directly could enhance efficiency. Learn about the proposed methods, their benefits, and how they integrate with smart grid technologies and energy storage solutions.</description>
     <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Solar Energy</category><category>AC</category><category>DC</category><category>Efficiency</category><category>Smart Grids</category><category>Energy Storage</category>
-    <image> https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</guid>
     <title>Quantum-Enhanced Orbital Mechanics: Unlocking Unprecedented Efficiency in Space Logistics</title>
     <link>https://www.rics-notebook.com/blog/Space/QuantumOrbitalMechanics</link>
-    
     <description>Discover how quantum computing revolutionizes orbital mechanics, enabling highly efficient trajectory planning and optimization for orbital package delivery. By harnessing the power of quantum algorithms, space logistics can achieve unprecedented levels of efficiency, reducing fuel consumption and delivery times.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Orbital Mechanics</category><category>Space Logistics</category><category>Optimization</category><category>Efficiency</category><category>Space</category>
-    <image> https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-future.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-launch-prediction.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-optimization.webp</image><image> https://www.rics-notebook.com/articleimage/Space/QuantumOrbitalMechanics.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-future.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-launch-prediction.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-optimization.webp</image><image>https://www.rics-notebook.com/articleimage/Space/QuantumOrbitalMechanics.webp</image>
+    </item>
+  </channel>
+</rss>

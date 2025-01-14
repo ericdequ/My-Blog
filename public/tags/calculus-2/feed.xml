@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sat, 21 Mar 2020 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/calculus-2/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/calculus-2/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Math/Calc2</guid>
     <title>Calculus 2: Advanced Concepts and Applications 💻</title>
     <link>https://www.rics-notebook.com/blog/Math/Calc2</link>
-    
     <description>Calculus 2 covers advanced topics in differentiation and integration, including Taylor series, sequences and series, and multivariable calculus.</description>
     <pubDate>Sat, 21 Mar 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Calculus 2</category><category>Mathematics</category><category>Engineering</category>
-    <image> https://www.rics-notebook.com/articleimage/Math/Calc2.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Math/Calc2.webp</image>
+    </item>
+  </channel>
+</rss>

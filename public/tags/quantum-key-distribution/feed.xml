@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/quantum-key-distribution/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Mon, 03 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/quantum-key-distribution/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/cyber/BB84</guid>
     <title>BB84: The Pioneering Protocol of Quantum Key Distribution</title>
     <link>https://www.rics-notebook.com/blog/cyber/BB84</link>
-    
     <description>Explore the science and simplicity behind the BB84 protocol, the cornerstone of quantum key distribution. Learn how Alice and Bob use quantum mechanics to securely share a secret key, even in the presence of an eavesdropper.</description>
     <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Key Distribution</category><category>BB84 Protocol</category><category>Quantum Cryptography</category><category>Photon Polarization</category><category>Alice and Bob</category>
-    <image> https://www.rics-notebook.com/articleimage/cyber/BB84_1_20240714_155242.webp</image><image> https://www.rics-notebook.com/articleimage/BB84.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/cyber/BB84_1_20240714_155242.webp</image><image>https://www.rics-notebook.com/articleimage/BB84.webp</image>
+    </item>
+  </channel>
+</rss>

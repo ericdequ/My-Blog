@@ -1,38 +1,33 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sat, 29 Jun 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/quantum-field-theory/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/quantum-field-theory/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Physics/QED</guid>
     <title>Quantum Electrodynamics: Unveiling the Mystical Dance of Light and Matter</title>
     <link>https://www.rics-notebook.com/blog/Physics/QED</link>
-    
     <description>This article delves into the profound depths of Quantum Electrodynamics (QED), exploring its foundations, esoteric implications, and its role in shaping our understanding of the universes hidden nature.</description>
     <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Electrodynamics</category><category>QED</category><category>Quantum Field Theory</category><category>Particle Physics</category><category>Esoteric Physics</category>
-    <image> https://www.rics-notebook.com/articleimage/Physics/QED.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Physics/QED.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Physics/MFT</guid>
     <title>Morphic Resonance Theory: Exploring Natures Memory and Collective Knowledge</title>
     <link>https://www.rics-notebook.com/blog/Physics/MFT</link>
-    
     <description>This blog post delves into the intriguing concept of Morphic Resonance Theory, its implications for understanding nature and human knowledge, and its relationship to Quantum Field Theory.</description>
     <pubDate>Fri, 28 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Morphic Resonance</category><category>Rupert Sheldrake</category><category>Quantum Field Theory</category><category>Collective Consciousness</category><category>Nature</category>
-    <image> https://www.rics-notebook.com/articleimage/Physics/MFT.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Physics/MFT.webp</image>
+    </item>
+  </channel>
+</rss>

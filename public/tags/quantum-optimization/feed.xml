@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Sat, 23 Mar 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/quantum-optimization/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Sat, 23 Mar 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/quantum-optimization/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Space/Qmats</guid>
     <title>Quantum-Enabled Material Science and Advanced Propulsion: Revolutionizing Orbital Package Delivery</title>
     <link>https://www.rics-notebook.com/blog/Space/Qmats</link>
-    
     <description>Explore the cutting-edge world of quantum-enabled material science and advanced propulsion, and discover how these technologies are revolutionizing the performance and efficiency of orbital package delivery systems. From lightweight, high-strength materials to optimized propulsion systems, learn how quantum computing is enabling a new era of space logistics.</description>
     <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Simulation</category><category>Materials Science</category><category>Advanced Propulsion</category><category>Quantum Optimization</category><category>Quantum Machine Learning</category><category>Space</category>
-    <image> https://www.quantumcybersolutions.com/OPD/quantum-materials-ml.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-propulsion-optimization.webp</image><image> https://www.rics-notebook.com/articleimage/Space/Qmats.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-materials-simulation.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-propulsion-simulation.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.quantumcybersolutions.com/OPD/quantum-materials-ml.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-propulsion-optimization.webp</image><image>https://www.rics-notebook.com/articleimage/Space/Qmats.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-materials-simulation.webp</image><image>https://www.quantumcybersolutions.com/OPD/quantum-propulsion-simulation.webp</image>
+    </item>
+  </channel>
+</rss>

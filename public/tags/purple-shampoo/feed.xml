@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/purple-shampoo/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/purple-shampoo/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Questions/PurpleShampoo</guid>
     <title>Purple Shampoo: The Science Behind Blonde Hair Maintenance</title>
     <link>https://www.rics-notebook.com/blog/Questions/PurpleShampoo</link>
-    
     <description>Purple shampoo is a game-changer for blonde hair, but how does it work? This blog post explores the science behind purple shampoo, its color-correcting properties, and the best tips for using it effectively to maintain beautiful, bright blonde locks.</description>
     <pubDate>Fri, 18 Jun 2021 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Purple Shampoo</category><category>Blonde Hair</category><category>Hair Care</category><category>Color Theory</category><category>Tips</category>
-    <image> https://www.rics-notebook.com/articleimage/Questions/PurpleShampoo.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Questions/PurpleShampoo.webp</image>
+    </item>
+  </channel>
+</rss>

@@ -1,26 +1,23 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/birds/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/birds/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Questions/WhyDoFlamingosStandOnOneLeg</guid>
     <title>Why Do Flamingos Stand on One Leg?: The Flamingo Stance</title>
     <link>https://www.rics-notebook.com/blog/Questions/WhyDoFlamingosStandOnOneLeg</link>
-    
     <description>Flamingos are famous for their iconic one-legged stance. In this blog post, we explore the reasons behind this peculiar behavior and how it benefits these beautiful birds.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Flamingos</category><category>Behavior</category><category>Biology</category><category>Birds</category><category>Nature</category><category>Questions</category>
-    <image> https://www.rics-notebook.com/articleimage/Questions/WhyDoFlamingosStandOnOneLeg.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Questions/WhyDoFlamingosStandOnOneLeg.webp</image>
+    </item>
+  </channel>
+</rss>

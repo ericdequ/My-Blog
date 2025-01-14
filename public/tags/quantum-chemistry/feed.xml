@@ -1,74 +1,63 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/quantum-chemistry/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/quantum-chemistry/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Quantum/VQE</guid>
     <title>Variational Quantum Eigensolver: An Efficient Approach to Quantum Simulations</title>
     <link>https://www.rics-notebook.com/blog/Quantum/VQE</link>
-    
     <description>Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.</description>
     <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Variational Quantum Eigensolver</category><category>VQE</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Quantum Chemistry</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/VQE.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/VQE.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/SimulationIdeasIssues</guid>
     <title>Quantum Simulation: Ideas and Issues</title>
     <link>https://www.rics-notebook.com/blog/Quantum/SimulationIdeasIssues</link>
-    
     <description>Explore the realm of quantum simulation, a pivotal concept in quantum mechanics. Learn about the challenges, methodologies, and the profound implications of simulating quantum systems with quantum computers.</description>
     <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Simulation</category><category>Quantum Computing</category><category>Hamiltonians</category><category>Quantum Chemistry</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/SimulationIdeasIssues.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/SimulationIdeasIssues.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/ChemSimulations</guid>
     <title>Quantum Simulation of Chemistry Problems</title>
     <link>https://www.rics-notebook.com/blog/Quantum/ChemSimulations</link>
-    
     <description>Explore how quantum simulation can address complex chemistry problems, such as nitrogen fixation, and the potential impact on industrial processes and our understanding of biological mechanisms.</description>
     <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Simulation</category><category>Quantum Chemistry</category><category>Nitrogen Fixation</category><category>Haber-Bosch Process</category><category>Nitrogenase Enzyme</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/ChemSimulations.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Quantum/ChemSimulations.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/LifeScience/AcceleratedDiscovery</guid>
     <title>Quantum Computing and Psychedelic Drug Trials: Unlocking New Frontiers in Mental Health Treatment</title>
     <link>https://www.rics-notebook.com/blog/LifeScience/AcceleratedDiscovery</link>
-    
     <description>Discover how quantum computing is revolutionizing psychedelic drug trials and paving the way for groundbreaking advancements in mental health treatment. From quantum chemistry simulations to quantum machine learning, explore the cutting-edge techniques that are unlocking new insights into the therapeutic potential of psychedelics.</description>
     <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Psychedelics</category><category>Drug Trials</category><category>Mental Health</category><category>Quantum Chemistry</category><category>Quantum Machine Learning</category>
-    <image> https://www.rics-notebook.com/articleimage/LifeScience/AcceleratedDiscovery.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/LifeScience/AcceleratedDiscovery.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/LifeScience/DrugDiscovery</guid>
     <title>Quantum Computing in Drug Discovery: Accelerating the Search for New Medicines</title>
     <link>https://www.rics-notebook.com/blog/LifeScience/DrugDiscovery</link>
-    
     <description>Dive into the technical details of how quantum computing is revolutionizing drug discovery. From quantum chemistry simulations to quantum machine learning, explore the cutting-edge techniques that are accelerating the search for new medicines and transforming the pharmaceutical industry.</description>
     <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Life Sciences</category><category>Drug Discovery</category><category>Quantum Chemistry</category><category>Quantum Machine Learning</category><category>Molecular Simulation</category><category>Pharmaceutical Industry</category>
-    <image> https://www.rics-notebook.com/articleimage/LifeScience/DrugDiscovery.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/LifeScience/DrugDiscovery.webp</image>
+    </item>
+  </channel>
+</rss>

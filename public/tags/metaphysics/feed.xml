@@ -1,38 +1,33 @@
-
-  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-      <title>Rics NoteBook</title>
-      <link>https://www.rics-notebook.com/blog</link>
-      <description>Studying the Art of Science &amp; the Science of Art</description>
-      <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Wed, 17 Jul 2024 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/metaphysics/feed.xml" rel="self" type="application/rss+xml"/>
-      
-  <item>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rics NoteBook</title>
+    <link>https://www.rics-notebook.com/blog</link>
+    <description>Studying the Art of Science &amp; the Science of Art</description>
+    <language>en-us</language>
+    <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+    <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://www.rics-notebook.com/tags/metaphysics/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
     <guid>https://www.rics-notebook.com/blog/Theory/Painters</guid>
     <title>The Observer Effect and the Expansion of Space: Unveiling Our Role as Realitys Painters</title>
     <link>https://www.rics-notebook.com/blog/Theory/Painters</link>
-    
     <description>Embark on a mind-bending journey through the observer effect and the expansion of space, exploring the captivating idea that our perception of reality and time is intimately connected to our motion through the cosmos. We delve into the notion that we are the painters of reality, creating our experiences as we navigate the fabric of space, while the memory of our collective journey is woven into the tapestry of universal consciousness through the enigmatic threads of quantum entanglement.</description>
     <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Observer Effect</category><category>Quantum Mechanics</category><category>Space Expansion</category><category>Time Perception</category><category>Reality Creation</category><category>Collective Consciousness</category><category>Quantum Entanglement</category><category>Metaphysics</category>
-    <image> https://www.rics-notebook.com/articleimage/Theory/Painters.webp</image>
-  </item>
-
-  <item>
+    <image>https://www.rics-notebook.com/articleimage/Theory/Painters.webp</image>
+    </item>
+    <item>
     <guid>https://www.rics-notebook.com/blog/Physics/DoubleSlit</guid>
     <title>The Double Slit Experiment: Unraveling the Quantum Enigma and Its Metaphysical Implications</title>
     <link>https://www.rics-notebook.com/blog/Physics/DoubleSlit</link>
-    
     <description>Embark on a mind-bending journey through the double slit experiment, the cornerstone of quantum mechanics. Unravel the mysteries of wave-particle duality, the observer effect, and the profound implications for our understanding of reality and consciousness.</description>
     <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Double Slit Experiment</category><category>Wave-Particle Duality</category><category>Observer Effect</category><category>Metaphysics</category><category>Reality</category><category>Consciousness</category>
-    <image> https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.webp</image>
-  </item>
-
-    </channel>
-  </rss>
+    <image>https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.webp</image>
+    </item>
+  </channel>
+</rss>
