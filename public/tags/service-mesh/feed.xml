@@ -14,10 +14,12 @@
     <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</guid>
     <title>Consul: Pioneering Service Discovery and Networking 🌐🔍</title>
     <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</link>
+    
     <description>Modern applications demand dynamic service networking. With HashiCorps Consul, discover a tool that not only aids in service discovery but also offers a robust service mesh for secure and efficient communications.</description>
     <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Consul</category><category>Service Discovery</category><category>Service Mesh</category><category>devops</category>
+    <image> https://www.rics-notebook.com/articleimage/Consul.webp</image>
   </item>
 
     </channel>

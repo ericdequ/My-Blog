@@ -14,10 +14,12 @@
     <guid>https://www.rics-notebook.com/blog/hacking/Kali</guid>
     <title>Getting Started with Kali Linux: A Beginners Guide 🔒</title>
     <link>https://www.rics-notebook.com/blog/hacking/Kali</link>
+    
     <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
+    <image> https://www.rics-notebook.com/articleimage/Kali.webp</image>
   </item>
 
     </channel>

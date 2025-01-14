@@ -14,10 +14,12 @@
     <guid>https://www.rics-notebook.com/blog/PodHub/PodHub</guid>
     <title>Pod Hub</title>
     <link>https://www.rics-notebook.com/blog/PodHub/PodHub</link>
+    
     <description>A next js app built to share and display videos and podcast near you!</description>
     <pubDate>Thu, 23 Nov 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Next</category><category>Vercel</category><category>Podcast</category><category>Youtube</category><category>Spotify</category><category>soundcloud</category>
+    <image> https://www.rics-notebook.com/articleimage/PodHub/PodHub.webp</image>
   </item>
 
     </channel>

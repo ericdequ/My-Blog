@@ -14,10 +14,12 @@
     <guid>https://www.rics-notebook.com/blog/Raspi/PiHole</guid>
     <title>Pi-hole: Block Ads and Trackers on Your Network 🌐🚫</title>
     <link>https://www.rics-notebook.com/blog/Raspi/PiHole</link>
+    
     <description>Learn about Pi-hole, a free and open-source DNS sinkhole, and how it can help you block ads and trackers on your network, improving your browsing experience.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Pihole</category><category>RaspberryPi</category><category>DNS</category><category>Network</category><category>AdBlocker</category>
+    <image> https://www.rics-notebook.com/articleimage/Raspi/PiHole.webp</image>
   </item>
 
     </channel>

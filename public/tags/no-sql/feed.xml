@@ -14,20 +14,24 @@
     <guid>https://www.rics-notebook.com/blog/Database/Mongo</guid>
     <title>MongoDB</title>
     <link>https://www.rics-notebook.com/blog/Database/Mongo</link>
+    
     <description>How to Work with and Setup a MongoDB Database 🗄️💾</description>
     <pubDate>Sat, 01 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Database</category><category>Mongo</category><category>No-SQL</category><category>devops</category>
+    <image> https://www.rics-notebook.com/articleimage/Mongo.webp</image>
   </item>
 
   <item>
     <guid>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</guid>
     <title>SQL vs NoSQL: Whats the Difference? 📊</title>
     <link>https://www.rics-notebook.com/blog/Database/SQLvsNOSQL</link>
+    
     <description>When it comes to storing data, there are two main types of databases: SQL and NoSQL. Check out this post to learn more</description>
     <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Database</category><category>SQL</category><category>NO-SQL</category><category>devops</category>
+    <image> https://www.rics-notebook.com/articleimage/SQLvsNOSQL.webp</image>
   </item>
 
     </channel>

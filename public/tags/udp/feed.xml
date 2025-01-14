@@ -14,10 +14,12 @@
     <guid>https://www.rics-notebook.com/blog/Networking_priciples/TCPvsUDP</guid>
     <title>TCP vs UDP: Understanding the Differences 🌐</title>
     <link>https://www.rics-notebook.com/blog/Networking_priciples/TCPvsUDP</link>
+    
     <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>TCP</category><category>UDP</category><category>Networking</category><category>devops</category>
+    <image> https://www.rics-notebook.com/articleimage/Networking_priciples/TCPvsUDP.webp</image>
   </item>
 
     </channel>
