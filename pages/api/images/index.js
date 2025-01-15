@@ -1,4 +1,13 @@
-// pages/api/images/index.js
+import fs from 'fs'
+import path from 'path'
+
+// Custom getAllPosts function to read posts from a JSON file
+async function getAllPosts() {
+  const filePath = path.join(process.cwd(), 'public', 'feed.xml')
+  const fileContents = fs.readFileSync(filePath, 'utf-8')
+  return JSON.parse(fileContents)
+}
+
 export default async function handler(req, res) {
   if (req.method !== 'GET') {
     return res.status(405).json({ message: 'Method not allowed' })
