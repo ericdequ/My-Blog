@@ -34,6 +34,9 @@ export default function About({ authorDetails }) {
       animate="enter"
       exit="exit"
       variants={pageVariants}
+      style={{
+        backgroundImage: "url('/Moon.png')",
+      }}
     >
       <MDXLayoutRenderer
         layout={frontMatter.layout || DEFAULT_LAYOUT}

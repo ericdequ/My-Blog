@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: 'Rics NoteBook',
-  author: 'Eric deQuevedo',
+  title: 'davincio NoteBook',
+  author: '',
   headerTitle: `Developing A Quantum Mind`,
   description: `Studying the Art of Science & the Science of Art`,
   language: 'en-us',

@@ -87,6 +87,9 @@ export default function Tag({ posts, tag }) {
         variants={containerVariants}
         initial="hidden"
         animate="visible"
+        style={{
+          backgroundImage: "url('/Moon.png')",
+        }}
         
       >
         

@@ -47,6 +47,7 @@ export default function Home({ posts }) {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
+        
         >
           <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-primary-900 dark:text-primary-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Latest

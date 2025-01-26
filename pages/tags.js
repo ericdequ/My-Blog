@@ -19,27 +19,6 @@ export async function getStaticProps() {
 export default function Tags({ tags }) {
   const sortedTags = Object.keys(tags).sort((a, b) => tags[b] - tags[a])
 
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.1,
-      },
-    },
-  }
-
-  const tagVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: {
-      opacity: 1,
-      y: 0,
-      transition: {
-        duration: 0.5,
-        ease: 'easeInOut',
-      },
-    },
-  }
 
   return (
     <>
@@ -57,7 +36,7 @@ export default function Tags({ tags }) {
         </div>
         <motion.div
           className="flex flex-wrap"
-          variants={containerVariants}
+          
           initial="hidden"
           animate="visible"
         >
@@ -70,17 +49,17 @@ export default function Tags({ tags }) {
               <motion.div
                 key={tagSlug}
                 className="m-2 flex items-center rounded-full bg-primary-100 px-4 py-2 dark:bg-primary-800"
-                variants={tagVariants}
+                
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
                 <Link href={`/tags/${tagSlug}`} passHref>
-                  <motion.a
+                  <p
                     className="mr-2 text-lg font-semibold uppercase text-primary-800 dark:text-primary-200"
                     aria-label={`View posts tagged with ${t}`}
                   >
                     {t}
-                  </motion.a>
+                  </p>
                 </Link>
                 <span className="rounded-full bg-primary-200 px-2 py-1 text-xs font-semibold uppercase text-primary-800 dark:bg-primary-700 dark:text-primary-200">
                   {tags[t]}

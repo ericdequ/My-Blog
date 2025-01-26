@@ -43,6 +43,9 @@ export default function Blog({ posts, initialDisplayPosts, pagination }) {
           variants={variants}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
           className={"overflow-x-hidden overflow-y-hidden"}
+          style={{
+            backgroundImage: '/Moon.png',
+          }}
         >
           <ListLayout
             posts={posts}
