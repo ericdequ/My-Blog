@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 05 Jan 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/casino/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Learn how to improve your chances of winning at blackjack by playing by the book, understanding specific cases, and using a running count. Discover how these strategies can give you an edge over the casino and make the game more enjoyable.</description>
     <pubDate>Wed, 05 Jan 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Blackjack</category><category>Casino</category><category>Strategy</category>
     <image> https://www.rics-notebook.com/articleimage/BlackJack.webp</image>
   </item>

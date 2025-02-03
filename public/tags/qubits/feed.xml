@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/qubits/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>This post explores an innovative approach to building a quantum computer using tuning forks and acoustic frequencies. By leveraging the quantum properties of sound waves, we propose a novel method for creating and manipulating qubits, potentially opening new avenues for quantum computing research.</description>
     <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Acoustics</category><category>Entanglement</category><category>Qubits</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/AccousticQuantum.webp</image>
   </item>

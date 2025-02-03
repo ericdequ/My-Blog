@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Fri, 07 Jul 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/red-hat/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
     <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Red Hat</category><category>Open Source</category><category>Enterprise Solutions</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/RedHat.webp</image>
   </item>

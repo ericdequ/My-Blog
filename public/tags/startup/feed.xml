@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/startup/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.</description>
     <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Cybersecurity</category><category>Homeland Security</category><category>Startup</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumAndCybersecurity.webp</image>
   </item>

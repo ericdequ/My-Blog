@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sat, 27 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/agave/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>In this comprehensive comparison, we examine three leading construction tech integration platforms: Agave, Procore, and Trimble App Xchange. Discover the unique features, strengths, and benefits of each platform, and gain insights into which solution best fits your construction companys specific needs and requirements.</description>
     <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>Procore</category><category>Trimble App Xchange</category>
     <image> https://www.rics-notebook.com/articleimage/AGAVEvsAPPXCHANGEvsPROCORE.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Discover how Agave is transforming the construction industry by providing a unified data integration platform that enhances interoperability, efficiency, and reliability. With its seamless API integration, pre-built front-end components, and comprehensive analytics, Agave empowers construction companies and software vendors to optimize data management and drive project success.</description>
     <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Construction Technology</category><category>Data Integration</category><category>Interoperability</category><category>Agave</category><category>API Integration</category><category>Construction Software</category>
     <image> https://www.rics-notebook.com/articleimage/Agave.webp</image>
   </item>

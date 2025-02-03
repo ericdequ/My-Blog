@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sat, 27 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/garage-transformation/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>A detailed review of DiamondBack Flooring and their exceptional epoxy flooring services in Central Florida.</description>
     <pubDate>Sat, 27 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Epoxy Flooring</category><category>DiamondBack Flooring</category><category>Review</category><category>Garage Transformation</category>
     <image> https://www.rics-notebook.com/articleimage/Reviews/DiamondbackEpoxy.webp</image><image> https://www.rics-notebook.com/articleimage//Reviews/DiamondbackEpoxy_1_20240714_173953.webp</image>
   </item>

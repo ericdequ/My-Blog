@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 24 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/adiabatic-quantum-computing/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the concept of Adiabatic Quantum Computing (AQC), its principles, applications, and challenges. Understand the adiabatic theorem, problem Hamiltonian, quantum annealing, and the potential of AQC in solving complex problems across various domains.</description>
     <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Adiabatic Quantum Computing</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Optimization</category><category>Quantum Annealing</category><category>Quantum Simulation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/AQC.webp</image>
   </item>

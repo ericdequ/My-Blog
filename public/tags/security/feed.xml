@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Tue, 01 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/security/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.</description>
     <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Vault</category><category>Secret Management</category><category>Security</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/Vault.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>This blog post introduces Kali Linux, a powerful Debian-based distribution designed for penetration testing and security auditing. We will cover the installation process, basic usage, setting up Kali Linux, and available resources to help you get started. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>KaliLinux</category><category>Security</category><category>PenetrationTesting</category>
     <image> https://www.rics-notebook.com/articleimage/Kali.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Learn the basics of Secure Shell (SSH) for secure remote access to computers,including its benefits, how to use it, and tips for maximizing its security.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>SSH</category><category>Security</category><category>RemoteAccess</category><category>education</category>
     <image> https://www.rics-notebook.com/articleimage/Remote_connections/ssh.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>🛡️ Discover how the CSfC program enables the use of commercial products to protect classified data in National Security Systems 🚀</description>
     <pubDate>Tue, 24 Jan 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>CSfC</category><category>Security</category><category>Classified Data</category>
     <image> https://www.rics-notebook.com/articleimage/CSFC.webp</image>
   </item>

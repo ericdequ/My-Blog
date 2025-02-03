@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sat, 10 Jun 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/logic/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the fascinating world of quantum physics through the lens of the 3 Ls - Law, Logic, and Love. Discover how these concepts intertwine to unravel the mysteries of the universe, from guessing playing cards to understanding the intricate dance of particles at the subatomic level.</description>
     <pubDate>Sat, 10 Jun 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Physics</category><category>Law</category><category>Logic</category><category>Love</category><category>Mysteries</category><category>Probability</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/LLL.webp</image>
   </item>

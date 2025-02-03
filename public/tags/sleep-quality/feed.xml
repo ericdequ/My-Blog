@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/sleep-quality/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover how 5-HTP, a natural supplement, can help you maximize your festival experience. From boosting your mood to improving sleep quality, 5-HTP is a game-changer for ravers and festival-goers alike. 🌈🎶</description>
     <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>5-HTP</category><category>Serotonin</category><category>Festival Supplements</category><category>Mood Enhancement</category><category>Sleep Quality</category><category>Rave Culture</category>
     <image> https://www.rics-notebook.com/articleimage/HTP.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 10 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/open-source/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the potential of open source pharma discovery platforms in democratizing drug discovery and empowering people. Learn how decentralizing the pharmaceutical industry, inspired by the success of AI communities like Hugging Face, can lead to more accessible and affordable medicines while still benefiting all stakeholders.</description>
     <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Open Source</category><category>Pharma</category><category>Drug Discovery</category><category>Decentralization</category><category>AI</category><category>Medicine</category><category>Hugging Face</category>
     <image> https://www.rics-notebook.com/articleimage/DDD.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Join the open-source learning revolution with QuantumLearn. Contribute, learn, and grow together as we build the ultimate learning resource. Let us create a brighter future through collaborative education! 🚀</description>
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Open Source</category><category>Learning</category><category>Community</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Project Management</category><category>Comptia</category><category>Education</category><category>Devops</category><category>digitaltransformation</category>
     <image> https://quantumlearn.vercel.app/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75</image><image> https://quantumlearn.org/_next/image?url=https%3A%2F%2Fwww.quantumcybersolutions.com%2Fentanglement.webp&w=640&q=75</image><image> https://www.rics-notebook.com/articleimage/Certifications/QuantumLearn.webp</image><image> https://www.rics-notebook.com/articleimage/QuantumLearn.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
     <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Red Hat</category><category>Open Source</category><category>Enterprise Solutions</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/RedHat.webp</image>
   </item>

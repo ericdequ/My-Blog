@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/cost-savings/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore a groundbreaking method of package transportation that leverages Earths rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.</description>
     <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Orbital Transportation</category><category>Space</category><category>Space Logistics</category><category>Cost Savings</category><category>Environmental Conservation</category><category>Fuel Efficiency</category><category>Space Industry Growth</category>
     <image> https://www.rics-notebook.com/articleimage/Space/OrbitalPackageDelivery.webp</image><image> https://www.quantumcybersolutions.com/OPD/environmental-benefits.webp</image><image> https://www.quantumcybersolutions.com/OPD/header.webp</image><image> https://www.quantumcybersolutions.com/OPD/cost-savings.webp</image><image> https://www.quantumcybersolutions.com/OPD/orbital-mechanics.webp</image><image> https://www.quantumcybersolutions.com/OPD/advanced.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Discover how quantum algorithms can transform airline routing, leading to billions in cost savings and reduced environmental impact. Explore the power of quantum computing in tackling complex optimization problems and revolutionizing the aviation industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Airline Industry</category><category>Route Optimization</category><category>Fuel Efficiency</category><category>Cost Savings</category><category>Environmental Impact</category>
     <image> https://www.rics-notebook.com/articleimage/Logistics/AirLine.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Discover how quantum computers are set to transform the logistics industry, enabling unprecedented optimization, cost savings, and energy efficiency. Explore the potential of this groundbreaking technology and its impact on supply chain management.</description>
     <pubDate>Tue, 23 Jan 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Cost Savings</category><category>Energy Conservation</category><category>Supply Chain</category>
     <image> https://www.rics-notebook.com/articleimage/Logistics/QuantumLogistics.webp</image>
   </item>

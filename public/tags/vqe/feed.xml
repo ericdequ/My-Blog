@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/vqe/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.</description>
     <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Variational Quantum Eigensolver</category><category>VQE</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Quantum Chemistry</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/VQE.webp</image>
   </item>

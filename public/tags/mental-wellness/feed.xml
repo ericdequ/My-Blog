@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 11 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/mental-wellness/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Dive into the potential of mescaline as a groundbreaking treatment for depression. Explore its therapeutic mechanisms, historical context, and the benefits it could bring to modern mental health care. 🌵💊🧠</description>
     <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Mescaline</category><category>Antidepressants</category><category>Psychedelics</category><category>Mental Health</category><category>Pharmacology</category><category>Therapeutic Benefits</category><category>Mental Wellness</category><category>Depression Treatment</category><category>Alternative Medicine</category>
     <image> https://www.rics-notebook.com/articleimage/Mescaline.webp</image>
   </item>

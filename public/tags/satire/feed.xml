@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/satire/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Get ready to have your mind blown as we expose the biggest cover-up in quantum history. The no-cloning theorem? More like the no-cloning sham! Join us on a wild ride as we unravel the quantum conspiracies that have been hiding in plain sight.</description>
     <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Mechanics</category><category>Satire</category><category>Science</category><category>Humor</category><category>Pop Culture</category><category>Movies</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/CloningTheorem.webp</image><image> https://www.rics-notebook.com/teleport.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Francisco de Quevedo was a Spanish nobleman, politician, and one of the most prominent writers of the Spanish Golden Age. Known for his sharp wit, satirical works, and conceptismo style, Quevedo left an indelible mark on Spanish literature.</description>
     <pubDate>Mon, 06 Feb 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>literature</category><category>poetry</category><category>satire</category><category>spanish golden age</category>
     <image> https://www.rics-notebook.com/articleimage/FransicoDeQuevedo.webp</image>
   </item>

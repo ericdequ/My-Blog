@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 02 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/ergot/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the fascinating connections between the ancient Eleusinian Mysteries, the psychoactive properties of ergot and LSA, and the infamous Salem Witch Trials. Delve into how these elements intersected to shape pivotal moments in history. 🌾🔮</description>
     <pubDate>Mon, 02 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Eleusinian Mysteries</category><category>Ergot</category><category>LSA</category><category>Salem Witch Trials</category><category>Psychedelics</category><category>History</category><category>Mysticism</category><category>Anthropology</category><category>Ancient Cultures</category>
     <image> https://www.rics-notebook.com/articleimage/Ergot.webp</image>
   </item>

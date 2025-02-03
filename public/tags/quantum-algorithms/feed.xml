@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-algorithms/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.</description>
     <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Variational Quantum Eigensolver</category><category>VQE</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Quantum Chemistry</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/VQE.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Explore the concept of Adiabatic Quantum Computing (AQC), its principles, applications, and challenges. Understand the adiabatic theorem, problem Hamiltonian, quantum annealing, and the potential of AQC in solving complex problems across various domains.</description>
     <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Adiabatic Quantum Computing</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Optimization</category><category>Quantum Annealing</category><category>Quantum Simulation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/AQC.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Explore the innovative concept of hybrid quantum-classical computing using ternary logic. Understand the principles, potential advantages, and challenges of integrating negative, positive, and zero states to enhance computational speed and efficiency.</description>
     <pubDate>Wed, 19 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Hybrid Computing</category><category>Ternary Logic</category><category>Quantum Algorithms</category><category>Computer Architecture</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/Hybrid.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.</description>
     <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Quantum Algorithms</category><category>Technical</category><category>Code Examples</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/Logistics/Optimization.webp</image>
   </item>
@@ -65,7 +65,7 @@
     
     <description>Explore the technical details of quantum portfolio optimization, including the specific algorithms and quantum mechanics principles used. Learn how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Data Encoding</category><category>Quantum Circuits</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/portfoliooptimization.webp</image>
   </item>
@@ -77,7 +77,7 @@
     
     <description>Explore the cutting-edge world of quantum simulation and modeling, and discover how these technologies revolutionize the design and optimization of orbital package delivery systems. From atmospheric re-entry to materials science, learn how quantum algorithms and hybrid approaches are pushing the boundaries of what is possible in space logistics.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Simulation</category><category>Quantum Algorithms</category><category>Hybrid Quantum-Classical</category><category>Aerospace Design</category><category>Computational Physics</category><category>Space</category>
     <image> https://www.quantumcybersolutions.com/OPD/quantum-simulation-algorithms.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-simulation-future.webp</image><image> https://www.rics-notebook.com/articleimage/Space/Qsimulation.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-linear-systems.webp</image><image> https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical-simulation.webp</image>
   </item>
@@ -89,7 +89,7 @@
     
     <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
     <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
     <image> https://www.rics-notebook.com/articleimage/IonQ.webp</image>
   </item>
@@ -101,7 +101,7 @@
     
     <description>Learn how quantum technologies revolutionize secure communication and data processing in the orbital package delivery industry. From unbreakable encryption to efficient data retrieval, discover the ways in which quantum computing ensures the safety and efficiency of space logistics.</description>
     <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Communication</category><category>Quantum Cryptography</category><category>Data Security</category><category>Quantum Algorithms</category><category>Real-Time Tracking</category><category>Space</category>
     <image> https://www.quantumcybersolutions.com/OPD/quantum-data-retrieval.webp</image><image> https://www.rics-notebook.com/articleimage/Space/Qcommunicate.webp</image><image> https://www.quantumcybersolutions.com/OPD/qkd.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-space-logistics.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-resistant-crypto.webp</image>
   </item>
@@ -113,7 +113,7 @@
     
     <description>Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Cryptography</category><category>RSA</category><category>Shor’s Algorithm</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Factoring</category><category>Quantum Algorithms</category><category>MIT xPRO</category>
     <image> https://www.rics-notebook.com/articleimage/RSACryptosystem.webp</image>
   </item>

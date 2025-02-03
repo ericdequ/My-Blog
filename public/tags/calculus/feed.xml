@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 21 Jul 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/calculus/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Linear algebra is a branch of mathematics that deals with linear equations, matrices, and vector spaces.</description>
     <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>LinearAlgebra</category><category>Math</category><category>Calculus</category>
     <image> https://www.rics-notebook.com/articleimage/Math/LinearAlgebra.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Calculus 3 is a continuation of Calculus 1 and Calculus 2. It covers advanced topics in multivariable calculus, including vector calculus, line integrals, surface integrals, and volumes of revolution.</description>
     <pubDate>Sun, 21 Mar 2021 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Calculus</category><category>Mathematics</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/Math/Calc3.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Calculus 1 is a challenging but essential course that covers limits, derivatives, and integrals, and is a critical foundation for students who plan to study engineering, science, or mathematics.</description>
     <pubDate>Thu, 21 Mar 2019 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Calculus</category><category>Mathematics</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/Math/Calc1.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/hydrogen-bonding/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Have you ever wondered why ice cubes float in your drink, defying the common expectation that solids should sink? The phenomenon of ice floating on water has puzzled curious minds for centuries. In this blog post, we dive into the fascinating science behind this peculiar behavior and explore the unique properties of water that make it possible.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Ice</category><category>Water</category><category>Density</category><category>Hydrogen Bonding</category><category>Anomalous Properties</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/WhyIceFloatsonWater.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 13 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-information/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how quantum information is transferred between qubits, the crucial role of Bell states, and the profound implications for quantum communication and computing.</description>
     <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Mechanics</category><category>Quantum Teleportation</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Bell States</category><category>Quantum Communication</category><category>Quantum Information</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.webp</image>
   </item>

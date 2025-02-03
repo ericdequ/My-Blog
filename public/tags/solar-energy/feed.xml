@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 01 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/solar-energy/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Quantum computers have the potential to revolutionize the design and optimization of solar cells, particularly in the development of AC solar cells. By leveraging the power of quantum simulations, researchers can explore new materials and configurations to maximize solar energy conversion efficiency.</description>
     <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Computing</category><category>Solar Energy</category><category>AC Solar Cells</category><category>Simulations</category><category>Optimization</category>
     <image> https://www.rics-notebook.com/articleimage/Energy/QCSolar.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Solar panels typically convert sunlight into DC electricity, which is then converted to AC for household use. However, capturing the suns natural AC energy directly could enhance efficiency. Learn about the proposed methods, their benefits, and how they integrate with smart grid technologies and energy storage solutions.</description>
     <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Solar Energy</category><category>AC</category><category>DC</category><category>Efficiency</category><category>Smart Grids</category><category>Energy Storage</category>
     <image> https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Solar panels have become increasingly popular as a clean and renewable energy source, but have you ever wondered how these seemingly simple devices convert sunlight into electricity? In this blog post, we dive into the fascinating science behind solar panels and explore the photovoltaic effect that makes this green technology possible.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Solar Energy</category><category>Photovoltaics</category><category>Renewable Energy</category><category>Semiconductors</category><category>P-N Junction</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowDoSolarPanelsWork.webp</image>
   </item>

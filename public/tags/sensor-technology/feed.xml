@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 20 Oct 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/sensor-technology/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the trustworthiness of autonomous vehicles and their sensors through the lens of contactless attacks. Understand the research, methodologies, findings, and potential solutions for enhancing sensor resilience in self-driving cars. 🚗🔒</description>
     <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Autonomous Vehicles</category><category>Cybersecurity</category><category>Sensor Technology</category><category>IoT Security</category><category>Self-driving Cars</category><category>Automotive Technology</category>
     <image> https://www.rics-notebook.com/articleimage/ContactlessAttacks.webp</image>
   </item>

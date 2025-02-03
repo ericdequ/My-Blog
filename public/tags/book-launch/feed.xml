@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 20 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/book-launch/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>What began as a simple blog post has blossomed into a captivating novel that explores the journey of a waterproof robot as it navigates the challenges of a mighty river and seeks to understand the essence of humanity. Discover how this story has captured hearts worldwide and sparked discussions on the nature of consciousness and existence.</description>
     <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Novel</category><category>AI</category><category>Spirituality</category><category>Resilience</category><category>Life Lessons</category><category>Humanity</category><category>Book Launch</category>
     <image> https://www.robotric.org/logo.webp</image><image> https://www.rics-notebook.com/articleimage/Personal/RobotRic.webp</image>
   </item>

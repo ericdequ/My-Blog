@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/book-review/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.</description>
     <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Book Review</category><category>Inspiration</category><category>life-lessons</category><category>spiritual-practices</category><category>the-alchemist</category>
     <image> https://www.rics-notebook.com/articleimage/Alchemist.webp</image><image> https://www.rics-notebook.com/articleimage/Books/Alchemist.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Explore The Psilocybin Mushroom Bible by Dr. K Mandrake PhD and Virginia Haze, a definitive guide to growing and using magic mushrooms. Discover the detailed methods and techniques outlined in this comprehensive book. 🌱</description>
     <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Book Review</category><category>Psilocybin Mushrooms</category><category>Magic Mushrooms</category><category>Fungi Cultivation</category><category>DIY Projects</category><category>Home Gardening</category><category>Natural Remedies</category>
     <image> https://www.rics-notebook.com/articleimage/GrowMushrooms.webp</image><image> https://www.rics-notebook.com/articleimage/Books/GrowMushrooms.webp</image>
   </item>

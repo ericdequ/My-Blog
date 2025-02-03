@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 31 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/automation/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.</description>
     <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Terraform</category><category>Infrastructure as Code</category><category>Automation</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/Terraform.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.</description>
     <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Ansible</category><category>Automation</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/Ansible.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.</description>
     <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Packer</category><category>Image Creation</category><category>Automation</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/Packer.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 04 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/richard-feynman/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Journey through the life and mind of Richard Feynman, the brilliant physicist who not only revolutionized quantum mechanics but also foresaw a future where quantum computers would become the norm. Discover how Feynmans unique perspective and relentless curiosity shaped his groundbreaking contributions to science.</description>
     <pubDate>Mon, 04 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Richard Feynman</category><category>Quantum Physics</category><category>Quantum Computing</category><category>Science</category><category>Innovation</category>
     <image> https://www.rics-notebook.com/articleimage/Feynman.webp</image>
   </item>

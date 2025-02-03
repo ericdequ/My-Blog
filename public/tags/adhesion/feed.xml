@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/adhesion/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Ever wondered how geckos can effortlessly scamper up walls and across ceilings? In this blog post, we explore the fascinating biological mechanisms that enable geckos to stick to surfaces with such ease.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Geckos</category><category>Adhesion</category><category>Setae</category><category>Van der Waals Forces</category><category>Biology</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowLizardsStickToWalls.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quadratic-sieve/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Delve into the intricacies of the Quadratic Sieve, one of the most efficient algorithms for factoring large integers. This blog post provides a comprehensive technical overview, exploring its mathematical foundations, algorithmic steps, and practical applications. 🔍🔢💻</description>
     <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Cryptography</category><category>Factoring</category><category>Quadratic Sieve</category><category>Number Theory</category><category>Algorithm Design</category><category>Mathematics</category><category>Computer Science</category>
     <image> https://www.rics-notebook.com/articleimage/QuadraticSieve.webp</image>
   </item>

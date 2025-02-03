@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/ayahuasca/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Embark on a journey into the heart of the ayahuasca experience, where ancient shamanic wisdom intertwines with modern scientific understanding. Explore the spiritual significance of this sacred brew and uncover the pharmacological mechanisms that make it a potent tool for inner exploration and healing. 🌈</description>
     <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Ayahuasca</category><category>Shamanism</category><category>Spirituality</category><category>MAOIs</category><category>Pharmacology</category><category>DMT</category><category>Traditional Medicine</category>
     <image> https://www.rics-notebook.com/articleimage/Ayahuasca.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Investigate the emerging trend of microdosing ayahuasca and its potential benefits. Learn about the research on using ayahuasca without MAOI inhibitors to harness the effects of DMT without hallucinations. 🌿💊🧠</description>
     <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Microdosing</category><category>Ayahuasca</category><category>DMT</category><category>Mental Health</category><category>Pharmacology</category><category>Spiritual Healing</category><category>Therapeutic Benefits</category><category>Alternative Medicine</category>
     <image> https://www.rics-notebook.com/articleimage/MicrodosingAyahuasca.webp</image>
   </item>

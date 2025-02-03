@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Thu, 25 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/descent-phase/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>In this blog post, we dive into the critical Descent Phase of orbital package delivery. Learn about the challenges of reentry, the role of the Guidance, Navigation, and Control (GNC) system, and the technologies enabling precise and autonomous landing of packages.</description>
     <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Orbital Package Delivery</category><category>Descent Phase</category><category>Reentry</category><category>Guidance Navigation and Control</category><category>Autonomous Landing</category><category>Space</category>
     <image> https://www.rics-notebook.com/articleimage/Space/Descent.webp</image>
   </item>

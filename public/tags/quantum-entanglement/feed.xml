@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 17 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-entanglement/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Embark on a mind-bending journey through the observer effect and the expansion of space, exploring the captivating idea that our perception of reality and time is intimately connected to our motion through the cosmos. We delve into the notion that we are the painters of reality, creating our experiences as we navigate the fabric of space, while the memory of our collective journey is woven into the tapestry of universal consciousness through the enigmatic threads of quantum entanglement.</description>
     <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Observer Effect</category><category>Quantum Mechanics</category><category>Space Expansion</category><category>Time Perception</category><category>Reality Creation</category><category>Collective Consciousness</category><category>Quantum Entanglement</category><category>Metaphysics</category>
     <image> https://www.rics-notebook.com/articleimage/Theory/Painters.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>This article explores the fascinating concept of EPR wormholes, which connect quantum entanglement with the geometry of spacetime, potentially offering insights into quantum gravity.</description>
     <pubDate>Thu, 27 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>EPR Wormholes</category><category>Quantum Entanglement</category><category>General Relativity</category><category>Quantum Gravity</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/EPR.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how quantum information is transferred between qubits, the crucial role of Bell states, and the profound implications for quantum communication and computing.</description>
     <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Mechanics</category><category>Quantum Teleportation</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Bell States</category><category>Quantum Communication</category><category>Quantum Information</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>Explore the profound implications of Bells Inequality in quantum mechanics. Understand the experimental tests, the concept of local realism, and how these principles challenge our understanding of the nature of reality.</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Mechanics</category><category>Bells Inequality</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Local Realism</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/BellsInequality.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 28 Jun 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/relationship/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
     <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category><category>government-sales</category><category>government-procurement</category>
     <image> https://www.rics-notebook.com/articleimage/Relationships.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>IoT</category><category>Relationship</category><category>Technology</category>
     <image> https://www.rics-notebook.com/articleimage/IOT/Relationship.webp</image>
   </item>

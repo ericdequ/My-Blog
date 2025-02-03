@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sat, 19 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/wi-fi/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Wi-Fi has revolutionized the way we connect, work, and entertain ourselves, offering a seamless and convenient way to access the internet without the constraints of wires or cables. But have you ever wondered how this invisible technology actually works? In this blog post, we unravel the science behind Wi-Fi and explore the fascinating world of wireless communication.</description>
     <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Wi-Fi</category><category>Wireless Technology</category><category>Radio Waves</category><category>Internet</category><category>Communication</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowWifiWorks.webp</image>
   </item>

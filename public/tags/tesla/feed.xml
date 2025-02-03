@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/tesla/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>This post delves into Nikola Teslas groundbreaking ideas for Secure energy and wireless power transmission, exploring how these technologies could revolutionize our energy infrastructure, create a sustainable future, and bolster national security.</description>
     <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Tesla</category><category>Sustainability</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/SecureEnergy.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>This post explores the fascinating world of wireless power transmission and its potential to revolutionize the way we power our devices and create captivating lighting shows. We delve into the math and physics behind resonant inductive coupling and provide a guide for building your own Tesla coil-based wireless power devices.</description>
     <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Tesla</category><category>Wireless</category><category>Energy</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/WirelessEnergy.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist who is best known for his contributions to the design of the modern alternating current (AC) electricity supply system. Teslas inventions, which also included the Tesla coil and the radio, have had a profound impact on the modern world.</description>
     <pubDate>Tue, 03 Jan 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>idols</category><category>tesla</category><category>inventors</category>
     <image> https://www.rics-notebook.com/articleimage/Idols/Tesla.webp</image>
   </item>

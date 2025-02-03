@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sat, 20 Jan 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/iot/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Dive into the technical depths of Flipper Zero, a versatile hacking tool. Learn how to set it up, explore its functionalities, and understand its workings in this comprehensive guide. 🛠️🔒</description>
     <pubDate>Sat, 20 Jan 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Flipper Zero</category><category>Hacking</category><category>Cybersecurity</category><category>IoT</category><category>Gadgets</category><category>Technical Guide</category>
     <image> https://www.rics-notebook.com/articleimage/Flipperzero.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Explore the integration of Blockchain, IoT, and Wireless Power Transfer to create a robust, secure, and innovative tech stack. Discover the challenges, solutions, and potential of this combination in transforming technology and connectivity. 🚀</description>
     <pubDate>Thu, 21 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Blockchain</category><category>IoT</category><category>Wireless Power Transfer</category><category>Technology</category><category>Innovation</category><category>Tech Stack</category>
     <image> https://www.rics-notebook.com/articleimage/inventions/iosBlockWPT.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>This blog post explores the concept of relationship-based IoT models, which use relationships between devices to create a more comprehensive view of the world. We discuss the benefits of this model, such as improved accuracy, increased efficiency, and enhanced security, and how to implement it using different database types. 🌐</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>IoT</category><category>Relationship</category><category>Technology</category>
     <image> https://www.rics-notebook.com/articleimage/IOT/Relationship.webp</image>
   </item>

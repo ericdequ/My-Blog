@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Sun, 19 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/wave-particle-duality/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Embark on a mind-bending journey through the double slit experiment, the cornerstone of quantum mechanics. Unravel the mysteries of wave-particle duality, the observer effect, and the profound implications for our understanding of reality and consciousness.</description>
     <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum Mechanics</category><category>Double Slit Experiment</category><category>Wave-Particle Duality</category><category>Observer Effect</category><category>Metaphysics</category><category>Reality</category><category>Consciousness</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.webp</image>
   </item>

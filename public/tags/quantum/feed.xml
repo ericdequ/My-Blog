@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>Rics NoteBook</title>
+      <title>davincio NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
-      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
       <lastBuildDate>Wed, 22 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the technical intricacies of quantum algorithms that power logistics optimization. Dive into the formulas and code examples that showcase the potential of quantum computing in revolutionizing supply chain management.</description>
     <pubDate>Wed, 22 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Quantum Algorithms</category><category>Technical</category><category>Code Examples</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/Logistics/Optimization.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Explore how quantum computing can revolutionize food transportation and distribution, tackling the global hunger epidemic and unlocking unprecedented advancements for humanity. Discover the potential of quantum algorithms in optimizing logistics, considering variables such as food shelf life, to ensure efficient and equitable food distribution worldwide.</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Quantum Computing</category><category>Food Transportation</category><category>Hunger Epidemic</category><category>Optimization</category><category>Logistics</category><category>Shelf Life</category><category>Humanitarian Advancement</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumFood.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Exploring the profound connections between quantum mechanics and spiritual teachings from various religious traditions.</description>
     <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Spirituality</category><category>Religion</category><category>spiritual-practices</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantaReliga.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>Discover how quantum algorithms can transform airline routing, leading to billions in cost savings and reduced environmental impact. Explore the power of quantum computing in tackling complex optimization problems and revolutionizing the aviation industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Quantum Computing</category><category>Logistics</category><category>Optimization</category><category>Airline Industry</category><category>Route Optimization</category><category>Fuel Efficiency</category><category>Cost Savings</category><category>Environmental Impact</category>
     <image> https://www.rics-notebook.com/articleimage/Logistics/AirLine.webp</image>
   </item>
@@ -65,7 +65,7 @@
     
     <description>Discover how quantum networks are set to revolutionize modern communication, offering unparalleled security and efficiency. Learn about the basics of quantum communication and explore the potential applications and advantages of this cutting-edge technology.</description>
     <pubDate>Sun, 04 Feb 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Internet</category><category>Cybersecurity</category><category>Quantum</category><category>devops</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Networking_priciples/QuantumNetworks.webp</image>
   </item>
@@ -77,7 +77,7 @@
     
     <description>A deep dive into the United States significant strides in quantum computing and cryptography as part of the National Quantum Initiative (NQI) and the National Quantum Coordination Office (NQCO).</description>
     <pubDate>Tue, 16 Jan 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>GOVERNMENT</category><category>Cryptography</category><category>PUBLIC-SECTOR</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/USAQuantumRecap.webp</image>
   </item>
@@ -89,7 +89,7 @@
     
     <description>This post explores the mysterious realm of the Quantum Field.</description>
     <pubDate>Wed, 03 Jan 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Creativity</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumField.webp</image>
   </item>
@@ -101,7 +101,7 @@
     
     <description>A deep dive into the looming cybersecurity threats posed by quantum technologies and the personal journey behind Quantum Cyber Solutions.</description>
     <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Cybersecurity</category><category>Homeland Security</category><category>Startup</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumAndCybersecurity.webp</image>
   </item>
@@ -113,7 +113,7 @@
     
     <description>Exploring the potential impact of quantum technologies on Bitcoins cryptographic foundations and the broader cryptocurrency landscape!</description>
     <pubDate>Sat, 16 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Bitcoin</category><category>Cryptography</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumAndBitcoin.webp</image>
   </item>
@@ -125,7 +125,7 @@
     
     <description>Understanding the profound economic implications of quantum technologies on industries, economies, and the global landscape!</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Economic Impact</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumEconomicImpact.webp</image>
   </item>
@@ -137,7 +137,7 @@
     
     <description>How Quantum mechanics are a proof of psychic and meta physic capabilities</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Platforms</category><category>Psychics</category><category>Entanglement</category><category>spiritual-practices</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumPsychics.webp</image>
   </item>
@@ -149,7 +149,7 @@
     
     <description>Why it is important to challenge facts</description>
     <pubDate>Fri, 15 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Science</category><category>Rebel</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/RethinkingQuantum.webp</image>
   </item>
@@ -161,7 +161,7 @@
     
     <description>Exploring predictions about the trajectory of quantum technologies and envisioning the transformative quantum future!</description>
     <pubDate>Thu, 14 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Future</category><category>Predictions</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumFuturePredictions.webp</image>
   </item>
@@ -173,7 +173,7 @@
     
     <description>Understanding the significance of education and training in the quantum domain and the avenues available for learning!</description>
     <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Education</category><category>Training</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumEducationAndTraining.webp</image>
   </item>
@@ -185,7 +185,7 @@
     
     <description>Exploring the companies at the forefront of quantum technological advancements and their vision for the quantum future!</description>
     <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Companies</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumCompanies.webp</image>
   </item>
@@ -197,7 +197,7 @@
     
     <description>Navigating the vast landscape of quantum technologies and exploring their transformative potential!</description>
     <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Technologies</category><category>Overview</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumTechnologiesOverview.webp</image>
   </item>
@@ -209,7 +209,7 @@
     
     <description>Exploring the software and tools ecosystem thats driving quantum technological  advancements!</description>
     <pubDate>Sun, 10 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Software</category><category>Tools</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumSoftwareAndTools.webp</image>
   </item>
@@ -221,7 +221,7 @@
     
     <description>Diving into the world of quantum research and witnessing its transformative applications across sectors!</description>
     <pubDate>Sat, 09 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Research</category><category>Applications</category><category>Physics</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumResearchAndApplications.webp</image>
   </item>
@@ -233,7 +233,7 @@
     
     <description>Exploring the challenges in the quantum domain and the relentless pursuit to overcome them!</description>
     <pubDate>Fri, 08 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Challenges</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumChallenges.webp</image>
   </item>
@@ -245,7 +245,7 @@
     
     <description>Navigating the essentials of cybersecurity in a quantum world and preparing for the quantum transition!</description>
     <pubDate>Thu, 07 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Cybersecurity</category><category>Checklist</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumCybersecurityChecklist.webp</image>
   </item>
@@ -257,7 +257,7 @@
     
     <description>Discovering the transformative potential and multifaceted capabilities of quantum technologies!</description>
     <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Potential</category><category>Capabilities</category><category>Physics</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumPotentialAndCapabilities.webp</image>
   </item>
@@ -269,7 +269,7 @@
     
     <description>Venturing into the world of quantum materials, the foundational elements driving quantum technological advancements!</description>
     <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Materials</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumMaterials.webp</image>
   </item>
@@ -281,7 +281,7 @@
     
     <description>Exploring the strategic quantum initiatives led by governments worldwide and their vision for a quantum-empowered future!</description>
     <pubDate>Mon, 04 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Government Initiatives</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumGovernmentInitiatives.webp</image>
   </item>
@@ -293,7 +293,7 @@
     
     <description>Navigating the potential risks in the quantum domain and understanding the defenses against them!</description>
     <pubDate>Sun, 03 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Threats</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumThreats.webp</image>
   </item>
@@ -305,7 +305,7 @@
     
     <description>Embarking on a journey through Quantum Networking, the future of secure and efficient communication!</description>
     <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Networking</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumNetworking.webp</image>
   </item>
@@ -317,7 +317,7 @@
     
     <description>Unveiling the plethora of services in the quantum domain that are making quantum tech accessible and impactful!</description>
     <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Services</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumServices.webp</image>
   </item>
@@ -329,7 +329,7 @@
     
     <description>Discover the leading quantum platforms that are revolutionizing the world of quantum computing!</description>
     <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Platforms</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumPlatforms.webp</image>
   </item>
@@ -341,7 +341,7 @@
     
     <description>Exploring the potential of Quantum Cybersecurity in safeguarding data and communications in the era of quantum computers. Learn about the principles, techniques, and importance of this emerging field.</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Cybersecurity</category><category>Cryptography</category><category>Data Security</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumCyber/QuantumCyberSecurity.webp</image>
   </item>
@@ -353,7 +353,7 @@
     
     <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Development</category><category>Spirituality</category><category>Meditation</category><category>Quantum</category><category>spiritualpractices</category>
     <image> https://www.rics-notebook.com/articleimage/Books/BecomingSupernatural.webp</image><image> https://www.rics-notebook.com/articleimage/BecomingSupernatural.webp</image>
   </item>
@@ -365,7 +365,7 @@
     
     <description>Unlocking the secrets of the universe with the fascinating field of Quantum Physics!</description>
     <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <author>ericdequevedo@gmailcom ()</author>
     <category>Quantum</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QuantamPhysics.webp</image>
   </item>
