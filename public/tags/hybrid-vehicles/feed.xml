@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>davincio NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
+      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <lastBuildDate>Mon, 03 Feb 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/hybrid-vehicles/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/HybridVehicle</guid>
+    <title>Land, Air, and Water Hybrid Vehicle: Build Your Amphibious Adventure! 🌍🚗✈️🌊</title>
+    <link>https://www.rics-notebook.com/blog/inventions/HybridVehicle</link>
+    
+    <description>Explore the process of transforming a PPG Trike Power Glider into an amphibious vehicle. Learn how to integrate water propulsion and flotation for a truly versatile travel experience across land, air, and water! 🌟</description>
+    <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom ()</author>
+    <category>DIY Projects</category><category>Hybrid Vehicles</category><category>Amphibious</category><category>Engineering</category><category>Adventure</category><category>Innovation</category>
+    <image> https://www.rics-notebook.com/articleimage/inventions/HybridVehicle.webp</image>
+  </item>
+
+    </channel>
+  </rss>

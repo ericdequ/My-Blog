@@ -1,5 +1,5 @@
-
 ---
+
 title: 'Land, Air, and Water Hybrid Vehicle: Build Your Amphibious Adventure! 🌍🚗✈️🌊'
 date: '2025-02-03'
 tags:
@@ -15,6 +15,7 @@ draft: false
 summary: 'Explore the process of transforming a PPG Trike Power Glider into an amphibious vehicle. Learn how to integrate water propulsion and flotation for a truly versatile travel experience across land, air, and water! 🌟'
 
 images: ['https://www.rics-notebook.com/articleimage/inventions/HybridVehicle.webp']
+
 ---
 
 # Land, Air, and Water Hybrid Vehicle: Build Your Amphibious Adventure! 🌍🚗✈️🌊

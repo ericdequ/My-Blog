@@ -42,3 +42,12 @@ As the night ended, I reflected on the unusual and absurd events that had unfold
 These two heavy rock mosh-pitters taught me a lot about life and inspired me to embrace my differences. The importance of individualism and establishing my own self-identity became clear. Embracing diversity and learning from those who are different from you can lead to personal growth and a deeper understanding of the world.
 
 That night at the community pool, I discovered the power of individualism and the importance of embracing my own unique identity. It was a night that changed my perspective and taught me the value of diversity in my social interactions. 🌱💪
+
+
+^^^ That was my college application essay I wrote and too be honest It was one of my favorite things I ever wrote The Essay had to be 500 words and I typed it out on one go and it was esactly 500 words 
+
+And I have always wanted to tell the unfiltered story some day i will ... Because all these beautiful thoughts and synchronicities were catalyzied by a tiny tab of LSD!
+
+but anywho I guess the moral of the story is sometimes the right choice in life is to drop a tab of acid for no reason at the moment but in retrospect helped you get into a Top 5 university !
+
+Because sometimes the dolphins are right and the shortest most direct path isn't the best or quickest
