@@ -91,7 +91,7 @@ export default function Home({ posts }) {
                           <div
                             className={`relative aspect-[16/9] w-full ${styles.imageBackground}`}
                           >
-                            <Image
+                            <img
                               src={images[0]}
                               alt={title}
                               layout="fill"

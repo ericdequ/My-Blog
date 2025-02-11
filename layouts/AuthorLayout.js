@@ -38,7 +38,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               visible: { opacity: 1, y: 0, transition: { duration: 0.5, delay: 0.4 } },
             }}
           >
-            <Image
+            <img
               src={avatar}
               alt="avatar"
               width="192"

@@ -44,7 +44,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           <header className="pt-6 xl:pb-6 relative">
             {images && images.length > 0 && (
               <div className="absolute inset-0 z-0">
-                <Image
+                <img
                   src={images[0]}
                   alt={title}
                   layout="fill"
@@ -81,7 +81,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {authorDetails.map((author) => (
                     <li className="flex items-center space-x-2" key={author.name}>
                       {author.avatar && (
-                        <Image
+                        <img
                           src={author.avatar}
                           width="38"
                           height="38"
