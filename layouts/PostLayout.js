@@ -51,7 +51,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   objectFit="cover"
                   className="opacity-50 dark:opacity-30"
                 />
-                <div className="absolute inset-0 bg-gradient-to-b from-transparent to-white dark:to-gray-900"></div>
+                
               </div>
             )}
             <div className="space-y-1 text-center relative z-10">
@@ -118,34 +118,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 animate="visible"
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
-                <Link href={discussUrl(slug)} rel="nofollow">
-                  {'Discuss on Twitter'}
-                </Link>
-                {` • `}
-                <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
-              </motion.div>
-              <Comments frontMatter={frontMatter} />
-            </div>
-            <footer>
-              <motion.div
-                className="divide-primary-300 text-sm font-medium leading-5 dark:divide-primary-700 xl:col-start-1 xl:row-start-2 xl:divide-y"
-                variants={variants}
-                initial="hidden"
-                animate="visible"
-                transition={{ duration: 0.6, delay: 0.6 }}
-              >
-                {tags && (
-                  <div className="py-4 xl:py-8">
-                    <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
-                      Tags
-                    </h2>
-                    <div className="flex flex-wrap">
-                      {tags.map((tag) => (
-                        <Tag key={tag} text={tag} />
-                      ))}
-                    </div>
-                  </div>
-                )}
                 {(next || prev) && (
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && (
@@ -170,6 +142,32 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     )}
                   </div>
                 )}
+                {` • `}
+                <Comments frontMatter={frontMatter} />
+              </motion.div>
+              
+            </div>
+            <footer>
+              <motion.div
+                className="divide-primary-300 text-sm font-medium leading-5 dark:divide-primary-700 xl:col-start-1 xl:row-start-2 xl:divide-y"
+                variants={variants}
+                initial="hidden"
+                animate="visible"
+                transition={{ duration: 0.6, delay: 0.6 }}
+              >
+                {tags && (
+                  <div className="py-4 xl:py-8">
+                    <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
+                      Tags
+                    </h2>
+                    <div className="flex flex-wrap">
+                      {tags.map((tag) => (
+                        <Tag key={tag} text={tag} />
+                      ))}
+                    </div>
+                  </div>
+                )}
+               
               </motion.div>
               <div className="pt-4 xl:pt-8">
                 <Link
