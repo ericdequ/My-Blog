@@ -1,156 +1,304 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Chromatic Quantum Tailwind Theme
+ * A vibrant interpretation of Leonardo da Vinci's 
+ * visual knowledge systems combined with modern color theory
+ */
 
-.task-list-item::before {
-  @apply hidden;
-}
-
-.task-list-item {
-  @apply list-none;
-}
-
-.footnotes {
-  @apply pt-8 mt-12 border-t border-gray-200 dark:border-gray-700;
-}
-
-.csl-entry {
-  @apply my-5;
-}
-
-/* https://stackoverflow.com/questions/61083813/how-to-avoid-internal-autofill-selected-style-to-be-applied */
-input:-webkit-autofill,
-input:-webkit-autofill:focus {
-  transition: background-color 600000s 0s, color 600000s 0s;
-}
-
-/* Code title styles */
-.remark-code-title {
-  @apply rounded-t bg-gray-800 px-5 py-3 font-mono text-sm font-bold text-gray-200;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
-  border-bottom: 2px dashed theme('colors.primary.600');
-}
-
-.remark-code-title + div > pre {
-  @apply mt-0 rounded-t-none;
-}
-
-/* Code block styles */
-.code-highlight {
-  @apply float-left min-w-full;
-}
-
-.code-line {
-  @apply -mx-4 block border-l-4 border-transparent pl-4 pr-4;
-  transition: background-color 0.2s ease-in-out;
-}
-
-.code-line.inserted {
-  @apply bg-green-500 bg-opacity-20;
-}
-
-.code-line.deleted {
-  @apply bg-red-500 bg-opacity-20;
-}
-
-.highlight-line {
-  @apply -mx-4 border-l-4 border-primary-500 bg-gray-700 bg-opacity-50;
-  box-shadow: inset 4px 0 0 theme('colors.primary.500');
-}
-
-.line-number::before {
-  @apply mr-4 -ml-2 inline-block w-4 text-right text-gray-400;
-  content: attr(line);
-}
-
-/* Token styles */
-.token.comment,
-.token.prolog,
-.token.cdata {
-  color: rgb(99, 119, 119);
-  font-style: italic;
-}
-
-.token.punctuation {
-  color: rgb(199, 146, 234);
-}
-
-.namespace {
-  color: rgb(178, 204, 214);
-}
-
-.token.deleted {
-  color: rgba(239, 83, 80, 0.56);
-  font-style: italic;
-}
-
-.token.symbol,
-.token.property {
-  color: rgb(128, 203, 196);
-}
-
-.token.tag,
-.token.operator,
-.token.keyword {
-  color: rgb(127, 219, 202);
-}
-
-.token.boolean {
-  color: rgb(255, 88, 116);
-}
-
-.token.number {
-  color: rgb(247, 140, 108);
-}
-
-.token.constant,
-.token.function,
-.token.builtin,
-.token.char {
-  color: rgb(130, 170, 255);
-}
-
-.token.selector,
-.token.doctype {
-  color: rgb(199, 146, 234);
-  font-style: italic;
-}
-
-.token.attr-name,
-.token.inserted {
-  color: rgb(173, 219, 103);
-  font-style: italic;
-}
-
-.token.string,
-.token.url,
-.token.entity,
-.language-css .token.string,
-.style .token.string {
-  color: rgb(173, 219, 103);
-}
-
-.token.class-name,
-.token.atrule,
-.token.attr-value {
-  color: rgb(255, 203, 139);
-}
-
-.token.regex,
-.token.important,
-.token.variable {
-  color: rgb(214, 222, 235);
-}
-
-.token.important,
-.token.bold {
-  font-weight: bold;
-}
-
-.token.italic {
-  font-style: italic;
-}
-
-.token.table {
-  display: inline;
-}
+ @tailwind base;
+ @tailwind components;
+ @tailwind utilities;
+ 
+ /* Task list styling with energy gradients */
+ .task-list-item::before {
+   @apply hidden;
+ }
+ 
+ .task-list-item {
+   @apply list-none relative pl-6;
+   background: linear-gradient(
+     90deg,
+     rgba(59, 130, 246, 0.1) 0%,
+     transparent 100%
+   );
+ }
+ 
+ /* Knowledge system footnotes */
+ .footnotes {
+   @apply pt-8 mt-12 border-t border-blue-500;
+   background: linear-gradient(180deg, 
+     rgba(59, 130, 246, 0.05) 0%,
+     transparent 100%
+   );
+ }
+ 
+ .csl-entry {
+   @apply my-5 relative text-gray-800;
+   line-height: 1.618; /* Golden ratio */
+ }
+ 
+ /* Quantum input enhancements */
+ input:-webkit-autofill,
+ input:-webkit-autofill:focus {
+   transition: background-color 600000s 0s, color 600000s 0s;
+ }
+ 
+ /* Code title with knowledge colors */
+ .remark-code-title {
+   @apply rounded-t px-5 py-3 font-mono text-sm font-bold bg-blue-900 text-blue-100;
+   position: relative;
+   border-bottom: 3px solid theme('colors.red.500');
+ }
+ 
+ .remark-code-title::after {
+   content: '';
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   @apply bg-gradient-to-r from-yellow-400/10 to-transparent;
+   mask-image: linear-gradient(90deg, transparent, rgba(0,0,0,0.5));
+   pointer-events: none;
+ }
+ 
+ .remark-code-title + div > pre {
+   @apply mt-0 rounded-t-none shadow-xl;
+ }
+ 
+ /* Code block with vibrancy */
+ .code-highlight {
+   @apply float-left min-w-full bg-gray-900;
+ }
+ 
+ .code-line {
+   @apply -mx-4 block border-l-4 border-transparent pl-4 pr-4;
+   transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+   position: relative;
+ }
+ 
+ .code-line.inserted {
+   @apply bg-green-500 bg-opacity-20 border-l-green-500;
+ }
+ 
+ .code-line.deleted {
+   @apply bg-red-500 bg-opacity-20 border-l-red-500;
+ }
+ 
+ .highlight-line {
+   @apply -mx-4 border-l-4 border-blue-500 bg-blue-900 bg-opacity-20;
+   box-shadow: inset 4px 0 0 theme('colors.blue.500');
+ }
+ 
+ .line-number::before {
+   @apply mr-4 -ml-2 inline-block w-4 text-right text-gray-500;
+   content: attr(line);
+   font-feature-settings: "tnum" 1;
+ }
+ 
+ /* Token styles with enhanced colors */
+ .token.comment,
+ .token.prolog,
+ .token.cdata {
+   @apply text-gray-500;
+   font-style: italic;
+ }
+ 
+ .token.punctuation {
+   @apply text-red-400;
+ }
+ 
+ .namespace {
+   @apply text-blue-400;
+ }
+ 
+ .token.deleted {
+   @apply text-red-500;
+   font-style: italic;
+ }
+ 
+ .token.symbol,
+ .token.property {
+   @apply text-green-400;
+ }
+ 
+ .token.tag,
+ .token.operator,
+ .token.keyword {
+   @apply text-blue-400;
+ }
+ 
+ .token.boolean {
+   @apply text-purple-400;
+ }
+ 
+ .token.number {
+   @apply text-yellow-400;
+ }
+ 
+ .token.constant,
+ .token.function,
+ .token.builtin,
+ .token.char {
+   @apply text-orange-400;
+ }
+ 
+ .token.selector,
+ .token.doctype {
+   @apply text-purple-400;
+   font-style: italic;
+ }
+ 
+ .token.attr-name,
+ .token.inserted {
+   @apply text-green-400;
+   font-style: italic;
+ }
+ 
+ .token.string,
+ .token.url,
+ .token.entity,
+ .language-css .token.string,
+ .style .token.string {
+   @apply text-green-500;
+ }
+ 
+ .token.class-name,
+ .token.atrule,
+ .token.attr-value {
+   @apply text-yellow-400;
+ }
+ 
+ .token.regex,
+ .token.important,
+ .token.variable {
+   @apply text-blue-400;
+ }
+ 
+ .token.important,
+ .token.bold {
+   font-weight: bold;
+ }
+ 
+ .token.italic {
+   font-style: italic;
+ }
+ 
+ /* Knowledge transfer animations */
+ @keyframes knowledgeFlow {
+   0% {
+     background-position: 0% 50%;
+   }
+   50% {
+     background-position: 100% 50%;
+   }
+   100% {
+     background-position: 0% 50%;
+   }
+ }
+ 
+ .code-line:hover {
+   background: linear-gradient(
+     90deg,
+     rgba(59, 130, 246, 0.1),
+     rgba(139, 92, 246, 0.1),
+     rgba(59, 130, 246, 0.1)
+   );
+   background-size: 200% 100%;
+   animation: knowledgeFlow 3s ease infinite;
+ }
+ 
+ /* Renaissance-inspired scrollbar */
+ pre::-webkit-scrollbar {
+   @apply w-3 h-3;
+ }
+ 
+ pre::-webkit-scrollbar-track {
+   @apply bg-gray-900 rounded-md;
+ }
+ 
+ pre::-webkit-scrollbar-thumb {
+   @apply bg-red-500 rounded-md border-2 border-gray-900;
+   background-image: linear-gradient(
+     45deg,
+     rgba(252, 211, 77, 0.2) 25%,
+     transparent 25%,
+     transparent 50%,
+     rgba(252, 211, 77, 0.2) 50%,
+     rgba(252, 211, 77, 0.2) 75%,
+     transparent 75%,
+     transparent
+   );
+ }
+ 
+ pre::-webkit-scrollbar-thumb:hover {
+   @apply bg-yellow-400;
+ }
+ 
+ /* Dark mode knowledge system */
+ @media (prefers-color-scheme: dark) {
+   .footnotes {
+     @apply border-blue-600;
+     background: linear-gradient(180deg, 
+       rgba(59, 130, 246, 0.1) 0%,
+       transparent 100%
+     );
+   }
+   
+   .csl-entry {
+     @apply text-gray-200;
+   }
+ 
+   .remark-code-title {
+     @apply bg-blue-950 text-blue-100;
+   }
+ 
+   .code-highlight {
+     @apply bg-gray-950;
+   }
+ 
+   pre::-webkit-scrollbar-track {
+     @apply bg-gray-950;
+   }
+ 
+   pre::-webkit-scrollbar-thumb {
+     @apply border-gray-950;
+   }
+ }
+ 
+ /* Table styles */
+ .table {
+   display: inline-block;
+ }
+ 
+ /* Quantum highlight effects */
+ .highlight-line::before {
+   content: '';
+   @apply absolute inset-0;
+   background: linear-gradient(
+     90deg,
+     rgba(59, 130, 246, 0.1) 0%,
+     transparent 100%
+   );
+   z-index: -1;
+ }
+ 
+ /* Knowledge emphasis */
+ .token.important {
+   text-shadow: 0 0 8px theme('colors.blue.400');
+ }
+ 
+ .token.keyword {
+   text-shadow: 0 0 8px theme('colors.purple.400');
+ }
+ 
+ .token.function {
+   text-shadow: 0 0 8px theme('colors.orange.400');
+ }
+ 
+ /* Mathematical precision guides */
+ .code-line {
+   background-image: linear-gradient(
+     transparent calc(100% - 1px),
+     rgba(59, 130, 246, 0.1) 1px
+   );
+   background-size: 100% 1.618em; /* Golden ratio */
+ }

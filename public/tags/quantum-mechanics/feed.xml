@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 08 Feb 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-mechanics/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     
     <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Observer Effect</category><category>Quantum Mechanics</category><category>Space Expansion</category><category>Time Perception</category><category>Reality Creation</category><category>Collective Consciousness</category><category>Quantum Entanglement</category><category>Metaphysics</category>
     <image> https://www.rics-notebook.com/articleimage/Theory/Painters.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Embark on a mind-bending journey through the observer effect and the expansion of space, exploring the captivating idea that our perception of reality and time is intimately connected to our motion through the cosmos. We delve into the notion that we are the painters of reality, creating our experiences as we navigate the fabric of space, while the memory of our collective journey is woven into the tapestry of universal consciousness through the enigmatic threads of quantum entanglement.</description>
     <pubDate>Wed, 17 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Observer Effect</category><category>Quantum Mechanics</category><category>Space Expansion</category><category>Time Perception</category><category>Reality Creation</category><category>Collective Consciousness</category><category>Quantum Entanglement</category><category>Metaphysics</category>
     <image> https://www.rics-notebook.com/articleimage/Theory/Painters.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bells inequality.</description>
     <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>Ekert91</category><category>Bell States</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumCyber/Ekert.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.</description>
     <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>BBM92</category><category>Bell States</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumCyber/BBM.webp</image>
   </item>
@@ -65,7 +65,7 @@
     
     <description>Explore the Variational Quantum Eigensolver (VQE), a powerful quantum algorithm designed to calculate the ground-state energy of quantum systems efficiently. Learn about its iterative hybrid approach and its applications in quantum simulations.</description>
     <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Variational Quantum Eigensolver</category><category>VQE</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Quantum Chemistry</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/VQE.webp</image>
   </item>
@@ -77,7 +77,7 @@
     
     <description>This article explores the challenging field of quantum gravity, which aims to reconcile general relativity with quantum mechanics, potentially providing a unified theory of all fundamental forces.</description>
     <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Gravity</category><category>General Relativity</category><category>Quantum Mechanics</category><category>Fundamental Forces</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QG.webp</image>
   </item>
@@ -89,7 +89,7 @@
     
     <description>Explore the Trotterization method for Hamiltonian simulation in quantum computing. Learn how this technique breaks down complex quantum operations into simpler steps, enabling efficient quantum simulations.</description>
     <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Simulation</category><category>Hamiltonian</category><category>Trotterization</category><category>Quantum Mechanics</category><category>Quantum Computing</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/Trotterization.webp</image>
   </item>
@@ -101,7 +101,7 @@
     
     <description>Explore the concept of Adiabatic Quantum Computing (AQC), its principles, applications, and challenges. Understand the adiabatic theorem, problem Hamiltonian, quantum annealing, and the potential of AQC in solving complex problems across various domains.</description>
     <pubDate>Mon, 24 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Adiabatic Quantum Computing</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Optimization</category><category>Quantum Annealing</category><category>Quantum Simulation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/AQC.webp</image>
   </item>
@@ -113,7 +113,7 @@
     
     <description>Explore the concept of quantum repeaters and their role in overcoming the challenges of long-distance quantum communication, including photon loss and the no-cloning theorem.</description>
     <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Communication</category><category>Quantum Repeaters</category><category>Photon Loss</category><category>No-Cloning Theorem</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/Repeaters.webp</image>
   </item>
@@ -125,7 +125,7 @@
     
     <description>Explore the realm of quantum simulation, a pivotal concept in quantum mechanics. Learn about the challenges, methodologies, and the profound implications of simulating quantum systems with quantum computers.</description>
     <pubDate>Sun, 23 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Simulation</category><category>Quantum Computing</category><category>Hamiltonians</category><category>Quantum Chemistry</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/SimulationIdeasIssues.webp</image>
   </item>
@@ -137,7 +137,7 @@
     
     <description>Explore the importance of random numbers, the limitations of pseudo-random number generators, and the advances in quantum random number generation. Understand how true randomness is achieved and its applications in cryptography, fundamental physics tests, and Monte Carlo simulations.</description>
     <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Random Number Generation</category><category>Quantum Random Number Generators</category><category>Cryptography</category><category>Monte Carlo Methods</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QRNG.webp</image>
   </item>
@@ -149,7 +149,7 @@
     
     <description>Explore the Phase Estimation Algorithm, a fundamental component in quantum computing. Understand its role in algorithms like Shors factorization and its significance in quantum simulations.</description>
     <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Phase Estimation Algorithm</category><category>Shors Algorithm</category><category>Quantum Fourier Transform</category><category>Quantum Mechanics</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/PhaseEstimation.webp</image>
   </item>
@@ -161,7 +161,7 @@
     
     <description>Dive into the world of quantum optics with a comprehensive exploration of single-photon sources, detectors, and beamsplitters. Understand the principles behind quantum light and its applications in modern technology.</description>
     <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon</category><category>Single-Photon Source</category><category>Single-Photon Detector</category><category>Beamsplitter</category><category>Polarization</category>
     <image> https://courses.xpro.mit.edu/assets/courseware/v1/50c31c3fb42016b86fc481200c7ef50a/asset-v1:xPRO+QCFx2+R17+type@asset+block/Polarized_Beam_Splitter.jpg</image><image> https://www.rics-notebook.com/articleimage/Physics/Single-PhotonSources.webp</image>
   </item>
@@ -173,7 +173,7 @@
     
     <description>Explore the fascinating concept of quantum teleportation and its reliance on entanglement. Understand how quantum information is transferred between qubits, the crucial role of Bell states, and the profound implications for quantum communication and computing.</description>
     <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Teleportation</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Bell States</category><category>Quantum Communication</category><category>Quantum Information</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QuantumTeleportationandEntanglement.webp</image>
   </item>
@@ -185,7 +185,7 @@
     
     <description>Dive into the fascinating world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion (SPDC) and explore how entangled Bell states are generated and detected. Learn about the applications of entangled photons in quantum cryptography and quantum information science.</description>
     <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Spontaneous Parametric Downconversion</category><category>Bell States</category><category>Quantum Cryptography</category><category>Quantum Information Science</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/EntangledPhotonSources.webp</image><image> https://www.rics-notebook.com/BBO.webp</image>
   </item>
@@ -197,7 +197,7 @@
     
     <description>Explore the profound implications of Bells Inequality in quantum mechanics. Understand the experimental tests, the concept of local realism, and how these principles challenge our understanding of the nature of reality.</description>
     <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Bells Inequality</category><category>Quantum Entanglement</category><category>Quantum Physics</category><category>Local Realism</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/BellsInequality.webp</image>
   </item>
@@ -209,7 +209,7 @@
     
     <description>Explore the science and simplicity behind the BB84 protocol, the cornerstone of quantum key distribution. Learn how Alice and Bob use quantum mechanics to securely share a secret key, even in the presence of an eavesdropper.</description>
     <pubDate>Mon, 03 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Quantum Key Distribution</category><category>BB84 Protocol</category><category>Quantum Cryptography</category><category>Photon Polarization</category><category>Alice and Bob</category>
     <image> https://www.rics-notebook.com/articleimage/cyber/BB84_1_20240714_155242.webp</image><image> https://www.rics-notebook.com/articleimage/BB84.webp</image>
   </item>
@@ -221,7 +221,7 @@
     
     <description>Embark on a mind-bending journey through the double slit experiment, the cornerstone of quantum mechanics. Unravel the mysteries of wave-particle duality, the observer effect, and the profound implications for our understanding of reality and consciousness.</description>
     <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Double Slit Experiment</category><category>Wave-Particle Duality</category><category>Observer Effect</category><category>Metaphysics</category><category>Reality</category><category>Consciousness</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/DoubleSlit.webp</image>
   </item>
@@ -233,7 +233,7 @@
     
     <description>Explore the profound implications of the observer effect in quantum mechanics and how it highlights the unique role of human consciousness in shaping reality. Discover how artificial intelligence, despite its vast potential, cannot replace the magic of human observation and creation.</description>
     <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Observer Effect</category><category>Consciousness</category><category>Artificial Intelligence</category><category>Creativity</category><category>Manifestation</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/TheObserverEffect.webp</image>
   </item>
@@ -245,7 +245,7 @@
     
     <description>Get ready to have your mind blown as we expose the biggest cover-up in quantum history. The no-cloning theorem? More like the no-cloning sham! Join us on a wild ride as we unravel the quantum conspiracies that have been hiding in plain sight.</description>
     <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Satire</category><category>Science</category><category>Humor</category><category>Pop Culture</category><category>Movies</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/CloningTheorem.webp</image><image> https://www.rics-notebook.com/teleport.webp</image>
   </item>
@@ -257,7 +257,7 @@
     
     <description>This post delves into the complex relationship between quantum mechanical superposition and the spiritual nature of reality. We explore how ideas and concepts can become entangled, creating a spectrum of superposition states that are ultimately measured and confirmed by society. The Mandela Effect serves as an example of how loss of coherence within a quantum superposition clump can lead to divergent base realities, suggesting that we are not merely sensors learning about our environment, but active creators participating in an interconnected web of consciousness.</description>
     <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Spirituality</category><category>Consciousness</category><category>Mandela Effect</category><category>Reality Creation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/EntangledGroupSuperPosition.webp</image>
   </item>
@@ -269,7 +269,7 @@
     
     <description>Explore the technical details of quantum portfolio optimization, including the specific algorithms and quantum mechanics principles used. Learn how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Data Encoding</category><category>Quantum Circuits</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/portfoliooptimization.webp</image>
   </item>
@@ -281,7 +281,7 @@
     
     <description>Explore the revolutionary potential of quantum sensors in understanding the quantum properties of plants. Discover how these cutting-edge technologies could unveil the secrets of plant communication and quantum processes at room temperature, opening new frontiers in plant biology and quantum science. 🌿🔬✨</description>
     <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Sensors</category><category>Plant Neurobiology</category><category>Quantum Biology</category><category>Plant Communication</category><category>Room Temperature Quantum Processes</category><category>Quantum Mechanics</category><category>Speculative Biology</category><category>Advanced Technology</category><category>Scientific Innovation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumPlants.webp</image>
   </item>

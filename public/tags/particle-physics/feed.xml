@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 29 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/particle-physics/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>This article delves into the profound depths of Quantum Electrodynamics (QED), exploring its foundations, esoteric implications, and its role in shaping our understanding of the universes hidden nature.</description>
     <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Electrodynamics</category><category>QED</category><category>Quantum Field Theory</category><category>Particle Physics</category><category>Esoteric Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/QED.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Embark on a fascinating journey through the realms of relativity and thermodynamics as we explore how time bends at the speed of light and how temperature influences the perception of time for particles. Discover the mind-bending concepts behind time dilation and the intricate dance of molecules that defines temperature.</description>
     <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Time Dilation</category><category>Relativity</category><category>Temperature</category><category>Particle Physics</category><category>Kinetic Energy</category><category>Time Perception</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/TheWarpingOftime.webp</image>
   </item>

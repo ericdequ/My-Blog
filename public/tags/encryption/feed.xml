@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Mon, 13 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/encryption/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover a groundbreaking approach to encryption that leverages the power of artificial intelligence. Explore how neural networks can be trained to encrypt and decrypt data using complex vector associations, offering a new paradigm in data security. Dive into the technical details and learn about the strengths, weaknesses, opportunities, and threats of this innovative encryption method.</description>
     <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Encryption</category><category>Artificial Intelligence</category><category>Neural Networks</category><category>Cryptography</category><category>Data Security</category><category>Vector Encryption</category>
     <image> https://www.rics-notebook.com/articleimage/AIEncryption.webp</image><image> https://www.rics-notebook.com/articleimage/AI/AIEncryption.webp</image>
   </item>

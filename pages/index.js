@@ -80,40 +80,38 @@ export default function Home({ posts }) {
                       </dd>
                     </dl>
                     <div className="space-y-5 xl:col-span-3">
-                      <div className="space-y-6">
-                        <div></div>
-                      </div>
                       {images && images.length > 0 && (
-                        <Link
-                          href={`/blog/${slug}`}
-                          className="text-primary-800 dark:text-primary-100 hover:text-primary-600 dark:hover:text-primary-200"
-                        >
-                          <div
-                            className={`relative aspect-[16/9] w-full ${styles.imageBackground}`}
-                          >
-                            <img
-                              src={images[0]}
-                              alt={title}
-                              layout="fill"
-                              objectFit="cover"
-                              className="rounded-lg"
-                            />
-                            <div className={styles.overlay}>
-                              <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
-                                {title}
-                              </h2>
+                        <div className={`relative aspect-[16/9] w-full ${styles.imageBackground}`}>
+                          <Link href={`/blog/${slug}`}>
+                            <div className="relative w-full h-full">
+                              <img
+                                src={images[0]}
+                                alt={title}
+                                fill
+                                className="rounded-lg object-cover"
+                                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                                priority={true}
+                              />
+                              <div className={styles.overlay}>
+                                <h2 className="text-2xl font-bold leading-8 tracking-tight text-center">
+                                  {title}
+                                </h2>
+                              </div>
                             </div>
-                          </div>
-                        </Link>
+                          </Link>
+                        </div>
                       )}
-                      <div className="flex flex-wrap justify-center mt-2">
+                      
+                      <div className="flex flex-wrap justify-center gap-2 mt-2">
                         {tags.map((tag) => (
                           <Tag key={tag} text={tag} />
                         ))}
-                        <div className="prose max-w-none text-center text-secondary-500 dark:text-secondary-400">
-                          <Link href={`/blog/${slug}`}>{summary}</Link>
-                        </div>
                       </div>
+                      
+                      <div className="prose max-w-none text-center text-secondary-500 dark:text-secondary-400">
+                        {summary}
+                      </div>
+                      
                       <div className="text-base font-medium leading-6 text-center">
                         <Link
                           href={`/blog/${slug}`}

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 19 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/beach-towns/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>CartMate is a groundbreaking app that brings the convenience of ride-sharing to golf cart transportation in beach and vacation towns. With options for users to drive or ride, and the ability to earn free rides by driving others, CartMates fosters a strong sense of community while providing an eco-friendly and fun way to explore your favorite vacation spots.</description>
     <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Golf Cart Transportation</category><category>Ride-Sharing</category><category>Beach Towns</category><category>Vacation Destinations</category><category>Community Building</category>
     <image> https://www.rics-notebook.com/articleimage/inventions/CartMate.webp</image>
   </item>

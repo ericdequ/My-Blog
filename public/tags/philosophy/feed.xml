@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/philosophy/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the intricacies of time and the need for new vocabulary to distinguish between the societal construct of time and the fundamental dimension itself. Discover the proposed terms &quot;chronos&quot; for the flow of time and &quot;kairos&quot; for the measure of time, as we delve into the technical and philosophical aspects of this essential concept.</description>
     <pubDate>Thu, 16 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Time</category><category>Language</category><category>Physics</category><category>Philosophy</category><category>Semantics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/TimevsTime.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>In this thought-provoking piece, a spiritual guru and a quantum physicist engage in a heated debate about the nature of the universe. Will they find common ground, or will their perspectives remain worlds apart?</description>
     <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Short Story</category><category>Humor</category><category>Philosophy</category><category>Quantum-Physics</category><category>Spirituality</category><category>life-lessons</category>
     <image> https://www.rics-notebook.com/articleimage/Personal/SpiritalScientist.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Explore the life and cultural impact of Terence McKenna, the renowned ethnobotanist, philosopher, and psychedelic pioneer whose ideas and advocacy helped shape the modern psychedelic renaissance and influenced generations of thinkers, artists, and seekers of expanded consciousness.</description>
     <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Consciousness</category><category>Counterculture</category><category>Philosophy</category>
     <image> https://www.rics-notebook.com/articleimage/Idols/McKenna.webp</image>
   </item>

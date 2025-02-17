@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/inspiration/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, &#39;The Last Lecture.&#39; Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Lessons</category><category>Inspiration</category><category>Personal</category>
     <image> https://www.rics-notebook.com/articleimage/LastLecture.webp</image><image> https://www.rics-notebook.com/articleimage/Books/LastLecture.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.</description>
     <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Book Review</category><category>Inspiration</category><category>life-lessons</category><category>spiritual-practices</category><category>the-alchemist</category>
     <image> https://www.rics-notebook.com/articleimage/Alchemist.webp</image><image> https://www.rics-notebook.com/articleimage/Books/Alchemist.webp</image>
   </item>

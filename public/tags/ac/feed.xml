@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 30 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/ac/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Solar panels typically convert sunlight into DC electricity, which is then converted to AC for household use. However, capturing the suns natural AC energy directly could enhance efficiency. Learn about the proposed methods, their benefits, and how they integrate with smart grid technologies and energy storage solutions.</description>
     <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Solar Energy</category><category>AC</category><category>DC</category><category>Efficiency</category><category>Smart Grids</category><category>Energy Storage</category>
     <image> https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>AC and DC are two types of electric current. Learn about the differences between AC and DC current, including frequency, direction, polarity, and applications.</description>
     <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Electrictiy</category><category>AC</category><category>DC</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/ACvsDC.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/dreams/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Why do we dream? Its a question that has puzzled humans for centuries, inspiring countless theories and sparking the imagination of people across the globe. In this blog post, we delve into the captivating world of dreams and explore the scientific theories behind these enigmatic nocturnal adventures.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Dreams</category><category>Sleep</category><category>Subconscious</category><category>REM Sleep</category><category>Psychology</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/WhyDoWeDream.webp</image>
   </item>

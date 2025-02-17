@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 14 Jul 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/photon-entanglement/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the Ekert91 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication through Bells inequality.</description>
     <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>Ekert91</category><category>Bell States</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumCyber/Ekert.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Explore the BBM92 protocol for quantum key distribution, a method leveraging the power of entangled photons and quantum mechanics to establish secure communication.</description>
     <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Quantum Cryptography</category><category>BBM92</category><category>Bell States</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumCyber/BBM.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Dive into the fascinating world of entangled photon sources and detectors. Understand the principles behind spontaneous parametric downconversion (SPDC) and explore how entangled Bell states are generated and detected. Learn about the applications of entangled photons in quantum cryptography and quantum information science.</description>
     <pubDate>Wed, 12 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon Entanglement</category><category>Spontaneous Parametric Downconversion</category><category>Bell States</category><category>Quantum Cryptography</category><category>Quantum Information Science</category>
     <image> https://www.rics-notebook.com/articleimage/Physics/EntangledPhotonSources.webp</image><image> https://www.rics-notebook.com/BBO.webp</image>
   </item>

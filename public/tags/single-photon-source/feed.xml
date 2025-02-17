@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 14 Jun 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/single-photon-source/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Dive into the world of quantum optics with a comprehensive exploration of single-photon sources, detectors, and beamsplitters. Understand the principles behind quantum light and its applications in modern technology.</description>
     <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Mechanics</category><category>Photon</category><category>Single-Photon Source</category><category>Single-Photon Detector</category><category>Beamsplitter</category><category>Polarization</category>
     <image> https://courses.xpro.mit.edu/assets/courseware/v1/50c31c3fb42016b86fc481200c7ef50a/asset-v1:xPRO+QCFx2+R17+type@asset+block/Polarized_Beam_Splitter.jpg</image><image> https://www.rics-notebook.com/articleimage/Physics/Single-PhotonSources.webp</image>
   </item>

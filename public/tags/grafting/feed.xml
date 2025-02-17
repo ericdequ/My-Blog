@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 21 May 2022 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/grafting/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the technical science behind grafting plants and learn how to graft plants successfully with this comprehensive step-by-step guide. 🌱🔬✂️</description>
     <pubDate>Sat, 21 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Grafting</category><category>Horticulture</category><category>Botany</category><category>Gardening</category><category>Plant Science</category><category>Agriculture</category><category>Techniques</category>
     <image> https://www.rics-notebook.com/articleimage/Bio/Grafting.webp</image><image> https://www.rics-notebook.com/articleimage/Grafting.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 06 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/acoustics/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>This post explores an innovative approach to building a quantum computer using tuning forks and acoustic frequencies. By leveraging the quantum properties of sound waves, we propose a novel method for creating and manipulating qubits, potentially opening new avenues for quantum computing research.</description>
     <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Acoustics</category><category>Entanglement</category><category>Qubits</category><category>Physics</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/AccousticQuantum.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Whales are known for their complex and haunting songs, but how do they communicate? In this blog post, we explore the fascinating ways whales use sound to communicate across the vast ocean.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Whales</category><category>Communication</category><category>Marine Biology</category><category>Acoustics</category><category>Nature</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowDoWhalesCommunicate.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Inhaling helium from a balloon can make your voice sound high-pitched and squeaky. In this blog post, we explore the science behind why helium changes your voice and the principles of sound waves and density.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Helium</category><category>Voice</category><category>Science</category><category>Physics</category><category>Acoustics</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/WhyDoesHeliumChangeYourVoice.webp</image>
   </item>

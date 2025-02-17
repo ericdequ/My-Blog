@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/finance/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the technical details of quantum portfolio optimization, including the specific algorithms and quantum mechanics principles used. Learn how financial data is translated into quantum circuits and how quantum computing can revolutionize portfolio optimization in the finance industry.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Quantum Algorithms</category><category>Quantum Mechanics</category><category>Data Encoding</category><category>Quantum Circuits</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/portfoliooptimization.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Quantum computing is transforming various industries, from cybersecurity and life sciences to logistics, finance, and communications. Discover how this cutting-edge technology is being used today and explore the exciting possibilities it holds for the near future.</description>
     <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Cybersecurity</category><category>Life Sciences</category><category>Logistics</category><category>Finance</category><category>Communications</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumOverview.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Discover how quantum computing is transforming the finance industry, from portfolio optimization and risk management to fraud detection and algorithmic trading. Learn about the potential applications and benefits of this cutting-edge technology in the world of finance.</description>
     <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Risk Management</category><category>Fraud Detection</category><category>Algorithmic Trading</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumFinance.webp</image>
   </item>

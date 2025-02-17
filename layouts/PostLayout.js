@@ -51,7 +51,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   objectFit="cover"
                   className="opacity-50 dark:opacity-30"
                 />
-                
               </div>
             )}
             <div className="space-y-1 text-center relative z-10">
@@ -145,7 +144,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 {` • `}
                 <Comments frontMatter={frontMatter} />
               </motion.div>
-              
             </div>
             <footer>
               <motion.div
@@ -167,7 +165,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     </div>
                   </div>
                 )}
-               
               </motion.div>
               <div className="pt-4 xl:pt-8">
                 <Link

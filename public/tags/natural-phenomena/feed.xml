@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 27 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/natural-phenomena/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the intriguing effects of the Schumann Resonance on healing, wellness, and plant growth. This blog post explores the science behind Earths natural frequency and its potential benefits for living organisms. 🌍✨</description>
     <pubDate>Sun, 27 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Schumann Resonance</category><category>Healing</category><category>Wellness</category><category>Plant Growth</category><category>Earths Frequency</category><category>Alternative Medicine</category><category>Biophysics</category><category>Natural Phenomena</category>
     <image> https://www.rics-notebook.com/articleimage/SchumannResonance.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>Discover the captivating phenomenon of bioluminescence, where living organisms create their own light. From glowing oceans to luminescent forests, explore how and why this natural light show occurs. 🌌</description>
     <pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Bioluminescence</category><category>Nature</category><category>Marine Biology</category><category>Science</category><category>Natural Phenomena</category><category>Wildlife</category>
     <image> https://www.rics-notebook.com/articleimage/Bioluminescence.webp</image><image> https://www.rics-notebook.com/articleimage/Bio/Bioluminescence.webp</image>
   </item>

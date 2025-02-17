@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/medical-technology/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Pacemakers are life-saving devices that help regulate heart rhythms. In this blog post, we explore how pacemakers work, their components, and how they ensure the heart beats properly.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Pacemaker</category><category>Heart</category><category>Medical Technology</category><category>Health</category><category>Cardiology</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowDoPaceMakersWork.webp</image>
   </item>

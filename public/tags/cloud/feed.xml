@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 25 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/cloud/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>In a world where flexibility and resilience are paramount, MultiCloud strategies offer unparalleled efficiency and scalability. Dive into the world of MultiCloud and understand its transformative potential.</description>
     <pubDate>Fri, 25 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>MultiCloud</category><category>Cloud</category><category>devops</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/MultiCloud.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>The fusion of AI and cloud computing promises limitless potential. Dive deep into the intricate architecture behind building a complex cloud-based AI software system.</description>
     <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>AI</category><category>Cloud</category><category>Architecture</category><category>Design</category>
     <image> https://www.rics-notebook.com/articleimage/AISASS.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>Migrating to the cloud is more than just a tech shift its a strategic move that can redefine an organizations operational paradigm. Dive deep into the intricacies of cloud migrations and their transformative potential.</description>
     <pubDate>Tue, 25 Jul 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cloud</category><category>Migration</category><category>devops</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/CloudMigration.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description> A disscussion on the differences between the 3 main cloud providers ☁️, Google Cloud Platform Amazong Web Services and Microsoft Azure.</description>
     <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Cloud</category><category>AWS</category><category>Azure</category><category>GCP</category><category>devops</category><category>digitaltransformation</category>
     <image> https://www.rics-notebook.com/articleimage/Cloud.webp</image>
   </item>

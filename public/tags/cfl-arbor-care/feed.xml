@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 27 May 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/cfl-arbor-care/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>A detailed review of CFL Arbor Care and their exceptional tree cutting and arboriculture management services in Central Florida.</description>
     <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Tree Cutting</category><category>CFL Arbor Care</category><category>Review</category><category>Arboriculture</category>
     <image> https://www.quantumcybersolutions.com/arbor/1.webp</image><image> https://www.rics-notebook.com/articleimage/Reviews/CFLABORECARE.webp</image>
   </item>

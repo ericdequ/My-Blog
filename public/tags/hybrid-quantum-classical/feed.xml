@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/hybrid-quantum-classical/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the cutting-edge world of quantum simulation and modeling, and discover how these technologies revolutionize the design and optimization of orbital package delivery systems. From atmospheric re-entry to materials science, learn how quantum algorithms and hybrid approaches are pushing the boundaries of what is possible in space logistics.</description>
     <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Simulation</category><category>Quantum Algorithms</category><category>Hybrid Quantum-Classical</category><category>Aerospace Design</category><category>Computational Physics</category><category>Space</category>
     <image> https://www.quantumcybersolutions.com/OPD/quantum-simulation-algorithms.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-simulation-future.webp</image><image> https://www.rics-notebook.com/articleimage/Space/Qsimulation.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-linear-systems.webp</image><image> https://www.quantumcybersolutions.com/OPD/hybrid-quantum-classical-simulation.webp</image>
   </item>

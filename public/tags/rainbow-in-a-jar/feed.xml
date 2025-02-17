@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 19 Oct 2017 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/rainbow-in-a-jar/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Create a stunning rainbow in a jar and learn about liquid density. This blog post explains the science behind this colorful experiment and provides detailed steps for conducting it with kids, either one-on-one or in a classroom setting.</description>
     <pubDate>Thu, 19 Oct 2017 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Rainbow in a Jar</category><category>Density</category><category>Science Experiments</category><category>Kids Science</category><category>Physics</category><category>Fun with Science</category>
     <image> https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/RainbowInAJar.webp</image>
   </item>

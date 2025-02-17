@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 23 Mar 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/real-time-tracking/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Learn how quantum technologies revolutionize secure communication and data processing in the orbital package delivery industry. From unbreakable encryption to efficient data retrieval, discover the ways in which quantum computing ensures the safety and efficiency of space logistics.</description>
     <pubDate>Sat, 23 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Communication</category><category>Quantum Cryptography</category><category>Data Security</category><category>Quantum Algorithms</category><category>Real-Time Tracking</category><category>Space</category>
     <image> https://www.quantumcybersolutions.com/OPD/quantum-data-retrieval.webp</image><image> https://www.rics-notebook.com/articleimage/Space/Qcommunicate.webp</image><image> https://www.quantumcybersolutions.com/OPD/qkd.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-space-logistics.webp</image><image> https://www.quantumcybersolutions.com/OPD/quantum-resistant-crypto.webp</image>
   </item>

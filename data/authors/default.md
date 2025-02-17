@@ -1,5 +1,5 @@
 ---
-name: Eric deQuevedo 😄
+name: ric de yuga 😄
 avatar: https://www.ericdequevedo.com/profilepic.webp
 occupation: Founder & Quantum Solutions Architect 💻
 company: Quantum Cyber Solutions 🚀

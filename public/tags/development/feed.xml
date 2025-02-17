@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/development/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the groundbreaking ideas and techniques presented in Dr. Joe Dispenza&#39;s &quot;Becoming Supernatural,&quot; a guide to unlocking your infinite potential and creating the life you desire. Discover how the intersection of science and spirituality can help you transcend limitations and achieve the extraordinary.</description>
     <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Development</category><category>Spirituality</category><category>Meditation</category><category>Quantum</category><category>spiritualpractices</category>
     <image> https://www.rics-notebook.com/articleimage/Books/BecomingSupernatural.webp</image><image> https://www.rics-notebook.com/articleimage/BecomingSupernatural.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>MATLAB short for Matrix Laboratory is a programming language developed by MathWorks. It is used for technical computing and is widely used in engineering, science, and mathematics.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Matlab</category><category>programming</category><category>Software</category><category>Development</category>
     <image> https://www.rics-notebook.com/articleimage/Matlab/Matlab.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>The belly button is a scar left behind after the umbilical cord is cut at birth. In this blog post, we explore the significance of the belly button and its role in fetal development and human anatomy.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Belly Button</category><category>Human Body</category><category>Biology</category><category>Anatomy</category><category>Development</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHaveBellyButtons.webp</image>
   </item>

@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Thu, 17 May 2018 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/secret-messages/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the mystery of invisible ink with this fun science experiment using lemon juice. This blog post explains the science behind invisible ink and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting.</description>
     <pubDate>Thu, 17 May 2018 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Invisible Ink</category><category>Science Experiments</category><category>Kids Science</category><category>Chemistry</category><category>Fun with Science</category><category>Secret Messages</category>
     <image> https://www.rics-notebook.com/articleimage/Kids/ScienceExperiments/InvisibleInkWithLemonJuice.webp</image>
   </item>

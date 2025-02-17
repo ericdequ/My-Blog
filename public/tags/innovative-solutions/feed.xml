@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/innovative-solutions/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore the fascinating connection between gut health and mental well-being, and discover how probiotics and prebiotics can revolutionize the way we approach depression treatment. Could a new strain of alcohol-resistant probiotics be the key to unlocking a happier, healthier mind? 🔑</description>
     <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Probiotics</category><category>Prebiotics</category><category>Gut Health</category><category>Mental Health</category><category>Depression</category><category>Neurotransmitters</category><category>Innovative Solutions</category>
     <image> https://www.rics-notebook.com/articleimage/Biotic.webp</image>
   </item>

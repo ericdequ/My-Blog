@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Mon, 20 Feb 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/wireless-power-transmission/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Dive into the fascinating world of Wireless Power Transmission (WPT), from Nikola Teslas groundbreaking work to modern capabilities and challenges. Discover how WPT fits into today’s tech stack and its potential for sustainable energy solutions. 🌐🔋</description>
     <pubDate>Mon, 20 Feb 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Wireless Power Transmission</category><category>Technology</category><category>Innovation</category><category>Sustainable Energy</category><category>Tech Stack</category>
     <image> https://www.rics-notebook.com/articleimage/inventions/ModerWPT.webp</image>
   </item>

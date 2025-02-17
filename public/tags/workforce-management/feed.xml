@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 07 May 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/workforce-management/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Workr is a groundbreaking app designed to decentralize the construction workforce, enabling subcontractors and individuals to connect on-the-fly. This blog post explores how this platform empowers workers and transforms the construction industry in our technologically driven world.</description>
     <pubDate>Fri, 07 May 2021 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Gig Economy</category><category>Construction Technology</category><category>Workforce Management</category><category>Innovation</category>
     <image> https://www.rics-notebook.com/articleimage/Workr.webp</image>
   </item>

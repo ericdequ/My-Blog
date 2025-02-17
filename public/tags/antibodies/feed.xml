@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 19 Aug 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/antibodies/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Vaccines have been a game-changer in the fight against infectious diseases, saving countless lives and revolutionizing public health. But how exactly do these medical marvels work? In this blog post, we dive into the fascinating world of immunology and explore the intricate mechanisms behind vaccines, from the stimulation of antibodies to the development of herd immunity.</description>
     <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Vaccines</category><category>Immunology</category><category>Public Health</category><category>Antibodies</category><category>Herd Immunity</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowVaccinesWork.webp</image>
   </item>

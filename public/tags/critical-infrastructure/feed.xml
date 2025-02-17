@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Wed, 01 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/critical-infrastructure/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>The key to securing the US power grid lies in rethinking our approach to energy infrastructure. By decentralizing the grid and investing in localized renewable energy sources, we can create a more resilient, secure, and environmentally friendly system that is better equipped to handle the challenges of the future.</description>
     <pubDate>Wed, 01 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Renewable Energy</category><category>Critical Infrastructure</category><category>Power Grid Security</category><category>CYBERSECURITY</category>
     <image> https://www.rics-notebook.com/articleimage/RenewableSecureEnergy.webp</image>
   </item>

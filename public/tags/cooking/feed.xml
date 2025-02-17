@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/cooking/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Microwaves have revolutionized the way we cook and reheat our food, offering a quick and convenient solution for our busy lives. But have you ever stopped to wonder how these magical appliances actually work? In this blog post, we delve into the fascinating science behind microwave cooking and uncover the secrets of this culinary marvel.</description>
     <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Microwaves</category><category>Cooking</category><category>Electromagnetic Waves</category><category>Dielectric Heating</category><category>Food Science</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowDoMicrowavesWork.webp</image>
   </item>

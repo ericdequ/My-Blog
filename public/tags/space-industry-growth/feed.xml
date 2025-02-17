@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/space-industry-growth/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Explore a groundbreaking method of package transportation that leverages Earths rotation and orbital mechanics to deliver goods more efficiently, cost-effectively, and eco-friendly. Discover how this innovative approach can boost the space industry and pave the way for advanced space travel technologies.</description>
     <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Orbital Transportation</category><category>Space</category><category>Space Logistics</category><category>Cost Savings</category><category>Environmental Conservation</category><category>Fuel Efficiency</category><category>Space Industry Growth</category>
     <image> https://www.rics-notebook.com/articleimage/Space/OrbitalPackageDelivery.webp</image><image> https://www.quantumcybersolutions.com/OPD/environmental-benefits.webp</image><image> https://www.quantumcybersolutions.com/OPD/header.webp</image><image> https://www.quantumcybersolutions.com/OPD/cost-savings.webp</image><image> https://www.quantumcybersolutions.com/OPD/orbital-mechanics.webp</image><image> https://www.quantumcybersolutions.com/OPD/advanced.webp</image>
   </item>

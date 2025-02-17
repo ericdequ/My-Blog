@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sat, 02 Sep 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/networking/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Embarking on a journey through Quantum Networking, the future of secure and efficient communication!</description>
     <pubDate>Sat, 02 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum</category><category>Networking</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumNetworking.webp</image>
   </item>
@@ -29,7 +29,7 @@
     
     <description>While bids and proposals play a role, nurturing relationships is often the secret sauce to long-term success in government sales. Understand the power of connections and how to cultivate them effectively.</description>
     <pubDate>Wed, 28 Jun 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Government</category><category>Sales</category><category>Relationship</category><category>Networking</category><category>government-sales</category><category>government-procurement</category>
     <image> https://www.rics-notebook.com/articleimage/Relationships.webp</image>
   </item>
@@ -41,7 +41,7 @@
     
     <description>In this blog post, we will compare the key differences between TCP and UDP, two essential protocols used to send data over a network. We will discuss their features, use cases, and help you decide which protocol is best for your specific needs. 🚀</description>
     <pubDate>Sun, 23 Apr 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>TCP</category><category>UDP</category><category>Networking</category><category>devops</category>
     <image> https://www.rics-notebook.com/articleimage/Networking_priciples/TCPvsUDP.webp</image>
   </item>
@@ -53,7 +53,7 @@
     
     <description>Putty is a free and open-source terminal emulator, SSH and Telnet client that allows users to establish secure connections to remote computers.</description>
     <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Putty</category><category>SSH</category><category>Networking</category><category>education</category>
     <image> https://www.rics-notebook.com/articleimage/Remote_connections/putty.webp</image>
   </item>
@@ -65,7 +65,7 @@
     
     <description>Discover EskimoBro, the app that helps you connect with others who share a unique bond through mutual romantic experiences. Sync contacts, learn about your Eskimo family tree, and build connections. Uniting Eskimos, one brother at a time. 🤝</description>
     <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Social App</category><category>Networking</category><category>Lifestyle</category><category>Technology</category><category>Relationships</category>
     <image> https://www.rics-notebook.com/articleimage/inventions/EskimoBro.webp</image>
   </item>

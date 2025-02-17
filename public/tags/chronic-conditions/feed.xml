@@ -1,12 +1,12 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>davincio NoteBook</title>
+      <title>Rics NoteBook</title>
       <link>https://www.rics-notebook.com/blog</link>
       <description>Studying the Art of Science &amp; the Science of Art</description>
       <language>en-us</language>
-      <managingEditor>ericdequevedo@gmailcom ()</managingEditor>
-      <webMaster>ericdequevedo@gmailcom ()</webMaster>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/chronic-conditions/feed.xml" rel="self" type="application/rss+xml"/>
       
@@ -17,7 +17,7 @@
     
     <description>Discover the potential of Electromagnetic Field Therapy for healing and wellness. This blog post explores the science behind EMF Therapy, its applications, benefits, and the current state of research in this emerging field. 🌟✨</description>
     <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom ()</author>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Electromagnetic Field Therapy</category><category>EMF Therapy</category><category>Alternative Medicine</category><category>Pain Management</category><category>Chronic Conditions</category><category>Healing Technologies</category><category>Wellness</category>
     <image> https://www.rics-notebook.com/articleimage/ElectromagneticFieldTherapy.webp</image>
   </item>
