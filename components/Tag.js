@@ -44,13 +44,13 @@ const Tag = ({ text }) => {
       whileTap="tap"
     >
       <Link href={`/tags/${tagSlug}`} passHref>
-        <motion.a
+        <motion.p
           className="text-lg font-semibold text-primary-800 dark:text-primary-200"
           variants={textVariants}
           aria-label={`View posts tagged with ${text}`}
         >
           {text}
-        </motion.a>
+        </motion.p>
       </Link>
     </motion.div>
   )
