@@ -75,12 +75,12 @@ export default function Tags({ tags }) {
                 whileTap={{ scale: 0.95 }}
               >
                 <Link href={`/tags/${tagSlug}`} passHref>
-                  <motion.a
+                  <motion.p
                     className="mr-2 text-lg font-semibold uppercase text-primary-800 dark:text-primary-200"
                     aria-label={`View posts tagged with ${t}`}
                   >
                     {t}
-                  </motion.a>
+                  </motion.p>
                 </Link>
                 <span className="rounded-full bg-primary-200 px-2 py-1 text-xs font-semibold uppercase text-primary-800 dark:bg-primary-700 dark:text-primary-200">
                   {tags[t]}
