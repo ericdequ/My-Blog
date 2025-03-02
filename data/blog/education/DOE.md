@@ -39,3 +39,6 @@ The transfer of Space Force to the Department of Education represents a unique o
 As we invest in the minds of tomorrow and the technologies that will shape our world, we take a critical step towards building a society where everyone's needs are met, and where we can work together to unlock the mysteries of the universe. 🔓🌠
 
 Let us embrace this bold vision and support the move of Space Force to the Department of Education – a decision that will resonate through history as a turning point in our nation's commitment to progress, peace, and the limitless potential of human knowledge. 🎓🕊️
+
+
+https://www.instagram.com/reel/DFudZ13tki0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
