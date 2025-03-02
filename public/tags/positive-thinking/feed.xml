@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 02 Mar 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/positive-thinking/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/penigma</guid>
+    <title>The Positivity Engine: A Search Engine for Bright Ideas and Good Vibes</title>
+    <link>https://www.rics-notebook.com/blog/inventions/penigma</link>
+    
+    <description>The internet is full of information, but too often, negativity dominates search results. What if there was a search engine designed solely for positivity—one that surfaced inspiring inventions, fun discoveries, and creative breakthroughs? Enter: The Positivity Engine.</description>
+    <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Innovation</category><category>Creativity</category><category>Technology</category><category>Positive Thinking</category><category>Fun</category><category>Good Vibes</category><category>Search Engine</category>
+    <image> https://www.example.com/positivity_engine.webp</image>
+  </item>
+
+    </channel>
+  </rss>
