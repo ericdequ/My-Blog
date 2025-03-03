@@ -28,7 +28,7 @@ feats, which include:
 - Running a half-marathon in the Arctic Circle, barefoot and shirtless
 - Setting a world record for the longest ice bath (1 hour, 52 minutes, and 42
   seconds)
-- Swimming under ice for 66 meters
+- Swimming under ice for > 80 meters
 
 Wim's unique abilities have attracted the attention of scientists, who have
 conducted multiple studies to better understand how he can endure such extreme
