@@ -11,7 +11,7 @@ tags:
   ]
 draft: false
 summary: 'While some might be tempted to tweak numbers or invoke grand biblical symbols in tech branding, Steve Jobs forged a different legacy—one that didn’t backdate stock data but instead crafted technology so intuitive it seemed to warp time. Learn why true innovation comes from authenticity and how naming conventions matter.'
-images: ['https://rics-notebook.com/woc.png']
+images: ['/woc.png']
 ---
 
 # Steve Jobs and the Art of Timeless Innovation: Beyond Backdated Numbers

@@ -4,7 +4,7 @@ date: "2025-03-02"
 tags: ['Innovation', 'Creativity', 'Technology', 'Positive Thinking', 'Fun', 'Good Vibes', 'Search Engine']
 draft: false
 summary: "The internet is full of information, but too often, negativity dominates search results. What if there was a search engine designed solely for positivity—one that surfaced inspiring inventions, fun discoveries, and creative breakthroughs? Enter: The Positivity Engine."
-images: ['https://www.example.com/positivity_engine.webp']
+images: ['/coc.png']
 ---
 
 # **The Positivity Engine: A Search Engine for Bright Ideas and Good Vibes**  
