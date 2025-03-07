@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Nikola Genius meets the design philosophy of Jobs. Trinary computing is the future—alternating currents of logic instead of the rigid direct flow of binary. A reinvention of software & hardware, mansware thats poweRful, intUitive, & InKredibly Trill.'
 
-images: ['https://www.quantum-creatives.com/Weone.png']
+images: ['https://www.rics-notebook.com/Weone.png']
 ---
 
 ## ⚡ The Next Great Leap: From Binary to Trinary
