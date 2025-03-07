@@ -46,7 +46,7 @@ Forget transistors flipping between two states. Imagine circuits that oscillate 
 
 ## 🤖 Reinventing Programming: The AI-Powered Language of the Future
 
-Steve Jobs made technology simple, intuitive, and—most importantly—desirable. Trinary computing will **do for software what Apple did for design.**
+Steve made technology simple, intuitive, and—most importantly—desirable. Trinary computing will **do for software what Apple did for design.**
 
 ### Meet the AI That Writes Itself
 Trinary computing isn’t just changing hardware—it’s rewriting the rules of software. The AI-driven programming language of this revolution will:
@@ -77,4 +77,5 @@ We’re at the dawn of **a new computing era**. The rigidity of binary has held 
 
 Binary is the past. Trinary is the revolution. The question isn’t if—it’s **when.** And where it happens, in the spacetime of the multiverse it won’t just be faster or smarter. It’ll be **trill as chell.**
 
-Embracing the negatives Can Make For Better ThickLers
+
+Embracing the negatives Can Make For Better Thickers
