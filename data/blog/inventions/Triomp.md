@@ -77,4 +77,4 @@ We’re at the dawn of **a new computing era**. The rigidity of binary has held 
 
 Binary is the past. Trinary is the revolution. The question isn’t if—it’s **when.** And where it happens, in the spacetime of the multiverse it won’t just be faster or smarter. It’ll be **trill as chell.**
 
-Embracing the negatives Can Make For Better TickLers
+Embracing the negatives Can Make For Better ThickLers
