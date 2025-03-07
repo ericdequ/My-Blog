@@ -40,3 +40,5 @@ His voice became an essential component of the psychedelic trance music scene an
 Even after his death in 2000, Terence McKenna's impact continues to resonate within and beyond the psychedelic community. As interest in the therapeutic and spiritual benefits of psychedelics grows, McKenna's ideas have grown in relevance, particularly in the realms of psychedelic research and spiritual practices. Institutions and researchers now explore the medicinal and therapeutic potential of psychedelics, often citing McKenna's early advocacy and philosophical inquiries as foundational to current studies.
 
 _"The syntactical nature of reality, the real secret of magic, is that the world is made of words. And if you know the words that the world is made of, you can make of it whatever you wish."_ - Terence McKenna
+
+https://youtu.be/1WXroiXWfcI?si=6N6sVw_HD9zinYAN

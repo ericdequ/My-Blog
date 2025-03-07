@@ -49,3 +49,5 @@ In this view, the true nature of reality is not just equations and particles, bu
 ---
 
 By embracing Scence Theory, we bridge the wisdom of ancient philosophy with the insights of modern physics, unlocking new ways to understand and shape the ever-unfolding drama of existence. 🎭✨
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvAktU_EJo4?si=Omm89Wgz5iDzms9q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

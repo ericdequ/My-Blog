@@ -45,6 +45,8 @@ When you engage with technology that’s designed to feel effortless, it’s eas
 
 As we reflect on Jobs’ emphasis on authentic innovation, there’s another lesson to be learned—one about the power of names. In a world obsessed with branding, the temptation to invoke grand, often sacred symbols is ever-present. But perhaps that’s a path to avoid.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0NXNvJtRQSuWl4HM1MvhD0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### The Weight of Biblical Symbols
 
 - **Cultural Connotations**: Biblical symbols carry centuries of cultural, religious, and historical significance. While they can evoke ideas of grandeur and timelessness, they also come with inherent baggage that might alienate or mislead.

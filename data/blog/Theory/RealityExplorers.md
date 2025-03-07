@@ -22,6 +22,10 @@ images: ['https://www.rics-notebook.com/articleimage/Theory/Explorerers.webp']
 
 Welcome, intrepid explorers of the temporal realm! Prepare to have your perception of time and space challenged as we embark on a captivating journey through the frontiers of reality. In this article, we will delve into the intriguing idea that our perception of time is inextricably linked to our motion through the cosmos, and explore the tantalizing possibility of accessing the past through astral projection. Along the way, we will examine the scientific foundations of relativity and the mind-bending concept of closed timelike curves. So, buckle up and get ready for a thought-provoking expedition through the labyrinthine corridors of time and space!
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCAPURWHHmk?si=oQo6lIX_jY-Sm8ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## 🌌 The Fabric of Spacetime: A Relativistic Tapestry
 
 ### 🎨 Painting Time as a Dimension

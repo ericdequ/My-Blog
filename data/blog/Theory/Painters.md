@@ -129,6 +129,11 @@ where cᵢ are complex coefficients, |ψᵢ⟩ₐ and |ψᵢ⟩ᵦ are the indiv
 
 These equations provide a glimpse into the mathematical framework that underlies our understanding of space, time, and the enigmatic phenomena of quantum mechanics.
 
+But this comedian offers a more comprehensive way of understanding the same concept 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4GR12tnCvA?si=aGZvea_XQEpcB-qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ### 📜 References
 
 1. Wheeler, J. A., & Zurek, W. H. (Eds.). (1983). Quantum Theory and Measurement. Princeton University Press.
