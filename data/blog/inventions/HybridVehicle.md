@@ -24,6 +24,12 @@ images: ['https://www.rics-notebook.com/articleimage/inventions/HybridVehicle.we
 
 Imagine a vehicle that can soar through the skies, cruise along highways, and glide over water with ease. A land, air, and water hybrid vehicle combines the best of all worlds. Whether you're looking to travel from the beach to the lake or take an aerial scenic route, this project is your ultimate engineering challenge.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15JLDD3xYfI?si=i6bJ9UoMRpDTxVH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+w
+
+
+
 In this guide, we'll walk you through the process of modifying a PPG Trike Power Glider to make it amphibious. Let's get started on crafting the vehicle that can do it all!
 
 ## Flotation: Making Sure You Stay Afloat
