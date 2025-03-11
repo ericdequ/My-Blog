@@ -12,7 +12,7 @@ tags:
 draft: false
 summary: 'Why should forks just copy when they can create? GitHub needs a Remix feature—an AI-powered fusion engine that blends codebases, asks smart questions, and builds something **new** instead of just cloning the past.'
 
-images: ['https://www.rics-notebook.com/Gmix.webp']
+images: ['https://www.rics-notebook.com/gmix.webp']
 ---
 
 ## 🎛️ **Why Fork When You Can Remix?**  
