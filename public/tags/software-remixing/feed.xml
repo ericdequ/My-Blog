@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/software-remixing/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/remixrepo</guid>
+    <title>GitHub Remix Revolution: AI-Powered Code Fusion</title>
+    <link>https://www.rics-notebook.com/blog/inventions/remixrepo</link>
+    
+    <description>Why should forks just copy when they can create GitHub needs a Remix featurean AI-powered fusion engine that blends codebases, asks smart questions, and builds something new instead of just cloning the past.</description>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI-Powered Collaboration</category><category>Next-Gen Development</category><category>Software Remixing</category><category>Machine Learning</category><category>GitHub Innovation</category>
+    <image> https://www.rics-notebook.com/gmix.webp</image>
+  </item>
+
+    </channel>
+  </rss>

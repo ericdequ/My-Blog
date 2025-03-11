@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 11 Mar 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/generative-creativity/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/inventions/ricsreporemix</guid>
+    <title>The GitHub Remix: AI-Generated Music &amp; Art Fusion</title>
+    <link>https://www.rics-notebook.com/blog/inventions/ricsreporemix</link>
+    
+    <description>Remixing isn’t just for DJs—GitHub needs an AI-powered Remix feature for music, art, and code, where projects dont just fork, they evolve. A Renaissance of collaboration is here.</description>
+    <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI-Powered Collaboration</category><category>Music & Art Innovation</category><category>Generative Creativity</category><category>Machine Learning Remix</category><category>Code Fusion</category>
+    <image> https://www.rics-notebook.com/renric.webp</image>
+  </item>
+
+    </channel>
+  </rss>

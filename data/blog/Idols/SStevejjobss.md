@@ -10,7 +10,7 @@ tags:
     'Technology Philosophy',
   ]
 draft: false
-summary: 'While some might be tempted to tweak numbers or invoke grand biblical symbols in tech branding, Steve Jobs forged a different legacy—one that didn’t backdate stock data but instead crafted technology so intuitive it seemed to warp time. Learn why true innovation comes from authenticity and how naming conventions matter.'
+summary: 'While some might be tempted to tweak numbers or invoke grand biblical symbols in tech branding, Steve Jobs forged a different legacy—one that didnt backdate stock data but instead crafted technology so intuitive it seemed to warp time. Learn why true innovation comes from authenticity and how naming conventions matter.'
 images: ['/woc.png']
 ---
 
@@ -45,8 +45,6 @@ When you engage with technology that’s designed to feel effortless, it’s eas
 
 As we reflect on Jobs’ emphasis on authentic innovation, there’s another lesson to be learned—one about the power of names. In a world obsessed with branding, the temptation to invoke grand, often sacred symbols is ever-present. But perhaps that’s a path to avoid.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0NXNvJtRQSuWl4HM1MvhD0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ### The Weight of Biblical Symbols
 
 - **Cultural Connotations**: Biblical symbols carry centuries of cultural, religious, and historical significance. While they can evoke ideas of grandeur and timelessness, they also come with inherent baggage that might alienate or mislead.
@@ -63,5 +61,3 @@ Steve Jobs’ legacy teaches us that the real measure of innovation lies not in 
 
 By creating technology that makes time feel fluid and by choosing names that reflect clarity and universal appeal, Jobs redefined what it means to innovate. As we forge ahead in our own endeavors, let’s remember that the most transformative innovations come from authenticity, deep understanding of user experience, and a commitment to a future unburdened by the constraints of outdated conventions.
 
-
-https://www.canva.com/design/DAGe6RTzMLg/PKjy1bBEiISEPrO-eT3lmw/watch?utm_content=DAGe6RTzMLg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hed9d8e3245/#20

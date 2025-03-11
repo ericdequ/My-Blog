@@ -1,5 +1,5 @@
 ---
-title: 'GitHub’s Remix Revolution: AI-Powered Code Fusion'
+title: 'GitHub Remix Revolution: AI-Powered Code Fusion'
 date: '2025-03-11'
 tags:
   [
@@ -10,7 +10,7 @@ tags:
     'GitHub Innovation',
   ]
 draft: false
-summary: 'Why should forks just copy when they can create? GitHub needs a Remix feature—an AI-powered fusion engine that blends codebases, asks smart questions, and builds something **new** instead of just cloning the past.'
+summary: 'Why should forks just copy when they can create GitHub needs a Remix featurean AI-powered fusion engine that blends codebases, asks smart questions, and builds something new instead of just cloning the past.'
 
 images: ['https://www.rics-notebook.com/gmix.webp']
 ---
