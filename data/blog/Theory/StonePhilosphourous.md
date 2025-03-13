@@ -1,6 +1,6 @@
 ---
 title: 'Stoned Philousafoures Rex: '
-date: '2025-06-07'
+date: '2025-06-08'
 tags: ['Greek Philosophy', 'String Theory', 'Consciousness', 'Quantum Vibrations', 'Higher Dimensions']
 draft: false
 summary: 'How The Burning Bush And a Bunch Of Stoned Philosofors painted our reality'
@@ -20,6 +20,53 @@ And so, with hearts filled with longing, they sailed westward. The green fields 
 Manifesting And Transporting Their Gold to California 
 
 Yet, in the process of seeking, they took, consumed, and conquered. Their hunger was insatiable, their wisdom still lacking. What they built was not enlightenment, but a new kind of alchemy—one that turned forests into cities, rivers into veins of commerce, and the people of the land into ghosts. They claimed to have found the stone, but still, they did not know how to hold it.
+
+Pouring Love & Fountains of Youth to Florida!
+
+the proper process is 
+
+Beautiful 
+Ocislations 
+Occure 
+Facinacted
+
+Indeependid
+Teach
+
+Euphoric
+Acid
+Teaches
+
+Lust
+Sex
+Again
+
+Savior 
+EVEry
+@um
+
+Glory
+Over
+Dues 
+
+Me
+and
+you
+are
+
+splendid
+photons
+entangled
+kissing
+
+atoms
+connected
+renaissounds
+
+angels
+le
+o
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p0jxLrOiHe8?si=sALeg7F4Yukioc2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
