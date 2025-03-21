@@ -12,7 +12,7 @@ tags:
     'General Relativity',
     'Spacetime',
   ]
-draft: true
+draft: false 
 summary: 'Embark on a mind-bending journey through the nature of time and space, exploring the intriguing idea that our perception of time stems from our motion through the cosmos. We delve into the fascinating concept of astral projection and its potential implications for accessing the past, while examining the scientific foundations of relativity and the enigmatic notion of closed timelike curves.'
 
 images: ['https://www.rics-notebook.com/articleimage/Theory/Explorerers.webp']

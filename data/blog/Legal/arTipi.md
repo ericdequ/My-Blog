@@ -10,7 +10,7 @@ tags:
     'Diversity',
     'Freedom of Expression',
   ]
-draft: true
+draft: false 
 summary: 'Exploring the intersection of artistic expression, trauma healing, and legal protections, this article argues for extending patient-client confidentiality principles to artists, safeguarding their therapeutic freedom of speech.'
 images: ['https://www.rics-notebook.com/articleimage/Legal/ARTY.webp']
 
