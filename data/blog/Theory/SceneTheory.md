@@ -5,7 +5,7 @@ tags: ['Greek Philosophy', 'String Theory', 'Consciousness', 'Quantum Vibrations
 draft: false 
 summary: 'Scence Theory combines Greek philosophys vision of reality as drama with modern string theory, illustrating how unique vibrational frequencies shape existence. This fusion reveals how sequences of harmonic "scenes" in spacetime may serve as a medium for communication with higher-dimensional intelligences, weaving art and science into a unified model of cosmic interaction.'
 
-images: ['https://www.rics-notebook.com/scence.webp']
+images: ['https://www.rics-notebook.com/scen.webp']
 ---
 
 # 🎭 The Theater of Existence: Scence Theory and Vibrational Harmony 🎭
