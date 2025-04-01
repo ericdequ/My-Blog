@@ -1043,126 +1043,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</guid>
-    <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</link>
-    
-    <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>D-Wave Systems</category><category>Quantum Annealing</category><category>Optimization</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category>
-    <image> https://www.rics-notebook.com/articleimage/DWave.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Google</guid>
-    <title>Google: Advancing Quantum Computing with Superconducting Qubits and Quantum AI</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Google</link>
-    
-    <description>Discover Google&#39;s cutting-edge contributions to quantum computing, from their record-breaking superconducting qubit processors to their groundbreaking quantum AI research and claimed achievement of quantum supremacy.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Google</category><category>Superconducting Qubits</category><category>Quantum AI</category><category>Quantum Supremacy</category>
-    <image> https://www.rics-notebook.com/articleimage/Google.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/HoneyWell</guid>
-    <title>Honeywell Quantum Solutions: Advancing Ion Trap Quantum Computing</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/HoneyWell</link>
-    
-    <description>Discover Honeywell Quantum Solutions, a leading provider of ion trap quantum computers, offering high-performance quantum hardware and solutions for quantum-classical optimization.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Honeywell Quantum Solutions</category><category>Ion Trap Qubits</category><category>Quantum Charge Coupled Device (QCCD)</category><category>Quantum-Classical Optimization</category>
-    <image> https://www.rics-notebook.com/articleimage/HoneyWell.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/IBM</guid>
-    <title>IBM: Pioneering Quantum Computing with Superconducting Qubits</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/IBM</link>
-    
-    <description>Explore IBM&#39;s groundbreaking contributions to the field of quantum computing, from their innovative superconducting qubit technology to their open-source Qiskit software framework and cloud-based quantum computing services.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>IBM</category><category>Superconducting Qubits</category><category>Qiskit</category><category>Cloud-based Quantum Computing</category>
-    <image> https://www.rics-notebook.com/articleimage/IBM.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/IonQ</guid>
-    <title>IonQ: Pioneering Trapped Ion Quantum Computing</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/IonQ</link>
-    
-    <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
-    <image> https://www.rics-notebook.com/articleimage/IonQ.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Microsoft</guid>
-    <title>Microsoft: Developing Topological Qubits and Quantum Development Kit</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Microsoft</link>
-    
-    <description>Explore Microsoft&#39;s unique approach to quantum computing with their pursuit of topological qubits and their comprehensive Quantum Development Kit for building quantum applications.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Microsoft</category><category>Topological Qubits</category><category>Quantum Development Kit</category><category>Q#</category>
-    <image> https://www.rics-notebook.com/articleimage/Microsoft.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Nvida</guid>
-    <title>NVIDIA: Accelerating Quantum Circuit Simulations with GPU Technology</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Nvida</link>
-    
-    <description>Discover how NVIDIA is leveraging their GPU technology to accelerate quantum circuit simulations and advance the field of quantum computing.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>NVIDIA</category><category>GPU Technology</category><category>Quantum Circuit Simulation</category><category>cuQuantum</category>
-    <image> https://www.rics-notebook.com/articleimage/Nvida.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/QCI</guid>
-    <title>Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCI</link>
-    
-    <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Quantum Circuits Inc. (QCI)</category><category>Superconducting Qubits</category><category>Quantum Processors</category><category>Quantum Cloud Services</category>
-    <image> https://www.rics-notebook.com/articleimage/QCI.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/QCTRL</guid>
-    <title>Q-CTRL: Pioneering Quantum Control Solutions for Quantum Computing</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/QCTRL</link>
-    
-    <description>Discover Q-CTRL, a company revolutionizing quantum computing through advanced quantum control solutions, quantum firmware, and error correction techniques.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Q-CTRL</category><category>Quantum Control</category><category>Quantum Firmware</category><category>Quantum Error Correction</category>
-    <image> https://www.rics-notebook.com/articleimage/QCTRL.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/Rigetti</guid>
-    <title>Rigetti Computing: Building Superconducting Quantum Computers</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/Rigetti</link>
-    
-    <description>Explore Rigetti Computing, a company developing superconducting quantum computers and hybrid quantum-classical algorithms, making quantum computing accessible through their cloud services platform.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Rigetti Computing</category><category>Superconducting Qubits</category><category>Hybrid Quantum-Classical Algorithms</category><category>Quantum Cloud Services</category>
-    <image> https://www.rics-notebook.com/articleimage/Rigetti.webp</image>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/QuantumOverview</guid>
     <title>Quantum Computing: Revolutionizing Industries and Shaping the Future 🌐💻</title>
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumOverview</link>
@@ -1256,18 +1136,6 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Sensors</category><category>Plant Neurobiology</category><category>Quantum Biology</category><category>Plant Communication</category><category>Room Temperature Quantum Processes</category><category>Quantum Mechanics</category><category>Speculative Biology</category><category>Advanced Technology</category><category>Scientific Innovation</category>
     <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumPlants.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/inventions/Preserve</guid>
-    <title>VoiceClone: Preserve Your Voice for Future Generations with Innovative Technology 🎤</title>
-    <link>https://www.rics-notebook.com/blog/inventions/Preserve</link>
-    
-    <description>Discover VoiceClone, an innovative app that allows you to clone your voice to read books for your children or leave lasting messages for loved ones. Preserve your voice and create meaningful connections that transcend time. 💖</description>
-    <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Voice Cloning</category><category>Technology</category><category>Family</category><category>Legacy</category><category>Innovation</category><category>Emotional Well-being</category>
-    <image> https://www.rics-notebook.com/articleimage/inventions/Preserve.webp</image>
   </item>
 
   <item>
@@ -1895,18 +1763,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Terraform</guid>
-    <title>Terraform: Crafting Infrastructure as Easily as Writing Code 🌍⚙️</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Terraform</link>
-    
-    <description>Infrastructure management can be tedious and error-prone. Enter Terraform, HashiCorps Infrastructure as Code tool, designed to make provisioning and management a breeze. Discover the transformative power of Terraform.</description>
-    <pubDate>Thu, 31 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Terraform</category><category>Infrastructure as Code</category><category>Automation</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Terraform.webp</image>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/QuantumPlatforms</guid>
     <title>Quantum Platforms Pioneering the Quantum Revolution 🌐</title>
     <link>https://www.rics-notebook.com/blog/Quantum/QuantumPlatforms</link>
@@ -2135,126 +1991,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/RHVirtualization</guid>
-    <title>Red Hat Virtualization: Redefining Infrastructure for Diverse Enterprise Needs 🌐🌌</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Redhat/RHVirtualization</link>
-    
-    <description>In an age where infrastructure flexibility is paramount, Red Hat Virtualization emerges as a key enabler. Dive into how this solution is reshaping the infrastructural landscapes of both public and private sectors.</description>
-    <pubDate>Fri, 11 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Red Hat Virtualization</category><category>Infrastructure</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/RHVirtualization.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Ansible</guid>
-    <title>Ansible: The IT Automation Maestro for Diverse Enterprises 🌐🤖</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Ansible</link>
-    
-    <description>In a world where IT operations can be complex and time-consuming, Ansible by Red Hat emerges as a beacon of automation. Understand how Ansible simplifies tasks across both public and private sectors.</description>
-    <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Ansible</category><category>Automation</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Ansible.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Openshift</guid>
-    <title>OpenShift: Kubernetes Mastery for Both Public and Private Realms 🌐🚀</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Openshift</link>
-    
-    <description>OpenShift by Red Hat isnt just a Kubernetes platform its an enterprise-grade solution for container orchestration across sectors. Explore how OpenShift is revolutionizing both public and private entities.</description>
-    <pubDate>Wed, 09 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>OpenShift</category><category>Kubernetes</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Openshift.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/Linux</guid>
-    <title>Red Hat Enterprise Linux (RHEL): The Linux Pillar for Public and Private Enterprises 🌐🖥️</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Redhat/Linux</link>
-    
-    <description>Red Hat Enterprise Linux (RHEL) is not just another Linux distribution. Its an enterprise-grade solution that powers both public and private sectors. Dive into RHELs versatile applications across sectors.</description>
-    <pubDate>Tue, 08 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>RHEL</category><category>Enterprise Linux</category><category>Public Sector</category><category>Private Sector</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Linux.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Hashicorp</guid>
-    <title>HashiCorp: An Odyssey of Infrastructure Automation and Innovation 🌐🚀</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Hashicorp</link>
-    
-    <description>In the realm of infrastructure automation and DevOps, few names shine as brightly as HashiCorp. Delve into the journey of this trailblazing company, its suite of tools, and the competitive landscape it thrives in.</description>
-    <pubDate>Sun, 06 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>HashiCorp</category><category>Infrastructure Automation</category><category>DevOps</category>
-    <image> https://www.rics-notebook.com/articleimage/Hashicorp.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Packer</guid>
-    <title>Packer: Crafting Consistent Machine Images with Precision 🖥️🛠️</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Packer</link>
-    
-    <description>In the age of cloud and virtualization, machine images are the backbone of infrastructure. With HashiCorps Packer, automate the creation of consistent and multi-platform machine images. Discover the art of precision imaging.</description>
-    <pubDate>Sat, 05 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Packer</category><category>Image Creation</category><category>Automation</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Packer.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</guid>
-    <title>Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</link>
-    
-    <description>The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.</description>
-    <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Boundary</category><category>Zero Trust</category><category>Access Management</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Boundary.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Nomad</guid>
-    <title>Nomad: Orchestrating Workloads with Elegance and Efficiency 📊🚀</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Nomad</link>
-    
-    <description>Managing and scheduling workloads can be a herculean task. With HashiCorps Nomad, experience a scheduler that seamlessly orchestrates tasks across any infrastructure. Dive into the world of efficient workload orchestration.</description>
-    <pubDate>Thu, 03 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Nomad</category><category>Orchestration</category><category>Workloads</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Nomad.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</guid>
-    <title>Consul: Pioneering Service Discovery and Networking 🌐🔍</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Consul</link>
-    
-    <description>Modern applications demand dynamic service networking. With HashiCorps Consul, discover a tool that not only aids in service discovery but also offers a robust service mesh for secure and efficient communications.</description>
-    <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Consul</category><category>Service Discovery</category><category>Service Mesh</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Consul.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Vault</guid>
-    <title>Vault: The Fortified Chamber for Your Digital Secrets 🛡️🔐</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Vault</link>
-    
-    <description>In an era where security breaches are rampant, safeguarding sensitive data becomes paramount. Explore HashiCorps Vault, the tool designed to manage secrets and protect sensitive information.</description>
-    <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Vault</category><category>Secret Management</category><category>Security</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Vault.webp</image>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Government/RFP</guid>
     <title>Government RFPs: Deciphering and Responding Effectively 📜🔍</title>
     <link>https://www.rics-notebook.com/blog/Government/RFP</link>
@@ -2300,18 +2036,6 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>SOC</category><category>Cybersecurity</category><category>Surveillance</category>
     <image> https://www.rics-notebook.com/articleimage/SOC.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Redhat/RedHat</guid>
-    <title>Red Hat: Championing the Open Source Spirit in the Enterprise Arena 🌐🔥</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Redhat/RedHat</link>
-    
-    <description>Red Hat is synonymous with open-source excellence in the enterprise world. Journey through the legacy of this iconic company, its vast array of tools, and the competitive landscape it navigates.</description>
-    <pubDate>Fri, 07 Jul 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Red Hat</category><category>Open Source</category><category>Enterprise Solutions</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/RedHat.webp</image>
   </item>
 
   <item>
@@ -2652,7 +2376,7 @@
 
   <item>
     <guid>https://www.rics-notebook.com/blog/fungus/cross</guid>
-    <title>Theoretical Approaches to Cross-Breeding Mushroom Species 🍄🔬</title>
+    <title>Approaches to Cross-Breeding Mushroom Species 🍄🔬</title>
     <link>https://www.rics-notebook.com/blog/fungus/cross</link>
     
     <description>Explore innovative methods and supplements to facilitate the cross-breeding of mushroom species like Lion’s Mane and Cordyceps. Delve into the science behind mycelial fusion and discover how to create novel fungal hybrids. 🍄🔬</description>

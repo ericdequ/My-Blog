@@ -22,17 +22,5 @@
     <image> https://www.rics-notebook.com/articleimage/ZTA.webp</image>
   </item>
 
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</guid>
-    <title>Boundary: Redefining Access in the Era of Zero Trust 🛡️🔗</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Hashicorp/Boundary</link>
-    
-    <description>The boundaries of traditional networks are fading, and Zero Trust is the new paradigm. With HashiCorps Boundary, experience dynamic access management for modern infrastructure. Dive deep into the era of secure, context-aware access.</description>
-    <pubDate>Fri, 04 Aug 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Boundary</category><category>Zero Trust</category><category>Access Management</category><category>devops</category>
-    <image> https://www.rics-notebook.com/articleimage/Boundary.webp</image>
-  </item>
-
     </channel>
   </rss>

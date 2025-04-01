@@ -22,17 +22,5 @@
     <image> https://www.rics-notebook.com/articleimage/inventions/QPR.webp</image>
   </item>
 
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</guid>
-    <title>D-Wave Systems: Pioneering Quantum Annealing for Optimization Problems</title>
-    <link>https://www.rics-notebook.com/blog/Companies/Quantum/DWave</link>
-    
-    <description>Learn about D-Wave Systems, the company that pioneered the use of quantum annealing for solving complex optimization problems. Explore their unique approach to quantum computing and their offerings for businesses and researchers.</description>
-    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>D-Wave Systems</category><category>Quantum Annealing</category><category>Optimization</category><category>Quadratic Unconstrained Binary Optimization (QUBO)</category>
-    <image> https://www.rics-notebook.com/articleimage/DWave.webp</image>
-  </item>
-
     </channel>
   </rss>
