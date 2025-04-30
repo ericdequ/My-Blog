@@ -14,7 +14,7 @@ tags:
     'Spiritual Insights',
     'Indigenous Wisdom',
   ]
-draft: true
+draft: false 
 summary: 'Embark on a thought-provoking journey through the realms of evolution and speculative biology, exploring the fascinating possibility of animals emerging from an ancient hybridization between fungi and plants. Discover connections in bioluminescence, grafting, and plant neurobiology, woven together with indigenous wisdom and scientific curiosity. 🔬🌿🌈'
 
 images: ['https://www.rics-notebook.com/articleimage/AnimalEvolution.webp', 'https://www.rics-notebook.com/articleimage/Bio/AnimalEvolution.webp']
