@@ -82,5 +82,17 @@
     <image> https://www.rics-notebook.com/articleimage/Math/Calc2.webp</image>
   </item>
 
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Personal/Tvinci</guid>
+    <title>The Modular Machine Age: A Marketplace for Hardware Invention</title>
+    <link>https://www.rics-notebook.com/blog/Personal/Tvinci</link>
+    
+    <description>Imagine a platform where anyone—from college kids to seasoned engineers—can invent hardware, license microcomponents, run simulations, and monetize every bolt, pipe, and chip. This is the dawn of the open hardware economy.</description>
+    <pubDate>Thu, 30 Apr 1925 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>hardware</category><category>engineering</category><category>IP marketplace</category><category>decentralized innovation</category><category>3D printing</category><category>quantum simulation</category><category>materials science</category><category>construction tech</category><category>product design</category>
+    <image> https://www.rics-notebook.com/Tvinci.png</image>
+  </item>
+
     </channel>
   </rss>
