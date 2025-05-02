@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/music-production/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/voice-interface/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/ART/AIcalprodella</guid>
@@ -20,18 +20,6 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>AI</category><category>music production</category><category>remix</category><category>voice interface</category><category>generative audio</category><category>DJ tools</category>
     <image> https://www.rics-notebook.com/articleimage/AI/QuickMixAI.webp</image>
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Quantum/QuantumMusic</guid>
-    <title>Harmonizing Soundscapes: Quantum Computings Role in Music Innovation and Listening Experience 🎶🚀</title>
-    <link>https://www.rics-notebook.com/blog/Quantum/QuantumMusic</link>
-    
-    <description>Exploring quantum computings influence on music production, audio processing, and neuroscience, this post delves into how this avant-garde technology could lead to new realms of artistic expression and optimize listening experiences.</description>
-    <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Music Production</category><category>Audio Processing</category><category>Neuroscience</category><category>Creative Potential</category>
-    <image> https://www.rics-notebook.com/articleimage/Quantum/QuantumMusic.webp</image>
   </item>
 
     </channel>
