@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['AI', 'generative video', 'ephemeral art', 'movie mashup', 'digital creativity', 'multimedia']  
 draft: false  
 summary: "Discover an AI that weaves together iconic film scenes and diverse art styles into once‑viewable video vignettes—each clip as fleeting as a dream."  
-images: ['https://www.rics-notebook.com/articleimage/AI/EphemeralFrames.webp']  
+images: ['https://www.rics-notebook.com/efe.png']  
 ---
 
 What if your favorite movie moments could be reimagined through the brushstrokes of Van Gogh, the geometry of Kandinsky, or the surrealism of Dalí—and then vanish forever the moment you watch? Enter **Ephemeral Frames**, an AI platform that fuses cinematic scenes with disparate art forms into **one‑take video micro‑experiences** designed to be seen—and only seen—once.

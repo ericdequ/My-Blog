@@ -4,13 +4,11 @@ date: '2025-05-02'
 tags: ['AI', 'music production', 'remix', 'voice interface', 'generative audio', 'DJ tools']  
 draft: false  
 summary: "Discover an AI that lets you speak your remix ideas—combine sections, tweak beats, and audition multiple versions with simple voice or text commands, while preserving your creative touch."  
-images: ['https://www.rics-notebook.com/articleimage/AI/QuickMixAI.webp']  
+images: ['https://www.rics-notebook.com/articleimage/AI/QuickMixAi.png']  
 ---
+Imagine A world where an Artist can use technology to get their Art to sound just right, 
 
-Ever wished you could say, “Take the bassline from measure 16–24 of this track, layer it under the chorus of that one, add a halftime beat, and drop in a synth stab here”—and have it happen instantly? Enter **QuickMix AI**, a generative‑audio platform that transforms your spoken or typed directions into real‑time remix previews and micro‑edits, so you can sculpt your perfect track—fast.
-
-Whether you’re a bedroom producer, club DJ, or studio engineer, QuickMix AI keeps **your artistic vision** front and center, automating the grunt work of clip‑wrangling, beat‑matching, and stem‑crossfading. Speak your intent, audition the result, tweak with a word, and lock it in.
-
+*Ric Play that back but with different background beat, quickly flip around verse order, and imediately listen to it back*
 
 ---
 
