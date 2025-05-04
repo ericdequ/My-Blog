@@ -10,6 +10,8 @@ Imagine A world where an Artist can use technology to get their Art to sound jus
 
 *Ric Play that back but with different background beat, quickly flip around verse order, and imediately listen to it back*
 
+Like Fl Studios but you can use your voice instead of sliders... or text input to change and mix parts of song
+
 ---
 
 ## 🔍 Behind the Console: How It Works

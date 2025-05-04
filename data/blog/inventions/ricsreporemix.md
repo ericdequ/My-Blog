@@ -15,6 +15,11 @@ summary: 'Remixing isn’t just for DJs—GitHub needs an AI-powered Remix featu
 images: ['https://www.rics-notebook.com/renric.webp']
 ---
 
+Be able to store different versions of the same song... and publish different versions of the same song, so all features can be seen.
+
+Also super secure to avoid leaks
+
+
 ## 🎛️ **The Future of Remixing: From Code to Canvas to Soundwaves**
 
 Music and art have long understood **the power of the remix**—flipping samples, blending styles, and evolving past the original. But in software, the remix is dead—forking is just copying, cloning is just repeating.
