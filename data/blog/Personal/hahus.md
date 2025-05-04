@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['urban agriculture', 'community development', 'local food', 'nonprofit', 'sustainable economy']  
 draft: false  
 summary: "A neighborhood garden network whose produce sales underwrite municipal services, supply affordable farm‑fresh vegetables to restaurants, and feed food‑insecure residents."  
-images: ['https://www.rics-notebook.com/articleimage/Community/HarvestHubs.webp']  
+images: ['https://www.rics-notebook.com/scene.webp']  
 ---
 
 Imagine turning vacant lots and park edges into **Harvest Hubs**—vibrant community gardens that not only bring neighbors together but also **fund local services**, **provide discounted produce to restaurants**, and **deliver free vegetables to those in need**.
