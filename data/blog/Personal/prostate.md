@@ -1,9 +1,9 @@
 ---
-title: "Don’t Collapse My Pronouns: A Quantum Call for Respect"  
+title: "Dont Collapse My Pronouns: A Quantum Call for Respect"  
 date: '2025-05-02'  
 tags: ['quantum computing', 'identity', 'pronouns', 'superposition', 'inclusion']  
 draft: true 
-summary: "A playful meditation on assumptions—first about pronouns, then a twist: let’s stop collapsing quantum states too. No more presuming what’s inside, whether it’s identity or qubits."  
+summary: "A playful meditation on assumptions—first about pronouns, then a twist: let’s stop collapsing quantum states too. No more presuming whats inside, whether its identity or qubits."  
 
 ---
 
