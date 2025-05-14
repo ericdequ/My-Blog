@@ -4,7 +4,7 @@ date: '1925-04-30'
 tags: ['hardware', 'engineering', 'IP marketplace', 'decentralized innovation', '3D printing', 'quantum simulation', 'materials science', 'construction tech', 'product design']  
 draft: false
 summary: "Imagine a platform where anyone—from college kids to seasoned engineers—can invent hardware, license microcomponents, run simulations, and monetize every bolt, pipe, and chip. This is the dawn of the open hardware economy."  
-images: ['https://www.rics-notebook.com/Tvinci.png']  
+images: ['https://www.rics-notebook.com/FLOWPhysics.jpg']  
 ---
 
 - The Prompt That lead to this response 
