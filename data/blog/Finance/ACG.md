@@ -1,3 +1,4 @@
+---
 title: "Apple Cash Group: The Communal Card That Lives in Your Group Chat"  
 date: '2025-05-12'  
 tags: ['apple cash', 'group payments', 'digital wallets', 'family finance', 'group chat fintech', 'communal funds', 'Secret Santa', 'shared expenses', 'Apple Pay innovation']  

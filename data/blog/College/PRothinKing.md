@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['education reform', 'entrepreneurship', 'startup universities', 'invention-driven learning', 'future of work', 'higher education critique', 'student startups', 'economic innovation']  
 draft: false  
 summary: "Todays universities are factories of conformity, teaching the past to prepare students to work for someone elses future. Its time for a new model: invention-driven universities where every student leaves with their own brand, app, or business—and a real chance to thrive."  
-images: ['https://www.quantumcybersolutions.org/edu/university_reform_launchpad.png']  
+images: ['https://www.quantumcybersolutions.org/campus/university_reform_launchpad.png']  
 ---
 
 # 🎓 From Lecture Halls to Launchpads: Rethinking the University as a Startup Studio

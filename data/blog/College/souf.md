@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['sorority innovation', 'female entrepreneurship', 'student-owned fashion', 'university branding', 'creative agency', 'campus reform', 'student-led economies', 'UF fashion']  
 draft: false  
 summary: "Sororities shouldnt just be about social events and t-shirts. They should be creative economies—fashion houses, digital agencies, and entrepreneurial collectives where every woman is paid, every idea is honored, and sisterhood becomes syndicate-level success."  
-images: ['https://www.quantumcybersolutions.org/sorority/sisterhoodsyndicate.png']  
+images: ['https://www.quantumcybersolutions.org/campus/sisterhoodsyndicate.png']  
 ---
 
 # 💃 From Sisterhood to Syndicate: Reimagining Sororities as Brands, Builders, and Cultural Architects
