@@ -14,6 +14,8 @@ Like Fl Studios but you can use your voice instead of sliders... or text input t
 
 ---
 
+like if you could make a music background beat like a watercolor, 
+
 ## 🔍 Behind the Console: How It Works
 
 1. **Import & Analyze**  
