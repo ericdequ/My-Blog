@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['University of Florida', 'sustainability', 'clean energy', 'SGA transparency', 'campus wifi', 'AI education', 'digital democracy', 'smart cities', 'student wellness', 'UF reform']  
 draft: false  
 summary: "Its time for the University of Florida to evolve—not just in rankings, but in how it treats its students, energy, environment, and future. From wind-powered walkways to WiFi-driven democracy, this is how UF can become the most innovative and inclusive campus in the country."  
-images: ['https://www.quantumcybersolutions.org/campus/ufsmartcampus.png']  
+images: ['https://www.quantumcybersolutions.com/campus/ufsmartcampus.png']  
 ---
 
 # 🐊 Rebuilding UF: A Smarter, Cleaner, More Connected Campus for the Gator Nation

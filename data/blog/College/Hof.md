@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['college sustainability', 'urban agriculture', 'food justice', 'composting systems', 'fruit trees', 'student wellness', 'climate resilience', 'edible campuses']  
 draft: false  
 summary: "Imagine walking to class and picking a fresh orange, apple, or fig right off a tree. With fruit trees and campus compost systems, universities can feed students, nourish ecosystems, and plant a legacy of regenerative abundance."  
-images: ['https://www.quantumcybersolutions.org/campus/fruittreecampus.png']  
+images: ['https://www.quantumcybersolutions.com/campus/fruittreecampus.png']  
 ---
 
 # 🍎 Fruit Trees on Every Quad: Why College Campuses Should Feed the Future

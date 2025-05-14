@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['gig economy', 'Gainesville', 'college housing', 'student movers', 'local startups', 'last-mile logistics', 'move-in app', 'peer-to-peer trucks']  
 draft: false  
 summary: "Moover is the on-demand platform that lets anyone with a truck turn moving day chaos into cash. From dorm swaps to Craigslist pickups, it's the peer-powered logistics app Gainesville’s been waiting for."  
-images: ['https://www.quantumcybersolutions.org/campus/moovertruck.png']  
+images: ['https://www.quantumcybersolutions.com/campus/moovertruck.png']  
 ---
 
 # 🚚 Moover: Turn Any Truck into a Buck—The Campus Moving App Gainesville Needs

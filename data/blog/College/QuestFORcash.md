@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['student economy', 'community work app', 'experiential learning', 'gig economy', 'professor collaboration', 'quest-based learning', 'UF innovation', 'local business tech']  
 draft: false  
 summary: "Introducing QuestLink—a local project platform where professors, businesses, and grad students post real-world quests. Students accept them, complete them, get paid, and build networks and skills that matter—no unpaid internships, just paid purpose."  
-images: ['https://www.quantumcybersolutions.org/campus/questlinkmockup.png']  
+images: ['https://www.quantumcybersolutions.com/campus/questlinkmockup.png']  
 ---
 
 # 🧭 QuestLink: Turning Campus & Community Projects into Paid, Purposeful Student Quests

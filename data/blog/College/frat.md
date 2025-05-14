@@ -4,7 +4,7 @@ date: '2024-05-12'
 tags: ['fraternity reform', 'campus innovation', 'clean energy gyms', 'alcohol licensing', 'student wellness', 'micro-economies', 'university entrepreneurship', 'decentralized campus']  
 draft: false  
 summary: "UF fraternities shouldn’t just be relics of keg culture—they should be kinetic energy hubs, wellness distributors, and business incubators. Imagine frats that power the grid, move medicine, and make money while lifting the future."  
-images: ['https://www.quantumcybersolutions.org/campus/fratpowerhouse.png']  
+images: ['https://www.quantumcybersolutions.com/campus/fratpowerhouse.png']  
 ---
 
 # 🏛️ From Bro House to Powerhouse: Rewiring UF Frats into Energy Gyms and Entrepreneur Hubs
