@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/sustainable-economy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Personal/hahus</guid>
+    <title>Harvest Hubs: Community Gardens Fueling Local Tables &amp; Civic Services</title>
+    <link>https://www.rics-notebook.com/blog/Personal/hahus</link>
+    
+    <description>A neighborhood garden network whose produce sales underwrite municipal services, supply affordable farm‑fresh vegetables to restaurants, and feed food‑insecure residents.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>urban agriculture</category><category>community development</category><category>local food</category><category>nonprofit</category><category>sustainable economy</category>
+    <image> https://www.rics-notebook.com/scene.webp</image>
+  </item>
+
+    </channel>
+  </rss>

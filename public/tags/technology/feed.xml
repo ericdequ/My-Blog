@@ -23,6 +23,18 @@
   </item>
 
   <item>
+    <guid>https://www.rics-notebook.com/blog/College/midsight</guid>
+    <title>Introducing BarBuzz: The Ultimate App for Bar Hopping and Socializing 🍻</title>
+    <link>https://www.rics-notebook.com/blog/College/midsight</link>
+    
+    <description>Discover BarBuzz, the app that transforms your bar-hopping experience. Chat with friends, post updates, and share videos in real-time chat rooms dedicated to your favorite bars. Join the buzz and enhance your nightlife adventures. 🎉</description>
+    <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Social App</category><category>Nightlife</category><category>Bar Hopping</category><category>Technology</category><category>Community</category><category>Event Planning</category>
+    <image> https://www.rics-notebook.com/articleimage/inventions/BarBuzz.webp</image>
+  </item>
+
+  <item>
     <guid>https://www.rics-notebook.com/blog/Animals/Communication</guid>
     <title>Unlocking the Secrets of Animal Communication: How Technology is Opening New Frontiers</title>
     <link>https://www.rics-notebook.com/blog/Animals/Communication</link>
@@ -124,7 +136,7 @@
     <link>https://www.rics-notebook.com/blog/cyber/iRuler</link>
     
     <description>Discover how iRuler leverages advanced rule checking and NLP analysis to secure IoT automation platforms. Learn about threat models, vulnerabilities, and evaluation results to ensure your IoT devices operate safely and efficiently. 🔒</description>
-    <pubDate>Thu, 20 Oct 2022 04:00:00 GMT</pubDate>
+    <pubDate>Thu, 20 Oct 2022 07:00:00 GMT</pubDate>
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>IoT Security</category><category>Trigger-Action Platforms</category><category>Model Checking</category><category>Natural Language Processing</category><category>Home Automation</category><category>Technology</category>
     <image> https://www.rics-notebook.com/articleimage/iRuler.webp</image>
@@ -179,18 +191,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</guid>
-    <title>The Silent Guardians: How Do Smoke Detectors Sense Smoke?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</link>
-    
-    <description>Smoke detectors are crucial for home safety, alerting us to potential fires. In this blog post, we explore the technology behind smoke detectors and how they sense smoke to keep us safe.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Smoke Detectors</category><category>Safety</category><category>Technology</category><category>Fire Prevention</category><category>Home</category><category>Questions</category>
-    <image> https://www.rics-notebook.com/articleimage/Questions/HowDoSmokeDetectorsWork.webp</image>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</guid>
     <title>Decoding the Disc: How Does a CD Store Music?</title>
     <link>https://www.rics-notebook.com/blog/Questions/HowDoesCDStoreMusic</link>
@@ -200,6 +200,18 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>CD</category><category>Music</category><category>Technology</category><category>Audio</category><category>Digital Storage</category><category>Questions</category>
     <image> https://www.rics-notebook.com/articleimage/Questions/HowDoesCDStoreMusic.webp</image>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</guid>
+    <title>The Silent Guardians: How Do Smoke Detectors Sense Smoke?</title>
+    <link>https://www.rics-notebook.com/blog/Questions/HowDoSmokeDetectorsWork</link>
+    
+    <description>Smoke detectors are crucial for home safety, alerting us to potential fires. In this blog post, we explore the technology behind smoke detectors and how they sense smoke to keep us safe.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Smoke Detectors</category><category>Safety</category><category>Technology</category><category>Fire Prevention</category><category>Home</category><category>Questions</category>
+    <image> https://www.rics-notebook.com/articleimage/Questions/HowDoSmokeDetectorsWork.webp</image>
   </item>
 
     </channel>

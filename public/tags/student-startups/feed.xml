@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 12 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/student-startups/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/College/PRothinKing</guid>
+    <title>From Lecture Halls to Launchpads: Rethinking the University as a Startup Studio</title>
+    <link>https://www.rics-notebook.com/blog/College/PRothinKing</link>
+    
+    <description>Todays universities are factories of conformity, teaching the past to prepare students to work for someone elses future. Its time for a new model: invention-driven universities where every student leaves with their own brand, app, or business—and a real chance to thrive.</description>
+    <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>education reform</category><category>entrepreneurship</category><category>startup universities</category><category>invention-driven learning</category><category>future of work</category><category>higher education critique</category><category>student startups</category><category>economic innovation</category>
+    <image> https://www.quantumcybersolutions.org/campus/university_reform_launchpad.png</image>
+  </item>
+
+    </channel>
+  </rss>

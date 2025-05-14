@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 12 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/student-economy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/College/QuestFORcash</guid>
+    <title>QuestLink: Turning Campus &amp; Community Projects into Paid, Purposeful Student Quests</title>
+    <link>https://www.rics-notebook.com/blog/College/QuestFORcash</link>
+    
+    <description>Introducing QuestLink—a local project platform where professors, businesses, and grad students post real-world quests. Students accept them, complete them, get paid, and build networks and skills that matter—no unpaid internships, just paid purpose.</description>
+    <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>student economy</category><category>community work app</category><category>experiential learning</category><category>gig economy</category><category>professor collaboration</category><category>quest-based learning</category><category>UF innovation</category><category>local business tech</category>
+    <image> https://www.quantumcybersolutions.org/campus/questlinkmockup.png</image>
+  </item>
+
+    </channel>
+  </rss>

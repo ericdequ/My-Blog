@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/digital-wallets/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Finance/ACG</guid>
+    <title>Apple Cash Group: The Communal Card That Lives in Your Group Chat</title>
+    <link>https://www.rics-notebook.com/blog/Finance/ACG</link>
+    
+    <description>Apple Cash Group transforms group chats into group wallets—creating dynamic, trackable, communal Apple Pay cards for friends, family, and teams. From Airbnb food funds to Secret Santa surprises, shared spending just got elegant.</description>
+    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>apple cash</category><category>group payments</category><category>digital wallets</category><category>family finance</category><category>group chat fintech</category><category>communal funds</category><category>Secret Santa</category><category>shared expenses</category><category>Apple Pay innovation</category>
+    <image> https://www.quantumcybersolutions.org/arbor/applecashgroup1.png</image>
+  </item>
+
+    </channel>
+  </rss>

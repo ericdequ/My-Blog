@@ -7,9 +7,21 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Thu, 16 May 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/philosophy/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Personal/one</guid>
+    <title>When the Qubit Becomes One: Embracing Errors as Windows Into Reality</title>
+    <link>https://www.rics-notebook.com/blog/Personal/one</link>
+    
+    <description>What if qubit errors arent failures but signposts pointing to flaws in our assumptions about the universe? By becoming one with the setting—the hardware, the noise, the cosmic context—we discover that every glitch is a clue to a deeper theory of reality.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>quantum computing</category><category>philosophy</category><category>decoherence</category><category>errors as insight</category><category>reality</category>
+    <image> https://www.rics-notebook.com/gutfeeling.jpg</image>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Physics/TimevsTime</guid>
     <title>Redefining Time: Introducing New Words for a Fundamental Dimension</title>

@@ -1,0 +1,50 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.rics-notebook.com/blog</link>
+      <description>Studying the Art of Science &amp; the Science of Art</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 12 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.rics-notebook.com/tags/student-wellness/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.rics-notebook.com/blog/College/frat</guid>
+    <title>From Bro House to Powerhouse: Rewiring UF Frats into Energy Gyms and Entrepreneur Hubs</title>
+    <link>https://www.rics-notebook.com/blog/College/frat</link>
+    
+    <description>UF fraternities shouldn’t just be relics of keg culture—they should be kinetic energy hubs, wellness distributors, and business incubators. Imagine frats that power the grid, move medicine, and make money while lifting the future.</description>
+    <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>fraternity reform</category><category>campus innovation</category><category>clean energy gyms</category><category>alcohol licensing</category><category>student wellness</category><category>micro-economies</category><category>university entrepreneurship</category><category>decentralized campus</category>
+    <image> https://www.quantumcybersolutions.org/campus/fratpowerhouse.png</image>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/College/Hof</guid>
+    <title>Fruit Trees on Every Quad: Why College Campuses Should Feed the Future</title>
+    <link>https://www.rics-notebook.com/blog/College/Hof</link>
+    
+    <description>Imagine walking to class and picking a fresh orange, apple, or fig right off a tree. With fruit trees and campus compost systems, universities can feed students, nourish ecosystems, and plant a legacy of regenerative abundance.</description>
+    <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>college sustainability</category><category>urban agriculture</category><category>food justice</category><category>composting systems</category><category>fruit trees</category><category>student wellness</category><category>climate resilience</category><category>edible campuses</category>
+    <image> https://www.quantumcybersolutions.org/campus/fruittreecampus.png</image>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/College/RUUF</guid>
+    <title>Rebuilding UF: A Smarter, Cleaner, More Connected Campus for the Gator Nation</title>
+    <link>https://www.rics-notebook.com/blog/College/RUUF</link>
+    
+    <description>Its time for the University of Florida to evolve—not just in rankings, but in how it treats its students, energy, environment, and future. From wind-powered walkways to WiFi-driven democracy, this is how UF can become the most innovative and inclusive campus in the country.</description>
+    <pubDate>Sun, 12 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>University of Florida</category><category>sustainability</category><category>clean energy</category><category>SGA transparency</category><category>campus wifi</category><category>AI education</category><category>digital democracy</category><category>smart cities</category><category>student wellness</category><category>UF reform</category>
+    <image> https://www.quantumcybersolutions.org/campus/ufsmartcampus.png</image>
+  </item>
+
+    </channel>
+  </rss>

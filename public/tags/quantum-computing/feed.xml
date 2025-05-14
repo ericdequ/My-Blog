@@ -7,9 +7,21 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 02 Jul 2024 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/tags/quantum-computing/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Personal/one</guid>
+    <title>When the Qubit Becomes One: Embracing Errors as Windows Into Reality</title>
+    <link>https://www.rics-notebook.com/blog/Personal/one</link>
+    
+    <description>What if qubit errors arent failures but signposts pointing to flaws in our assumptions about the universe? By becoming one with the setting—the hardware, the noise, the cosmic context—we discover that every glitch is a clue to a deeper theory of reality.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>quantum computing</category><category>philosophy</category><category>decoherence</category><category>errors as insight</category><category>reality</category>
+    <image> https://www.rics-notebook.com/gutfeeling.jpg</image>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Quantum/VQE</guid>
     <title>Variational Quantum Eigensolver: An Efficient Approach to Quantum Simulations</title>
@@ -371,18 +383,6 @@
   </item>
 
   <item>
-    <guid>https://www.rics-notebook.com/blog/Finance/QuantumFinance</guid>
-    <title>Quantum Computing in Finance: Revolutionizing the Industry</title>
-    <link>https://www.rics-notebook.com/blog/Finance/QuantumFinance</link>
-    
-    <description>Discover how quantum computing is transforming the finance industry, from portfolio optimization and risk management to fraud detection and algorithmic trading. Learn about the potential applications and benefits of this cutting-edge technology in the world of finance.</description>
-    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Risk Management</category><category>Fraud Detection</category><category>Algorithmic Trading</category>
-    <image> https://www.rics-notebook.com/articleimage/QuantumFinance.webp</image>
-  </item>
-
-  <item>
     <guid>https://www.rics-notebook.com/blog/education/QuantumResources</guid>
     <title>Quantum Computing Top Learning Resources 🎓</title>
     <link>https://www.rics-notebook.com/blog/education/QuantumResources</link>
@@ -392,6 +392,18 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>Quantum Computing</category><category>Learning Resources</category><category>Online Courses</category><category>Tutorials</category><category>Quantum Programming</category><category>Education</category>
     <image> https://www.rics-notebook.com/articleimage/QuantumResources.webp</image>
+  </item>
+
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Finance/QuantumFinance</guid>
+    <title>Quantum Computing in Finance: Revolutionizing the Industry</title>
+    <link>https://www.rics-notebook.com/blog/Finance/QuantumFinance</link>
+    
+    <description>Discover how quantum computing is transforming the finance industry, from portfolio optimization and risk management to fraud detection and algorithmic trading. Learn about the potential applications and benefits of this cutting-edge technology in the world of finance.</description>
+    <pubDate>Sat, 23 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Finance</category><category>Portfolio Optimization</category><category>Risk Management</category><category>Fraud Detection</category><category>Algorithmic Trading</category>
+    <image> https://www.rics-notebook.com/articleimage/QuantumFinance.webp</image>
   </item>
 
   <item>
