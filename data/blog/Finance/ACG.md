@@ -4,7 +4,7 @@ date: '2025-05-12'
 tags: ['apple cash', 'group payments', 'digital wallets', 'family finance', 'group chat fintech', 'communal funds', 'Secret Santa', 'shared expenses', 'Apple Pay innovation']  
 draft: false  
 summary: "Apple Cash Group transforms group chats into group wallets—creating dynamic, trackable, communal Apple Pay cards for friends, family, and teams. From Airbnb food funds to Secret Santa surprises, shared spending just got elegant."  
-images: ['https://www.quantumcybersolutions.com/arbor/applecashgroup.png']  
+images: ['https://www.quantumcybersolutions.com/arbor/applecashgroup1.png']  
 ---
 
 # 💳 Apple Cash Group: The Communal Card That Lives in Your Group Chat
