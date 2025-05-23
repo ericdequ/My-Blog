@@ -2,12 +2,12 @@
 title: "Dont Collapse My Pronouns: A Quantum Call for Respect"  
 date: '2025-05-02'  
 tags: ['quantum computing', 'identity', 'pronouns', 'superposition', 'inclusion']  
-draft: true 
+draft: false
 summary: "A playful meditation on assumptions—first about pronouns, then a twist: let’s stop collapsing quantum states too. No more presuming whats inside, whether its identity or qubits."  
 
 ---
 
-In today’s hyper‑aware culture, we’ve learned not to assume pronouns. She/They/Ze/Zir—all deserve respect, space, and agency. We craft our bios, update our profiles, and gently correct misfires: “Actually, I go by xe/xem.” We celebrate that small but powerful act of allowing others to self‑identify.  
+In today’s hyper‑aware culture, we’ve learned not to assume pronouns. She/They/Ze/Zir—all deserve respect, space, and agency. We craft our bios, update our profiles, and gently correct misfires: “Actually, I go by one/we.” We celebrate that small but powerful act of allowing others to self‑identify.  
 
 But here’s a thought: what if we carried that same sensitivity into **quantum computing**? What if we treated **qubits**—those tiny carriers of miraculous superpositions—with the same respect we afford fellow humans?
 
