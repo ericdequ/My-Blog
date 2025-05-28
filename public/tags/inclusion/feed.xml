@@ -8,7 +8,7 @@
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
       <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://www.rics-notebook.com/tags/identity/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://www.rics-notebook.com/tags/inclusion/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://www.rics-notebook.com/blog/Personal/prostate</guid>
@@ -20,18 +20,6 @@
     <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
     <category>quantum computing</category><category>identity</category><category>pronouns</category><category>superposition</category><category>inclusion</category>
     undefined
-  </item>
-
-  <item>
-    <guid>https://www.rics-notebook.com/blog/Questions/WhyDoWeHaveFingerPrints</guid>
-    <title>The Unique Patterns of Identity: Why Do We Have Fingerprints?</title>
-    <link>https://www.rics-notebook.com/blog/Questions/WhyDoWeHaveFingerPrints</link>
-    
-    <description>Fingerprints are unique to each individual and serve various important functions. In this blog post, we explore the biological purpose of fingerprints, their formation, and their significance in human identity and forensic science.</description>
-    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
-    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
-    <category>Fingerprints</category><category>Human Body</category><category>Biology</category><category>Identity</category><category>Forensics</category><category>Questions</category>
-    <image> https://www.rics-notebook.com/articleimage/Questions/WhyDoWeHaveFingerPrints.webp</image>
   </item>
 
     </channel>
