@@ -23,7 +23,7 @@ Quantum computing, a rapidly evolving field, promises to revolutionize the way w
 
 ## 🎓 Top Quantum Computing Learning Platforms
 
-1. **QuantumLearn**: A comprehensive learning platform that offers a wide range of modules, from Comptia exams to quantum computing and cybersecurity. With its stunning aesthetics, intuitive UI, and seamless Firebase integration, QuantumLearn provides an engaging and efficient learning experience. [Check out QuantumLearn](https://quantumlearn.vercel.app/)
+1. **QuantumLearn**: A comprehensive learning platform that offers a wide range of modules, from Comptia exams to quantum computing and cybersecurity. With its stunning aesthetics, intuitive UI, and seamless Firebase integration, QuantumLearn provides an engaging and efficient learning experience. [Check out QuantumLearn](https://www.robotric.org/Classroom/)
 
 2. **Google Quantum AI**: Offers a comprehensive range of resources including introductory guides, advanced tutorials, and hands-on labs with their quantum computing hardware and software tools. You can explore interactive learning labs, educational videos, and even tour their quantum AI lab virtually. [Explore Google Quantum AI resources](https://quantumai.google/education).
 

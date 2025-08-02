@@ -16,14 +16,14 @@ const projectsData = [
     title: 'OPT',
     description:
       'A service that ships packages by sending  them to space letting them float then precisely dropping down to earth using the earths rotation, and gravity to cover the transportation energy.',
-    url: 'https://quantumcybersolutions.com',
+    url: 'https://quantumcybersolutions.com/OPD',
     imgSrc: 'https://www.cdqcs.com/OPD/header.webp',
   },
   {
     title: 'MQC',
     description:
       'A Biological Mushroom substrate track for quantum computations, blending thermodynamics, with quantum computation, utalizing the quantum dots of the mushrooms, and using love and trust to glue our conclusions together',
-    url: 'https://quantumcybersolutions.com',
+    url: 'https://quantumcybersolutions.com/MQC',
     imgSrc: 'https://www.quantumcybersolutions.com/MCD/2.webp',
   },
   
