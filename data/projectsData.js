@@ -26,8 +26,14 @@ const projectsData = [
     url: 'https://quantumcybersolutions.com/MQC',
     imgSrc: 'https://www.quantumcybersolutions.com/MCD/2.webp',
   },
-  
-  
+  {
+    title: 'OSPP',
+    description: 'Democratizing drug discovery through open collaboration, inspired by successful AI communities like Hugging Face. Together, were building a future where medicine development is transparent, accessible, and community-driven.',
+    url: 'https://www.quantumcybersolutions.com/LifeScience#OSPPS',
+    imgSrc: 'https://www.quantumcybersolutions.com/LifeScience/background.webp',
+  },
+
+
 ]
 
 export default projectsData
