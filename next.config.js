@@ -79,6 +79,8 @@ module.exports = withBundleAnalyzer({
       'bev.cool',
       'www.leopiolet.com',
       'leopiolet.com',
+      'www.cdqcs.com',
+      'cdqcs.com',
     ],
   },
   async headers() {
