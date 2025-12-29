@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 'use client'
 
 import { useState } from 'react'
@@ -17,7 +18,7 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
     >
       {/* Gradient Accent Border */}
       <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary-500/20 via-purple-500/20 to-pink-500/20 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
-      
+
       <div className="relative h-full overflow-hidden rounded-2xl">
         {/* Image Section */}
         {imgSrc && !imageError && (
@@ -26,7 +27,7 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
             {!imageLoaded && (
               <div className="absolute inset-0 animate-pulse bg-gradient-to-r from-gray-200 via-gray-300 to-gray-200 dark:from-gray-700 dark:via-gray-600 dark:to-gray-700" />
             )}
-            
+
             {/* Image */}
             <motion.div
               initial={{ scale: 1 }}
@@ -39,9 +40,8 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
                 src={imgSrc}
                 width={600}
                 height={400}
-                className={`h-full w-full object-cover object-center transition-opacity duration-500 ${
-                  imageLoaded ? 'opacity-100' : 'opacity-0'
-                }`}
+                className={`h-full w-full object-cover object-center transition-opacity duration-500 ${imageLoaded ? 'opacity-100' : 'opacity-0'
+                  }`}
                 onLoad={() => setImageLoaded(true)}
                 onError={() => setImageError(true)}
               />

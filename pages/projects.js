@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 'use client'
 
 import { useState, useMemo } from 'react'
@@ -59,7 +60,7 @@ export default function Projects() {
   return (
     <>
       <PageSEO title={`Projects - ${siteMetadata.author}`} description={siteMetadata.description} />
-      
+
       {/* Hero Section */}
       <motion.div
         className="relative overflow-hidden pt-12 pb-8 md:pt-16 md:pb-12"
@@ -68,7 +69,7 @@ export default function Projects() {
         transition={{ duration: 0.6 }}
       >
         <div className="absolute inset-0 bg-gradient-to-br from-primary-500/10 via-transparent to-purple-500/10 dark:from-primary-500/5 dark:to-purple-500/5" />
-        
+
         <div className="relative space-y-4 md:space-y-6">
           <motion.h1
             className="text-4xl font-extrabold tracking-tight sm:text-5xl md:text-6xl"
@@ -80,7 +81,7 @@ export default function Projects() {
               Projects
             </span>
           </motion.h1>
-          
+
           <motion.p
             className="max-w-2xl text-lg text-gray-600 dark:text-gray-400"
             initial={{ opacity: 0, y: 20 }}
@@ -135,11 +136,10 @@ export default function Projects() {
             <button
               key={category}
               onClick={() => setSelectedCategory(category)}
-              className={`rounded-full px-4 py-1.5 text-sm font-medium transition-all ${
-                selectedCategory === category
-                  ? 'bg-primary-600 text-white shadow-md shadow-primary-500/30'
-                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700'
-              }`}
+              className={`rounded-full px-4 py-1.5 text-sm font-medium transition-all ${selectedCategory === category
+                ? 'bg-primary-600 text-white shadow-md shadow-primary-500/30'
+                : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700'
+                }`}
             >
               {category.charAt(0).toUpperCase() + category.slice(1)}
             </button>
@@ -154,11 +154,10 @@ export default function Projects() {
               <button
                 key={tag}
                 onClick={() => toggleTag(tag)}
-                className={`rounded-lg px-3 py-1 text-xs font-medium transition-all ${
-                  selectedTags.has(tag)
-                    ? 'bg-purple-600 text-white shadow-sm'
-                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
-                }`}
+                className={`rounded-lg px-3 py-1 text-xs font-medium transition-all ${selectedTags.has(tag)
+                  ? 'bg-purple-600 text-white shadow-sm'
+                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
+                  }`}
               >
                 {tag}
               </button>

@@ -2,7 +2,6 @@ const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
 
-// You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
   script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
@@ -11,20 +10,18 @@ const ContentSecurityPolicy = `
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src giscus.app quantumcybersolutions.com; // Added quantumcybersolutions.com here
+  frame-src giscus.app quantumcybersolutions.com *;
 `
 
 const securityHeaders = [
   {
     key: 'Content-Security-Policy',
-    value:
-      "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app; style-src 'self' 'unsafe-inline'; img-src * blob: data:; media-src 'none'; connect-src *; font-src 'self'; frame-src *;", // Added frame-src *
+    value: ContentSecurityPolicy.replace(/\s{2,}/g, ' ').trim(),
   },
   {
     key: 'Referrer-Policy',
     value: 'strict-origin-when-cross-origin',
   },
-  // Removed the X-Frame-Options header to allow all websites to embed content
   {
     key: 'X-Content-Type-Options',
     value: 'nosniff',
@@ -50,38 +47,72 @@ module.exports = withBundleAnalyzer({
     dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
   },
   images: {
-    domains: [
-      'quantumcybersolutions.com',
-      'www.quantumcybersolutions.com',
-      'ericdequevedo.com',
-      'www.rics-notebook.com',
-      'rics-notebook.com',
-      'www.ericdequevedo.com',
-      'dione-murex.vercel.app',
-      'introspective.vercel.app',
-      'podhub-mu.vercel.app',
-      'quantumlearn.vercel.app',
-      'www.quantumlearn.vercel.app',
-      'freel-one.vercel.app',
-      'diamondback.vercel.app',
-      'www.diamondback.vercel.app',
-      'bmw-services.vercel.app',
-      'www.bmw-services.vercel.app',
-      'games-gold-nu.vercel.app',
-      'www.games-gold-nu.vercel.app',
-      'www.robotric.org',
-      'robotric.org',
-      'www.rics-notebook.com',
-      'rics-notebook.com',
-      'rikara.vercel.app',
-      'www.rikara.vercel.app',
-      'www.bev.cool',
-      'bev.cool',
-      'www.leopiolet.com',
-      'leopiolet.com',
-      'www.cdqcs.com',
-      'cdqcs.com',
+    // Modern configuration - replaces deprecated "domains"
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: '**.quantumcybersolutions.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.ericdequevedo.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.rics-notebook.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.vercel.app',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.robotric.org',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.bev.cool',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.leopiolet.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.cdqcs.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'quantumcybersolutions.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'ericdequevedo.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'rics-notebook.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'robotric.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'bev.cool',
+      },
+      {
+        protocol: 'https',
+        hostname: 'leopiolet.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'cdqcs.com',
+      },
     ],
+   
+    // Disable static image optimization for faster builds
+    unoptimized: process.env.NODE_ENV === 'development',
   },
   async headers() {
     return [
@@ -90,11 +121,6 @@ module.exports = withBundleAnalyzer({
         headers: securityHeaders,
       },
     ]
-  },
-  pwa: {
-    dest: 'public',
-    skipWaiting: true,
-    clientsClaim: true,
   },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
@@ -112,5 +138,10 @@ module.exports = withBundleAnalyzer({
     }
 
     return config
+  },
+  // Speed up builds
+  swcMinify: true,
+  compiler: {
+    removeConsole: process.env.NODE_ENV === 'production',
   },
 })
