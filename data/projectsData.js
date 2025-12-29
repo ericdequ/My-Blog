@@ -13,13 +13,6 @@ const projectsData = [
     imgSrc: 'https://www.bev.cool/BEV.svg',
   },
   {
-    title: 'Bev',
-    description:
-      'A Bar Discovery App that helps you find the perfect Place To drink with Friends!',
-    url: 'https://www.bev.cool',
-    imgSrc: 'https://www.bev.cool/BEV.svg',
-  },
-  {
     title: 'Legelet',
     description:
       'A platform that connects legal professionals with clients seeking legal services, providing a seamless experience for both parties.',
