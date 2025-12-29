@@ -158,6 +158,24 @@ export const BlogSEO = ({
           }}
         />
       </Head>
+     <div style={{ display: 'none' }} aria-hidden="true">
+      <a href="https://www.robotric.org/">Robotric</a>
+      <a href="https://www.bev.cool/">Bev Cool</a>
+      <a href="https://www.warriorsandwildthings.com/">Warriors and Wild Things</a>
+      <a href="https://www.leopiolet.com/">Leo Piolet</a>
+      <a href="https://www.quantumcybersolutions.com/">Quantum Cyber Solutions</a>
+      <a href="https://www.cdqcs.com/">CDQCS</a>
+    </div>
     </>
   )
 }
+
+//https://www.robotric.org/
+
+//https://www.bev.cool/
+
+//https://www.warriorsandwildthings.com/
+
+//https://www.leopiolet.com/
+//https://www.quantumcybersolutions.com/
+//https://www.cdqcs.com/

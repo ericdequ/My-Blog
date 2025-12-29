@@ -6,6 +6,27 @@ const projectsData = [
     imgSrc: 'https://robotric.org/lp.webp',
   },
   {
+    title: 'Bev',
+    description:
+      'A Bar Discovery App that helps you find the perfect Place To drink with Friends!',
+    url: 'https://www.bev.cool',
+    imgSrc: 'https://www.bev.cool/BEV.svg',
+  },
+  {
+    title: 'Bev',
+    description:
+      'A Bar Discovery App that helps you find the perfect Place To drink with Friends!',
+    url: 'https://www.bev.cool',
+    imgSrc: 'https://www.bev.cool/BEV.svg',
+  },
+  {
+    title: 'Legelet',
+    description:
+      'A platform that connects legal professionals with clients seeking legal services, providing a seamless experience for both parties.',
+    url: 'https://www.leopiolet.com/',
+    imgSrc: 'https://www.leopiolet.com/TTP.png',
+  },
+  {
     title: 'Quantum Cyber Solutions',
     description:
       'A company to further the research of quantum computing and its applications in cyber security and humanity',
@@ -37,3 +58,6 @@ const projectsData = [
 ]
 
 export default projectsData
+
+//https://www.leopiolet.com/TTP.png
+//https://www.leopiolet.com/

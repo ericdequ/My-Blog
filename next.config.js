@@ -75,6 +75,10 @@ module.exports = withBundleAnalyzer({
       'rics-notebook.com',
       'rikara.vercel.app',
       'www.rikara.vercel.app',
+      'www.bev.cool',
+      'bev.cool',
+      'www.leopiolet.com',
+      'leopiolet.com',
     ],
   },
   async headers() {
