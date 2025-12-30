@@ -17,39 +17,3 @@ To run this blog locally on your machine, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000`
-
-
-git add .
-
-git commit -m "Projects"
-
-git push
-
-
-npx update-browserslist-db@latest
-
-rm -rf node_modules
-rm -rf .next
-rm pnpm-lock.yaml
-
-pnpm update next@latest react@latest react-dom@latest eslint-config-next@latest
-
-pnpm dlx @next/codemod@latest upgrade
-
-pnpm i
-
-pnpm update
-
-pnpm upgrade
-
-pnpm run build
-
-git add .
-
-git commit -m "Projectss"
-
-git push
-
-
-pnpm run start
-
