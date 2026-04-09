@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: 'UBS: Building the Universal Beach Scanner for Gold, Rings, and Shark Teeth'
 date: "2026-04-06"
@@ -387,6 +386,3 @@ The Universal Beach Scanner is compelling because it attacks a real blind spot i
 The best path forward is not to force a full geophysical lab into a consumer wand on day one. It is to build a superb metal-detection platform first, add compact shallow radar second, and use machine learning to fuse the evidence into a screen-based experience that feels genuinely smarter than today’s detectors.
 
 If that execution is done well, UBS would not just be another metal detector. It would be the first credible **consumer beach intelligence platform**—one that helps people search not only for what conducts, but for what contrasts, what reflects, and what conventional tools have been missing all along.
-=======
-UBS
->>>>>>> 05d5f8fefb6ac2f66cadb4ebe4f39a3a48f8d2fc
