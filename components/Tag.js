@@ -43,7 +43,7 @@ const Tag = ({ text }) => {
       whileHover="hover"
       whileTap="tap"
     >
-      <Link href={`/tags/${tagSlug}`} passHref>
+      <Link href={`/tags/${tagSlug}`}>
         <motion.p
           className="text-lg font-semibold text-primary-800 dark:text-primary-200"
           variants={textVariants}
@@ -53,7 +53,7 @@ const Tag = ({ text }) => {
         </motion.p>
       </Link>
     </motion.div>
-  )
+  );
 }
 
 export default Tag

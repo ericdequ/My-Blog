@@ -43,9 +43,7 @@ const securityHeaders = [
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
-  eslint: {
-    dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
-  },
+
   images: {
     // Modern configuration - replaces deprecated "domains"
     remotePatterns: [
@@ -110,7 +108,7 @@ module.exports = withBundleAnalyzer({
         hostname: 'cdqcs.com',
       },
     ],
-   
+
     // Disable static image optimization for faster builds
     unoptimized: process.env.NODE_ENV === 'development',
   },
@@ -140,7 +138,6 @@ module.exports = withBundleAnalyzer({
     return config
   },
   // Speed up builds
-  swcMinify: true,
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
   },

@@ -42,18 +42,45 @@ export default function Home({ posts }) {
     <>
       <PageSEO title={siteMetadata.title} description={siteMetadata.description} />
       <div className="divide-y divide-primary-200 dark:divide-primary-700">
+        <div className="relative mb-12 overflow-hidden rounded-3xl bg-midnight py-16 px-4 sm:px-6 lg:px-8">
+          <div className="absolute inset-0 z-0">
+            <div className="absolute inset-0 bg-gradient-to-br from-primary-900/40 via-midnight to-secondary-900/40 animate-knowledge-flow" style={{ backgroundSize: '400% 400%' }} />
+            <div className="absolute inset-0 bg-[url('/static/images/quantum-grid.svg')] opacity-10" />
+          </div>
+
+          <motion.div
+            className="relative z-10 text-center space-y-8"
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.8 }}
+          >
+            <h1 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl md:text-6xl">
+              <span className="block text-primary-200">Developing A</span>
+              <span className="block bg-gradient-to-r from-primary-400 via-knowledge-400 to-secondary-400 bg-clip-text text-transparent animate-gradient-xy">
+                {siteMetadata.headerTitle || 'Quantum Mind'}
+              </span>
+            </h1>
+            <p className="mx-auto max-w-2xl text-xl text-primary-200/80">
+              {siteMetadata.description}
+            </p>
+            <div className="flex justify-center gap-4">
+              <a href="#posts" className="px-8 py-3 rounded-full bg-primary-600/20 border border-primary-500/50 text-white hover:bg-primary-600/40 hover:shadow-[0_0_20px_rgba(99,102,241,0.4)] transition-all duration-300 backdrop-blur-sm">
+                Explore the Universe
+              </a>
+            </div>
+          </motion.div>
+        </div>
+
         <motion.div
-          className="space-y-2 pt-6 pb-8 md:space-y-5"
+          id="posts"
+          className="space-y-2 pt-6 pb-8 md:space-y-5 border-t border-primary-500/30"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
+          transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-primary-900 dark:text-primary-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            Latest
-          </h1>
-          <p className="text-lg leading-7 text-secondary-500 dark:text-secondary-400">
-            {siteMetadata.description}
-          </p>
+          <h2 className="text-3xl font-bold leading-9 tracking-tight text-secondary-500 dark:text-secondary-400 sm:text-4xl sm:leading-10 md:text-5xl md:leading-14">
+            Latest Transmissions
+          </h2>
         </motion.div>
 
         <motion.ul
@@ -84,7 +111,7 @@ export default function Home({ posts }) {
                         <div className={`relative aspect-[16/9] w-full ${styles.imageBackground}`}>
                           <Link href={`/blog/${slug}`}>
                             <div className="relative w-full h-full">
-                              <img
+                              <Image
                                 src={images[0]}
                                 alt={title}
                                 fill
@@ -101,17 +128,17 @@ export default function Home({ posts }) {
                           </Link>
                         </div>
                       )}
-                      
+
                       <div className="flex flex-wrap justify-center gap-2 mt-2">
                         {tags.map((tag) => (
                           <Tag key={tag} text={tag} />
                         ))}
                       </div>
-                      
+
                       <div className="prose max-w-none text-center text-secondary-500 dark:text-secondary-400">
                         {summary}
                       </div>
-                      
+
                       <div className="text-base font-medium leading-6 text-center">
                         <Link
                           href={`/blog/${slug}`}

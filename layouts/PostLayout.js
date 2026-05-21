@@ -8,6 +8,7 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
+import SocialShare from '@/components/SocialShare'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
 const discussUrl = (slug) =>
@@ -41,23 +42,25 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           animate="visible"
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <header className="pt-6 xl:pb-6 relative">
+          <header className="relative overflow-hidden rounded-lg px-4 py-16 sm:py-20 xl:my-6">
             {images && images.length > 0 && (
               <div className="absolute inset-0 z-0">
-                <img
+                <div className="absolute inset-0 bg-gradient-to-b from-transparent via-midnight/50 to-midnight z-10" />
+                <Image
                   src={images[0]}
                   alt={title}
-                  layout="fill"
-                  objectFit="cover"
-                  className="opacity-50 dark:opacity-30"
+                  fill
+                  sizes="100vw"
+                  className="opacity-60 dark:opacity-40 filter blur-sm scale-110 object-cover"
+                  priority
                 />
               </div>
             )}
-            <div className="space-y-1 text-center relative z-10">
+            <div className="space-y-1 text-center relative z-20 p-4 rounded-xl backdrop-blur-sm bg-midnight/30">
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Published on</dt>
-                  <dd className="text-base font-medium leading-6 text-secondary-500 dark:text-secondary-400">
+                  <dd className="text-base font-medium leading-6 text-primary-400">
                     <time dateTime={date}>
                       {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                     </time>
@@ -80,12 +83,12 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   {authorDetails.map((author) => (
                     <li className="flex items-center space-x-2" key={author.name}>
                       {author.avatar && (
-                        <img
+                        <Image
                           src={author.avatar}
                           width="38"
                           height="38"
                           alt={`Avatar of ${author.name}`}
-                          className="h-10 w-10 rounded-full animate-magical-pulse"
+                          className="h-10 w-10 rounded-full animate-quantum-pulse border-2 border-primary-500"
                         />
                       )}
                       <dl className="whitespace-nowrap text-sm font-medium leading-5">
@@ -96,7 +99,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           {author.twitter && (
                             <Link
                               href={author.twitter}
-                              className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                              className="text-primary-500 hover:text-secondary-500 dark:hover:text-secondary-400 transition-colors"
                             >
                               {author.twitter.replace('https://twitter.com/', '@')}
                             </Link>
@@ -109,7 +112,13 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </dd>
             </dl>
             <div className="divide-y divide-primary-300 dark:divide-primary-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
+              <div className="pt-6">
+                <SocialShare title={title} slug={slug} />
+              </div>
               <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
+              <div className="border-t border-primary-300 dark:border-primary-700 mt-8 pt-8">
+                <SocialShare title={title} slug={slug} />
+              </div>
               <motion.div
                 className="pt-6 pb-6 text-sm text-primary-700 dark:text-primary-300"
                 variants={variants}
@@ -120,7 +129,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 {(next || prev) && (
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && (
-                      <div>
+                      <div className="p-4 rounded-xl bg-primary-900/10 border border-primary-500/10 hover:border-primary-500/30 transition-all">
                         <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
                           Previous Article
                         </h2>
@@ -130,7 +139,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                       </div>
                     )}
                     {next && (
-                      <div>
+                      <div className="p-4 rounded-xl bg-primary-900/10 border border-primary-500/10 hover:border-primary-500/30 transition-all">
                         <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
                           Next Article
                         </h2>

@@ -92,6 +92,7 @@ const submitBatch = async (urls) => {
       'pages/**/*.tsx',
       'data/blog/**/*.mdx',
       'data/blog/**/*.md',
+      'public/tags/**/*.xml',
       '!pages/_*.js',
       '!pages/_*.tsx',
       '!pages/api/**',
@@ -117,6 +118,12 @@ const submitBatch = async (urls) => {
             console.log(`⏭️  Skipping canonical: ${page}`)
             return null
           }
+        }
+
+        if (page.startsWith('public/tags/') && page.endsWith('.xml')) {
+          let tag = page.replace('public/tags/', '').replace('.xml', '')
+          // Check if it's not feed.xml or something similar if necessary, but typically tags are filenames
+          return normalizeUrl(`${BASE_URL}/tags/${tag}`)
         }
 
         // Convert file path to URL path

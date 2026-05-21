@@ -17,7 +17,7 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
       transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
     >
       {/* Gradient Accent Border */}
-      <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary-500/20 via-purple-500/20 to-pink-500/20 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
+      <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-primary-500/30 via-secondary-500/30 to-accent-500/30 opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
 
       <div className="relative h-full overflow-hidden rounded-2xl">
         {/* Image Section */}
@@ -40,8 +40,9 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
                 src={imgSrc}
                 width={600}
                 height={400}
-                className={`h-full w-full object-cover object-center transition-opacity duration-500 ${imageLoaded ? 'opacity-100' : 'opacity-0'
-                  }`}
+                className={`h-full w-full object-cover object-center transition-opacity duration-500 ${
+                  imageLoaded ? 'opacity-100' : 'opacity-0'
+                }`}
                 onLoad={() => setImageLoaded(true)}
                 onError={() => setImageError(true)}
               />
@@ -99,7 +100,7 @@ const Card = ({ title, description, imgSrc, href, category, tags = [] }) => {
                 aria-label={`Link to ${title}`}
                 className="after:absolute after:inset-0"
               >
-                <span className="bg-gradient-to-r from-gray-900 to-gray-900 bg-clip-text transition-all duration-300 group-hover:from-primary-600 group-hover:to-purple-600 dark:from-white dark:to-white dark:group-hover:from-primary-400 dark:group-hover:to-purple-400">
+                <span className="bg-gradient-to-r from-gray-900 to-gray-900 bg-clip-text transition-all duration-300 group-hover:from-primary-500 group-hover:to-secondary-500 dark:from-white dark:to-white dark:group-hover:from-primary-400 dark:group-hover:to-secondary-400">
                   {title}
                 </span>
               </Link>

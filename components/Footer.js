@@ -14,7 +14,17 @@ export default function Footer() {
           <SocialIcon kind="linkedin" href={siteMetadata.linkedin} size="6" />
           <SocialIcon kind="twitter" href={siteMetadata.twitter} size="6" />
         </div>
-        <div className="mb-2 flex space-x-2 text-sm text-gray-500 dark:text-gray-400">
+        <div className="mb-8 flex flex-col items-center space-y-2">
+          <span className="text-xs font-bold tracking-wider text-secondary-500 uppercase">Quantum Network</span>
+          <div className="flex flex-wrap justify-center gap-4 text-sm">
+            <a href="https://www.quantumcybersolutions.com/" className="text-gray-500 hover:text-primary-500 transition-colors">QCS</a>
+            <a href="https://www.robotric.org/" className="text-gray-500 hover:text-secondary-500 transition-colors">Robotric</a>
+            <a href="https://www.bev.cool/" className="text-gray-500 hover:text-accent-500 transition-colors">Bev Cool</a>
+            <a href="https://www.warriorsandwildthings.com/" className="text-gray-500 hover:text-emerald-500 transition-colors">Warriors</a>
+            <a href="https://www.leopiolet.com/" className="text-gray-500 hover:text-primary-400 transition-colors">Leo Piolet</a>
+          </div>
+        </div>
+        <div className="mb-3 flex space-x-4">
           <div>{siteMetadata.author}</div>
           <div>{` • `}</div>
           <div>{`© ${new Date().getFullYear()}`}</div>

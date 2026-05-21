@@ -7,9 +7,21 @@
       <language>en-us</language>
       <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
       <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
-      <lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Apr 2026 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.rics-notebook.com/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.rics-notebook.com/blog/Animals/UBS</guid>
+    <title>UBS: Building the Universal Beach Scanner for Gold, Rings, and Shark Teeth</title>
+    <link>https://www.rics-notebook.com/blog/Animals/UBS</link>
+    
+    <description>Explore how a Universal Beach Scanner could combine multi-frequency metal detection, radar sensing, and machine learning to identify rings, rare metals, and even non-metallic beach finds like shark teeth—plus a practical build roadmap, cost models, and engineering trade-offs.</description>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Universal Beach Scanner</category><category>Metal Detection</category><category>mmWave Radar</category><category>Ground Penetrating Radar</category><category>Machine Learning</category>
+    <image> https://www.rics-notebook.com/articleimage/Animals/UniversalBeachScanner.png</image>
+  </item>
+
   <item>
     <guid>https://www.rics-notebook.com/blog/Idols/SStevejjobss</guid>
     <title>Steve Jobs and the Art of Timeless Innovation: Beyond Backdated Numbers</title>

@@ -6,8 +6,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <link rel="manifest" href="/manifest.json" />
-          <link rel="icon" sizes="76x76" href="/static/favicons/apple-touch-icon.webp" />
-          <link rel="apple-touch-icon" href="/static/favicons/favicon-32x32.webp" />
+          <link rel="icon" sizes="76x76" href="/static/favicons/apple-touch-icon.svg" />
+          <link rel="apple-touch-icon" href="/static/favicons/favicon-32x32.svg" />
           <link rel="icon" href="/favicon.ico" />
 
           <link rel="preconnect" href="https://www.quantumcybersolutions.com/" />
@@ -21,13 +21,13 @@ class MyDocument extends Document {
             rel="icon"
             type="image/webp"
             sizes="32x32"
-            href="/static/favicons/favicon-32x32.webp"
+            href="/static/favicons/favicon-32x32.svg"
           />
           <link
             rel="icon"
             type="image/webp"
             sizes="16x16"
-            href="/static/favicons/favicon-16x16.webp"
+            href="/static/favicons/favicon-32x32.svg"
           />
           <link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#5bbad5" />
           <meta name="msapplication-TileColor" content="#000000" />

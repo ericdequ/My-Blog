@@ -1,0 +1,6 @@
+allowBuilds:
+  canvas: true
+  deasync: true
+  esbuild: true
+  sharp: true
+  unrs-resolver: true

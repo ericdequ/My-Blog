@@ -9,7 +9,7 @@ summary: 'Solar panels typically convert sunlight into DC electricity, which is 
 images: ['https://www.rics-notebook.com/articleimage/Energy/SolarAC.webp']
 ---
 
-## How Solar Panels Work 
+## How Solar Panels Work
 
 convert sunlight into direct current (DC) electricity, which is then converted to alternating current (AC) for household use. However, new methods propose capturing the sun's natural AC energy directly, skipping the conversion and potentially improving efficiency. These advancements, coupled with smart grid technologies and energy storage solutions, are set to transform the solar energy landscape.
 
@@ -48,11 +48,9 @@ Some researchers propose designing PV cells that can oscillate the DC current th
 
 2. **Maxwell's Equations Adaptation:**
    Utilizing Maxwell's equations to design materials that naturally oscillate at desired frequencies:
-   
+
    $$
-   \
    \nabla \cdot \mathbf{E} = \frac{\rho}{\epsilon_0}, \quad \nabla \cdot \mathbf{B} = 0, \quad \nabla \times \mathbf{E} = -\frac{\partial \mathbf{B}}{\partial t}, \quad \nabla \times \mathbf{B} = \mu_0 \mathbf{J} + \mu_0 \epsilon_0 \frac{\partial \mathbf{E}}{\partial t}
-   \
    $$
 
    These equations help in designing oscillating PV cells that can generate AC directly.
@@ -135,9 +133,9 @@ Harnessing the sun's natural AC energy directly is an exciting frontier in solar
 
 In the words of physicist Richard Feynman, "Nature isn't classical, dammit, and if you want to make a simulation of nature, you'd better make it quantum mechanical."
 
-I believe this holds true as we are trying to classically mimic the Quantum Process of Photosynthesis 
+I believe this holds true as we are trying to classically mimic the Quantum Process of Photosynthesis
 
-If You Want To Read More About Photosynthesis from a Quantum Perspective Check Out 
+If You Want To Read More About Photosynthesis from a Quantum Perspective Check Out
 [Here](https://www.rics-notebook.com/blog/Physics/QPhotosynthesis)
 
 Checkout How Quantum Computers Could be Used to simulate this idea to improve Solar Cells
