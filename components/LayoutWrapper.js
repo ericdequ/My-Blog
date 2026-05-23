@@ -1,44 +1,44 @@
-import { motion } from 'framer-motion'
+﻿import { motion } from 'framer-motion'
 import siteMetadata from '@/data/siteMetadata'
 import headerNavLinks from '@/data/headerNavLinks'
 import Link from './Link'
 import SectionContainer from './SectionContainer'
-import Footer from './Footer'
+
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import Image from 'next/image'
 
-const Logo = '/logoo.webp'
+const Logo = siteMetadata.siteLogo ? '/' + siteMetadata.siteLogo : '/logoo.webp'
 
 const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex min-h-screen flex-col justify-between">
         <motion.header
-          initial={{ opacity: 0, y: -20 }}
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
-          className="flex items-center justify-between py-10"
+          className="site-header"
         >
-          <div>
+          <div className="min-w-0">
             <Link href="/" aria-label={siteMetadata.headerTitle}>
-              <div className="flex items-center justify-between">
-                <div className="mr-3">
+              <div className="flex min-w-0 items-center">
+                <div className="brand-mark">
                   <Image
                     src={Logo}
                     alt="Logo"
-                    width={270}
-                    height={270}
-                    className="rounded-full shadow-md"
+                    width={72}
+                    height={72}
+                    className="h-full w-full object-contain"
                     priority
                   />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
                   <motion.div
-                    initial={{ opacity: 0, x: -20 }}
+                    initial={false}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.5, delay: 0.2 }}
-                    className="hidden h-6 text-2xl font-semibold sm:block"
+                    className="hidden min-w-0 text-base font-black leading-tight text-gray-950 dark:text-white sm:block md:text-xl"
                   >
                     {siteMetadata.headerTitle}
                   </motion.div>
@@ -49,7 +49,7 @@ const LayoutWrapper = ({ children }) => {
             </Link>
           </div>
           <motion.div
-            initial={{ opacity: 0, x: 20 }}
+            initial={false}
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
             className="flex items-center text-base leading-5"
@@ -63,10 +63,7 @@ const LayoutWrapper = ({ children }) => {
                   transition={{ duration: 0.2 }}
                   className="inline-block"
                 >
-                  <Link
-                    href={link.href}
-                    className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4 hover:text-primary-500 dark:hover:text-primary-400 transition-colors duration-200"
-                  >
+                  <Link href={link.href} className="nav-link">
                     {link.title}
                   </Link>
                 </motion.div>
@@ -76,15 +73,7 @@ const LayoutWrapper = ({ children }) => {
             <MobileNav />
           </motion.div>
         </motion.header>
-        <motion.main
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5, delay: 0.4 }}
-          className="mb-auto"
-        >
-          {children}
-        </motion.main>
-        <Footer />
+        <main className="mb-auto">{children}</main>
       </div>
     </SectionContainer>
   )

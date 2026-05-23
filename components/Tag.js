@@ -24,36 +24,15 @@ const Tag = ({ text }) => {
     },
   }
 
-  const textVariants = {
-    hover: {
-      color: '#3B82F6',
-      transition: {
-        duration: 0.2,
-        ease: 'easeInOut',
-      },
-    },
-  }
-
   const tagSlug = kebabCase(text)
 
   return (
-    <motion.div
-      className="inline-block rounded-full bg-primary-100 dark:bg-primary-800 px-4 py-2 mr-2 mb-2"
-      variants={tagVariants}
-      whileHover="hover"
-      whileTap="tap"
-    >
-      <Link href={`/tags/${tagSlug}`}>
-        <motion.p
-          className="text-lg font-semibold text-primary-800 dark:text-primary-200"
-          variants={textVariants}
-          aria-label={`View posts tagged with ${text}`}
-        >
-          {text}
-        </motion.p>
+    <motion.div className="tag-chip" variants={tagVariants} whileHover="hover" whileTap="tap">
+      <Link href={`/tags/${tagSlug}`} passHref>
+        <span>{text}</span>
       </Link>
     </motion.div>
-  );
+  )
 }
 
 export default Tag

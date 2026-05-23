@@ -1,16 +1,16 @@
-const withBundleAnalyzer = require('@next/bundle-analyzer')({
+﻿const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
 
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app utteranc.es;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src giscus.app quantumcybersolutions.com *;
+  frame-src giscus.app utteranc.es quantumcybersolutions.com *;
 `
 
 const securityHeaders = [

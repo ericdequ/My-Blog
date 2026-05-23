@@ -1,4 +1,4 @@
-const siteMetadata = {
+﻿const siteMetadata = {
   title: 'Rics NoteBook',
   author: 'Eric deQuevedo',
   headerTitle: `Developing A Quantum Mind`,
@@ -6,12 +6,12 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'dark', // system, dark or light
   siteUrl: 'https://www.rics-notebook.com',
-  siteRepo: 'https://https://github.com/ericdequ/My-Blog',
-  siteLogo: 'logoo-removebg.webp',
+  siteRepo: 'https://github.com/ericdequ/My-Blog',
+  siteLogo: 'logoo.webp',
   image: '/logooo.webp',
   socialBanner: '/logooo.webp',
   email: 'ericdequevedo@gmailcom',
-  github: 'https://https://github.com/ericdequ',
+  github: 'https://github.com/ericdequ',
   twitter: 'https://twitter.com/ricdequantum',
   facebook: 'https://www.ericdequevedo.com/',
   youtube: 'https://www.youtube.com/channel/UCJ0amRiNhAUZhE6S8gwzS-A',
@@ -41,7 +41,7 @@ const siteMetadata = {
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO || 'ericdequ/My-Blog',
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
@@ -66,9 +66,9 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
-      issueTerm: '', // supported options: pathname, url, title
-      label: '', // label (optional): Comment 💬
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || 'ericdequ/My-Blog',
+      issueTerm: 'pathname', // supported options: pathname, url, title
+      label: 'comments', // label (optional): Comment ðŸ’¬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
       theme: '',

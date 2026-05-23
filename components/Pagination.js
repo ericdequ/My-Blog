@@ -7,7 +7,7 @@ export default function Pagination({ totalPages, currentPage }) {
 
   return (
     <motion.div
-      initial={{ opacity: 0, y: 20 }}
+      initial={false}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.5 }}
       className="flex items-center justify-between pt-6 pb-8"
@@ -50,7 +50,7 @@ export default function Pagination({ totalPages, currentPage }) {
         </Link>
       )}
       <motion.span
-        initial={{ opacity: 0 }}
+        initial={false}
         animate={{ opacity: 1 }}
         transition={{ delay: 0.2, duration: 0.5 }}
         className="text-sm text-gray-700 dark:text-gray-200"

@@ -1,4 +1,4 @@
-import { motion } from 'framer-motion'
+﻿import { motion } from 'framer-motion'
 import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
@@ -8,7 +8,6 @@ import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
-import SocialShare from '@/components/SocialShare'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
 const discussUrl = (slug) =>
@@ -35,32 +34,26 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       />
       <ScrollTopAndComment />
       <article>
-        <motion.div
-          className="xl:divide-y xl:divide-primary-300 xl:dark:divide-primary-700 overflow-x-hidden overflow-y-hidden"
-          variants={variants}
-          initial="hidden"
-          animate="visible"
-          transition={{ duration: 0.6, delay: 0.2 }}
-        >
-          <header className="relative overflow-hidden rounded-lg px-4 py-16 sm:py-20 xl:my-6">
+        <div className="overflow-x-hidden overflow-y-hidden xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
+          <header className="post-hero">
             {images && images.length > 0 && (
               <div className="absolute inset-0 z-0">
-                <div className="absolute inset-0 bg-gradient-to-b from-transparent via-midnight/50 to-midnight z-10" />
                 <Image
                   src={images[0]}
                   alt={title}
                   fill
                   sizes="100vw"
-                  className="opacity-60 dark:opacity-40 filter blur-sm scale-110 object-cover"
+                  className="object-cover opacity-45 dark:opacity-35"
                   priority
                 />
               </div>
             )}
-            <div className="space-y-1 text-center relative z-20 p-4 rounded-xl backdrop-blur-sm bg-midnight/30">
+            <div className="absolute inset-0 z-0 bg-[linear-gradient(135deg,rgba(7,14,25,0.66),rgba(0,0,0,0.46))]" />
+            <div className="relative z-10 mx-auto max-w-4xl space-y-4 text-center">
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Published on</dt>
-                  <dd className="text-base font-medium leading-6 text-primary-400">
+                  <dd className="text-sm font-black uppercase text-white/85">
                     <time dateTime={date}>
                       {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                     </time>
@@ -70,13 +63,17 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <div>
                 <PageTitle>{title}</PageTitle>
               </div>
+              {tags && (
+                <div className="flex flex-wrap justify-center gap-2 pt-2">
+                  {tags.slice(0, 5).map((tag) => (
+                    <Tag key={tag} text={tag} />
+                  ))}
+                </div>
+              )}
             </div>
           </header>
-          <div
-            className="divide-y divide-primary-300 pb-8 dark:divide-primary-700 xl:grid xl:grid-cols-4 xl:gap-x-6 xl:divide-y-0"
-            style={{ gridTemplateRows: 'auto 1fr' }}
-          >
-            <dl className="pt-6 pb-10 xl:border-b xl:border-primary-200 xl:pt-11 xl:dark:border-primary-700">
+          <div className="post-body-grid" style={{ gridTemplateRows: 'auto 1fr' }}>
+            <dl className="post-sidebar">
               <dt className="sr-only">Authors</dt>
               <dd>
                 <ul className="flex justify-center space-x-8 sm:space-x-12 xl:block xl:space-x-0 xl:space-y-8">
@@ -87,19 +84,19 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                           src={author.avatar}
                           width="38"
                           height="38"
-                          alt={`Avatar of ${author.name}`}
-                          className="h-10 w-10 rounded-full animate-quantum-pulse border-2 border-primary-500"
+                          alt="avatar"
+                          className="h-10 w-10 rounded-full"
                         />
                       )}
                       <dl className="whitespace-nowrap text-sm font-medium leading-5">
                         <dt className="sr-only">Name</dt>
-                        <dd className="text-primary-900 dark:text-primary-100">{author.name}</dd>
+                        <dd className="text-gray-900 dark:text-gray-100">{author.name}</dd>
                         <dt className="sr-only">Twitter</dt>
                         <dd>
                           {author.twitter && (
                             <Link
                               href={author.twitter}
-                              className="text-primary-500 hover:text-secondary-500 dark:hover:text-secondary-400 transition-colors"
+                              className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                             >
                               {author.twitter.replace('https://twitter.com/', '@')}
                             </Link>
@@ -111,26 +108,48 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 </ul>
               </dd>
             </dl>
-            <div className="divide-y divide-primary-300 dark:divide-primary-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
-              <div className="pt-6">
-                <SocialShare title={title} slug={slug} />
-              </div>
-              <div className="prose max-w-none pt-10 pb-8 dark:prose-dark">{children}</div>
-              <div className="border-t border-primary-300 dark:border-primary-700 mt-8 pt-8">
-                <SocialShare title={title} slug={slug} />
-              </div>
+            <div className="post-content-panel">
+              <div className="prose prose-lg max-w-none pb-8 dark:prose-dark">{children}</div>
               <motion.div
-                className="pt-6 pb-6 text-sm text-primary-700 dark:text-primary-300"
+                className="pt-6 pb-6 text-sm text-gray-700 dark:text-gray-300"
                 variants={variants}
-                initial="hidden"
+                initial={false}
                 animate="visible"
                 transition={{ duration: 0.6, delay: 0.4 }}
               >
+                <Link href={discussUrl(slug)} rel="nofollow">
+                  {'Discuss on Twitter'}
+                </Link>
+                {` • `}
+                <Link href={editUrl(fileName)}>{'View on GitHub'}</Link>
+              </motion.div>
+              <Comments frontMatter={frontMatter} />
+            </div>
+            <footer>
+              <motion.div
+                className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y"
+                variants={variants}
+                initial={false}
+                animate="visible"
+                transition={{ duration: 0.6, delay: 0.6 }}
+              >
+                {tags && (
+                  <div className="py-4 xl:py-8">
+                    <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                      Tags
+                    </h2>
+                    <div className="flex flex-wrap">
+                      {tags.map((tag) => (
+                        <Tag key={tag} text={tag} />
+                      ))}
+                    </div>
+                  </div>
+                )}
                 {(next || prev) && (
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && (
-                      <div className="p-4 rounded-xl bg-primary-900/10 border border-primary-500/10 hover:border-primary-500/30 transition-all">
-                        <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
+                      <div>
+                        <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
                           Previous Article
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
@@ -139,8 +158,8 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                       </div>
                     )}
                     {next && (
-                      <div className="p-4 rounded-xl bg-primary-900/10 border border-primary-500/10 hover:border-primary-500/30 transition-all">
-                        <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
+                      <div>
+                        <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
                           Next Article
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
@@ -148,30 +167,6 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                         </div>
                       </div>
                     )}
-                  </div>
-                )}
-                {` • `}
-                <Comments frontMatter={frontMatter} />
-              </motion.div>
-            </div>
-            <footer>
-              <motion.div
-                className="divide-primary-300 text-sm font-medium leading-5 dark:divide-primary-700 xl:col-start-1 xl:row-start-2 xl:divide-y"
-                variants={variants}
-                initial="hidden"
-                animate="visible"
-                transition={{ duration: 0.6, delay: 0.6 }}
-              >
-                {tags && (
-                  <div className="py-4 xl:py-8">
-                    <h2 className="text-xs uppercase tracking-wide text-secondary-500 dark:text-secondary-400">
-                      Tags
-                    </h2>
-                    <div className="flex flex-wrap">
-                      {tags.map((tag) => (
-                        <Tag key={tag} text={tag} />
-                      ))}
-                    </div>
                   </div>
                 )}
               </motion.div>
@@ -185,7 +180,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               </div>
             </footer>
           </div>
-        </motion.div>
+        </div>
       </article>
     </SectionContainer>
   )

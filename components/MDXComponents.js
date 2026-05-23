@@ -1,7 +1,6 @@
 /* eslint-disable react/display-name */
 import { useMemo } from 'react'
 import { getMDXComponent } from 'mdx-bundler/client'
-import { motion } from 'framer-motion'
 import Image from './Image'
 import CustomLink from './Link'
 import TOCInline from './TOCInline'
@@ -15,14 +14,9 @@ export const MDXComponents = {
   wrapper: ({ components, layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default
     return (
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-        className={'overflow-x-hidden·overflow-y-hidden'}
-      >
+      <div className="overflow-x-hidden overflow-y-hidden">
         <Layout {...rest} />
-      </motion.div>
+      </div>
     )
   },
 }
@@ -30,8 +24,8 @@ export const MDXComponents = {
 export const MDXLayoutRenderer = ({ layout, mdxSource, ...rest }) => {
   const MDXLayout = useMemo(() => getMDXComponent(mdxSource), [mdxSource])
   return (
-    <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
+    <div>
       <MDXLayout layout={layout} components={MDXComponents} {...rest} />
-    </motion.div>
+    </div>
   )
 }

@@ -3,7 +3,6 @@ import PageTitle from '@/components/PageTitle'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
-import { motion } from 'framer-motion'
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -45,21 +44,11 @@ export default function Blog({ post, authorDetails, prev, next }) {
   }
 
   const { mdxSource, toc, frontMatter } = post
-  const variants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 },
-  }
 
   return (
     <>
       {frontMatter.draft !== true ? (
-        <motion.div
-          initial="hidden"
-          animate="visible"
-          variants={variants}
-          transition={{ duration: 0.5, ease: 'easeInOut' }}
-          className={'overflow-x-hidden overflow-y-hidden'}
-        >
+        <div className="overflow-x-hidden overflow-y-hidden">
           <MDXLayoutRenderer
             layout={frontMatter.layout || DEFAULT_LAYOUT}
             toc={toc}
@@ -69,22 +58,16 @@ export default function Blog({ post, authorDetails, prev, next }) {
             prev={prev}
             next={next}
           />
-        </motion.div>
+        </div>
       ) : (
-        <motion.div
-          className="mt-24 text-center"
-          initial="hidden"
-          animate="visible"
-          variants={variants}
-          transition={{ duration: 0.5, ease: 'easeInOut' }}
-        >
+        <div className="mt-24 text-center">
           <PageTitle>
             Under Construction{' '}
             <span role="img" aria-label="roadwork sign">
               🚧
             </span>
           </PageTitle>
-        </motion.div>
+        </div>
       )}
     </>
   )
