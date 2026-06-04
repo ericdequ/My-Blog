@@ -156,12 +156,12 @@ This is the fastest path to a working product.
 
 | Subsystem | Suggested Approach | Estimated Prototype Cost |
 | :--- | :--- | :--- |
-| Compute | STM32 + optional SBC companion | $25 - $140 |
-| Metal sensing | Custom VLF front end + search coil | $80 - $180 |
-| Display | Small LCD / app-driven UI | $25 - $80 |
-| Power | Li-ion pack + BMS | $30 - $70 |
-| Mechanical | Shaft, enclosure, seals, connectors | $80 - $160 |
-| Total | Metal-first intelligent detector | **$240 - $630** |
+| Compute | STM32 + optional SBC companion | \$25 - \$140 |
+| Metal sensing | Custom VLF front end + search coil | \$80 - \$180 |
+| Display | Small LCD / app-driven UI | \$25 - \$80 |
+| Power | Li-ion pack + BMS | \$30 - \$70 |
+| Mechanical | Shaft, enclosure, seals, connectors | \$80 - \$160 |
+| Total | Metal-first intelligent detector | **\$240 - \$630** |
 
 **Why build this first:** It proves your signal pipeline, UX philosophy, and target-profile logic before adding radar complexity.
 
@@ -170,14 +170,14 @@ This is the most compelling first real UBS product.
 
 | Subsystem | Suggested Approach | Estimated Prototype Cost |
 | :--- | :--- | :--- |
-| Compute | Raspberry Pi 5 or similar SBC | $110 - $175 |
-| Metal sensing | Custom VLF / SMF-inspired analog front end | $100 - $220 |
-| Radar | 60 GHz mmWave development module | $50 - $180 |
-| Display | 7-inch capacitive touch display | $60 - $120 |
-| Power | Battery pack, charging, regulation | $40 - $90 |
-| Mechanical | Waterproof housing, shaft, seals, mount | $120 - $250 |
-| EMI / PCB / integration | Shielding, custom boards, harnesses | $100 - $250 |
-| Total | Sensor-fusion prototype | **$580 - $1,285** |
+| Compute | Raspberry Pi 5 or similar SBC | \$110 - \$175 |
+| Metal sensing | Custom VLF / SMF-inspired analog front end | \$100 - \$220 |
+| Radar | 60 GHz mmWave development module | \$50 - \$180 |
+| Display | 7-inch capacitive touch display | \$60 - \$120 |
+| Power | Battery pack, charging, regulation | \$40 - \$90 |
+| Mechanical | Waterproof housing, shaft, seals, mount | \$120 - \$250 |
+| EMI / PCB / integration | Shielding, custom boards, harnesses | \$100 - \$250 |
+| Total | Sensor-fusion prototype | **\$580 - \$1,285** |
 
 **Why this is the sweet spot:** It is realistic, differentiated, and technically exciting without forcing deep-GPR hardware into a consumer wand too early.
 
@@ -186,13 +186,13 @@ This is the ambitious path for a research lab or advanced prototype program.
 
 | Subsystem | Suggested Approach | Estimated Prototype Cost |
 | :--- | :--- | :--- |
-| Compute | Jetson Orin Nano-class edge AI platform | $249 - $350 |
-| Metal sensing | Advanced VLF / SMF front end | $120 - $250 |
-| Radar layer 1 | 60 GHz mmWave | $50 - $180 |
-| Radar layer 2 | Experimental lower-frequency GPR / UWB front end | $500 - $2,000+ |
-| Display / logging | Sunlight-readable touch UI + storage | $100 - $220 |
-| Ruggedization | Waterproofing, thermal design, custom mechanics | $150 - $350 |
-| Total | Research-grade hybrid platform | **$1,169 - $3,350+** |
+| Compute | Jetson Orin Nano-class edge AI platform | \$249 - \$350 |
+| Metal sensing | Advanced VLF / SMF front end | \$120 - \$250 |
+| Radar layer 1 | 60 GHz mmWave | \$50 - \$180 |
+| Radar layer 2 | Experimental lower-frequency GPR / UWB front end | \$500 - \$2,000+ |
+| Display / logging | Sunlight-readable touch UI + storage | \$100 - \$220 |
+| Ruggedization | Waterproofing, thermal design, custom mechanics | \$150 - \$350 |
+| Total | Research-grade hybrid platform | **\$1,169 - \$3,350+** |
 
 **Why this is risky:** The deeper non-metal promise is real research, not just product packaging. Antenna size, regulatory constraints, wet-sand attenuation, and signal interpretation all get harder fast.
 
