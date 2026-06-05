@@ -11,22 +11,22 @@
     "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
     "prepare": "husky install",
     "commit": "git add . && git commit -m 'production push' && git push",
-    "deploy": "pnpm i && next build && pnpm vercel && pnpm vercel --prod && pnpm run commit",
+    "deploy": "pnpm i && pnpm run build && pnpm dlx vercel@54.9.1 && pnpm dlx vercel@54.9.1 --prod && pnpm run commit",
     "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build"
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.2.2",
     "@fontsource/inter": "4.5.2",
     "@mailchimp/mailchimp_marketing": "^3.0.80",
-    "@next/bundle-analyzer": "^16.2.6",
+    "@next/bundle-analyzer": "^16.2.7",
     "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tailwindcss/forms": "^0.4.1",
     "@tailwindcss/typography": "^0.5.19",
     "autoprefixer": "^10.5.0",
-    "axios": "^1.16.1",
+    "axios": "^1.17.0",
     "canvas": "^3.2.3",
     "dotenv": "^16.6.1",
-    "esbuild": "^0.13.15",
+    "esbuild": "^0.28.0",
     "framer-motion": "^4.1.17",
     "github-slugger": "^1.5.0",
     "gray-matter": "^4.0.3",
@@ -35,15 +35,11 @@
     "katex": "^0.16.47",
     "link": "^1.6.0",
     "mdast-util-to-string": "^4.0.0",
-    "mdx-bundler": "^8.1.0",
+    "mdx-bundler": "^10.1.1",
     "mermaid": "^11.15.0",
-    "next": "16.1.1",
-    "next-mdx-enhanced": "^5.0.0",
-    "next-pwa": "^5.6.0",
-    "next-seo": "^6.8.0",
-    "next-themes": "^0.0.14",
-    "node-polyfill-webpack-plugin": "^3.0.0",
-    "nodejs-polyfill": "^1.4.1",
+    "next": "16.2.7",
+    "next-seo": "^7.2.0",
+    "next-themes": "^0.4.6",
     "postcss": "^8.5.15",
     "preact": "^10.29.2",
     "react": "19.2.3",
@@ -61,7 +57,6 @@
     "tailwind-scrollbar-hide": "^1.3.1",
     "tailwindcss": "^3.4.19",
     "unist-util-visit": "^4.1.2",
-    "vercel": "^32.7.2",
     "webpack": "^5.107.0",
     "xml": "^1.0.1"
   },
@@ -71,8 +66,8 @@
     "cross-env": "^7.0.3",
     "css-loader": "^7.1.4",
     "dedent": "^0.7.0",
-    "eslint": "^7.32.0",
-    "eslint-config-next": "16.1.1",
+    "eslint": "^9.39.1",
+    "eslint-config-next": "16.2.7",
     "eslint-config-prettier": "^8.10.2",
     "eslint-plugin-prettier": "^3.4.1",
     "fast-glob": "^3.3.3",
@@ -86,7 +81,7 @@
     "postcss-loader": "^8.2.1",
     "prettier": "^2.8.8",
     "prettier-plugin-tailwindcss": "^0.1.13",
-    "sharp": "^0.28.3",
+    "sharp": "^0.34.5",
     "socket.io": "^4.8.3",
     "socket.io-client": "^4.8.3",
     "style-loader": "^4.0.0"
@@ -99,5 +94,11 @@
       "prettier --write"
     ]
   },
-  "packageManager": "pnpm@10.33.4"
+  "packageManager": "pnpm@10.33.4",
+  "pnpm": {
+    "overrides": {
+      "postcss": "8.5.15",
+      "uuid": "11.1.1"
+    }
+  }
 }
