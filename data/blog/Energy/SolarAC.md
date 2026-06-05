@@ -37,7 +37,7 @@ Some researchers propose designing PV cells that can oscillate the DC current th
 
 1. **Oscillation Circuit Efficiency:**  
    $$
-    \eta_{AC} = \frac{P_{out, AC}}{P_{in, DC}} \times 100%
+    \eta_{AC} = \frac{P_{out, AC}}{P_{in, DC}} \times 100\%
     $$
 
     Where:

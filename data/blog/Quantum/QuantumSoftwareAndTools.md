@@ -4,8 +4,7 @@ title: 'Quantum Software & Tools Powering the Quantum Revolution 💻'
 date: '2023-09-10'
 tags: ['Quantum', 'Software', 'Tools']
 draft: false
-summary: 'Exploring the software and tools ecosystem thats driving quantum technological 
-advancements!'
+summary: 'Exploring the software and tools ecosystem thats driving quantum technological advancements!'
 
 images: ['https://www.rics-notebook.com/articleimage/Quantum/QuantumSoftwareAndTools.webp']
 ---
