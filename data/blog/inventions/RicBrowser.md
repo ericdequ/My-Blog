@@ -18,10 +18,10 @@ tags:
 draft: false
 summary: 'Ric Browser is the third path between classical web browsing and AI-mediated search. Instead of ten blue links or one synthesized answer, Ric builds a personalized, swipeable journey through the living internet—where every website becomes a social destination and the AI serves as your guide, not your replacement.'
 
-images: ['https://github.com/user-attachments/assets/3223c268-8a38-45de-9b06-148043d4e968']
+images: ['https://github.com/user-attachments/assets/7c1620ac-0fb6-49e9-9aa5-8c29f60cf06e']
 ---
 
-![Ric Browser Logo](https://github.com/user-attachments/assets/3223c268-8a38-45de-9b06-148043d4e968)
+![Ric Browser cover image](https://github.com/user-attachments/assets/7c1620ac-0fb6-49e9-9aa5-8c29f60cf06e)
 
 ## 🌐 The Two Paths We Already Have
 
@@ -213,6 +213,8 @@ The global system should not require the user's raw private history. Instead, th
 
 Advanced versions could use differential privacy, federated learning, secure aggregation, and zero-knowledge proofs for certain reputation signals.
 
+This local-private and global-coordinated split is expanded in [Ric OS: The Private Operating Layer for a User-Owned Relationship With AI](/blog/inventions/ric-os-user-owned-ai-relationship) and [Ric Net: The Localized Relationship Layer Between Ric OS and Ric Browser](/blog/inventions/ric-net-localized-internet).
+
 ---
 
 ## 🧮 A Two-Layer Intelligence Model
@@ -246,6 +248,8 @@ The core promise is that money should not affect Ric's organic recommendations. 
 **Clearly separated sponsorships** — sponsored results could exist only when they are visually unmistakable, do not displace organic recommendations, the user can disable them, and advertisers cannot access private personal data.
 
 **Creator support** — users could directly support websites through tips, memberships, micropayments, paid newsletters, and donations. Ric can become an economic bridge between users and creators rather than an advertising tollbooth between them.
+
+A fuller economic model for these ideas lives in [Ric OS + Ric Browser Monetization: Privacy Is Free, Disclosure Is Negotiated](/blog/inventions/ric-os-browser-monetization).
 
 ---
 
@@ -371,3 +375,13 @@ The global Ric helps organize the public web and connect communities. The person
 Ric Browser is not another search engine. It is not merely another chatbot. It is a relationship-centered interface for the open internet—a browser where artificial intelligence, human creativity, independent websites, and global communities can grow together.
 
 > **Ric Browser: The AI that takes you to the internet—not away from it.**
+
+---
+
+## 🔗 Connected Posts and Next Ideas
+
+- [Ric OS: The Private Operating Layer for a User-Owned Relationship With AI](/blog/inventions/ric-os-user-owned-ai-relationship) explains how the private relationship layer keeps personalization user-owned instead of platform-owned.
+- [Ric OS + Ric Browser Monetization: Privacy Is Free, Disclosure Is Negotiated](/blog/inventions/ric-os-browser-monetization) extends the browser into a consent-based economic model where users share in the value they create.
+- [Ric Net: The Localized Relationship Layer Between Ric OS and Ric Browser](/blog/inventions/ric-net-localized-internet) describes the federated network layer that turns pages, people, and communities into local-first relationship nodes.
+- [GitHub Remix Revolution: AI-Powered Code Fusion](/blog/inventions/remixrepo) explores the same AI-guided discovery philosophy in software creation, where intelligence helps people navigate possibilities instead of collapsing them too early.
+
