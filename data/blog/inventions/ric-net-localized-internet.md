@@ -11,7 +11,10 @@ tags:
   - Ric Browser
 draft: false
 summary: "Ric Net is a federated, local-first relationship network that turns personal computers into private AI nodes and webpages into context-aware communities."
+images: ['https://github.com/user-attachments/assets/df20b1f1-0074-479c-a440-1d22f132db04']
 ---
+
+![Ric Net cover image](https://github.com/user-attachments/assets/df20b1f1-0074-479c-a440-1d22f132db04)
 
 # Ric Net
 
@@ -1402,3 +1405,13 @@ The largest engineering risks are identity fragmentation, room moderation, malic
 Those are serious problems. They are also exactly where Ric Net can differentiate itself.
 
 **Confidence: 8.9/10**
+
+---
+
+## 🔗 Connected Posts and Related Reading
+
+- [Ric Browser: Where AI, the Open Internet, and Quantum Creativity Merge](/blog/inventions/RicBrowser) frames the discovery layer that Ric Net turns into page-based communities and relationship-aware navigation.
+- [Ric OS: The Private Operating Layer for a User-Owned Relationship With AI](/blog/inventions/ric-os-user-owned-ai-relationship) defines the local vault, policy engine, and private intelligence that Ric Net must never fully expose.
+- [Ric OS + Ric Browser Monetization: Privacy Is Free, Disclosure Is Negotiated](/blog/inventions/ric-os-browser-monetization) explains how localized networks can support paid cooperation without falling back into surveillance economics.
+- [Integrating Blockchain, IoT, and Wireless Power Transfer: A Comprehensive Tech Stack for the Future](/blog/inventions/iosBlockWPT) complements the localized-infrastructure discussion with an earlier vision for distributed connectivity and resilient peer-to-peer systems.
+
