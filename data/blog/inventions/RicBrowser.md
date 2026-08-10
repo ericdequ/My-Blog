@@ -18,8 +18,10 @@ tags:
 draft: false
 summary: 'Ric Browser is the third path between classical web browsing and AI-mediated search. Instead of ten blue links or one synthesized answer, Ric builds a personalized, swipeable journey through the living internet—where every website becomes a social destination and the AI serves as your guide, not your replacement.'
 
-images: ['https://www.rics-notebook.com/articleimage/inventions/RicBrowser.webp']
+images: ['https://github.com/user-attachments/assets/3223c268-8a38-45de-9b06-148043d4e968']
 ---
+
+![Ric Browser Logo](https://github.com/user-attachments/assets/3223c268-8a38-45de-9b06-148043d4e968)
 
 ## 🌐 The Two Paths We Already Have
 
@@ -118,6 +120,18 @@ However, personalization must never become an invisible prison. Ric should delib
 - **Primary Sources Only**
 
 This prevents the relationship engine from becoming a filter bubble.
+
+---
+
+## 📱 Ric in Action
+
+### Mobile Experience
+
+![Ric Browser Mobile Demo](https://github.com/user-attachments/assets/d28fc1d3-3df6-477b-874f-2152a6eb7f54)
+
+### Desktop Experience
+
+![Ric Browser Desktop Demo](https://github.com/user-attachments/assets/4ae8d6fe-6604-4b61-b015-3849dee8c1ce)
 
 ---
 
