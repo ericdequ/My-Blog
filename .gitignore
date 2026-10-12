@@ -39,35 +39,20 @@ node_modules
 .vercel
 
 
-scripts
-
-scripts/
-
-/scripts/*
-
-*/scripts/*
 
 
 
-./scripts/*
 
-./scripts
 
-./scripts/*
 
-./scripts
 
-./scripts
 
-./scripts/
 
-./scripts/**/
 
-scripts/
 
-scripts
 
-scripts/*
 
-scripts
+
+
+
 .vercel

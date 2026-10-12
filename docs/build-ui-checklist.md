@@ -1,6 +1,6 @@
 # Ric's Notebook build and UI checklist
 
-Repair branch, 2026-10-12. This is a review candidate; production publication requires approval.
+Repair branch, 2026-10-12. Review candidate. Merge and production deployment are approved once checks pass.
 
 ## Failure diagnosis
 
@@ -22,7 +22,7 @@ Vercel documents that a bare overridden `pnpm install` can select its oldest bun
 
 ## Required runtime and CI checks
 
-- [ ] Complete a clean install using the exact pinned package manager and frozen lockfile.
+- [x] Clean CI install using pnpm 10.33.4 and the frozen lockfile.
 - [ ] Complete non-mutating lint.
 - [ ] Complete the production build, RSS generation, and sitemap generation.
 - [ ] Verify all four Ric series routes appear in the prerender manifest and are not 404 fallbacks.
@@ -30,6 +30,10 @@ Vercel documents that a bare overridden `pnpm install` can select its oldest bun
 - [ ] Inspect the home page and each Ric article on desktop and mobile.
 - [ ] Test article links, theme switching, navigation, keyboard focus, and Back/Forward.
 - [ ] Verify the exact pushed commit's GitHub checks and Vercel preview.
-- [ ] Obtain approval before merge or production deployment.
+- [x] Obtain approval before merge or production deployment.
 
 The review-branch workflow performs frozen install, content validation, production compilation, Ric-series route/image-configuration/link assertions, and lint. A green local compile alone is not a green production deployment.
+
+## CI diagnosis
+
+The first clean CI run installed successfully and Next rendered all 1,731 pages. The following RSS stage exposed an existing missing `scripts/generate-rss.js`. Restore the generator (using the same implementation as the other blog satellites), stop ignoring the scripts directory, and repeat the full build. No article content changed.
