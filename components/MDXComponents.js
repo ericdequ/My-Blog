@@ -27,6 +27,8 @@ export const MDXLayoutRenderer = ({ layout, mdxSource, ...rest }) => {
   const MDXLayout = useMemo(() => getMDXComponent(mdxSource), [mdxSource])
   return (
     <div>
+      {/* MDX is a memoized runtime component from trusted, precompiled article source. */}
+      {/* eslint-disable-next-line react-hooks/static-components */}
       <MDXLayout layout={layout} components={MDXComponents} {...rest} />
     </div>
   )

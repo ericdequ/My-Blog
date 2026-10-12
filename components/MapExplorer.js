@@ -132,6 +132,8 @@ export default function MapExplorer({ data }) {
 
   // Keep the filter in sync with whatever category set is active (fixture or live).
   useEffect(() => {
+    // Reset selection when the external live-data category set replaces the fixture.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     setActive(new Set(categories.map((c) => c.id)))
   }, [categories])
 
