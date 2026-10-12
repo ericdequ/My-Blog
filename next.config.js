@@ -42,11 +42,18 @@ const securityHeaders = [
 
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
+  // Bound concurrent MDX compilation memory on CI and Vercel.
+  experimental: { cpus: 2, staticGenerationMaxConcurrency: 1 },
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
 
   images: {
     // Modern configuration - replaces deprecated "domains"
     remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'github.com',
+        pathname: '/user-attachments/assets/**',
+      },
       {
         protocol: 'https',
         hostname: '**.quantumcybersolutions.com',
