@@ -6,6 +6,8 @@ const ThemeSwitch = () => {
   const [mounted, setMounted] = useState(false)
   const { theme, setTheme, resolvedTheme } = useTheme()
 
+  // next-themes is client-only; this mount gate preserves matching server/client markup.
+  // eslint-disable-next-line react-hooks/set-state-in-effect
   useEffect(() => setMounted(true), [])
 
   const toggleTheme = () => {
