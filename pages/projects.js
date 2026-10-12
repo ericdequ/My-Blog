@@ -32,12 +32,10 @@ export default function Projects() {
         project.title.toLowerCase().includes(searchQuery.toLowerCase()) ||
         project.description.toLowerCase().includes(searchQuery.toLowerCase())
 
-      const matchesCategory =
-        selectedCategory === 'all' || project.category === selectedCategory
+      const matchesCategory = selectedCategory === 'all' || project.category === selectedCategory
 
       const matchesTags =
-        selectedTags.size === 0 ||
-        project.tags?.some((tag) => selectedTags.has(tag))
+        selectedTags.size === 0 || project.tags?.some((tag) => selectedTags.has(tag))
 
       return matchesSearch && matchesCategory && matchesTags
     })
@@ -104,8 +102,12 @@ export default function Projects() {
         {/* Search Bar */}
         <div className="mb-6">
           <div className="relative max-w-2xl">
+            <label htmlFor="projects-search" className="sr-only">
+              Search projects
+            </label>
             <input
-              type="text"
+              id="projects-search"
+              type="search"
               placeholder="Search projects..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
@@ -113,6 +115,7 @@ export default function Projects() {
             />
             <svg
               className="absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400"
+              aria-hidden="true"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -129,17 +132,16 @@ export default function Projects() {
 
         {/* Category Filters */}
         <div className="flex flex-wrap items-center gap-3 mb-4">
-          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
-            Category:
-          </span>
+          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">Category:</span>
           {categories.map((category) => (
             <button
               key={category}
               onClick={() => setSelectedCategory(category)}
-              className={`rounded-full px-4 py-1.5 text-sm font-medium transition-all ${selectedCategory === category
-                ? 'bg-primary-600 text-white shadow-md shadow-primary-500/30'
-                : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700'
-                }`}
+              className={`rounded-full px-4 py-1.5 text-sm font-medium transition-all ${
+                selectedCategory === category
+                  ? 'bg-primary-600 text-white shadow-md shadow-primary-500/30'
+                  : 'bg-gray-100 text-gray-700 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-300 dark:hover:bg-gray-700'
+              }`}
             >
               {category.charAt(0).toUpperCase() + category.slice(1)}
             </button>
@@ -154,10 +156,11 @@ export default function Projects() {
               <button
                 key={tag}
                 onClick={() => toggleTag(tag)}
-                className={`rounded-lg px-3 py-1 text-xs font-medium transition-all ${selectedTags.has(tag)
-                  ? 'bg-purple-600 text-white shadow-sm'
-                  : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
-                  }`}
+                className={`rounded-lg px-3 py-1 text-xs font-medium transition-all ${
+                  selectedTags.has(tag)
+                    ? 'bg-purple-600 text-white shadow-sm'
+                    : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700'
+                }`}
               >
                 {tag}
               </button>

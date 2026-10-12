@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import SocialIcon from '@/components/social-icons'
-import Image from '@/components/Image'
+import Avatar from '@/components/Avatar'
 import { PageSEO } from '@/components/SEO'
 
 export default function AuthorLayout({ children, frontMatter }) {
@@ -38,9 +38,9 @@ export default function AuthorLayout({ children, frontMatter }) {
               visible: { opacity: 1, y: 0, transition: { duration: 0.5, delay: 0.4 } },
             }}
           >
-            <Image
+            <Avatar
               src={avatar}
-              alt="avatar"
+              name={name}
               width="192"
               height="192"
               className="h-48 w-48 rounded-full animate-magical-pulse"

@@ -23,6 +23,7 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm run validate:content
+      - run: node --test scripts/avatar.test.mjs
       - run: pnpm run lint
       - run: pnpm run build
       - run: node scripts/verify-ric-series.js
